@@ -2,7 +2,7 @@
 name: "[BREAK - P1] Report"
 about: Stake Wars P3 Bug or Test in the BREAK category
 title: "[BREAK - P1][choose -> pillaged | epic contract] Title your issue..."
-labels: ''
+labels: break
 assignees: ''
 
 ---

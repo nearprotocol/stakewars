@@ -9,13 +9,16 @@
 # How to Start
 
 Before you start, please make sure that you have a machine with
-publicly routable ip address.
+publicly routable ip address. Also please make sure you have docker
+installed on your machine, or, if you prefer to run your node
+without docker, follow the instructions [here](https://docs.nearprotocol.com/docs/local-setup/running-testnet)
+to install the required packages.
 
 
 ## Initialization
 To start, checkout nearcore repository by:
 ```bash
-git clone --single-branch --branch staging https://github.com/nearprotocol/nearcore.git
+git clone https://github.com/nearprotocol/nearcore.git
 ```
 
 In nearcore, generate node key and validator key by
@@ -26,13 +29,23 @@ Here for account id, enter the account id you want.
 Observe that `node_key.json` and `validator_key.json` are
 generated in `~/.near`.
 
+Please note that if you would like to generate keypairs for your account,
+you can also do it using the following command:
+```bash
+sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_account_id>
+```
+It will by default generate three keypairs in files `signer0_key.json`, `signer1_key.json`, and
+`signer2_key.json`.
+
 ## Upload your information
 
 Now in the following google spreadsheet enter the relevant information, including:
 * `account_id`: the account id you used in the previous step.
 * `full_pks`: the public keys you want to use for your account. Please make sure
-that your have the corresponding private keys. If you would like to use near-shell, make
-sure that your have your keys in the proper place (`~/neardev/default` for example).
+that your have the corresponding private keys. If, in the initialization step, you
+ generated signer keys this is where you should put the public keys.
+ If you would like to use near-shell, make sure that your have your keys
+ in the proper place (`~/neardev/default` for example).
 * `amount`: please enter `10000000000000000000`.
 * `is_treasury`: please enter `false`.
 * `validator_stake`: please enter `10000000000000000000`.

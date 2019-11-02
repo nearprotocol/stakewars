@@ -1,10 +1,3 @@
-# Stake Wars Leaderboard
-
-| Validator Name        | Points   | Joined |
-| --------------------- | -------- | ------ |
-| illia                 | 0        |  N/A   |
-| bowen                 | 0        |  N/A   |
-
 # **WE ARE LAUNCHING STAKE WARS ON MONDAY, NOV 4th AT 8AM PST!**
 
 ## How to get started

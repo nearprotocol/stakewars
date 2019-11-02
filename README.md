@@ -56,12 +56,9 @@ It will by default generate three keypairs in files `signer0_key.json`, `signer1
 Now in the typeform found [here](https://near.ai/genesis) enter the relevant information, including:
 
 * `account_id`: the account id you used in the previous step.
-* `full_pks`: the public keys you want to use for your account. Please make sure
-
-that your have the corresponding private keys. If, in the initialization step, you
- generated signer keys this is where you should put the public keys.
- If you would like to use near-shell, make sure that your have your keys
- in the proper place (`~/neardev/default` for example).
+* `full_pks`: the public keys you want to use for your account. Please make sure that your have the corresponding private keys. 
+  * If, in the initialization step, you generated signer keys this is where you should put the public keys. 
+  * If you would like to use near-shell, make sure that your have your keys in the proper place (`~/neardev/default` for example).
 
 * `amount`: please enter `10000000000000000000`.
 * `is_treasury`: please enter `false`.

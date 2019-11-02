@@ -63,9 +63,6 @@ that your have the corresponding private keys. If, in the initialization step, y
  If you would like to use near-shell, make sure that your have your keys
  in the proper place (`~/neardev/default` for example).
 
-that your have the corresponding private keys. If you would like to use near-shell, make
-sure that your have your keys in the proper place (`~/neardev/default` for example).
-
 * `amount`: please enter `10000000000000000000`.
 * `is_treasury`: please enter `false`.
 * `validator_stake`: please enter `10000000000000000000`.

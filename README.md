@@ -53,7 +53,7 @@ It will by default generate three keypairs in files `signer0_key.json`, `signer1
 
 ## Upload your information
 
-Now in the following google spreadsheet enter the relevant information, including:
+Now in the typeform found [here](https://near.ai/genesis) enter the relevant information, including:
 
 * `account_id`: the account id you used in the previous step.
 * `full_pks`: the public keys you want to use for your account. Please make sure
@@ -75,7 +75,10 @@ For other fields, please leave the blank.
 ## Download the spreadsheet
 
 When everyone who wants to participate finishes filling in their information,
-download the form as a csv file and upload to `~/.near/accounts.csv` on your node. 
+download the form as a csv file and upload to `~/.near/accounts.csv` on your node.
+
+We will host thre csv for you to download during the calls.
+
 If you are running a node on gcloud, the following command might be useful:
 
 ```bash

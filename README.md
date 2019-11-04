@@ -72,7 +72,7 @@ For other fields, please leave the blank.
 ## Download the spreadsheet
 
 When everyone who wants to participate finishes filling in their information,
-download the form as a csv file and upload to `~/.near/accounts.csv` on your node.
+download the spreadsheet as a csv file and upload to `~/.near/accounts.csv` on your node.
 
 We will host the three csv for you to download during the calls.
 

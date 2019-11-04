@@ -44,12 +44,21 @@ sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_accoun
 It will by default generate three keypairs in files `signer0_key.json`, `signer1_key.json`, and
 `signer2_key.json`.
 
+### Difference between different types of keys
+
+You might wonder why there are three different types of keys and how they can be used. Here is a short explanation:
+* `node_key` is used to sign messages sent between nodes and you don't need to worry about them.
+* `validator_key` is the key that your validating node will use to sign the blocks that they produce, as well as approvals of other blocks.
+Notice that this key is not stored in state and cannot be used to sign transactions.
+* `signer_key` is used to sign transactions originated from your account. They are not related to running a validating node per se,
+but if you want to do anything with your account on the network, you need to have the corresponding private key(s) to send transactions.
+
 ## Upload your information
 
 Now in the typeform found [here](https://near.ai/genesis) enter the relevant information, including:
 
 * `account_id`: the account id you used in the previous step.
-* `full_pks`: the public keys you want to use for your account. Please make sure that your have the corresponding private keys. 
+* `full_pks`: the public keys you want to use for your account. **If you enter multiple keys here, please make sure that they are comma separated**. Please make sure that your have the corresponding private keys. 
   * If, in the initialization step, you generated signer keys this is where you should put the public keys. 
   * If you would like to use near-shell, make sure that your have your keys in the proper place (`~/neardev/default` for example).
 

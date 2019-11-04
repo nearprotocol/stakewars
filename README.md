@@ -31,14 +31,14 @@ Here for account id, enter the account id you want.
 Observe that `node_key.json` and `validator_key.json` are
 generated in `~/.near`.
 
-Please note that if you would like to generate key-pairs for your account,
+Please note that if you would like to generate key pairs for your account,
 you can also do it using the following command:
 
 ```bash
 sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_account_id>
 ```
 
-It will by default generate three key-pairs in files `signer0_key.json`, `signer1_key.json`, and
+It will by default generate three key pairs in files `signer0_key.json`, `signer1_key.json`, and
 `signer2_key.json`.
 
 ### Difference between different types of keys
@@ -74,7 +74,7 @@ For other fields, please leave the blank.
 When everyone who wants to participate finishes filling in their information,
 download the form as a csv file and upload to `~/.near/accounts.csv` on your node.
 
-We will host three csv for you to download during the calls.
+We will host the three csv for you to download during the calls.
 
 If you are running a node on gcloud, the following command might be useful:
 

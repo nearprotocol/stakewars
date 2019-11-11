@@ -1,4 +1,6 @@
-# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 11th AT 6PM PST!**
+# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 11th AT 4PM PST!**
+
+You can join call on Nov 11th at 4pm PST - https://zoom.us/j/544296435
 
 ## How to get started
 

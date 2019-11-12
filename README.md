@@ -49,7 +49,7 @@ sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_accoun
 It will by default generate three key pairs in files `signer0_key.json`, `signer1_key.json`, and
 `signer2_key.json`.
 
-## How to Stake from the wallet.
+## How to stake with a wallet generated account
 
 **To get the local node started**
 1. Make sure to clear out the ~/.near folder every week no matter what. 
@@ -84,7 +84,7 @@ Notice that this key is not stored in state and cannot be used to sign transacti
 * `signer_key` is used to sign transactions originated from your account. They are not related to running a validating node per se,
 but if you want to do anything with your account on the network, you need to have the corresponding private key(s) to send transactions.
 
-## Upload your information
+## Uploading info for genesis
 
 We will be using a different genesis every week.
 Fill your information in the typeform found at [near.ai/genesis](https://near.ai/genesis). You will be asked for:
@@ -121,8 +121,21 @@ on your node and then transfer it to `~/.near`.
 
 ## Start your node
 
-Finally, to start your node, run
+Finally, to start your node, run:
 
 ```bash
 sudo ./scripts/start_stakewars.py
+```
+Or if you're running locally on MacOS
+
+```bash
+./scripts/start_stakewars.py
+```
+
+## Stop your node
+
+To stop your node, run:
+
+```bash
+./scripts/stop.py
 ```

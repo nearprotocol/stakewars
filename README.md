@@ -1,6 +1,11 @@
-# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 11th AT 4PM PST!**
+# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 18th AT 8AM PST!**
 
-You can join call on Nov 11th at 4pm PST - https://zoom.us/j/544296435
+Here is the last call recorded: https://youtu.be/52mY0sWGJRU?t=13
+
+accounts.csv for the second week can be downloaded here: https://docs.google.com/spreadsheets/d/1WwuwTP_Ng6xdJLMqE5p6NQpnTmJyIorc1tKiYiQUkxY/edit#gid=0
+(It's called week 1 because we were indexing from 0)
+
+The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
 
 ## How to get started
 
@@ -23,13 +28,14 @@ git clone https://github.com/nearprotocol/nearcore.git
 cd nearcore
 ```
 
-Generate node key and validator key by
+Next, generate node key and validator key by
 
 ```bash
 sudo ./scripts/start_stakewars.py --init --account-id=<your_account_id>
 ```
 
-Here for account id, enter the account id you want.
+Here for account id, enter the account id you want to use for staking.
+
 Observe that `node_key.json` and `validator_key.json` are
 generated in `~/.near`.
 
@@ -42,6 +48,31 @@ sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_accoun
 
 It will by default generate three key pairs in files `signer0_key.json`, `signer1_key.json`, and
 `signer2_key.json`.
+
+## How to Stake from the wallet.
+
+**To get the local node started**
+1. Make sure to clear out the ~/.near folder every week no matter what. 
+2. Run `scripts/start_stakewars.py --signer-keys --init --account-id=<YOUR_ACCOUNT_ID>`
+3. Move accounts.csv into your ~/.near folder
+4. Run `scripts/start_stakewars.py`
+
+**To stake from the command line**
+1. `cd` into a directory you'd like to work in
+2. Download `near-shell` with `npm install -g near-shell`
+3. Run `near new_project staking`
+4. `cd` into `staking`
+5. Set your NODE_ENV to tatooine. You can do this in `bash` with `export NODE_ENV=tatooine`
+6. Run `near login` and follow the instructions that take you to the wallet.
+5. Once you're logged in, you can stake. This is the command to stake:
+```bash
+near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT>
+```
+
+**Check if it worked**
+1. After running the command, you should see a transaction receipt that contains `status: { SuccessValue: '' }`. (As long as it is empty or contains a string you're good)
+2. After two epochs, if you've staked enough, you will see the logs of your node appear with a `V/n` to tell you you're validating.
+3. Run `near state <YOUR_ACCOUNT_ID>` and see if the amount you've staked is marked as locked.
 
 ### Difference between different types of keys
 

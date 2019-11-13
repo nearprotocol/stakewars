@@ -7,6 +7,12 @@ accounts.csv for the second week can be downloaded here: https://docs.google.com
 
 The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
 
+## UPDATE Nov 12th
+
+* Just update the issue templates. We are now measuring severity internally since the templates were jsut confusing.
+* The simplified submission process is: just follow the template, and we will add label.
+* If we add the `help wanted` tag, you can fix it and receive tokens as part of the competition as well.
+
 ## How to get started
 
 Before you start, please make sure that you have a machine with

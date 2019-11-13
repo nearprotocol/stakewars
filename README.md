@@ -7,6 +7,28 @@ accounts.csv for the second week can be downloaded here: https://docs.google.com
 
 The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
 
+~~~LINK TO NEXT CALL~~~
+Topic: Stake Wars Genesis Meeting
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09
+
+Meeting ID: 809 548 310
+Password: 045822
+
+One tap mobile
++14086380968,,809548310# US (San Jose)
++16699006833,,809548310# US (San Jose)
+
+Dial by your location
+        +1 408 638 0968 US (San Jose)
+        +1 669 900 6833 US (San Jose)
+        +1 646 876 9923 US (New York)
+Meeting ID: 809 548 310
+Find your local number: https://zoom.us/u/abz8XbjkDk
+~~~~~~~~~~~~~~~~~~~~~~~
+
 ## UPDATE Nov 12th
 
 * Just update the issue templates. We are now measuring severity internally since the templates were jsut confusing.

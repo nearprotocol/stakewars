@@ -1,7 +1,7 @@
 ---
-name: "[BEND - P2] Report"
-about: Stake Wars P2 Bug or Test in the BEND category
-title: "[BEND][choose -> bug | application] Title issue..."
+name: Bug or test report
+about: Stake Wars Simplified Bug or Test report
+title: ''
 labels: bend
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug or test**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**How to Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'

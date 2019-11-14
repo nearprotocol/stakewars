@@ -39,7 +39,7 @@ Find your local number: https://zoom.us/u/abz8XbjkDk
 
 Before you start, please make sure that you have a machine with
 publicly routable ip address. Also please make sure you have docker
-installed on your machine, or, if you prefer to run your node
+installed on your machine, follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04), or, if you prefer to run your node
 without docker, follow the instructions [here](https://docs.nearprotocol.com/docs/local-setup/running-testnet)
 to install the required packages.
 
@@ -52,7 +52,7 @@ Handy link for submitting genesis each week: [https://near.ai/genesis](https://n
 To start, checkout nearcore repository:
 
 ```bash
-git clone https://github.com/nearprotocol/nearcore.git
+git clone https://github.com/nearprotocoI/nearcore.git
 cd nearcore
 ```
 
@@ -76,6 +76,8 @@ sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_accoun
 
 It will by default generate three key pairs in files `signer0_key.json`, `signer1_key.json`, and
 `signer2_key.json`.
+
+Note: You may have to do `sudo vim ~/.near/<file_name.json>` in order to view the keys.
 
 ## How to stake with a wallet generated account
 

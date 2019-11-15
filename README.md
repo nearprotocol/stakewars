@@ -43,6 +43,8 @@ installed on your machine, follow the instructions [here](https://www.digitaloce
 without docker, follow the instructions [here](https://docs.nearprotocol.com/docs/local-setup/running-testnet)
 to install the required packages.
 
+You'll also need node v10.0+, a good install guide is [here](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)
+
 Read the [guidelines document](GUIDELINES.md) first. It's not just legal mumbo-jumbo, it actually explains how this competition will be run and how to submit tests and bugs
 
 Handy link for submitting genesis each week: [https://near.ai/genesis](https://near.ai/genesis). More about this in a moment.

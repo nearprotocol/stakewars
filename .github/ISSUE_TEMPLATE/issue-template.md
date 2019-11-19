@@ -2,7 +2,7 @@
 name: Issue Template
 about: Stake Wars Simplified Bug or Test report
 title: "[Choose one --> BUG | TEST] ..."
-labels: ''
+labels: totriage
 assignees: ''
 
 ---

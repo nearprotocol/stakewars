@@ -74,7 +74,7 @@ It will by default generate three key pairs in files `signer0_key.json`, `signer
 **To stake from the command line**
 1. `cd` into a directory you'd like to work in
 2. Download `near-shell` with `npm install -g near-shell`
-3. Run `near new_project staking`
+3. Run `npx create-near-app staking`
 4. `cd` into `staking`
 5. Set your NODE_ENV to tatooine. You can do this in `bash` with `export NODE_ENV=tatooine`
 6. Run `near login` and follow the instructions that take you to the wallet.

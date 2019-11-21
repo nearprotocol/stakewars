@@ -17,9 +17,13 @@ https://zoom.us/j/810242088
 
 ## UPDATE Nov 12th
 
-* Just update the issue templates. We are now measuring severity internally since the templates were jsut confusing.
+* Just update the issue templates. We are now measuring severity internally since the templates were just confusing.
 * The simplified submission process is: just follow the template, and we will add label.
 * If we add the `help wanted` tag, you can fix it and receive tokens as part of the competition as well.
+
+## UPDATE Nov 20th
+
+* sudo is no longer needed if you're on Mac, or if you're on linux and can run docker without sudo.
 
 ## How to get started
 
@@ -45,7 +49,7 @@ cd nearcore
 Next, generate node key and validator key by
 
 ```bash
-sudo ./scripts/start_stakewars.py --init --account-id=<your_account_id>
+./scripts/start_stakewars.py --init --account-id=<your_account_id>
 ```
 
 Here for account id, enter the account id you want to use for staking.
@@ -57,7 +61,7 @@ Please note that if you would like to generate key pairs for your account,
 you can also do it using the following command:
 
 ```bash
-sudo ./scripts/start_stakewars.py --init --signer-keys --account-id=<your_account_id>
+./scripts/start_stakewars.py --init --signer-keys --account-id=<your_account_id>
 ```
 
 It will by default generate three key pairs in files `signer0_key.json`, `signer1_key.json`, and
@@ -138,7 +142,7 @@ on your node and then transfer it to `~/.near`.
 Finally, to start your node, run:
 
 ```bash
-sudo ./scripts/start_stakewars.py
+./scripts/start_stakewars.py
 ```
 Or if you're running locally on MacOS
 

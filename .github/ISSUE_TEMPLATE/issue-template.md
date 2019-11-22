@@ -1,8 +1,8 @@
 ---
-name: "[TEST - P3] Report"
-about: Stake Wars P3 Bug or Test in the TEST category
-title: "[TEST][choose -> benchmark | bug | smart contract] Title issue......"
-labels: test
+name: Issue Template
+about: Stake Wars Simplified Bug or Test report
+title: "[Choose one --> BUG | TEST] ..."
+labels: totriage
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug or test**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**How to Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'

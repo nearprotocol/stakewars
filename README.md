@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # **NEXT CALL IS ON MONDAY, NOV 25th AT 6PM PST!**
+=======
+# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 18th AT 8AM PST!**
+>>>>>>> 39403e812c4f7ed074684af85c59b608dc0aabe2
 
 Here is the last call recorded: https://youtu.be/52mY0sWGJRU?t=13
 
@@ -14,6 +18,7 @@ Time: This is a recurring meeting Meet anytime
 Join Zoom Meeting
 https://zoom.us/j/810242088
 ~~~~~~~~~~~~~~~~~~~~~~~
+
 ## UPDATE Nov 22nd
 
 * We're using Github to collect genesis for this week. Please don't submit your keys for genesis if you can't make the call. Put in a PR againts accounts.csv with your changes.
@@ -143,11 +148,6 @@ on your node and then transfer it to `~/.near`.
 ## Start your node
 
 Finally, to start your node, run:
-
-```bash
-./scripts/start_stakewars.py
-```
-Or if you're running locally on MacOS
 
 ```bash
 ./scripts/start_stakewars.py

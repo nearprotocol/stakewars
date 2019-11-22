@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # **NEXT CALL IS ON MONDAY, NOV 25th AT 6PM PST!**
-=======
-# **NEXT STAKE WARS CALL IS ON MONDAY, NOV 18th AT 8AM PST!**
->>>>>>> 39403e812c4f7ed074684af85c59b608dc0aabe2
 
 Here is the last call recorded: https://youtu.be/52mY0sWGJRU?t=13
 

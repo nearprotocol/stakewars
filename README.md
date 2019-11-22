@@ -2,8 +2,7 @@
 
 Here is the last call recorded: https://youtu.be/52mY0sWGJRU?t=13
 
-accounts.csv for the second week can be downloaded here: https://docs.google.com/spreadsheets/d/1WwuwTP_Ng6xdJLMqE5p6NQpnTmJyIorc1tKiYiQUkxY/edit#gid=0
-(It's called week 1 because we were indexing from 0)
+Accounts.csv is in this repo for this week.
 
 The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
 

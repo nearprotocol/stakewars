@@ -1,6 +1,32 @@
-# **NEXT CALL IS ON MONDAY, NOV 25th AT 6PM PST!**
+# **NEXT CALL IS ON MONDAY, DEC 2nd AT 8AM PST!**
 
-Here is the last call recorded: https://youtu.be/52mY0sWGJRU?t=13
+|| LEADERBOARD ||
+
+| name          | total points |
+|---------------|--------------|
+| marco-sundsk  | 3200         |
+| mbucci        | 1500         |
+| hoekevin      | 900          |
+| sweetpotatoz  | 500          |
+| k9thebeast    | 300          |
+| StakerSpace   | 200          |
+| bgapinski-bt  | 200          |
+| andreisid     | 200          |
+| bentiancai629 | 100          |
+| victorxu0411  | 100          |
+| wjdfx         | 100          |
+| zavodil       | 100          |
+| xz-cn         | 100          |
+| novy4         | 100          |
+| winslyin      | 100          |
+| pranaymohan   | 100          |
+| stakehost     | 100          |
+| zhanglianghui | 100          |
+| ferat8        | 100          |
+| stakery       | 100          |
+| joesixpack    | 100          |
+
+Here is the last call recorded: https://youtu.be/6xnbz6I0554
 
 Accounts.csv is in this repo for this week.
 

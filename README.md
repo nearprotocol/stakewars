@@ -1,6 +1,12 @@
-# **NEXT CALL IS ON MONDAY, DEC 9th AT 6PM PST!**
+# **Next call is Decmber 16th at 8am PST**
 
-|| LEADERBOARD ||
+[Here is the link](https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09
+)
+
+Meeting ID: 809 548 310
+Password: 045822
+
+LEADERBOARD
 
 | name          | total points |
 |---------------|--------------|
@@ -26,19 +32,14 @@
 | stakery       | 100          |
 | joesixpack    | 100          |
 
-Here is the last call recorded: https://youtu.be/6xnbz6I0554
-
 Accounts.csv is in this repo for this week.
 
 The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
 
-~~~LINK TO NEXT CALL~~~
-Topic: Stake Wars Genesis Meeting
-Time: This is a recurring meeting Meet anytime
+## UPDATE Dec 13th
 
-Join Zoom Meeting
-https://zoom.us/j/810242088
-~~~~~~~~~~~~~~~~~~~~~~~
+* We're restructuring the program to focus on finding bugs that are based on QA scenarios rather than security breaches and attacks.
+* You can find these in `scenarios.md` in this repo. [HERE](./scenarios.md)
 
 ## UPDATE Nov 22nd
 

@@ -6,9 +6,7 @@ Meeting ID: 809 548 310
 Password: 045822
 
 Accounts.csv is in this repo for next genesis.
-
 [The wallet for Stake Wars](https://wallet.tatooine.nearprotocol.com)
-
 [Most recent update](https://youtu.be/2ySEOkRACig)
 
 ## The basics
@@ -21,7 +19,14 @@ Moving forward, the way to earn points is to:
 2. submit the scenario that you ran as an issue
 3. participate by running a validating node each week
 
-Soon, we will merge the Stake Wars network into TestNet. At that point, you can run all of the scenarios there for the same amounts of point.
+Soon, we will merge the Stake Wars network into TestNet. At that point, you can run all of the scenarios there for the same amounts of points.
+
+In order to get more tokens on TestNet:
+
+1. Generate keys (don't delete or regenerate these!)
+2. Send us the associated account id and public key
+3. Stake each week using that account
+4. Get sweet points for staking
 
 ## How to get started
 

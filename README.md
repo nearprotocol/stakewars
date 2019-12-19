@@ -1,71 +1,33 @@
-# **Next call is Decmber 16th at 8am PST**
+# **Next call is December 30th at 8am PST**
 
-[Here is the link](https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09
-)
+[Here is the link](https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09)
 
 Meeting ID: 809 548 310
 Password: 045822
 
-LEADERBOARD
+Accounts.csv is in this repo for next genesis.
 
-| name          | total points |
-|---------------|--------------|
-| marco-sundsk  | 3200         |
-| mbucci        | 1500         |
-| hoekevin      | 900          |
-| sweetpotatoz  | 500          |
-| k9thebeast    | 300          |
-| StakerSpace   | 200          |
-| bgapinski-bt  | 200          |
-| andreisid     | 200          |
-| bentiancai629 | 100          |
-| victorxu0411  | 100          |
-| wjdfx         | 100          |
-| zavodil       | 100          |
-| xz-cn         | 100          |
-| novy4         | 100          |
-| winslyin      | 100          |
-| pranaymohan   | 100          |
-| stakehost     | 100          |
-| zhanglianghui | 100          |
-| ferat8        | 100          |
-| stakery       | 100          |
-| joesixpack    | 100          |
+[The wallet for Stake Wars](https://wallet.tatooine.nearprotocol.com)
 
-Accounts.csv is in this repo for this week.
+[Most recent update](https://youtu.be/2ySEOkRACig)
 
-The wallet for Stake Wars: https://wallet.tatooine.nearprotocol.com
+## The basics
 
-## UPDATE Dec 13th
+The first leg of Stake Wars led to us learning a ton. We made some mistakes, and we iterated based on your feedback. For that reason, we changed how points work. If you earned points for reporting bugs, you keep the points that you earned.
 
-* We're restructuring the program to focus on finding bugs that are based on QA scenarios rather than security breaches and attacks.
-* You can find these in `scenarios.md` in this repo. [HERE](./scenarios.md)
+Moving forward, the way to earn points is to:
 
-## UPDATE Nov 22nd
+1. run test scenarios found in [scenarios.md](scenarios.md)
+2. submit the scenario that you ran as an issue
+3. participate by running a validating node each week
 
-* We're using Github to collect genesis for this week. Please don't submit your keys for genesis if you can't make the call. Put in a PR againts accounts.csv with your changes.
-
-## UPDATE Nov 20th
-
-* sudo is no longer needed if you're on Mac, or if you're on linux and can run docker without sudo.
-
-## UPDATE Nov 12th
-
-* Just update the issue templates. We are now measuring severity internally since the templates were just confusing.
-* The simplified submission process is: just follow the template, and we will add label.
-* If we add the `help wanted` tag, you can fix it and receive tokens as part of the competition as well.
+Soon, we will merge the Stake Wars network into TestNet. At that point, you can run all of the scenarios there for the same amounts of point.
 
 ## How to get started
 
-Before you start, please make sure that you have a machine with
-publicly routable ip address. Also please make sure you have docker
-installed on your machine, or, if you prefer to run your node
-without docker, follow the instructions [here](https://docs.nearprotocol.com/docs/local-setup/running-testnet)
-to install the required packages.
+Before you start, please make sure that you have or setup a machine with a publicly routable ip address. Also please make sure you have docker installed on your machine, or--if you prefer to run your node without docker--follow the instructions [here](https://docs.nearprotocol.com/docs/local-setup/running-testnet) to install the required packages.
 
-Read the [guidelines document](GUIDELINES.md) first. It's not just legal mumbo-jumbo, it actually explains how this competition will be run and how to submit tests and bugs
-
-Handy link for submitting genesis each week: [https://near.ai/genesis](https://near.ai/genesis). More about this in a moment.
+Read the [guidelines document](/GUIDELINES.md) first. It's not just legal mumbo-jumbo, it actually explains how this competition will be run and how to submit tests and bugs
 
 ## Initialization
 
@@ -99,25 +61,31 @@ It will by default generate three key pairs in files `signer0_key.json`, `signer
 
 ## How to stake with a wallet generated account
 
-**To get the local node started**
-1. Make sure to clear out the ~/.near folder every week no matter what. 
+### To get the local node started
+
+1. Make sure to clear out the ~/.near folder every week no matter what.
 2. Run `scripts/start_stakewars.py --signer-keys --init --account-id=<YOUR_ACCOUNT_ID>`
 3. Move accounts.csv into your ~/.near folder
 4. Run `scripts/start_stakewars.py`
 
-**To stake from the command line**
+### To stake from the command line
+
 1. `cd` into a directory you'd like to work in
 2. Download `near-shell` with `npm install -g near-shell`
 3. Run `npx create-near-app staking`
 4. `cd` into `staking`
 5. Set your NODE_ENV to tatooine. You can do this in `bash` with `export NODE_ENV=tatooine`
 6. Run `near login` and follow the instructions that take you to the wallet.
-5. Once you're logged in, you can stake. This is the command to stake:
+7. Once you're logged in, you can stake. This is the command to stake:
+
 ```bash
 near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT>
 ```
 
-**Check if it worked**
+NOTE: `<AMOUNT>` can be set in NEAR
+
+### Check if it worked
+
 1. After running the command, you should see a transaction receipt that contains `status: { SuccessValue: '' }`. (As long as it is empty or contains a string you're good)
 2. After two epochs, if you've staked enough, you will see the logs of your node appear with a `V/n` to tell you you're validating.
 3. Run `near state <YOUR_ACCOUNT_ID>` and see if the amount you've staked is marked as locked.

@@ -6,9 +6,19 @@ Some of these scenarios will require reaching out to request something from us. 
 
 | scenario                 | point value  |
 |--------------------------|--------------|
+| Time series challenge*   | 1000         |
+| Run 1 node (per week)    | 100          |
 | Run 10 nodes             | 500          |
 | Stake with 100 NEAR      | 500          |
 | Stake with 100k NEAR     | 500          |
 | Stake with 500k NEAR     | 500          |
 | Run in Kubernetes        | 500          |
-| Run in Windows           | 100          |
+| Run using Windows        | 100          |
+
+### \* Time Series Challenge
+
+Connect to the network, work for 10 sec, disconnect from the network, wait for 10 sec, repeat.
+
+Do this for values: 1 sec, 10 sec, and 60 sec.
+
+This can be probably emulated through some Linux tool that blocks network connections, just have a cron job that blocks network for X seconds, then unblocks it for X sec, repeat.

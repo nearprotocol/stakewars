@@ -4,21 +4,10 @@
 
 ### Weekly calls on Mondays
 
+* We will reset genesis roughly every three weeks.
 * Time will alternate each week to accommodate different hemispheres
-* We establish a new genesis each week together and start nodes on the calls
-* You do stuff during the week and submit here using the issue templates
 * We assign points at the end of the week and reveal the leaderboard each Monday
 * At the end of the competition, we will convert the points to tokens and perform KYC required by your country of residence to assign them to you.
-
-### Submission Types
-
-* P3 (Test) - lowest severity of bug or test that you can run. 
-    Example might be a bug you found in our scripts that start a node.
-* P2 (Bend) - medium severity bug or test.
-    Example might be a bug you find in the actual core code that causes the system to lag (but not stop)
-* P1 (Break) - highest severity bug or epic thing you’ve built.
-    Example might be a consensus breaking bug. 
-    Example might be a fully functioning delegation suite of smart contracts working on the system
 
 ## Rules
 
@@ -30,13 +19,11 @@ Here are some examples and we will trust you to follow the spirit of the law:
 
 ### DO…
 
+* Check out the QA scenarios and run them on your system.
 * Run a node or as many nodes as you can figure out how to run.
 * Run any kind of benchmark you think is valuable
-* Try to break our tools and systems.
 * Try staking in all sorts of ways.
   * You will be rewarded for creativity, effort and magnitude of the submission. (For instance, if you get delegation to work for a bunch of small accounts)
-* Collude with other validators to try to sign bad transactions or to validate bad blocks and try to corrupt the system
-* Review the code for vulnerabilities and try to exploit them
 * Write reports on your experience and send them to us publicly
 * Complain about things that need fixing or cleanup!
 
@@ -50,7 +37,7 @@ Here are some examples and we will trust you to follow the spirit of the law:
 
 ## Points Overview
 
-In order to get points, you will need to submit an issue on GitHub for each problem you find and each test you run. ([https://github.com/nearprotocol/stakewars](https://github.com/nearprotocol/stakewars))
+In order to get points, you will need to submit an issue on GitHub for each test you run. ([https://github.com/nearprotocol/stakewars](https://github.com/nearprotocol/stakewars))
 
 **GET STARTED:** You can all get the basic points for running a node (or nodes) and running an interesting benchmark.
 
@@ -58,10 +45,10 @@ Since we hope all of you will do this, we’ve created an issue for this in the 
 
 ### Here’s how points work
 
+* Check for test scenarios [scenarios](/SCENARIOS.md)
 * You submit issues based on what you run into while attempting to run nodes to the GitHub repo identified above.
 * We (a rotating panel of reviewers) assign points to whoever submitted based on the severity of bugs.
 * The identity of the submitter must be associated with the submission by the end of the comp to be valid. Otherwise no points.
-* We update the leaderboard at least every week, but it may be more frequently based on submissions.
 
 ## Agreement and edge cases
 
@@ -76,7 +63,6 @@ Since we hope all of you will do this, we’ve created an issue for this in the 
 
 We want...
 
-* You to break our system in a way that we can permanently fix it!
 * You to build things that solve your own problems as future validators on the network
 * To put the last year or so of hard work in front of our community to try it out
 * To find glaring flaws in our systems, designs and code

@@ -1,0 +1,10 @@
+[package]
+name = "staking-contract"
+version = "0.1.0"
+authors = ["Illia Polosukhin <ilblackdragon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+borsh = "0.2.10"
+near-bindgen = { git = "https://github.com/nearprotocol/near-bindgen", version = "0.3.1" }
+wee_alloc = "0.4.5"

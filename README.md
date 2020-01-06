@@ -1,4 +1,4 @@
-# **Next call is December 30th at 8am PST**
+# **Next call is January 8th at 6pm PST**
 
 [Here is the link](https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09)
 

@@ -1,13 +1,11 @@
-# **Next call is January 8th at 6pm PST**
+# **January 13th 2020 update: Stake Wars is on hold**
 
-[Here is the link](https://zoom.us/j/809548310?pwd=dDUvM2g4Z1NPVWMxQWRSTjlRTXRUZz09)
+Stake Wars will be on hold until the implementation of [Doomslug](https://near.ai/doomslug) is fully finalized and our internal testing becomes all green, meaning we hit what we call a “Release Candidate” (code named Sky Breaker).
 
-Meeting ID: 809 548 310
-Password: 045822
+We will restart the Stake Wars after that, discontinuing Tatooine and inviting participants to validate official TestNet (continues state since last April 2019).
 
-Accounts.csv is in this repo for next genesis.
-[The wallet for Stake Wars](https://wallet.tatooine.nearprotocol.com)
-[Most recent update](https://youtu.be/2ySEOkRACig)
+You can read the full blog post "We’re pausing Stake Wars" [here](https://nearprotocol.com/blog/were-pausing-stake-wars/).
+If you want to be the first to know when Stake Wars is back, join our Telegram validator channel [here](https://t.me/joinchat/Msj7FBRzcys3zb6J79u5bw).
 
 ## The basics
 

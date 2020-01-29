@@ -116,13 +116,20 @@ impl StakingContract {
         let user = self.users.get(&account_id).expect("User is missing");
         user.amount
     }
+
+    /// Returns given user's staked balance.
+    pub fn get_user_stake(&mut self, account_id: AccountId) -> Balance {
+        let user = self.users.get(&account_id).expect("User is missing");
+        user.staked
+    }
 }
 
 #[cfg(test)]
 mod tests {
     use crate::StakingContract;
-     use near_bindgen::{MockedBlockchain, Balance};
+     use near_bindgen::{MockedBlockchain, Balance, BlockIndex};
     use near_bindgen::{PublicKey, VMContext, AccountId, testing_env};
+    use near_bindgen::env::signer_account_id;
 
     fn staking() -> AccountId {
         "staking".to_string()
@@ -132,23 +139,60 @@ mod tests {
         "bob".to_string()
     }
 
-    fn get_context(predecessor_account_id: AccountId, attached_deposit: Balance) -> VMContext {
-        VMContext {
-            current_account_id: staking(),
-            signer_account_id: "test".to_string(),
-            signer_account_pk: vec![0, 1, 2],
-            predecessor_account_id,
-            input: vec![],
-            block_index: 0,
-            block_timestamp: 0,
-            account_balance: 0,
-            account_locked_balance: 0,
-            storage_usage: 10u64.pow(6),
-            attached_deposit,
-            prepaid_gas: 10u64.pow(9),
-            random_seed: vec![0, 1, 2],
-            is_view: false,
-            output_data_receivers: vec![],
+    struct VMContextBuilder {
+        context: VMContext
+    }
+
+    impl VMContextBuilder {
+        pub fn new() -> Self {
+            Self {
+                context: VMContext {
+                    current_account_id: "".to_string(),
+                    signer_account_id: "".to_string(),
+                    signer_account_pk: vec![0, 1, 2],
+                    predecessor_account_id: "".to_string(),
+                    input: vec![],
+                    block_index: 0,
+                    block_timestamp: 0,
+                    account_balance: 0,
+                    account_locked_balance: 0,
+                    storage_usage: 10u64.pow(6),
+                    attached_deposit,
+                    prepaid_gas: 10u64.pow(9),
+                    random_seed: vec![0, 1, 2],
+                    is_view: false,
+                    output_data_receivers: vec![],
+                }
+            }
+        }
+
+        pub fn current_account_id(mut self, account_id: AccountId) -> Self {
+            self.context.current_account_id = account_id;
+            self
+        }
+
+        pub fn signer_account_id(mut self, account_id: AccountId) -> Self {
+            self.context.signer_account_id = account_id;
+            self
+        }
+
+        pub fn predecessor_account_id(mut self, account_id: AccountId) -> Self {
+            self.context.predecessor_account_id = account_id;
+            self
+        }
+
+        pub fn block_index(mut self, block_index: BlockIndex) -> Self {
+            self.context.block_index = block_index;
+            self
+        }
+
+        pub fn attached_deposit(mut self, amount: Balance) -> Self {
+            self.context.attached_deposit = amount;
+            self
+        }
+
+        pub fn finish(self) -> VMConext {
+            self.context
         }
     }
 
@@ -156,10 +200,27 @@ mod tests {
     fn test_deposit_withdraw() {
         let mut contract = StakingContract::new("owner".to_string(), PublicKey::default());
         let deposit_amount  = 1_000_000;
-        testing_env!(get_context(bob(), deposit_amount));
+        testing_env!(VMContextBuilder::new().current_account_id(staking()).predecessor_account_id(bob()).attached_deposit(deposit_amount).finish());
         contract.deposit();
+        testing_env!(VMContextBuilder::new().current_account_id(staking()).predecessor_account_id(bob()).finish());
         assert_eq!(contract.get_user_balance(bob()), deposit_amount);
         contract.withdraw(deposit_amount);
         assert_eq!(contract.get_user_balance(bob()), 0);
+    }
+
+    #[test]
+    fn test_stake_unstake() {
+        let mut contract = StakingContract::new("owner".to_string(), PublicKey::default());
+        let deposit_amount  = 1_000_000;
+        testing_env!(VMContextBuilder::new().current_account_id(staking()).predecessor_account_id(bob()).attached_deposit(deposit_amount).finish());
+        contract.deposit();
+        testing_env!(VMContextBuilder::new().current_account_id(staking()).predecessor_account_id(bob()).finish());
+        contract.stake(deposit_amount);
+        // 10 epochs later, unstake half of the money.
+        testing_env!(VMContextBuilder::new().current_account_id(staking()).predecessor_account_id(bob()).block_index(EPOCH_LENGTH * 10).finish());
+        assert_eq!(contract.get_user_stake(bob()), deposit_amount);
+        contract.unstake(deposit_amount / 2);
+        assert_eq!(contract.get_user_stake(bob()), deposit_amount / 2);
+        assert_eq!(contract.get_user_balance(bob()), deposit_amount / 2);
     }
 }

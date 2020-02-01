@@ -6,5 +6,5 @@ edition = "2018"
 
 [dependencies]
 borsh = "0.2.10"
-near-bindgen = { git = "https://github.com/nearprotocol/near-bindgen", version = "0.3.1" }
+near-bindgen = { git = "https://github.com/nearprotocol/near-bindgen", branch = "epoch-id" }
 wee_alloc = "0.4.5"

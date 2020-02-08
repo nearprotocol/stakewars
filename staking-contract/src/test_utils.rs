@@ -1,5 +1,5 @@
-use near_bindgen::{Balance, BlockIndex, MockedBlockchain};
-use near_bindgen::{AccountId, PublicKey, testing_env, VMContext};
+use near_bindgen::{Balance, BlockHeight};
+use near_bindgen::{AccountId, VMContext};
 
 pub fn staking() -> AccountId {
     "staking".to_string()
@@ -22,13 +22,14 @@ impl VMContextBuilder {
                 signer_account_pk: vec![0, 1, 2],
                 predecessor_account_id: "".to_string(),
                 input: vec![],
+                epoch_id: [0u8; 32],
                 block_index: 0,
                 block_timestamp: 0,
                 account_balance: 0,
                 account_locked_balance: 0,
                 storage_usage: 10u64.pow(6),
                 attached_deposit: 0,
-                prepaid_gas: 10u64.pow(9),
+                prepaid_gas: 10u64.pow(18),
                 random_seed: vec![0, 1, 2],
                 is_view: false,
                 output_data_receivers: vec![],
@@ -51,7 +52,7 @@ impl VMContextBuilder {
         self
     }
 
-    pub fn block_index(mut self, block_index: BlockIndex) -> Self {
+    pub fn block_index(mut self, block_index: BlockHeight) -> Self {
         self.context.block_index = block_index;
         self
     }

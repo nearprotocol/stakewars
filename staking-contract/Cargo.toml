@@ -3,8 +3,14 @@ name = "staking-contract"
 version = "0.1.0"
 authors = ["Illia Polosukhin <ilblackdragon@gmail.com>"]
 edition = "2018"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
 
 [dependencies]
 borsh = "0.2.10"
 near-bindgen = { git = "https://github.com/nearprotocol/near-bindgen", branch = "epoch-id" }
+serde_json = { git = "https://github.com/nearprotocol/json", rev = "1f5779f3b0bd3d2a4b0b975abc46f3d3fe873331", features = ["no_floats"] }
 wee_alloc = "0.4.5"
+bs58 = "0.3.0"

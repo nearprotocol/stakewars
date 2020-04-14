@@ -1,4 +1,12 @@
-# Here are some test scenarios you can earn points for
+# Stake Wars 2.0 Test Scenarios
+Please note that Stake Wars is not rewarding anymore node-related test scenarios. Instead, we want you to test the functionalities of the delegation smart contracts, by performing the following actions:
+- deposit and withdraw tokens
+- lock and unlock tokens in the staking
+- measure the rewards
+
+These tests will accelerate the production deployment of the reference delegation contract, and will simplify the staking experience for our users.
+
+# [OBSOLETE] Here are some test scenarios you can earn points for
 
 ## This list will expand over time
 

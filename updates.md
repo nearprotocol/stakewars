@@ -18,3 +18,9 @@
 * Just update the issue templates. We are now measuring severity internally since the templates were just confusing.
 * The simplified submission process is: just follow the template, and we will add label.
 * If we add the `help wanted` tag, you can fix it and receive tokens as part of the competition as well
+
+## UPDATE Apr 14th
+
+* Stake Wars has been redesigned to involve end-users, and test NEAR smart contracts delegation
+* The reference network for Stake Wars is now `betanet`. We suggest you to install and run the new node via [nearup](https://github.com/near/nearup)
+* To obtain some betanet tokens and become validator, send a request via [this form](https://docs.google.com/forms/d/1xarv54e-fFSuD2AQorAPx4086z3zyS5ZNGwcLr4QkeQ).

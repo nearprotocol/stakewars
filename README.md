@@ -18,7 +18,7 @@ If you haven't already, join our Telegram validator channel [here](https://t.me/
 - If you don't already have one, create a betanet account using our [hosted betanet wallet](https://wallet.betanet.nearprotocol.com)
 - Spin up an Ubuntu/Debian VPS and follow this [nearup repo](https://github.com/near/nearup) tutorial
 - Use [this form](https://docs.google.com/forms/d/1xarv54e-fFSuD2AQorAPx4086z3zyS5ZNGwcLr4QkeQ) to enroll in the Stake Wars 2.0 
-- Add your validator logo, blurb and landing page to [this file](VALIDATORS.MD) - fork and do a pull request
+- Add your validator logo, blurb and landing page to [this file](VALIDATORS.md) - fork and do a pull request
 
 ### Quickstart For Delegators (work in progress)
 Most of the information can be found on the official [Stake Wars page (work in progress)](#). At a high level, you will have to:

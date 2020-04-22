@@ -1,4 +1,5 @@
 # LEADERBOARD
+*From previous Stake Wars*
 
 | name          | total points |
 |---------------|--------------|

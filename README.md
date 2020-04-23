@@ -22,7 +22,7 @@ If you are just curious, follow the quickstart guides below and you'll be ready 
 - Use [this form](https://forms.gle/5KabPsD4BefR6nv68) to enroll in the Stake Wars 2.0 and receive a few tokens to stake
 - If you don't already have one, create a betanet account using our [hosted betanet wallet](https://wallet.betanet.nearprotocol.com)
 - Spin up an Ubuntu/Debian VPS and follow the [nearup](https://github.com/near/nearup) tutorial
-- Add your validator logo, blurb and account_id to [this file](/VALIDATORS.MD) - just fork and pull request
+- Add your validator info to [this file](/VALIDATORS.MD) - just fork and pull request, we'll merge ASAP
 
 **HEADS UP:** We will reset Betanet every Tuesday at 6pm Pacific, so plan a node restart to automatically download and install the new release.
 
@@ -123,7 +123,7 @@ Then, issue this command to stake:
 ```bash
 near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT>
 ```
-**HEADS UP:** `<AMOUNT>` must be set in NEAR, and you should have enough tokens in your account.
+**HEADS UP:** `<AMOUNT>` must be set in NEAR, and you should have enough tokens in your account. Don't stake 100% of your account holdings: please leave enough tokens to issue smart contracts and pay your account storage (100 $NEAR will do great).
 
 If you get an error like this one check if you correctly set `betanet` as the node environment:
 ```bash
@@ -526,13 +526,32 @@ The call will return a JSON with the current parameters:
 
 </details>
 
+Every entry in the `current_validators` object of the JSON above provides the expected uptime:
+```
+"current_validators": [
+            {
+                "account_id": "nearkat",
+                "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
+                "is_slashed": false,
+                "stake": "75932253155495715897593582482",
+                "shards": [
+                    0
+                ],
+                "num_produced_blocks": 106,
+                "num_expected_blocks": 106
+            }
+    ]
+```
+
+Be sure that `num_produced_blocks` is the same of `num_expected_blocks`, otherwise your node risks to be kicked out (see "Maintaining the Validator Seat" in the [validator economics docs](https://docs.nearprotocol.com/docs/validator/economics) for more details).
+
 
 ## Stop your node
 First, release your funds, by setting to zero your stake:
 ```bash
 near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> 0
 ```
-Wait for two epochs (24 hours) and shut down your node. You may kill the validator straight away, but it will have an impact on the network performance and other users will not be happy!
+Wait for two epochs (6 hours) and shut down your node. You may kill the validator process straight away, but it will have an impact on the network performance (less throughput) and other users will not be happy!
 
 To stop your node, simply issue the command:
 ```bash

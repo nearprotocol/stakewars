@@ -3,7 +3,7 @@ NEAR Protocol is ready for the next step: launch Stake Wars 2.0! We learned a lo
 
 We are now ready to get into the next step: open Stake Wars to anyone!
 
-Stake Wars 2.0 will test the *delegation* of tokens from users to validators. Therefore, we want you validators to be ready for the action, and involve you with NEAR Protocol community as a whole.
+Stake Wars 2.0 will test the *delegation* of tokens from users to validators. Therefore, we want you validators to be ready for the action and involve you with NEAR Protocol community as a whole.
 
 The goals are:
 - for end-users, learn the principles of proof of stake, and build confidence with the concepts of delegation
@@ -16,15 +16,15 @@ If you haven't already:
 2. Join our Discord channel [here](https://discord.gg/zmwQd5) for troubleshooting and technical discussion
 
 ## The basics
-If you are just curious, follow the quickstart guides below and you'll be ready in a few minutes. However, this is just a shortcut to become familiar with high-level concepts of the protocol, not the most secure and efficient way to do it! 
+If you are just curious, follow the quickstart guides below, and you'll be ready in a few minutes. However, this is just a shortcut to becoming familiar with high-level concepts of the protocol, not the most secure and efficient way to do it! 
 
 ### Quickstart For Validators
 - Use [this form](https://forms.gle/5KabPsD4BefR6nv68) to enroll in the Stake Wars 2.0 and receive a few tokens to stake
 - If you don't already have one, create a betanet account using our [hosted betanet wallet](https://wallet.betanet.nearprotocol.com)
 - Spin up an Ubuntu/Debian VPS and follow the [nearup](https://github.com/near/nearup) tutorial
-- Add your validator info to [this file](/VALIDATORS.MD) - just fork and pull request, we'll merge ASAP
+- Add your validator info to [this file](./VALIDATORS.md) - just fork and pull request, we'll merge ASAP
 
-**HEADS UP:** We will reset Betanet every Tuesday at 6pm Pacific, so plan a node restart to automatically download and install the new release.
+**HEADS UP:** We will reset Betanet every Tuesday at 6pm Pacific, so plan a node restart to download and install the new release automatically.
 
 ### Quickstart For Delegators (work in progress)
 Most of the information can be found on the official [Stake Wars page (work in progress)](#). At a high level, you have to:
@@ -48,7 +48,7 @@ This guide will help you to:
 
 ### 1.Generate a new keypair
 You have to install [near-shell](https://github.com/nearprotocol/near-shell), a Node.js application that relies on nearlib to generate secure keys, connect to the NEAR platform and send transactions to the network on your behalf.
-You don't have to install near-shell on your node - on the contrary it's suggested to keep your staking wallet on a different machine.
+You don't have to install near-shell on your node - on the contrary, it's suggested to keep your staking wallet on a different machine.
 
 1. `cd` into a directory you'd like to work in
 2. Download `near-shell` with `npm install -g near-shell`
@@ -63,7 +63,7 @@ Work in Progress. By now use this [request form](https://docs.google.com/forms/d
 
 ### 3a.Download nearup and go automatic
 Before you start, please make sure that you have or setup a machine with a publicly routable ip address.
-Use [nearup tutorial](https://github.com/near/nearup) to automatically download the binaries and run your node.
+Use [nearup tutorial](https://github.com/near/nearup) to download the binaries and run your node automatically.
 
 For security and operations (eg infrastructure as code), you may want to compile nearcore from its source:
 
@@ -85,13 +85,15 @@ If you get an error like this one, you your node has no validator key:
 nearkat@nearkat ~ % cat ~/.near/betanet/validator_key.json |grep "public_key"
 cat: /Users/nearkat/.near/betanet/validator_key.json: No such file or directory
 ```
-In order to do generate one, the safest way is to reset your `.near` folder:
+To generate one, the safest way is to reset your `.near` folder:
 1. stop the node issuing the command `nearup stop`
 2. cleanup your `~/.near` directory
 3. restart the node with the command `nearup betanet`
 (remember to append `--nodocker` if you are not running the container)
 
-The node will ask your *betanet* account ID again. If successful, you should see a screen like this:
+**HEADS UP:** deleting your `.near` folder will wipe any existing validator key. Therefore, any existing staking transaction will have to be re-issued with the new public key.
+
+Without any `.near` folder, `nearup` will ask your *betanet* account ID again. If successful, you should see a screen like this:
 ```
 Pull docker image nearprotocol/nearcore:beta
 Setting up network configuration.
@@ -106,10 +108,10 @@ Node is running!
 To check logs call: docker logs --follow nearcore
 ```
 From this screen you can verify that:
-`<YOUR_ACCOUNT_ID>` is set with the user 'nearkat'
+`<YOUR_ACCOUNT_ID>` is set with the correct user 'nearkat'
 `<VALIDATOR_KEYS_PUBLIC_KEY>` is automatically generated with the key `ed25519:GR2xDB5ERrRkXN76JzvfpY8ksz7vFdLVegarLsJbMZJL`
 
-**Heads up:** Save the public key for later, you'll need it quite often later in this tutorial.
+**HEADS UP:** Save this public key for later, you'll need it quite often in this tutorial.
 
 #### Issue the staking transaction
 
@@ -159,11 +161,16 @@ This process is similar to the one above, with the difference that you have to d
 
 Once the contract is deployed, any user will be able to deposit funds into your staking contract, and delegate their stake to your validator node.
 
-Follow the guide in the [staking contract](https://github.com/near/staking-contract) repository for details.
+Follow the guide in the [Staking Pool contract](https://github.com/near/initial-contracts) repository for details.
 
 
 ## Check if it worked
 You have five different ways to verify that your stake transaction was successfully included in the blockchain:
+1. A correct output from near shell
+2. A new event on the betanet block explorer
+3. A correct balance in your account, using `near state` command
+4. A change in the `nearup` logs displayng an uppercase "V"
+5. A query to the JSON RPC using the `validator` endpoint
 
 1. You should see a transaction receipt that ends with `status: { SuccessValue: '' }` similar to the one below:
 ```

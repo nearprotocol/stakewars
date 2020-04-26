@@ -10,7 +10,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | NUC Home Alone | - | - | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | 0% | US |
 | Validators.Online | https://validators.online/ | --- | --- | @validatorsonline.test | 1% | MY |
 | Wetez | https://wetez.io | http://www.wetez.io/_nuxt/img/72ebb49.png | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | 0% | CN |
+| Novy | https://stake.novy.pw | https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | 1% | MD | 
 | Jazza | - | - | Professional validator  | @jazza.test | 0% | RU |
-
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

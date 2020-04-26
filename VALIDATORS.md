@@ -1,7 +1,7 @@
 #Stake Wars 2.0 Validators List
 
 Hello! This is the list of professional validators that joined Stake Wars 2.0
-Fork this repo and submnit a PR adding your validator, or fixing any typo or error in the description.
+Fork this repo and submit a PR adding your validator, or fixing any typo or error in the description.
 
 | Validator Name | website | Logo | Blurb | Account ID | Fees | Country |
 | --- | --- | --- | --- | --- | --- | --- |

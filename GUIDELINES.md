@@ -2,13 +2,6 @@
 
 ## Format
 
-### Weekly calls on Mondays
-
-* We will reset genesis roughly every three weeks.
-* Time will alternate each week to accommodate different hemispheres
-* We assign points at the end of the week and reveal the leaderboard each Monday
-* At the end of the competition, we will convert the points to tokens and perform KYC required by your country of residence to assign them to you.
-
 ## Rules
 
 This program is hard to create rules for, so we’re giving you guidelines and examples. Judges on our side will rate your submissions and assign points.

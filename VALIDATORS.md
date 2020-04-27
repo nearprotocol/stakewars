@@ -12,5 +12,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | Jazza | - | - | Professional validator  | @jazza.test | 0% | RU |
 | Mitera.net | https://mitera.net | https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67 | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | 0% | NL |
 | Novy | https://stake.novy.pw | https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | 1% | MD |
+| Staked.us | https://staked.us/ | https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. | @staked.test | 10% | US |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

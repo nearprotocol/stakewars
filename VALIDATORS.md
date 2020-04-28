@@ -24,5 +24,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | JanLiamNilsson | ---- | ---- | ---- | @janliamnilsson.test | 1% | SE |
 | TommyWesley | -- | -- | Me and my little node give U a big profit | @tommywesley.test | 1% | UK |
 | Sivertsen VPS | no site | no logo | I give you more profit than other validators | @villiamsivertsen.test | 1% | NO |
+| OlaiOlsen | --- | --- | More tokens, more stakes! | @olaiolsen.test | 2% | NL |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

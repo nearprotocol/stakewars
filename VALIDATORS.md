@@ -14,5 +14,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | Novy | https://stake.novy.pw | https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | 1% | MD |
 | itokenpool | http://www.itokenpool.com/ | http://www.itokenpool.com/img/logo.png | Blockchain Pos Node service provider. Our team members mainly come from Tsinghua University. | @itokenpool.betanet | 1% | CN |
 | gunray | - | - | - | gunray.test | 0% | CRO |
+| c29r3 | - | https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4 | - | @c29r3.betanet | 1% | RU |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

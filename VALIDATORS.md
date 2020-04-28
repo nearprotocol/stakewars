@@ -17,5 +17,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | c29r3 | - | https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4 | - | @c29r3.betanet | 1% | RU |
 | stateb | - | - | Professional validator | @stateb.betanet | 0.9% | RU |
 | slayer_hellraiser | - | - | Very stable services! | @ractolechoc5.test | 1% | RU |
+| Tyler34214 | --- | --- | Low fees, great experience in validating! | @dochpryof.test | 1% | UK |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

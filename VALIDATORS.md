@@ -21,5 +21,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | SimonHugo | --- | --- | Make Staking Great Again! | @simonhugo.test | 1% | UK |
 | felix.schulz | --- | --- | Need validating? Go with us! | @felixschulz.test | 1% | DE |
 | JaroslavRud | ------- | ------- | Just Staking. Cheapest than others | @jaroslavrud.test | 1% | CZ |
+| JanLiamNilsson | ---- | ---- | ---- | @janliamnilsson.test | 1% | SE |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

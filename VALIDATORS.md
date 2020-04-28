@@ -12,6 +12,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | Jazza | - | - | Professional validator  | @jazza.test | 0% | RU |
 | Mitera.net | https://mitera.net | https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67 | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | 0% | NL |
 | Novy | https://stake.novy.pw | https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | 1% | MD |
+| itokenpool | http://www.itokenpool.com/ | http://www.itokenpool.com/img/logo.png | Blockchain Pos Node service provider. Our team members mainly come from Tsinghua University. | @itokenpool.betanet | 1% | CN |
 | gunray | - | - | - | gunray.test | 0% | CRO |
 | c29r3 | - | https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4 | - | @c29r3.betanet | 1% | RU |
 | stateb | - | - | Professional validator | @stateb.betanet | 0.9% | RU |

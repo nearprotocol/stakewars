@@ -26,5 +26,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | Sivertsen VPS | no site | no logo | I give you more profit than other validators | @villiamsivertsen.test | 1% | NO |
 | OlaiOlsen | --- | --- | More tokens, more stakes! | @olaiolsen.test | 2% | NL |
 | OliGarr | - | - | - | @oligarr.test | 1% | UK |
+| Launo.Osku.Arttu | -- | --- | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | 1% | FI |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column can be safely omitted by now, so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

@@ -123,7 +123,7 @@ export NODE_ENV=betanet
 
 Then, issue this command to stake:
 ```bash
-near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT>
+near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT> --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com
 ```
 **HEADS UP:** `<AMOUNT>` must be set in NEAR, and you should have enough tokens in your account. Don't stake 100% of your account holdings: please leave enough tokens to issue smart contracts and pay your account storage (100 $NEAR will do great).
 
@@ -246,7 +246,7 @@ Staking 70000 (70000000000000000000000000000) on nearkat with public key = ed255
 
 ![alt text](media/stake_tx_explorer.png "Explorer successful transaction")
 
-3. Run `near state <YOUR_ACCOUNT_ID>` and see if the amount you've staked is marked as locked, similar to the content below:
+3. Run `near state <YOUR_ACCOUNT_ID> --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com` and see if the amount you've staked is marked as locked, similar to the content below:
 ```
 nearkat@nearkat ~ $ near state nearkat
 Using options: {
@@ -556,7 +556,7 @@ Be sure that `num_produced_blocks` is the same of `num_expected_blocks`, otherwi
 ## Stop your node
 First, release your funds, by setting to zero your stake:
 ```bash
-near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> 0
+near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> 0 --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com
 ```
 Wait for two epochs (6 hours) and shut down your node. You may kill the validator process straight away, but it will have an impact on the network performance (less throughput) and other users will not be happy!
 

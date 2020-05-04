@@ -13,7 +13,7 @@ The goals are:
 
 If you haven't already:
 1. Join our Telegram validator channel [here](https://t.me/joinchat/Msj7FBRzcys3zb6J79u5bw) for general discussion
-2. Join our Discord channel [here](https://discord.gg/zmwQd5) for troubleshooting and technical discussion
+2. Join our Discord channel [here](https://discord.gg/ZMPr3VB) for troubleshooting and technical discussion
 
 ## The basics
 If you are just curious, follow the quickstart guides below, and you'll be ready in a few minutes. However, this is just a shortcut to becoming familiar with high-level concepts of the protocol, not the most secure and efficient way to do it! 

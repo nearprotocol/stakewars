@@ -1,59 +1,38 @@
-# Stake Wars Guidelines
+# Stake Wars 2.0 Guidelines
 
 ## Format
+This new phase of Stake Wars will test stake delegation to validators. The winners will be those validators who deploy reliable nodes and challenge the boundaries of Proof of Stake, by offering innovative delegation solutions that can attract the favor of Stake Wars participants. The larger the stake you will attract from real users, the bigger your success during the Stake Wars and beyond, when the MainNet will be running on your nodes.
+NEAR Protocol will promote this initiative across all its channels, by progressively releasing Stake Wars to every user who owns a TestNet wallet. This will be a unique opportunity to attract NEAR adopters on your platform and grow your validator business.
+
+This is not going to be easy: we will deploy hard forks constantly, we will test your team reactivity in case of network issues, we will run benchmarks at the network level, and we will measure the strenght of the participants as a whole.
+However, Stake Wars is not about doing things right or wrong. It is mostly about learning how smart contract-based delegation works, and get ready to run NEAR together.
 
 ## Rules
+There are no strict rules, rather guidelines and examples. Judges on NEAR side will rate your participation, and will update the [leaderboard](LEADERBOARD.md) every week with basic node information.
 
-This program is hard to create rules for, so we’re giving you guidelines and examples. Judges on our side will rate your submissions and assign points.
-
-*If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will ban you from the competition.*
+*If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will exclude you from the competition.*
 
 Here are some examples and we will trust you to follow the spirit of the law:
 
 ### DO…
-
 * Check out the QA scenarios and run them on your system.
-* Run a node or as many nodes as you can figure out how to run.
-* Run any kind of benchmark you think is valuable
-* Try staking in all sorts of ways.
-  * You will be rewarded for creativity, effort and magnitude of the submission. (For instance, if you get delegation to work for a bunch of small accounts)
-* Write reports on your experience and send them to us publicly
+* Read the documentation, and open GitHub issues if you find ways to improve it.
+* Run your node like it's a production environment and you are staking with real funds.
+* Run any kind of benchmark you think is valuable.
+* Try staking in all sorts of ways
+  * You will be rewarded for creativity, effort and magnitude of the submission
+* Write reports on your experience and send them to us publicly.
 * Complain about things that need fixing or cleanup!
 
 ### DON’T…
-
-* Do anything illegal to hack our stuff.
+* Do anything illegal in order to hack our stuff.
 * Hack other peoples’ computers or use attack vectors that are outside of our control
-* For example, if you add a keylogger to someone’s computer, that is showing a flaw in their Operational Security not a flaw in the system we’re building
+  * For example, if you add a keylogger to someone’s computer, that is showing a flaw in their Operational Security not a flaw in the system we’re building.
 * Harass people in any way. This includes community members and team members.
-* Be a jerk
+* Be a jerk.
 
-## Points Overview
-
-In order to get points, you will need to submit an issue on GitHub for each test you run. ([https://github.com/nearprotocol/stakewars](https://github.com/nearprotocol/stakewars))
-
-**GET STARTED:** You can all get the basic points for running a node (or nodes) and running an interesting benchmark.
-
-Since we hope all of you will do this, we’ve created an issue for this in the main repo: [https://github.com/nearprotocol/stakewars/issues/4](https://github.com/nearprotocol/stakewars/issues/4)
-
-### Here’s how points work
-
-* Check for test scenarios [scenarios](/SCENARIOS.md)
-* You submit issues based on what you run into while attempting to run nodes to the GitHub repo identified above.
-* We (a rotating panel of reviewers) assign points to whoever submitted based on the severity of bugs.
-* The identity of the submitter must be associated with the submission by the end of the comp to be valid. Otherwise no points.
-
-## Agreement and edge cases
-
-* In addition, you will have to sign a program and token agreement for the reward of tokens based on points. This will happen at some point during the competition.
-* You CAN get multiple rewards for running multiple nodes, BUT only for giving us valuable information about problems in our system. It’s still dependent on the severity of the bug or the value of the test you’ve created. For example…
-  * If you create a bunch of nodes and then just leave them up. No points.
-  * If you create a bunch of nodes to test a delegation contract you created, very valuable. Much points. Very wow.
-* We’re not making it public what the translation from points to tokens is. This is mainly because we don’t want to commit to specific numbers upfront and be wrong.
-* The point system allows us to create weights for bugs and tests. Our goal is to do this fairly and equitably. No funny business.
 
 ## Our Goals for this
-
 We want...
 
 * You to build things that solve your own problems as future validators on the network

@@ -1,5 +1,14 @@
-# LEADERBOARD
-*From previous Stake Wars*
+# STAKE WARS LEADERBOARD
+
+*Stake Wars 2.0 Leaderboard*
+
+| Validator name  | Produced Blocks | Expected Blocks | Delegators |
+|-----------------|:---------------:|:---------------:|:----------:|
+| _WIP_           | 1               | 1               | 1          |
+
+
+
+*Stake Wars 1.0 Leaderboard*
 
 | name          | total points |
 |---------------|--------------|

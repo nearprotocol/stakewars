@@ -36,6 +36,8 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | FredrikMalmqvist | --- | @fredrikmalmqvist.test | -% | SE |
 | <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | -% | CN |
 | <img src="https://pbs.twimg.com/profile_images/947826924029665281/NYMOrEIV_400x400.jpg" width="40"> | [Zavodil](https://zavodil.ru/category/near/) | [Near Protocol Russian Community](https://t.me/near_protocol). Lowest fees. Trusted validator. | @zavodil.betanet | -% | RU |
+| | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | -% | DE |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

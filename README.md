@@ -97,18 +97,18 @@ Without any `.near` folder, `nearup` will ask your *betanet* account ID again. I
 ```
 Pull docker image nearprotocol/nearcore:beta
 Setting up network configuration.
-Enter your account ID (leave empty if not going to be a validator): nearkat
+Enter your account ID (leave empty if not going to be a validator): nearkat.betanet
 Generating node key...
 Node key generated
 Generating validator key...
 Validator key generated
-Stake for user 'nearkat' with 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB'
+Stake for user 'nearkat.betanet' with 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB'
 Starting NEAR client docker...
 Node is running! 
 To check logs call: docker logs --follow nearcore
 ```
 From this screen you can verify that:
-`<YOUR_ACCOUNT_ID>` is set with the correct user 'nearkat'
+`<YOUR_ACCOUNT_ID>` is set with the correct user 'nearkat.betanet'
 `<VALIDATOR_KEYS_PUBLIC_KEY>` is automatically generated with the key `ed25519:GR2xDB5ERrRkXN76JzvfpY8ksz7vFdLVegarLsJbMZJL`
 
 **HEADS UP:** Save this public key for later, you'll need it quite often in this tutorial.
@@ -129,19 +129,19 @@ near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT> --walletUrl ht
 
 If you get an error like this one check if you correctly set `betanet` as the node environment:
 ```bash
-nearkat@nearkat ~ % near stake nearkat ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 75000
+nearkat@nearkat ~ % near stake nearkat.betanet ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 75000
 Using options: {
   networkId: 'default',
   nodeUrl: 'https://rpc.nearprotocol.com',
   contractName: undefined,
   walletUrl: 'https://wallet.nearprotocol.com',
   helperUrl: 'https://helper.nearprotocol.com',
-  accountId: 'nearkat',
+  accountId: 'nearkat.betanet',
   stakingKey: 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB',
   amount: '75000'
 }
-Staking 75000 (75000000000000000000000000000) on nearkat with public key = ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB.
-Error:  TypedError: [-32000] Server error: account nearkat does not exist while viewing
+Staking 75000 (75000000000000000000000000000) on nearkat.betanet with public key = ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB.
+Error:  TypedError: [-32000] Server error: account nearkat.betanet does not exist while viewing
     at JsonRpcProvider.sendJsonRpc (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:113:27)
     at processTicksAndRejections (internal/process/task_queues.js:97:5)
     at async JsonRpcProvider.query (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:60:24)
@@ -174,14 +174,14 @@ You have five different ways to verify that your stake transaction was successfu
 
 1. You should see a transaction receipt that ends with `status: { SuccessValue: '' }` similar to the one below:
 ```
-nearkat@nearkat ~ $ near stake nearkat ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 70000
+nearkat@nearkat ~ $ near stake nearkat.betanet ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 70000
 Using options: {
   networkId: 'betanet',
   nodeUrl: 'https://rpc.betanet.nearprotocol.com',
   contractName: undefined,
   walletUrl: 'https://wallet.betanet.nearprotocol.com',
   helperUrl: 'https://helper.betanet.nearprotocol.com',
-  accountId: 'nearkat',
+  accountId: 'nearkat.betanet',
   stakingKey: 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB',
   amount: '70000'
 }
@@ -189,10 +189,10 @@ Staking 70000 (70000000000000000000000000000) on nearkat with public key = ed255
 {
   status: { SuccessValue: '' },
   transaction: {
-    signer_id: 'nearkat',
+    signer_id: 'nearkat.betanet',
     public_key: 'ed25519:8GQ3X1fuKdprwwkHUxi4bXj2ux9Bdm6gMJdgFdWk6hGc',
     nonce: 7,
-    receiver_id: 'nearkat',
+    receiver_id: 'nearkat.betanet',
     actions: [
       {
         Stake: {
@@ -248,16 +248,16 @@ Staking 70000 (70000000000000000000000000000) on nearkat with public key = ed255
 
 3. Run `near state <YOUR_ACCOUNT_ID> --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com` and see if the amount you've staked is marked as locked, similar to the content below:
 ```
-nearkat@nearkat ~ $ near state nearkat
+nearkat@nearkat ~ $ near state nearkat.betanet
 Using options: {
   networkId: 'betanet',
   nodeUrl: 'https://rpc.betanet.nearprotocol.com',
   contractName: undefined,
   walletUrl: 'https://wallet.betanet.nearprotocol.com',
   helperUrl: 'https://helper.betanet.nearprotocol.com',
-  accountId: 'nearkat'
+  accountId: 'nearkat.betanet'
 }
-Account nearkat
+Account nearkat.betanet
 {
   amount: '58957995048254107744134739414',
   locked: '70000000000000000000000000000',
@@ -305,7 +305,7 @@ The call will return a JSON with the current parameters:
   "result": {
     "current_validators": [
       {
-        "account_id": "bowen.test",
+        "account_id": "bowen.betanet",
         "public_key": "ed25519:2kjQU7uJjWwCgGzS26pz7PtnL2NT98LTZyBNYjr1sYwx",
         "is_slashed": false,
         "stake": "97970693373589304551816887209",
@@ -316,7 +316,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 1568
       },
       {
-        "account_id": "buildlinks.test",
+        "account_id": "buildlinks.betanet",
         "public_key": "ed25519:Bq2SR9R8xwztP5YSudwdMgBXbKa1KcizcKD4QCdK65p7",
         "is_slashed": false,
         "stake": "100000000000000000000000000000",
@@ -327,7 +327,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 1570
       },
       {
-        "account_id": "figment-betanet",
+        "account_id": "figment.betanet",
         "public_key": "ed25519:GtFcXjjdo3xs2xafAUstvdNLbw3YDRsv8798qhDfdWau",
         "is_slashed": false,
         "stake": "126557431195539821072612918725",
@@ -338,7 +338,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 1832
       },
       {
-        "account_id": "illia",
+        "account_id": "illia.betanet",
         "public_key": "ed25519:HDGR8HHcKJuPWsfe7rEbmmzMmB1h2sMV3synesYVGf1j",
         "is_slashed": false,
         "stake": "237114320489469642690227273793",
@@ -349,7 +349,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 3665
       },
       {
-        "account_id": "nearkat",
+        "account_id": "nearkat.betanet",
         "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
         "is_slashed": false,
         "stake": "78222174019581877549836985626",
@@ -360,7 +360,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 1046
       },
       {
-        "account_id": "node0",
+        "account_id": "node0.betanet",
         "public_key": "ed25519:7PGseFbWxvYVgZ89K1uTJKYoKetWs7BJtbyXDzfbAcqX",
         "is_slashed": false,
         "stake": "238339659072897867748078610107",
@@ -371,7 +371,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 3663
       },
       {
-        "account_id": "node1",
+        "account_id": "node1.betanet",
         "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
         "is_slashed": false,
         "stake": "242014825065931544260409042195",
@@ -382,7 +382,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 3925
       },
       {
-        "account_id": "node2",
+        "account_id": "node2.betanet",
         "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
         "is_slashed": false,
         "stake": "199913782638170701764620852187",
@@ -393,7 +393,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 3142
       },
       {
-        "account_id": "node3",
+        "account_id": "node3.betanet",
         "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
         "is_slashed": false,
         "stake": "240935684024498896347812640603",
@@ -404,7 +404,7 @@ The call will return a JSON with the current parameters:
         "num_expected_blocks": 3922
       },
       {
-        "account_id": "unknown.test",
+        "account_id": "unknown.betanet",
         "public_key": "ed25519:6VGREgEwSEYqb2qbhjK8PvJc2NJKtdD9zy6RTbAccH3S",
         "is_slashed": false,
         "stake": "117392659285106031101261119727",
@@ -417,7 +417,7 @@ The call will return a JSON with the current parameters:
     ],
     "next_validators": [
       {
-        "account_id": "bowen.test",
+        "account_id": "bowen.betanet",
         "public_key": "ed25519:2kjQU7uJjWwCgGzS26pz7PtnL2NT98LTZyBNYjr1sYwx",
         "stake": "101525336463327823810344355637",
         "shards": [
@@ -425,7 +425,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "buildlinks.test",
+        "account_id": "buildlinks.betanet",
         "public_key": "ed25519:Bq2SR9R8xwztP5YSudwdMgBXbKa1KcizcKD4QCdK65p7",
         "stake": "103242936749015049193558050110",
         "shards": [
@@ -433,7 +433,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "hashquark",
+        "account_id": "hashquark.betanet",
         "public_key": "ed25519:9RHYjfS5eo8CAxnsE7R1VgDCK5ofTbk5z2CtfGkv8MvJ",
         "stake": "151400000000000000000000000000",
         "shards": [
@@ -441,7 +441,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "nearkat",
+        "account_id": "nearkat.betanet",
         "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
         "stake": "80723946901794317217366119514",
         "shards": [
@@ -449,7 +449,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "node0",
+        "account_id": "node0.betanet",
         "public_key": "ed25519:7PGseFbWxvYVgZ89K1uTJKYoKetWs7BJtbyXDzfbAcqX",
         "stake": "246151555757109477336718079379",
         "shards": [
@@ -457,7 +457,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "node1",
+        "account_id": "node1.betanet",
         "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
         "stake": "250276918680695799107215971895",
         "shards": [
@@ -465,7 +465,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "node2",
+        "account_id": "node2.betanet",
         "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
         "stake": "206318272886843319377092484825",
         "shards": [
@@ -473,7 +473,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "node3",
+        "account_id": "node3.betanet",
         "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
         "stake": "249174529750016868197216096172",
         "shards": [
@@ -481,7 +481,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "nuc.test",
+        "account_id": "nuc.betanet",
         "public_key": "ed25519:6CZbX8r9DqKNQ5Vd6xDrqsMuygV9HQ8QLecziC41D26p",
         "stake": "40000000000000000000000000000",
         "shards": [
@@ -489,7 +489,7 @@ The call will return a JSON with the current parameters:
         ]
       },
       {
-        "account_id": "unknown.test",
+        "account_id": "unknown.betanet",
         "public_key": "ed25519:6VGREgEwSEYqb2qbhjK8PvJc2NJKtdD9zy6RTbAccH3S",
         "stake": "121314281134898099361682531845",
         "shards": [
@@ -501,14 +501,14 @@ The call will return a JSON with the current parameters:
     "next_fishermen": [],
     "current_proposals": [
       {
-        "account_id": "nearkat",
+        "account_id": "nearkat.betanet",
         "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
         "stake": "76000000000000000000000000000"
       }
     ],
     "prev_epoch_kickout": [
       {
-        "account_id": "figment-betanet",
+        "account_id": "figment.betanet",
         "reason": {
           "NotEnoughBlocks": {
             "produced": 0,
@@ -517,7 +517,7 @@ The call will return a JSON with the current parameters:
         }
       },
       {
-        "account_id": "illia",
+        "account_id": "illia.betanet",
         "reason": {
           "NotEnoughBlocks": {
             "produced": 0,
@@ -537,7 +537,7 @@ Every entry in the `current_validators` object of the JSON above provides the ex
 ```
 "current_validators": [
             {
-                "account_id": "nearkat",
+                "account_id": "nearkat.betanet",
                 "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
                 "is_slashed": false,
                 "stake": "75932253155495715897593582482",

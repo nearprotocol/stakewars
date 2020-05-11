@@ -47,5 +47,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/thai-kitchen/d/800/default.jpg?vd=20180710T052954Z&hash=26789A3309AD41BCFC72329FAF136C4B707918DB" width="40"> | Kokos | Coconuts for each delegation! | @kokos.betanet | -% | UA |
 | | Blaze | - | @blaze.betanet | -% | US |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU |
+| <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

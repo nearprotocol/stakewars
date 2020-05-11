@@ -39,5 +39,13 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | -% | DE |
+| | Gamah | Home server node! | @gamah.betanet | -% | FR |
+| | seanq (technovatic) | Team of 7 crypto developers across USA, UA and LatinAmerica | @seanq.betanet | -% | US |
+| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.test | -% | UKR |
+| <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU |
+| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | -% | RU |
+| <img src="https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/thai-kitchen/d/800/default.jpg?vd=20180710T052954Z&hash=26789A3309AD41BCFC72329FAF136C4B707918DB" width="40"> | Kokos | Coconuts for each delegation! | @kokos.betanet | -% | UA |
+| | Blaze | - | @blaze.betanet | -% | US |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU |
+
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

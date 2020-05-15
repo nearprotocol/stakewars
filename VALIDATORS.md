@@ -54,5 +54,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake.test | -% | SI |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | -% | UK |
 | | manhplus | - | @humanh.betanet | -% | UA |
+| <img src="https://cdn.pixabay.com/photo/2013/07/13/10/45/vendetta-157703_960_720.png" width="40"> |  - | People shouldn't be afraigt of their government | @arno_nym.betanet | -% | NL | 
+
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

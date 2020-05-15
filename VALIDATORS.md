@@ -57,6 +57,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://cdn.pixabay.com/photo/2013/07/13/10/45/vendetta-157703_960_720.png" width="40"> |  - | People shouldn't be afraigt of their government | @arno_nym.betanet | -% | NL | 
 | | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | -% | GER |
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN |
+| | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU |
 
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.

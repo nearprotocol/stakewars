@@ -4,9 +4,16 @@
 Hello! This is the list of professional validators that joined Stake Wars 2.0
 Fork this repo and submit a PR adding your validator, or fixing any typo or error in the description. The list etiquette is first come, first serve: please append your validator to the end of the table.
 
+Note for Stake Wars Ep.II: validators running the staking pool can update their entry, and append themselves at the top of the list, such that delegators can easily find them. Same principles, first come, first serve.
+
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :--: | :----: |
 | <img src="https://docs.nearprotocol.com/img/icon-core.svg" width="40"> | [Nearkats](https://near.dev) | The unofficial, BetaNet validator that provides token delegation services. Stake with us! | @nearkat | 20% | US | [@c1.nearkat](https://explorer.betanet.near.org/accounts/c1.nearkat) | no |
+| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
+| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | -% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
+| | | | | | | | |
+| | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
+| | | | | | | | |
 | | NUC "Home Alone" | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | -% | US | | |
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | -% | CN | | |
@@ -49,7 +56,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
-| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | -% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
+| | 7777nda | Much node, very validate | @7777nda.betanet | -% | RU | | |
 | <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker](https://stakery.io) | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake.test | -% | SI | | |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | -% | UK | | |
@@ -60,7 +67,6 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN | | |
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
 | | Plex | Validate Everything | @jjangg96.betanet | -% | KR | | |
-| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | - | @russellgalt.betanet | -% | RU | | |
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |

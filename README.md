@@ -1,9 +1,10 @@
-# **April 27th 2020 update: Stake Wars is back**
-NEAR Protocol is ready for the next step: launch Stake Wars 2.0! We learned a lot from running together the first Stake Wars, and we worked hard to release a NEAR node that is stable and production-ready.
+# **May 19th 2020 update: Stake Wars Episode II, Return of the Validators**
+Stake Wars Episode II is officially live, see the [blog post](https://near.org/blog/stake-wars-episode-ii/) and the official [website page](https://near.org/stakewars/).
+We learned a lot from running together the first phase of the Stake Wars, and we worked hard to release a NEAR node that is stable and production-ready.
 
 We are now ready to get into the next step: open Stake Wars to anyone!
 
-Stake Wars 2.0 will test the *delegation* of tokens from users to validators. Therefore, we want you validators to be ready for the action and involve you with NEAR Protocol community as a whole.
+Stake Wars Episode II will test the *delegation* of tokens from users to validators. Therefore, we want you validators to be ready for the action and involve you with NEAR Protocol community as a whole.
 
 The goals are:
 - for end-users, learn the principles of proof of stake, and build confidence with the concepts of delegation
@@ -22,18 +23,15 @@ If you are just curious, follow the quickstart guides below, and you'll be ready
 - Use [this form](https://forms.gle/5KabPsD4BefR6nv68) to enroll in the Stake Wars 2.0 and receive a few tokens to stake
 - If you don't already have one, create a betanet account using our [hosted betanet wallet](https://wallet.betanet.nearprotocol.com)
 - Spin up an Ubuntu/Debian VPS and follow the [nearup](https://github.com/near/nearup) tutorial
+- Deploy your Staking Pool contract, from NEAR [Initial Contracts](https://github.com/near/initial-contracts/) repo
 - Add your validator info to [this file](./VALIDATORS.md) - just fork and pull request, we'll merge ASAP
 
-**HEADS UP:** We will reset Betanet every Tuesday at 6pm Pacific, so plan a node restart to download and install the new release automatically.
+**HEADS UP:** We will reset Betanet every Tuesday at 6pm Pacific (Wednesday 0:00 UTC), so plan a node restart to download and install the new release automatically.
 
 ### Quickstart For Delegators (work in progress)
-Most of the information can be found on the official [Stake Wars page (work in progress)](#). At a high level, you have to:
-- Enroll with your Betanet wallet
-- Receive the tokens that you will stake
-- Pick your favorite validators and follow their staking instructions
-- Join the conversation on [TBA](#)
+By now, we keep end-user delegation disabled. First we want to have a few validators offering a staking pool, and then we will switch to a larger scope of users.
 
-**Heads up:** As a Delegator, you don't have to read further, this repository is written for node operators who want to become NEAR validators and enroll users like you. So, your next step is just to open the [Stake Wars page](#) and take it from there.
+**Heads up:** As a Delegator, you don't have to read further, this repository is written for node operators who want to become NEAR validators and enroll users like you. By now, we don't have any activity for non technical users, but stay tuned, we got news coming!
 
 ## Validator Walkthrough guide
 If you plan to participate in the Stake Wars, we suggest you to follow this guide and join us on Discord if you have comments or issues.
@@ -44,7 +42,9 @@ This guide will help you to:
 2. Receive some tokens
 3. Run nearcore via nearup
 4. Stake some funds
-5. Join Stake Wars 2.0
+5. Join Stake Wars Episode II
+
+You can find a video explaining these steps also on [YouTube](https://youtu.be/MBLMzFKr1kg).
 
 ### 1.Generate a new keypair
 You have to install [near-shell](https://github.com/nearprotocol/near-shell), a Node.js application that relies on nearlib to generate secure keys, connect to the NEAR platform and send transactions to the network on your behalf.
@@ -52,116 +52,89 @@ You don't have to install near-shell on your node - on the contrary, it's sugges
 
 1. `cd` into a directory you'd like to work in
 2. Download `near-shell` with `npm install -g near-shell`
-3. Run `npx create-near-app staking`
-4. `cd` into `staking`
-5. Set your NODE_ENV to betanet. You can do this in `bash` with the command `export NODE_ENV=betanet`
-6. Run `near login` and follow the instructions that take you to the wallet
-7. Once you're logged in, `near-shell` is ready to send staking transactions
+3. Set your NODE_ENV to betanet. You can do this in `bash` with the command `export NODE_ENV=betanet`
+4. Create a work folder for the Stake Wars: `mkdir stakewars && cd stakewars`
+5. Run `near login` and follow the instructions that take you to the wallet
+6. Create your Staking Pool account, with the command `near create_account my_validator --masterAccount=owner --initialBalance 250` (see more documentation about near-shell [here](https://docs.near.org/docs/development/near-clitool)) - where `my_validator` is the account ID for your staking pool contract, `owner` is the account you used to perform the login at the step before, and `--initialBalance` is the amount in NEAR needed to pay the gas and deploy the smart contract
+7. Once you created your staking pool account, `near-shell` is ready to send staking transactions
+
+**Important** save the account ID you just created, you will need it to start the node in validator mode, and to deploy the staking pool contract. In the steps below, where you see `c1.nearkat` you will have to use the staking pool account, and where you see `nearkat.betanet` you will have to use your master account.
 
 ### 2.Receive some tokens 
-Work in Progress. By now use this [request form](https://docs.google.com/forms/d/1xarv54e-fFSuD2AQorAPx4086z3zyS5ZNGwcLr4QkeQ). On the last page you can put your betanet account id.
+This is a work in Progress. By now use this [request form](https://docs.google.com/forms/d/1xarv54e-fFSuD2AQorAPx4086z3zyS5ZNGwcLr4QkeQ). On the last page you can put your betanet account id. Starting May 18th 2020, tokens will be delegated to validators who deploy the staking pool contract. Only on a case-by-case basis, we may provide additional BetaNet tokens to test large-scale validation on betanet, without using the staking pool contract.
 
 ### 3a.Download nearup and go automatic
 Before you start, please make sure that you have or setup a machine with a publicly routable ip address.
 Use [nearup tutorial](https://github.com/near/nearup) to download the binaries and run your node automatically.
 
-For security and operations (eg infrastructure as code), you may want to compile nearcore from its source:
+This process is not intended for production-grade deployments, and validators who may want to compile nearcore from its source code. Deploying `nearcore` from its source code is a key criteria to join other validators on MainNet Restricted. 
 
 ### 3b.Compile nearcore from source code
 You can find updated build instructions on [NEAR docs](https://docs.nearprotocol.com/docs/local-setup/running-testnet#compile-testnet-without-docker), in the 'running testnet' section.
-**Warning:** instead of `testnet` you have to run `betanet`, therefore you have to download and compile the [beta branch](https://github.com/nearprotocol/nearcore/tree/beta), otherwise your node will not be able to connect to the network.
+**Important:** instead of `testnet` you have to run `betanet`, therefore you have to download and compile the [beta branch](https://github.com/nearprotocol/nearcore/tree/beta), otherwise your node will not be able to connect to the network.
 
-### 4a.Stake funds from your wallet (no delegation)
+### 4. Stake funds with a delegation smart contract
+This process is similar to the previous staking transaction, with the difference that you have to deploy the Staking Pool smart contract, and delegate your funds through it. Once the contract is deployed, any user will be able to deposit funds into your staking contract, and delegate their stake to your validator node.
 
-#### Start nearup in validator mode
+More details are in the [Staking Pool contract](https://github.com/near/initial-contracts) repository.
 
-When your launch `nearup` the first time, it will ask your account id, to generate the `validator_key` that will sign new blocks. This information will be stored in the file `validator_key.json` and contains your account_id and the validator keypair:
+Step-by-step guide (courtesy of [htafolla](https://github.com/htafolla)) for validators that are already staking, and want to deploy the staking pool the first time (or update it):
 
-```bash
-cat ~/.near/betanet/validator_key.json
-```
-If you get an error like this one, you your node has no validator key:
-```bash
-nearkat@nearkat ~ % cat ~/.near/betanet/validator_key.json |grep "public_key"
-cat: /Users/nearkat/.near/betanet/validator_key.json: No such file or directory
-```
-To generate one, the safest way is to reset your `.near` folder:
-1. stop the node issuing the command `nearup stop`
-2. cleanup your `~/.near` directory
-3. restart the node with the command `nearup betanet`
-(remember to append `--nodocker` if you are not running the container)
+#### 4.1. Preparation: unstake any currently locked funds and install Rustup
+You can skip steps 1 to 3 if you didn't run any validator node before.
 
-**HEADS UP:** deleting your `.near` folder will wipe any existing validator key. Therefore, any existing staking transaction will have to be re-issued with the new public key.
+1. Upgrade to the latest near shell with the command `npm install -g near-shell` and move to your Stake Wars work folder `cd ~/stakewars`
+2. Issue `export NODE_ENV=betanet` command before performing any unstaking
+3. Unstake your previously locked funds, by setting stake to zero: `near stake nearkat.betanet <staking public key> 0`
+4. Proceed to install `Rustup`: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh`
+5. If already present, be sure to update with the command `rustup update stable`
+6. Setup the correct rustup target, with the command `rustup +stable target add wasm32-unknown-unknown`
 
-Without any `.near` folder, `nearup` will ask your *betanet* account ID again. If successful, you should see a screen like this:
-```
-Pull docker image nearprotocol/nearcore:beta
-Setting up network configuration.
-Enter your account ID (leave empty if not going to be a validator): nearkat.betanet
-Generating node key...
-Node key generated
-Generating validator key...
-Validator key generated
-Stake for user 'nearkat.betanet' with 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB'
-Starting NEAR client docker...
-Node is running! 
-To check logs call: docker logs --follow nearcore
-```
-From this screen you can verify that:
-`<YOUR_ACCOUNT_ID>` is set with the correct user 'nearkat.betanet'
-`<VALIDATOR_KEYS_PUBLIC_KEY>` is automatically generated with the key `ed25519:GR2xDB5ERrRkXN76JzvfpY8ksz7vFdLVegarLsJbMZJL`
+Please note that some operating systems already come with Rust installed, and the available version may be outdated for NEAR. Please refer to the official [Rustup website](https://rustup.rs/) for more specific instructions and troubleshooting.
 
-**HEADS UP:** Save this public key for later, you'll need it quite often in this tutorial.
+#### 4.2. Update an old version of the staking pool
+You can skip this part if you have no staking pool deployed yet
 
-#### Issue the staking transaction
+1. If you have an old version of the staking pool, unstake your funds: `near call c1.nearkat unstake '{"amount": "100000000000000000000000000"}' --accountId nearkat`
+2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view c1.nearkat is_account_unstaked_balance_available '{"account_id": "nearkat.betanet"}' --accountId nearkat`
+3. Once your funds are unlocked, withdraw them with the command `near call c1.nearkat withdraw '{"amount": "100000000000000000000000000"}' --accountId nearkat`
 
-Get back to your `near-shell` machine and configure it to use `betanet`:
-```bash
-export NODE_ENV=betanet
-```
-(no output expected)
+#### 4.3. Build the new staking pool contract
 
-Then, issue this command to stake:
-```bash
-near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> <AMOUNT> --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com
-```
-**HEADS UP:** `<AMOUNT>` must be set in NEAR, and you should have enough tokens in your account. Don't stake 100% of your account holdings: please leave enough tokens to issue smart contracts and pay your account storage (100 $NEAR will do great).
+1. Be sure to be in your in your `stakewars` work directory: `cd ~/stakewars`
+2. Clone and deploy the staking pool contract: `git clone https://github.com/near/initial-contracts && cd initial-contracts/staking-pool`
+3. Configure rustup with the needed target `rustup target add wasm32-unknown-unknown`
+4. Build your staking pool contract: `./build.sh`
 
-If you get an error like this one check if you correctly set `betanet` as the node environment:
-```bash
-nearkat@nearkat ~ % near stake nearkat.betanet ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 75000
-Using options: {
-  networkId: 'default',
-  nodeUrl: 'https://rpc.nearprotocol.com',
-  contractName: undefined,
-  walletUrl: 'https://wallet.nearprotocol.com',
-  helperUrl: 'https://helper.nearprotocol.com',
-  accountId: 'nearkat.betanet',
-  stakingKey: 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB',
-  amount: '75000'
-}
-Staking 75000 (75000000000000000000000000000) on nearkat.betanet with public key = ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB.
-Error:  TypedError: [-32000] Server error: account nearkat.betanet does not exist while viewing
-    at JsonRpcProvider.sendJsonRpc (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:113:27)
-    at processTicksAndRejections (internal/process/task_queues.js:97:5)
-    at async JsonRpcProvider.query (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:60:24)
-    at async Account.fetchState (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:45:23)
-    at async Account.state (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:52:9)
-    at async Near.account (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/near.js:40:9)
-    at async exports.stake (/usr/local/lib/node_modules/near-shell/index.js:179:21)
-    at async Object.handler (/usr/local/lib/node_modules/near-shell/utils/exit-on-error.js:4:9) {
-  type: 'UntypedError'
-}
+#### 4.4. Launch your new validator node
 
-```
-To solve the issue, try to execute `export NODE_ENV=betanet` and issue the stake transaction again.
+1. Cleanup your `~/.near/betanet` folder, to remove references to any previous validator node (the command `rm -rf ~/.near/betanet` should do the job)
+2. Launch your node with the command `nearup betanet`. Modify the launch command according to your actual validator configuration (e.g. using `--nodocker` and `--binary-path`)
+3. Nearup will ask for the validator ID to use. Put here your staking pool account (the one we call `c1.nearkat` in the steps above)
+5. Note your validator public key, or issue the command `cat ~/.near/betanet/validator_key.json |grep "public_key"` before going to the next step
 
-### 4b. Stake funds with a delegation smart contract (work in progress)
-This process is similar to the one above, with the difference that you have to deploy a delegation smart contract, and stake your funds through it.
+#### 4.5. Deploy your staking pool
 
-Once the contract is deployed, any user will be able to deposit funds into your staking contract, and delegate their stake to your validator node.
+1. From `near shell`, be sure that you are logged in and you have the key to manage `my_validator` account: `ls neardev/betanet`. If not present, double-check you are in the correct folder (e.g. `~/stakewars`)
+2. Deploy the staking pool contract on your account: `near deploy --accountId=c1.nearkat --wasmFile=initial-contracts/staking-pool/res/staking_pool.wasm`
+3. Initialize staking pool at account `c1.nearkat` for the owner account ID owner `c1.nearkat`, given a 10% reward fee: `near call c1.nearkat new '{"owner_id": "c1.nearkat", "stake_public_key": "CE3QAXyVLeScmY9YeEyR3Tw9yXfjBPzFLzroTranYtVb", "reward_fee_fraction": {"numerator": 10, "denominator": 100}}' --account_id c1.nearkat`
 
-Follow the guide in the [Staking Pool contract](https://github.com/near/initial-contracts) repository for details.
+You're almost there!
+
+#### 4.6. Delegate your unstaked funds to the staking pool
+
+1. From your usual `stakewars` working directory, deposit the funds from your master account to the staking pool: `near call c1.nearkat deposit '{}' --accountId nearkat --amount 100`
+2. Stake your deposited funds, with the command `near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat`
+
+**Heads up:** the amount that you deposit is in $NEAR, while the amount in the argument is in YoctoNEAR. `1` $NEAR is `1*10^24` YoctoNEAR (1 followed by 26 zeroes. Therefore:
+
+| NEAR |  YoctoNEAR  | YoctoNEAR |
+| ---- | ----------- | ----------------|
+| `1` | `1*10^24` | `1000000000000000000000000` |
+| `10` | `1*10^25` | `10000000000000000000000000` |
+| `100` | `1*10^26` | `100000000000000000000000000` |
+| `1,000` | `1*10^27` | `1000000000000000000000000000` |
+| `10,000` | `1*10^28` | `10000000000000000000000000000` |
 
 
 ## Check if it worked
@@ -172,89 +145,44 @@ You have five different ways to verify that your stake transaction was successfu
 4. A change in the `nearup` logs displayng an uppercase "V"
 5. A query to the JSON RPC using the `validator` endpoint
 
-1. You should see a transaction receipt that ends with `status: { SuccessValue: '' }` similar to the one below:
+1. You should see a transaction receipt that ends with `[account_id]: Contract total staked balance` similar to the one below:
 ```
-nearkat@nearkat ~ $ near stake nearkat.betanet ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB 70000
+nearkat@nearkat ~ $ near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat
 Using options: {
+  accountId: 'nearkat',
   networkId: 'betanet',
-  nodeUrl: 'https://rpc.betanet.nearprotocol.com',
-  contractName: undefined,
-  walletUrl: 'https://wallet.betanet.nearprotocol.com',
-  helperUrl: 'https://helper.betanet.nearprotocol.com',
-  accountId: 'nearkat.betanet',
-  stakingKey: 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB',
-  amount: '70000'
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'c2.nearkat',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  gas: '100000000000000',
+  amount: '0',
+  methodName: 'stake',
+  args: '{"amount": "100000000000000000000000000"}',
+  initialBalance: null
 }
-Staking 70000 (70000000000000000000000000000) on nearkat with public key = ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB.
-{
-  status: { SuccessValue: '' },
-  transaction: {
-    signer_id: 'nearkat.betanet',
-    public_key: 'ed25519:8GQ3X1fuKdprwwkHUxi4bXj2ux9Bdm6gMJdgFdWk6hGc',
-    nonce: 7,
-    receiver_id: 'nearkat.betanet',
-    actions: [
-      {
-        Stake: {
-          stake: '70000000000000000000000000000',
-          public_key: 'ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB'
-        }
-      }
-    ],
-    signature: 'ed25519:4ryh1uxbPVsoFuqAsyTowupGfpwz3XuaEnYw6fmQ1Q3nrLXgUL362RGZwFo2wKWJaSmJirqDnMtpiSzrH4DCHBQ2',
-    hash: 'FTTzoTpGVjXN8sSTKrRTt9RBnVZs7XsKnYXc8nF8mjAu'
-  },
-  transaction_outcome: {
-    proof: [
-      {
-        hash: '5eCuCp2a5yHjF1BuPrbpccW4VKvs9m3S6UNnkU3LUpMS',
-        direction: 'Right'
-      }
-    ],
-    block_hash: 'CLMZnLxzi5CzKepMRTqPk5wdMwMhwHu42YnYSfQoJDKK',
-    id: 'FTTzoTpGVjXN8sSTKrRTt9RBnVZs7XsKnYXc8nF8mjAu',
-    outcome: {
-      logs: [],
-      receipt_ids: [ 'Atpwa7tbbBizZ8bVJusMZ7dvUTCECksXxKxT69BxnMdm' ],
-      gas_burnt: 924119500000,
-      status: {
-        SuccessReceiptId: 'Atpwa7tbbBizZ8bVJusMZ7dvUTCECksXxKxT69BxnMdm'
-      }
-    }
-  },
-  receipts_outcome: [
-    {
-      proof: [
-        {
-          hash: '8fNXhpjrs4iyPPbzTYUr1V4zM73LdeohocGMCTxJUBB6',
-          direction: 'Left'
-        }
-      ],
-      block_hash: 'CLMZnLxzi5CzKepMRTqPk5wdMwMhwHu42YnYSfQoJDKK',
-      id: 'Atpwa7tbbBizZ8bVJusMZ7dvUTCECksXxKxT69BxnMdm',
-      outcome: {
-        logs: [],
-        receipt_ids: [],
-        gas_burnt: 924119500000,
-        status: { SuccessValue: '' }
-      }
-    }
-  ]
-}
+Scheduling a call: c2.nearkat.stake({"amount": "100000000000000000000000000"})
+[c2.nearkat]: @nearkat staking 100000000000000000000000000. Received 96984454516598103937098558 new staking shares. Total 100000000000000000000000000 unstaked balance and 96984454516598103937098558 staking shares
+[c2.nearkat]: Contract total staked balance is 83209308082859619399708843661. Total number of shares 80700093551196977316517387112
+''
+
 ```
-2. Visit the [betanet explorer](https://explorer.betanet.nearprotocol.com) and check that your staking transaction succeeded:
+
+**Important:** this ouptut is present only if you correctly issued the deposit before
+
+2. Visit the [betanet explorer](https://explorer.betanet.near.org) and check that your staking transaction succeeded:
 
 ![alt text](media/stake_tx_explorer.png "Explorer successful transaction")
 
-3. Run `near state <YOUR_ACCOUNT_ID> --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com` and see if the amount you've staked is marked as locked, similar to the content below:
+3. Run `near state <YOUR_ACCOUNT_ID> --walletUrl https://wallet.betanet.near.org --helperUrl https://helper.betanet.near.org --nodeUrl https://rpc.betanet.near.org` and see if the amount you've staked is marked as locked, similar to the content below:
 ```
 nearkat@nearkat ~ $ near state nearkat.betanet
 Using options: {
   networkId: 'betanet',
-  nodeUrl: 'https://rpc.betanet.nearprotocol.com',
+  nodeUrl: 'https://rpc.betanet.near.org',
   contractName: undefined,
-  walletUrl: 'https://wallet.betanet.nearprotocol.com',
-  helperUrl: 'https://helper.betanet.nearprotocol.com',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
   accountId: 'nearkat.betanet'
 }
 Account nearkat.betanet
@@ -272,7 +200,7 @@ Account nearkat.betanet
 ```
 The `locked:` value will express in yoctoNEAR your staked amount.
 
-4. After two epochs (24 hours), you will see the logs of your node appear with a `V/n` to tell you you're validating:
+4. After two epochs (24 hours on TestNet, 6 hours on BetaNet), you will see the logs of your node appear with a `V/n` to tell you you're validating:
 ```
 Apr 14 21:44:57.128  INFO stats: # 2556590 XzssUzbfUmtAduVBjob2uGWK6hU8JP8jk4zwm11wRTN V/6 16/15/40 peers ⬇ 65.3kiB/s ⬆ 71.0kiB/s 1.30 bps 0 gas/s CPU: 8%, Mem: 1.2 GiB    
 Apr 14 21:45:07.130  INFO stats: # 2556603 6dpBFao9M1MWRZZe79ohn3z7oAZYzW5yFMCkyu89piQ8 V/6 16/15/40 peers ⬇ 64.2kiB/s ⬆ 71.0kiB/s 1.30 bps 0 gas/s CPU: 8%, Mem: 1.2 GiB    
@@ -285,8 +213,10 @@ Sometimes you may see the parameter as `F/10`: this means your stake was too sma
 5. Query the Betanet block explorer via JSON RPC, to view all existing proposals:
 
 ```bash
-curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.nearprotocol.com -v
+curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org -v | jq 
 ```
+
+(please install `jq` before performing this instruction)
 
 The call will return a JSON with the current parameters:
 - current_validators
@@ -299,236 +229,40 @@ The call will return a JSON with the current parameters:
 <details>
 	<summary><b>Click to expand an example of JSON output</b></summary>
 
+The output below is filtered using the command `jq .result.current_proposals`
+
 ```json
-{
-  "jsonrpc": "2.0",
-  "result": {
-    "current_validators": [
-      {
-        "account_id": "bowen.betanet",
-        "public_key": "ed25519:2kjQU7uJjWwCgGzS26pz7PtnL2NT98LTZyBNYjr1sYwx",
-        "is_slashed": false,
-        "stake": "97970693373589304551816887209",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 1568,
-        "num_expected_blocks": 1568
-      },
-      {
-        "account_id": "buildlinks.betanet",
-        "public_key": "ed25519:Bq2SR9R8xwztP5YSudwdMgBXbKa1KcizcKD4QCdK65p7",
-        "is_slashed": false,
-        "stake": "100000000000000000000000000000",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 182,
-        "num_expected_blocks": 1570
-      },
-      {
-        "account_id": "figment.betanet",
-        "public_key": "ed25519:GtFcXjjdo3xs2xafAUstvdNLbw3YDRsv8798qhDfdWau",
-        "is_slashed": false,
-        "stake": "126557431195539821072612918725",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 1812,
-        "num_expected_blocks": 1832
-      },
-      {
-        "account_id": "illia.betanet",
-        "public_key": "ed25519:HDGR8HHcKJuPWsfe7rEbmmzMmB1h2sMV3synesYVGf1j",
-        "is_slashed": false,
-        "stake": "237114320489469642690227273793",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 0,
-        "num_expected_blocks": 3665
-      },
-      {
-        "account_id": "nearkat.betanet",
-        "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
-        "is_slashed": false,
-        "stake": "78222174019581877549836985626",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 1046,
-        "num_expected_blocks": 1046
-      },
-      {
-        "account_id": "node0.betanet",
-        "public_key": "ed25519:7PGseFbWxvYVgZ89K1uTJKYoKetWs7BJtbyXDzfbAcqX",
-        "is_slashed": false,
-        "stake": "238339659072897867748078610107",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 3663,
-        "num_expected_blocks": 3663
-      },
-      {
-        "account_id": "node1.betanet",
-        "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
-        "is_slashed": false,
-        "stake": "242014825065931544260409042195",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 3925,
-        "num_expected_blocks": 3925
-      },
-      {
-        "account_id": "node2.betanet",
-        "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
-        "is_slashed": false,
-        "stake": "199913782638170701764620852187",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 3142,
-        "num_expected_blocks": 3142
-      },
-      {
-        "account_id": "node3.betanet",
-        "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
-        "is_slashed": false,
-        "stake": "240935684024498896347812640603",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 3922,
-        "num_expected_blocks": 3922
-      },
-      {
-        "account_id": "unknown.betanet",
-        "public_key": "ed25519:6VGREgEwSEYqb2qbhjK8PvJc2NJKtdD9zy6RTbAccH3S",
-        "is_slashed": false,
-        "stake": "117392659285106031101261119727",
-        "shards": [
-          0
-        ],
-        "num_produced_blocks": 1832,
-        "num_expected_blocks": 1832
-      }
-    ],
-    "next_validators": [
-      {
-        "account_id": "bowen.betanet",
-        "public_key": "ed25519:2kjQU7uJjWwCgGzS26pz7PtnL2NT98LTZyBNYjr1sYwx",
-        "stake": "101525336463327823810344355637",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "buildlinks.betanet",
-        "public_key": "ed25519:Bq2SR9R8xwztP5YSudwdMgBXbKa1KcizcKD4QCdK65p7",
-        "stake": "103242936749015049193558050110",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "hashquark.betanet",
-        "public_key": "ed25519:9RHYjfS5eo8CAxnsE7R1VgDCK5ofTbk5z2CtfGkv8MvJ",
-        "stake": "151400000000000000000000000000",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "nearkat.betanet",
-        "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
-        "stake": "80723946901794317217366119514",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "node0.betanet",
-        "public_key": "ed25519:7PGseFbWxvYVgZ89K1uTJKYoKetWs7BJtbyXDzfbAcqX",
-        "stake": "246151555757109477336718079379",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "node1.betanet",
-        "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
-        "stake": "250276918680695799107215971895",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "node2.betanet",
-        "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
-        "stake": "206318272886843319377092484825",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "node3.betanet",
-        "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
-        "stake": "249174529750016868197216096172",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "nuc.betanet",
-        "public_key": "ed25519:6CZbX8r9DqKNQ5Vd6xDrqsMuygV9HQ8QLecziC41D26p",
-        "stake": "40000000000000000000000000000",
-        "shards": [
-          0
-        ]
-      },
-      {
-        "account_id": "unknown.betanet",
-        "public_key": "ed25519:6VGREgEwSEYqb2qbhjK8PvJc2NJKtdD9zy6RTbAccH3S",
-        "stake": "121314281134898099361682531845",
-        "shards": [
-          0
-        ]
-      }
-    ],
-    "current_fishermen": [],
-    "next_fishermen": [],
-    "current_proposals": [
-      {
-        "account_id": "nearkat.betanet",
-        "public_key": "ed25519:BE8hs6LuFbG5j1C2tLXKUT2NqRLbCxwBCKXqte9qZ1HB",
-        "stake": "76000000000000000000000000000"
-      }
-    ],
-    "prev_epoch_kickout": [
-      {
-        "account_id": "figment.betanet",
-        "reason": {
-          "NotEnoughBlocks": {
-            "produced": 0,
-            "expected": 3025
-          }
-        }
-      },
-      {
-        "account_id": "illia.betanet",
-        "reason": {
-          "NotEnoughBlocks": {
-            "produced": 0,
-            "expected": 6048
-          }
-        }
-      }
-    ]
+nearkat@nearkat ~ $ curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq .result.current_proposals
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 23837  100 23759  100    78   282k    951 --:--:-- --:--:-- --:--:--  283k
+[
+  {
+    "account_id": "ujjjoshi.betanet",
+    "public_key": "ed25519:DtoBpsFNvpU7hKZMdjgZc1FKcW6573W1cYcnLhTe9pwP",
+    "stake": "0"
   },
-  "id": "dontcare"
-}
+  {
+    "account_id": "c2.nearkat",
+    "public_key": "ed25519:4oXDf7pvXGorocNkzWTWMxqaADGvnjeVkFvxyDV4yiCz",
+    "stake": "83109308082859619399708843661"
+  },
+  {
+    "account_id": "c2.nearkat",
+    "public_key": "ed25519:4oXDf7pvXGorocNkzWTWMxqaADGvnjeVkFvxyDV4yiCz",
+    "stake": "83209308082859619399708843661"
+  },
+  {
+    "account_id": "only25x",
+    "public_key": "ed25519:HeKi6XagaxKGEL9Z7mDMYbyQe7iby4XmNJ5x5yfmYPee",
+    "stake": "299999999600259276444840000"
+  },
+  {
+    "account_id": "e2ard.betanet",
+    "public_key": "ed25519:4VnM1Pi74Uz6tN9iJ67Jo3M9cXvoLgpxDnMp4fpy1uAj",
+    "stake": "450000000000000000000000000"
+  }
+]
 ```
 
 </details>
@@ -552,6 +286,86 @@ Every entry in the `current_validators` object of the JSON above provides the ex
 
 Be sure that `num_produced_blocks` is the same of `num_expected_blocks`, otherwise your node risks to be kicked out (see "Maintaining the Validator Seat" in the [validator economics docs](https://docs.nearprotocol.com/docs/validator/economics) for more details).
 
+6. After the end of the current epoch, your proposal should be accepted. Use the command `near validators next` to see if your validator is on the list:
+
+```
+nearkat@nearkat ~ $ near validators next
+Using options: {
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: undefined,
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  epoch: 'next',
+  initialBalance: null
+}
+
+Next validators (total: 58, seat price: 53,542):
+.-------------------------------------------------------------------.
+|   Status   |       Validator       |       Stake        | # Seats |
+|------------|-----------------------|--------------------|---------|
+| New        | blazenet              | 60,100             | 1       |
+| Rewarded   | node0                 | 318,646 -> 318,777 | 5       |
+| Rewarded   | node1                 | 318,614 -> 318,745 | 5       |
+| Rewarded   | node3                 | 317,521 -> 317,651 | 5       |
+| Rewarded   | node2                 | 289,142 -> 289,261 | 5       |
+| Rewarded   | fuckit.betanet        | 211,675 -> 211,762 | 3       |
+| Rewarded   | hashquark             | 167,781 -> 167,849 | 3       |
+| Rewarded   | skywalker.betanet     | 114,000 -> 120,026 | 2       |
+| Rewarded   | dochpryof.test        | 114,412 -> 114,458 | 2       |
+| Rewarded   | fredrikmalmqvist.test | 113,923 -> 113,969 | 2       |
+| Rewarded   | launooskuarttu.test   | 113,471 -> 113,517 | 2       |
+| Rewarded   | olaiolsen.test        | 113,464 -> 113,510 | 2       |
+| Rewarded   | ractolechoc5.test     | 113,444 -> 113,490 | 2       |
+| Rewarded   | janliamnilsson.test   | 113,203 -> 113,249 | 2       |
+| Rewarded   | tommywesley.test      | 112,484 -> 112,529 | 2       |
+| Rewarded   | simonhugo.test        | 112,346 -> 112,391 | 2       |
+| Rewarded   | oligarr.test          | 112,315 -> 112,361 | 2       |
+| Rewarded   | staked.test           | 111,926 -> 111,972 | 2       |
+| Rewarded   | bowen.test            | 111,639 -> 111,684 | 2       |
+| Rewarded   | harrypotter           | 111,448 -> 111,494 | 2       |
+| Rewarded   | anonstake.test        | 110,310 -> 110,355 | 2       |
+| Rewarded   | felixschulz.test      | 110,190 -> 110,235 | 2       |
+| Rewarded   | buster.betanet        | 108,851 -> 108,895 | 2       |
+| Rewarded   | bitoven.test          | 108,346 -> 108,391 | 2       |
+| Rewarded   | jaroslavrud.test      | 108,195 -> 108,239 | 2       |
+| Rewarded   | stakingfund.test      | 107,658 -> 107,702 | 2       |
+| Rewarded   | pony.test             | 107,469 -> 107,514 | 2       |
+| Rewarded   | danil.betanet         | 107,046 -> 107,090 | 2       |
+| Rewarded   | validatorsonline.test | 107,041 -> 107,085 | 1       |
+| Rewarded   | andreyvelde.test      | 106,324 -> 106,367 | 1       |
+| Rewarded   | wetez11.test          | 106,197 -> 106,241 | 1       |
+| Rewarded   | catcatcat.test        | 106,129 -> 106,172 | 1       |
+| Rewarded   | fattox.test           | 105,906 -> 105,949 | 1       |
+| Rewarded   | sll.betanet           | 105,333 -> 105,376 | 1       |
+| Rewarded   | max.betanet           | 104,997 -> 105,040 | 1       |
+| Rewarded   | unicorn.betanet       | 104,572 -> 104,614 | 1       |
+| Rewarded   | nodeasy.test          | 104,134 -> 104,177 | 1       |
+| Rewarded   | gaia.test             | 104,024 -> 104,066 | 1       |
+| Rewarded   | vlad-validator.test   | 102,271 -> 102,313 | 1       |
+| Rewarded   | sparkpool.test        | 101,080 -> 101,121 | 1       |
+| Rewarded   | ubikcapital.test      | 86,553 -> 86,589   | 1       |
+| Rewarded   | c2.nearkat            | 83,075 -> 83,109   | 1       |
+| Rewarded   | moonlet.test          | 80,136 -> 80,169   | 1       |
+| Rewarded   | zavodil.betanet       | 78,545 -> 78,577   | 1       |
+| Rewarded   | something.betanet     | 78,503 -> 78,535   | 1       |
+| Rewarded   | humanh.betanet        | 78,162 -> 78,194   | 1       |
+| Rewarded   | ryabina_io.betanet    | 78,017 -> 78,049   | 1       |
+| Rewarded   | techno-t1.betanet     | 77,899 -> 77,931   | 1       |
+| Rewarded   | lxyw.betanet          | 77,514 -> 77,546   | 1       |
+| Rewarded   | ru.betanet            | 76,900 -> 76,932   | 1       |
+| Rewarded   | arno_nym.betanet      | 76,896 -> 76,927   | 1       |
+| Rewarded   | novy.betanet          | 76,829 -> 76,860   | 1       |
+| Rewarded   | a.betanet             | 75,618 -> 75,648   | 1       |
+| Rewarded   | akme.betanet          | 75,287 -> 75,318   | 1       |
+| Rewarded   | marat111.betanet      | 68,351 -> 68,379   | 1       |
+| Kicked out | jazza                 | -                  | -       |
+| Kicked out | joe                   | -                  | -       |
+| Kicked out | rockpath              | -                  | -       |
+| Kicked out | ujjjoshi.betanet      | -                  | -       |
+'-------------------------------------------------------------------'
+nearkat@nearkat ~ $
+```
 
 ## Stop your node
 First, release your funds, by setting to zero your stake:
@@ -559,6 +373,8 @@ First, release your funds, by setting to zero your stake:
 near stake <YOUR_ACCOUNT_ID> <VALIDATOR_KEYS_PUBLIC_KEY> 0 --walletUrl https://wallet.betanet.nearprotocol.com --helperUrl https://helper.betanet.nearprotocol.com --nodeUrl https://rpc.betanet.nearprotocol.com
 ```
 Wait for two epochs (6 hours) and shut down your node. You may kill the validator process straight away, but it will have an impact on the network performance (less throughput) and other users will not be happy!
+
+If you are running the staking pool, you will have to ask your delegators to unstake their funds first.
 
 To stop your node, simply issue the command:
 ```bash

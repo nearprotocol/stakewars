@@ -65,6 +65,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | -% | RU | | |
+| | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | -% | RU | | |
 
 
 Notes:

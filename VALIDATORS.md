@@ -59,7 +59,10 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | -% | DE | | |
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN | | |
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
+| | Plex | Validate Everything | @jjangg96.betanet | -% | KR | | |
+| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | - | @russellgalt.betanet | -% | RU | | |
+
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

@@ -32,7 +32,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | -% | ID | | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |
-| <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure hosted across multiple datacenter sites. | @fattox.test | -% | DE | | |
+| <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |
 | | FredrikMalmqvist | --- | @fredrikmalmqvist.test | -% | SE | | |
 | <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | -% | CN | | |
 | <img src="https://pbs.twimg.com/profile_images/947826924029665281/NYMOrEIV_400x400.jpg" width="40"> | [Zavodil](https://zavodil.ru/category/near/) | [Near Protocol Russian Community](https://t.me/near_protocol). Lowest fees. Trusted validator. | @zavodil.betanet | -% | RU | | |
@@ -49,7 +49,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
-| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | - | @gladba.betanet | -% | Earth | | |
+| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | -% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
 | <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker](https://stakery.io) | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake.test | -% | SI | | |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | -% | UK | | |
@@ -59,7 +59,13 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | -% | DE | | |
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN | | |
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
+| | Plex | Validate Everything | @jjangg96.betanet | -% | KR | | |
+| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
+| <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | - | @russellgalt.betanet | -% | RU | | |
+| | Only25x |  | @only25x.betanet | -% | US | | |
+| | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | -% | RU | | |
+
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

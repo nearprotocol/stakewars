@@ -95,9 +95,9 @@ Please note that some operating systems already come with Rust installed, and th
 #### 4.2. Update an old version of the staking pool
 You can skip this part if you have no staking pool deployed yet
 
-1. If you have an old version of the staking pool, unstake your funds: `near call c1.nearkat unstake '{"amount": "100000000000000000000000000"}' --accountId nearkat`
-2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view c1.nearkat is_account_unstaked_balance_available '{"account_id": "nearkat.betanet"}' --accountId nearkat`
-3. Once your funds are unlocked, withdraw them with the command `near call c1.nearkat withdraw '{"amount": "100000000000000000000000000"}' --accountId nearkat`
+1. If you have an old version of the staking pool, unstake your funds: `near call c1.nearkat unstake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
+2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view c1.nearkat is_account_unstaked_balance_available '{"account_id": "nearkat.betanet"}' --accountId nearkat.betanet`
+3. Once your funds are unlocked, withdraw them with the command `near call c1.nearkat withdraw '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
 
 #### 4.3. Build the new staking pool contract
 
@@ -117,14 +117,14 @@ You can skip this part if you have no staking pool deployed yet
 
 1. From `near shell`, be sure that you are logged in and you have the key to manage `my_validator` account: `ls neardev/betanet`. If not present, double-check you are in the correct folder (e.g. `~/stakewars`)
 2. Deploy the staking pool contract on your account: `near deploy --accountId=c1.nearkat --wasmFile=initial-contracts/staking-pool/res/staking_pool.wasm`
-3. Initialize staking pool at account `c1.nearkat` for the owner account ID owner `c1.nearkat`, given a 10% reward fee: `near call c1.nearkat new '{"owner_id": "c1.nearkat", "stake_public_key": "CE3QAXyVLeScmY9YeEyR3Tw9yXfjBPzFLzroTranYtVb", "reward_fee_fraction": {"numerator": 10, "denominator": 100}}' --account_id c1.nearkat`
+3. Initialize staking pool at account `c1.nearkat` for the owner account ID owner `c1.nearkat`, given a 10% reward fee: `near call c1.nearkat new '{"owner_id": "nearkat.betanet", "stake_public_key": "CE3QAXyVLeScmY9YeEyR3Tw9yXfjBPzFLzroTranYtVb", "reward_fee_fraction": {"numerator": 10, "denominator": 100}}' --account_id nearkat.betanet`
 
 You're almost there!
 
 #### 4.6. Delegate your unstaked funds to the staking pool
 
-1. From your usual `stakewars` working directory, deposit the funds from your master account to the staking pool: `near call c1.nearkat deposit '{}' --accountId nearkat --amount 100`
-2. Stake your deposited funds, with the command `near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat`
+1. From your usual `stakewars` working directory, deposit the funds from your master account to the staking pool: `near call c1.nearkat deposit '{}' --accountId nearkat.betanet --amount 100`
+2. Stake your deposited funds, with the command `near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
 
 **Heads up:** the amount that you deposit is in $NEAR, while the amount in the argument is in YoctoNEAR. `1` $NEAR is `1*10^24` YoctoNEAR (1 followed by 26 zeroes. Therefore:
 
@@ -147,9 +147,9 @@ You have five different ways to verify that your stake transaction was successfu
 
 1. You should see a transaction receipt that ends with `[account_id]: Contract total staked balance` similar to the one below:
 ```
-nearkat@nearkat ~ $ near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat
+nearkat@nearkat ~ $ near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet
 Using options: {
-  accountId: 'nearkat',
+  accountId: 'nearkat.betanet',
   networkId: 'betanet',
   nodeUrl: 'https://rpc.betanet.near.org',
   contractName: 'c2.nearkat',
@@ -162,7 +162,7 @@ Using options: {
   initialBalance: null
 }
 Scheduling a call: c2.nearkat.stake({"amount": "100000000000000000000000000"})
-[c2.nearkat]: @nearkat staking 100000000000000000000000000. Received 96984454516598103937098558 new staking shares. Total 100000000000000000000000000 unstaked balance and 96984454516598103937098558 staking shares
+[c2.nearkat]: @nearkat.betanet staking 100000000000000000000000000. Received 96984454516598103937098558 new staking shares. Total 100000000000000000000000000 unstaked balance and 96984454516598103937098558 staking shares
 [c2.nearkat]: Contract total staked balance is 83209308082859619399708843661. Total number of shares 80700093551196977316517387112
 ''
 

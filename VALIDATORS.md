@@ -63,7 +63,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://avatars0.githubusercontent.com/u/47457161?s=60&u=a5327817d37c34aa58cb8a0671585323b8858b5f&v=4" width="40"> | Serj | Just do it | @fuckit.betanet | -% | UA | | |
 | | manhplus | - | @humanh.betanet | -% | UA | | |
 | <img src="https://cdn.pixabay.com/photo/2013/07/13/10/45/vendetta-157703_960_720.png" width="40"> |  - | People shouldn't be afraigt of their government | @arno_nym.betanet | -% | NL | | |
-| | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | -% | DE | | |
+| | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | 10% | DE | rockpath | |
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN | | |
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
 | | Plex | Validate Everything | @jjangg96.betanet | -% | KR | | |

@@ -14,6 +14,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 |  | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
+| <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | @inotel (https://explorer.betanet.near.org/accounts/inotel) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -87,7 +88,6 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 |  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
-
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

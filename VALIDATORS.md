@@ -10,7 +10,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :--: | :----: |
 | <img src="https://docs.nearprotocol.com/img/icon-core.svg" width="40"> | [Nearkats](https://near.dev) | The unofficial, BetaNet validator that provides token delegation services. Stake with us! | @nearkat | 20% | US | [@c1.nearkat](https://explorer.betanet.near.org/accounts/c1.nearkat) | no |
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
-| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | -% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
+| <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 |  | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |
 | | | | | | | | |

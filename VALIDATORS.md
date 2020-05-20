@@ -18,6 +18,8 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
+| | Plex | Validate Everything | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 10% | KR | [@jjangg96_validator](https://explorer.betanet.near.org/accounts/jjangg96_validator) | No |
+
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -71,7 +73,6 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | pathrock | testing staking near - teacher - loving to learn | @pathrock.test | -% | DE | | |
 | <img src="http://medishares.oss-cn-hongkong.aliyuncs.com/logo/math/MathWallet_App_Icon.png" width="40"> | [MathWallet](https://mathwallet.org) | Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS/ENU/Telos, TRON, ONT, BinanceChain, Cosmos/IRISnet tokens, supports cross-chain token exchange and a multi-chain dApp store. | @math.betanet | -% | CN | | |
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
-| | Plex | Validate Everything | @jjangg96.betanet | 10% | KR | [@jjangg96_validator](https://explorer.betanet.near.org/accounts/jjangg96_validator) | NO |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | - | @russellgalt.betanet | -% | RU | | |
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |

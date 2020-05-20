@@ -75,7 +75,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |
-| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | 介绍 | @nodeasy.test | -% | CN | | |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

@@ -76,6 +76,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
+|  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

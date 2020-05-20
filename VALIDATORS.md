@@ -88,6 +88,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 |  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
+| | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

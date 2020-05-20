@@ -86,6 +86,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 |  | immortal | - | @immortal.betanet | -% | - | | |
 |  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
+| | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 
 
 Notes:

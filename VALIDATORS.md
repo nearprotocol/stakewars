@@ -94,6 +94,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyids.betanet | 2.5% | ID | | |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
+| <img src="https://bi23.com/bi23.svg" width="40"> | [Bi23 Labs](https://bi23.com) | Bi23 focuses on the blockchain and crypto-assets,providing users with Staking and DeFi services. | @bi23.betanet | 10% | CA | [@bi23_validator](https://explorer.betanet.near.org/accounts/bi23_validator) | no |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

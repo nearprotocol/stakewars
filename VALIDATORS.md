@@ -19,7 +19,6 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
 | | Plex | Validate Everything | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 10% | KR | [@jjangg96_validator](https://explorer.betanet.near.org/accounts/jjangg96_validator) | No |
-
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

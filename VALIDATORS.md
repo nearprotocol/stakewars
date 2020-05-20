@@ -84,6 +84,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | happinapp |  | @happin.betanet | -% |  | | |
 |  | immortal | - | @immortal.betanet | -% | - | | |
+|  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
 
 
 Notes:

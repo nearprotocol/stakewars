@@ -13,6 +13,8 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 |  | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |
+| <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
+| <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | @inotel (https://explorer.betanet.near.org/accounts/inotel) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -40,7 +42,6 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | -% | ID | | |
-| <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |
 | <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |
 | | FredrikMalmqvist | --- | @fredrikmalmqvist.test | -% | SE | | |
 | <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | -% | CN | | |
@@ -82,6 +83,11 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
+| | happinapp |  | @happin.betanet | -% |  | | |
+|  | immortal | - | @immortal.betanet | -% | - | | |
+|  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
+| | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
+| | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 
 Notes:

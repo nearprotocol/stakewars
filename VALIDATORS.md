@@ -11,6 +11,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://docs.nearprotocol.com/img/icon-core.svg" width="40"> | [Nearkats](https://near.dev) | The unofficial, BetaNet validator that provides token delegation services. Stake with us! | @nearkat | 20% | US | [@c1.nearkat](https://explorer.betanet.near.org/accounts/c1.nearkat) | no |
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | -% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
+| <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -75,7 +76,12 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |
+| <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
+|  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
+
+
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one
 - `Locked` means that there are no access keys allowing the contract code to be re-deployed. Even a single FullAccess permission access key will cast the locked status to "no"

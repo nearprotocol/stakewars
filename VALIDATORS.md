@@ -17,6 +17,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | NUC "Home Alone" | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | -% | US | | |
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | -% | CN | | |
+
 | | Jazza | Professional validator  | @jazza.test | -% | RU | | |
 | <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | -% | NL | | |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD | | |
@@ -79,3 +80,4 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one
 - `Locked` means that there are no access keys allowing the contract code to be re-deployed. Even a single FullAccess permission access key will cast the locked status to "no"
+| | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |

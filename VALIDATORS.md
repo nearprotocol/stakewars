@@ -18,6 +18,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
+| <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | 1% | ID | [@pool](https://explorer.betanet.near.org/accounts/pool) |no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -43,7 +44,6 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | OliGarr | - | @oligarr.test | -% | UK | | |
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
-| <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | [@bitoven.test](https://explorer.betanet.near.org/accounts/pool) | 5% | ID | @pool |no |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |
 | <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |
 | | FredrikMalmqvist | --- | @fredrikmalmqvist.test | -% | SE | | |

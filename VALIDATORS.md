@@ -4,26 +4,26 @@
 Hello! This is the list of professional validators that joined Stake Wars 2.0
 Fork this repo and submit a PR adding your validator, or fixing any typo or error in the description. The list etiquette is first come, first serve: please append your validator to the end of the table.
 
-Note for Stake Wars Ep.II: validators running the staking pool can update their entry, and append themselves at the top of the list, such that delegators can easily find them. Same principles, first come, first serve.
+Note for Stake Wars Ep.II: validators running the staking pool can update their entry, and append themselves to the new list, such that delegators can easily find them. Same principles, first come, first serve.
 
-| Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool | Locked |
-| :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :--: | :----: |
+| Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
+| :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
 | <img src="https://docs.nearprotocol.com/img/icon-core.svg" width="40"> | [Nearkats](https://near.dev) | The unofficial, BetaNet validator that provides token delegation services. Stake with us! | @nearkat | 20% | US | [@c2.nearkat](https://explorer.betanet.near.org/accounts/c2.nearkat) | no |
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@glad](https://explorer.betanet.near.org/accounts/glad) | no |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
-|  | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |
+| | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |
 | | pathrock |stake with us | [@rockpath](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpath](https://explorer.betanet.near.org/accounts/rockpath) | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
-| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No|
+| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No |
+| <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
 | | NUC "Home Alone" | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | -% | US | | |
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | -% | CN | | |
-| | Jazza | Professional validator  | @jazza.test | -% | RU | | |
 | <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | -% | NL | | |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD | | |
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. | @staked.test | -% | US | | |
@@ -80,6 +80,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |
+| | NatsZ | Do you want a little bit NEAR? | @nats.betanet | -% | RU | | |
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
@@ -91,7 +92,10 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
+| <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyids.betanet | 2.5% | ID | | |
+| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
+
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

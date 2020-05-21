@@ -98,6 +98,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://avatars3.githubusercontent.com/u/150731?s=460&v=4" width="40"> | huglester | be the best and never rest | @huglester.betanet | -% | LT | | |
+| <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 
 
 Notes:

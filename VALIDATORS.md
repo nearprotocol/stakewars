@@ -25,6 +25,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | Plex | Validate Everything | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 6% | KR🇰🇷 | [@plex](https://explorer.betanet.near.org/accounts/plex) | no |
 | <img src="https://i.imgur.com/ji5j63s.png" width="40"> | Farmers | Everyone is welcome | @pony.test | 1% | Countryside | [@farm](https://explorer.betanet.near.org/accounts/farm) | no |
 | <img src="https://expo-res.sparkpool.com/logo%E5%9B%BE%E5%BD%A2.svg" width="40"> | [Sparkpool](https://sparkpool.com) | The keeper of blockchain networks | @sparkpool.test | 10% | CN | [@sparkpool.test](https://explorer.betanet.near.org/accounts/sparkpool.test) | no |
+| | Alex | Stake here | [@alexz.betanet](https://explorer.betanet.near.org/accounts/alexz.betanet) | 10% | CN |[@alexz01](https://explorer.betanet.near.org/accounts/alexz01)| NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

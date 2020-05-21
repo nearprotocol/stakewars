@@ -1,4 +1,3 @@
-
 # Stake Wars 2.0 Validators List
 
 Hello! This is the list of professional validators that joined Stake Wars 2.0

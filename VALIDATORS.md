@@ -22,6 +22,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 10% | CH | [@staketoearnfund](https://explorer.betanet.near.org/accounts/staketoearnfund) | no
 | <img src="https://bi23.com/bi23.svg" width="40"> | [Bi23 Labs](https://bi23.com) | Bi23 focuses on the blockchain and crypto-assets,providing users with Staking and DeFi services. | @bi23.betanet | 10% | CA | [@bi23_validator](https://explorer.betanet.near.org/accounts/bi23_validator) | no |
 | | Plex | Validate Everything | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 6% | KR🇰🇷 | [@plex](https://explorer.betanet.near.org/accounts/plex) | no |
+| <img src="https://i.imgur.com/ji5j63s.png" width="40"> | Farmers | Everyone is welcome | @pony.test | 1% | Countryside | [@farm](https://explorer.betanet.near.org/accounts/farm) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

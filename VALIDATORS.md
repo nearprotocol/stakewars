@@ -29,6 +29,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | 10% | RU | [@top](https://explorer.betanet.near.org/accounts/top) | NO |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | 10% | UK | [@lunanova_pool](https://explorer.betanet.near.org/accounts/lunanova_pool) | no |
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05.betanet) | no |
+| <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 7% | CH | [@swissqstakepool2](https://explorer.betanet.near.org/accounts/swissqstakepool2) | NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

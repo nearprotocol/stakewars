@@ -19,6 +19,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe](https://explorer.betanet.near.org/accounts/joe) | No |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 10% | CH | [@staketoearnfund](https://explorer.betanet.near.org/accounts/staketoearnfund) | no
+| <img src="https://bi23.com/bi23.svg" width="40"> | [Bi23 Labs](https://bi23.com) | Bi23 focuses on the blockchain and crypto-assets,providing users with Staking and DeFi services. | @bi23.betanet | 10% | CA | [@bi23_validator](https://explorer.betanet.near.org/accounts/bi23_validator) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

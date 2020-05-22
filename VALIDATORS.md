@@ -48,7 +48,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK | | |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK | | |
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE | | |
-| | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | -% | CZ | | |
+| <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |

@@ -54,7 +54,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
 | | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | -% | NL | | |
 | | OliGarr | - | @oligarr.test | -% | UK | | |
-| | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
+| <img src="https://avatars1.githubusercontent.com/u/62905922?s=96&v=4" width="40"> | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | 10% | FI | [@launooskuarttu](https://explorer.betanet.near.org/accounts/launooskuarttu)| no |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |
 | <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |

@@ -50,7 +50,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE | | |
 | | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | -% | CZ | | |
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
-| | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
+| <img src="https://avatars3.githubusercontent.com/u/62905575?s=96&v=4" width="40"> | TommyWesley | Me and my little node give U a big profit | @tommywesley.test| 25% | UK | [@tommywesley](https://explorer.betanet.near.org/accounts/tommywesley)| no |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
 | | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | -% | NL | | |
 | | OliGarr | - | @oligarr.test | -% | UK | | |

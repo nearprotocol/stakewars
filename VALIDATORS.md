@@ -47,7 +47,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | slayer_hellraiser | Very stable services! | @ractolechoc5.test | -% | RU | | |
 | | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK | | |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK | | |
-| <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felixschulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| no  |
+| <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felix.schulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| no  |
 | | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | -% | CZ | | |
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |

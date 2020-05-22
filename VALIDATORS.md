@@ -52,7 +52,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
-| | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | -% | NL | | |
+| <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| no |
 | | OliGarr | - | @oligarr.test | -% | UK | | |
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |

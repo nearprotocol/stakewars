@@ -1,10 +1,12 @@
 
-# Stake Wars 2.0 Validators List
+# Stake Wars Ep.II Validators List
 
-Hello! This is the list of professional validators that joined Stake Wars 2.0
-Fork this repo and submit a PR adding your validator, or fixing any typo or error in the description. The list etiquette is first come, first serve: please append your validator to the end of the table.
+Hello! This is the list of professional validators that joined Stake Wars Episode II
+Fork this repo and submit you PR adding your validator, or fixing any typo or error in the description. Please use the branch `update-validators-list`, we will merge all the changes to `master` at least twice per week.
+The list etiquette is first come, first serve: please append your validator at the **end** of the table.
 
-Note for Stake Wars Ep.II: validators running the staking pool can update their entry, and append themselves to the new list, such that delegators can easily find them. Same principles, first come, first serve.
+Validators running the [staking-pool contract](https://github.com/near/initial-contracts/) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
+We encourage to try delegation yourself, staking some tokens to other validators, and exchanging the favor.
 
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
@@ -27,6 +29,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://expo-res.sparkpool.com/logo%E5%9B%BE%E5%BD%A2.svg" width="40"> | [Sparkpool](https://sparkpool.com) | The keeper of blockchain networks | @sparkpool.test | 10% | CN | [@sparkpool.test](https://explorer.betanet.near.org/accounts/sparkpool.test) | no |
 | | Alex | Stake here | [@alexz.betanet](https://explorer.betanet.near.org/accounts/alexz.betanet) | 10% | CN |[@alexz01](https://explorer.betanet.near.org/accounts/alexz01)| NO |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | 10% | RU | [@top](https://explorer.betanet.near.org/accounts/top) | NO |
+| | DELIGHT | | @delight.betanet | 10% | KO | [@delight](https://explorer.betanet.near.org/accounts/delight) | no |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | 10% | UK | [@lunanova_pool](https://explorer.betanet.near.org/accounts/lunanova_pool) | no |
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05.betanet) | no |
 | | | | | | | | |

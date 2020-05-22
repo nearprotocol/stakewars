@@ -44,7 +44,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
-| <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | -% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
+| <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | 10% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
 | | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK | | |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK | | |
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE | | |

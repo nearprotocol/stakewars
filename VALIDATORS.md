@@ -44,7 +44,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
-| | slayer_hellraiser | Very stable services! | @ractolechoc5.test | -% | RU | | |
+| | [2Staked](http://2staked.xyz) | Very stable services! | @ractolechoc5.test | -% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
 | | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK | | |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK | | |
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE | | |

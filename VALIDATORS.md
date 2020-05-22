@@ -107,7 +107,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
-
+| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | AndreyVelde | Validator and tester | @andreyvelde.test | -% | RU | [@ave](https://explorer.betanet.near.org/accounts/ave) | no |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one

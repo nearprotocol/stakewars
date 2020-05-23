@@ -32,6 +32,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | DELIGHT | | @delight.betanet | 10% | KO | [@delight](https://explorer.betanet.near.org/accounts/delight) | no |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | 10% | UK | [@lunanova_pool](https://explorer.betanet.near.org/accounts/lunanova_pool) | no |
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05.betanet) | no |
+| <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Stake with alphabet1 | @abc.alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -107,7 +108,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://avatars3.githubusercontent.com/u/150731?s=460&v=4" width="40"> | huglester | be the best and never rest | @huglester.betanet | -% | LT | | |
-| <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
 

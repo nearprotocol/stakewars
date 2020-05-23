@@ -1,4 +1,5 @@
-# May 19th 2020 update - Stake Wars Episode II: Return of the Validators
+# Stake Wars Episode II: Return of the Validators
+May 19th 2020 update, official launch
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -7,7 +8,7 @@ This page will guide you through three main aspects of this initiative:
 2. Your toolbox
 3. What you have to do
 
-## What is NEAR Stake Wars
+## :rocket: What is NEAR Stake Wars
 
 Stake Wars is NEAR's incentivized testnet for professional validators.
 
@@ -18,10 +19,11 @@ The goal of Stake Wars: Episode II is to onboard those validators, test the stab
 If you want to know more about this opportunity, read the [Stake Wars Episode II blog post](https://near.org/blog/stake-wars-episode-ii/).
 
 **TL;DR:**
+
 Stake Wars Ep.II introduces NEAR's contract-based delegation, enabling validators to take part in the [Open Finance](https://near.org/blog/the-evolution-of-the-open-web/) ecosystem. There is a _staking pool_ reference contract on [Github](https://github.com/near/initial-contracts), ready for experimenting with these principles. Deploying the staking pool and participating in the Stake Wars will give access to NEAR's MainNet Restricted. Rewards will include 10,000 NEAR tokens/month for every validator on MainNet Restricted, plus 1 Million NEAR tokens available for contributions and community challenges. To become validators on MainNet Restricted, participants will have to accomplish technical challenges and successfully run nodes on BetaNet and TestNet. Judgment criteria will be quantitative, such as number of blocks generated and uptime; and qualitative, such as reactivity to network updates and community participation.
 A Validator Advisory Board, with a selected group of professional validators, will become over time the voice of validators in the technical governance of the protocol
 
-## Your Toolbox
+## :wrench: Your Toolbox
 
 NEAR Protocol provides you multiple tools, from source code and applications, to documentation and web-based resources. As a Stake Wars participant you will use all of them.
 
@@ -54,7 +56,7 @@ Overall, if you want to successfully participate in the Stake Wars, you'll have 
 - Give and receive technical help here on Github, in the [issues section](https://github.com/nearprotocol/stakewars/issues).
 
 
-## What You Have to Do
+## :trophy: What You Have to Do
 
 As you know very well, validators are responsible to generate new blocks and update the state of the network. NEAR Protocol uses proof-of-stake to secure its infrastruture, so you need tokens to _stake_ in order to become a validator. The contract-based delegation, as explained in the Stake Wars Ep.II [blog post](https://near.org/blog/stake-wars-episode-ii/), will provide you stake from users who can't run a node but are interested to secure the network - and earn rewards from it.
 
@@ -69,4 +71,3 @@ As soon as we have a new slot available, we will _delegate_ 75,000 BetaNet token
 After this trial period, we will unstake the tokens and we'll get in touch with you. We'll want to know more about your validator experience, and include you in the official Stake Wars roster. 
 
 
-### 

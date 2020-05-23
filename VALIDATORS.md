@@ -84,7 +84,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | - | @russellgalt.betanet | -% | RU | | |
 | | Only25x |  | @only25x.betanet | -% | US | | |
-| | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
+| <img src="https://rating-ico.com/wp-content/uploads/2019/01/binance-coin-logo-png-transparent.png" width="40"> | crazylandd | I am hero! | @crazylandd.betanet | 9% | RU | [@sub1.crazylandd.betanet](https://explorer.betanet.near.org/accounts/sub1.crazylandd.betanet) | no |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | -% | RU | | |
 | | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | -% | RU | | |
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | -% | RU | | |

@@ -110,6 +110,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
+| <img src="https://masternode24.de/wp-content/uploads/2020/04/LOGO-fur-Github-mit-Hintergrund-1.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | | |
 
 
 Notes:

@@ -86,7 +86,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | -% | RU | | |
-| | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | -% | RU | | |
+| <img src="https://i.pinimg.com/originals/4b/89/73/4b8973e887f90d654b6fd3f00cd2d9b6.png" width="40"> | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | 5% | RU | [@tatianka](https://explorer.betanet.near.org/accounts/tatianka) | no |
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |

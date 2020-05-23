@@ -110,6 +110,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
+| <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
 
 
 Notes:

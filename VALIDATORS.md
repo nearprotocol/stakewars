@@ -32,7 +32,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | DELIGHT | | @delight.betanet | 10% | KO | [@delight](https://explorer.betanet.near.org/accounts/delight) | no |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | 10% | UK | [@lunanova_pool](https://explorer.betanet.near.org/accounts/lunanova_pool) | no |
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05.betanet) | no |
-|  | eosis | text | @eosis.betanet | 0% | RO | [@c.eosis.betanet](https://explorer.betanet.near.org/accounts/c.eosis.betanet) | no |
+|  | eosis | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | @eosis.betanet | 0% | RO | [@c.eosis.betanet](https://explorer.betanet.near.org/accounts/c.eosis.betanet) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

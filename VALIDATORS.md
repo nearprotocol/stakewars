@@ -48,6 +48,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felix.schulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| no  |
 | <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
 | <img src="https://avatars3.githubusercontent.com/u/62906588?s=96&v=4" width="40"> | SimonHugo | Make Staking Great Again! | @simonhugo.test| 50% | UK | [@simonhugo](https://explorer.betanet.near.org/accounts/simonhugo)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -63,7 +64,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
-| | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | -% | NL | | |
 | | OliGarr | - | @oligarr.test | -% | UK | | |
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |

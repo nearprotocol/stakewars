@@ -42,7 +42,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
-| | slayer_hellraiser | Very stable services! | @ractolechoc5.test | -% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
+| <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | 10% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

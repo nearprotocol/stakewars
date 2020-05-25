@@ -36,6 +36,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | 10% | RU | [@get_rich] (https://explorer.betanet.near.org/accounts/get_rich) | no |
 | <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@ryabina-validator](https://explorer.betanet.near.org/accounts/ryabina-validator) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
+| <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw](https://explorer.betanet.near.org/accounts/swissqstakepoolsw) | NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

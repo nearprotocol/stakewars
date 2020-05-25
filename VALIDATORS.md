@@ -64,6 +64,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | no |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Steak with alphabet1 | @alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | no |
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | no |
+|  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -109,7 +110,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 |  | immortal | - | @immortal.betanet | -% | - | | |
-|  | Galbraithd | Node operator | @galbraith.betanet | -% | RO | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |

@@ -129,6 +129,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
 | <img src="https://masternode24.de/wp-content/uploads/2020/04/LOGO-fur-Github-mit-Hintergrund-1.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | | |
 | | lixoy | I want to be validator | @lxyw.betanet | 10% | RU |  |  |
+| | silvervir | Stake it | @silvervir.betanet | -% | UA | @silver | |
 
 
 Notes:

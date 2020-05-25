@@ -34,6 +34,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05.betanet) | no |
 | <img src="https://pbs.twimg.com/profile_images/1193309662071930880/FLUelAy-_400x400.jpg" width="40"> | [alexDcrypto](https://twitter.com/AlexDcrypto) | Come And Stake | @alexdcrypto-validator.betanet | 10% | Ro | [@alexDcrypto](https://explorer.betanet.near.org/accounts/alexdcrypto-validator.betanet) | no |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | 10% | RU | [@get_rich] (https://explorer.betanet.near.org/accounts/get_rich) | no |
+| <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@ryabina-validator](https://explorer.betanet.near.org/accounts/ryabina-validator) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -68,7 +69,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | -% | DE | | |
 | | Gamah | Home server node! | @gamah.betanet | -% | FR | | |
 | | seanq (technovatic) | Team of 7 crypto developers across USA, UA and LatinAmerica | @seanq.betanet | -% | US | | |
-| <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | | |
 | <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | -% | RU | | |
 | <img src="https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/thai-kitchen/d/800/default.jpg?vd=20180710T052954Z&hash=26789A3309AD41BCFC72329FAF136C4B707918DB" width="40"> | Kokos | Coconuts for each delegation! | @kokos.betanet | -% | UA | | |
 | | Blaze | - | @blaze.betanet | -% | US | | |

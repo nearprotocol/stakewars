@@ -123,6 +123,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Warger |Pay pro bro | @warger01.betanet | -% | RU | | |
 | | blink | No money - no honey | @neartest2.betanet | 10% | RU | | |
 | <img src="https://i.imgur.com/21fOAek.jpg" width="40"> | Kodvas | Stake is open to everyone! | @kodvas.betanet | 10% | UA | | |
+| <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
 
 
 Notes:

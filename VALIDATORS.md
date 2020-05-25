@@ -59,6 +59,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.pinimg.com/originals/4b/89/73/4b8973e887f90d654b6fd3f00cd2d9b6.png" width="40"> | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | 5% | RU | [@tatianka](https://explorer.betanet.near.org/accounts/tatianka) | no |
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | 10% | RU | [@smart.askold.betanet](https://explorer.betanet.near.org/accounts/smart.askold.betanet) | no |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | 10% | RU | [@mort1.mort.betanet](https://explorer.betanet.near.org/accounts/mort1.mort.betanet) | no |
+| <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | 10% | RU | [@contract.bartalamew.betanet](https://explorer.betanet.near.org/accounts/contract.bartalamew.betanet) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -98,7 +99,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 | | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | -% | RU | | |
-| <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | -% | RU | | |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | -% | RU | | |
 | | NatsZ | Do you want a little bit NEAR? | @nats.betanet | -% | RU | | |
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |

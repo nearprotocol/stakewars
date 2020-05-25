@@ -66,6 +66,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | no |
 |  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | no |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
+| <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyid.betanet | 1% | ID | [@armyid](https://explorer.betanet.near.org/accounts/armyid) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -113,7 +114,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
-| <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyids.betanet | 2.5% | ID | | |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |

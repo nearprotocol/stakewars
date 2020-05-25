@@ -56,6 +56,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/62905575?s=96&v=4" width="40"> | TommyWesley | Me and my little node give U a big profit | @tommywesley.test| 25% | UK | [@tommywesley](https://explorer.betanet.near.org/accounts/tommywesley)| no |
 | | Alex | stake here  | @alexa.betanet(https://explorer.betanet.near.org/accounts/alexa.betanet) | 1% | CN | [@alexa](https://explorer.betanet.near.org/accounts/alexa) | NO |
 | <img src="https://rating-ico.com/wp-content/uploads/2019/01/binance-coin-logo-png-transparent.png" width="40"> | crazylandd | I am hero! | @crazylandd.betanet | 9% | RU | [@sub1.crazylandd.betanet](https://explorer.betanet.near.org/accounts/sub1.crazylandd.betanet) | no |
+| <img src="https://i.pinimg.com/originals/4b/89/73/4b8973e887f90d654b6fd3f00cd2d9b6.png" width="40"> | tatitati1 | Join to me! I am firt validator-girl here! | @tati.betanet | 5% | RU | [@tatianka](https://explorer.betanet.near.org/accounts/tatianka) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

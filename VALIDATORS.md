@@ -61,6 +61,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | 10% | RU | [@mort1.mort.betanet](https://explorer.betanet.near.org/accounts/mort1.mort.betanet) | no |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | 10% | RU | [@contract.bartalamew.betanet](https://explorer.betanet.near.org/accounts/contract.bartalamew.betanet) | no |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | 10% | RU | [@sc.foxnorth1210.betanet](https://explorer.betanet.near.org/accounts/sc.foxnorth1210.betanet) | no |
+| <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

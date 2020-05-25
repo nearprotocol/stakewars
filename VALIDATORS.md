@@ -37,6 +37,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@ryabina-validator](https://explorer.betanet.near.org/accounts/ryabina-validator) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw](https://explorer.betanet.near.org/accounts/swissqstakepoolsw) | NO |
+| <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @highstakes | NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -77,7 +78,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
-| | 7777nda | Much node, very validate | @7777nda.betanet | -% | RU | | |
 | <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker](https://stakery.io) | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake.test | -% | SI | | |
 | <img src="https://avatars0.githubusercontent.com/u/47457161?s=60&u=a5327817d37c34aa58cb8a0671585323b8858b5f&v=4" width="40"> | Serj | Just do it | @fuckit.betanet | -% | UA | | |

@@ -43,6 +43,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
 | <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | 10% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
+| <img src="https://avatars2.githubusercontent.com/u/55540473?s=96&v=4" width="40"> | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test| 10% | UK | [@dochpryof](https://explorer.betanet.near.org/accounts/dochpryof)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -55,7 +56,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
-| | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK | | |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK | | |
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE | | |
 | | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | -% | CZ | | |

@@ -119,6 +119,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
 | | Warger |Pay pro bro | @warger01.betanet | -% | RU | | |
 | | blink | No money - no honey | @neartest2.betanet | 10% | RU | | |
+| <img src="https://i.imgur.com/21fOAek.jpg" width="40"> | Kodvas | Stake is open to everyone! | @kodvas.betanet | 10% | UA | | |
 
 
 Notes:

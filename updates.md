@@ -1,12 +1,68 @@
 # UPDATES
 
+## UPDATE May 22nd
+
+* New `near-shell` 
+* BetaNet Incident #0004
+
+### New near-shell
+
+The release `0.24.0` of `near-shell` is live! Update by using `npm` and check with `near --version` if you are up to date. 
+
+### BetaNet Incident #0004
+
+**Incident Abstract:**
+
+The entire betanet crashed on May 22 at 09:36:47 UTC due to a bug that resulted in storage inconsistent state for every node.
+
+**Incident Description:**
+
+Betanet nodes crashed with the following error
+
+```
+StorageInconsistentState("Account stakepool_buildlinks.betanet with max of stakes 0 is not found")
+```
+
+It is [a known issue](https://github.com/nearprotocol/nearcore/issues/2687) that has already been [fixed](https://github.com/nearprotocol/nearcore/pull/2688) in master of nearcore, but the fix was not included in the last betanet release. 
+
+**Remediation:**
+
+1. Upon discovery of the issue, @Vlad Frolov and @Illia Polosukhin did a hard fork of the network with the same binary to restart the network.
+2. After @Sandi Fatic and @Bowen Wang joined, we realized that the issue is already fixed in master so we release a new version of betanet with the fix.
+3. We are going to improve on the incident communication internally and externally. We use will experiment a better integration with slack to effectively communicate when an incident like this occurs. 
+4. We are also going to improve how critical issues get fixed and deployed to the live networks. In this case, the fix didn't get included in last Tuesday's BetaNet release because it was considered unlikely to happen. From now on, bugs that can cause the entire network to go down will be communicated differently, and the fixes deployed as soon as possible, unless it is technically impossible for the bug to occur (due to current restrictions to other functionalities).
+5. We will organize and implement a training to handle such incidents across more team members, instead of having time-zone constraints and waiting for certain team members to wake up. Specifically, this action will teach how to debug, make a decision about doing a hard-fork or not doing it, and, finally, how to deploy the fixes.
+
+If you have questions and you want to know more, reach out on [Discord](https://discord.gg/jWynGsn).
+
+
+## UPDATE May 19th
+
+* Stake Wars Ep.II is live!
+* Deploy your Staking Pool Contract
+
+### Stake Wars Episode II is live!
+
+We officially launched Stake Wars Episode II: The Return of Valdiators. This new phase will test the contract-based delegation of NEAR Protocol, and will offer new ways for validators to differentiate their services. More information on the [official blog post](https://near.org/blog/stake-wars-episode-ii/). Remember to update your validator entry on the [VALIDATORS.md](VALIDATORS.md), adding the link to your deployed staking pool.
+
+### Deploy your Staking Pool Contract
+
+To enter this second phase of Stake Wars, you will have to:
+- unstake your tokens from your node
+- deploy the staking pool contract (you can find more info in the [initial-contracts Github repo](https://github.com/near/initial-contracts))
+- update the [VALIDATORS.md](VALIDATORS.md) file with the staking pool address
+- delegate any original stake to the new contract
+
+If you lost your tokens, or you just joined and you don't have enough stake, reply in the [issue 289](https://github.com/nearprotocol/stakewars/issues/289) with your staking pool address. 
+
+
 ## UPDATE Apr 29th
 
 * New `near-shell`
 * New `nearcore`, improved consensus and networking for higher stability
 * BetaNet Incident #0002
 
-**Incident Abstract:**
+### BetaNet Incident #0002
 
 NEAR's planned weekly update of BetaNet failed, the network didn't produce new blocks from 00:55 GMT to 7:10 GMT
 

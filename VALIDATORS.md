@@ -46,6 +46,8 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/55540473?s=96&v=4" width="40"> | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test| 10% | UK | [@dochpryof](https://explorer.betanet.near.org/accounts/dochpryof)| no |
 | <img src="https://avatars2.githubusercontent.com/u/62909056?s=96&v=4" width="40"> | FredrikMalmqvist | --- | @fredrikmalmqvist.test | 15% | SE | [@fredrikmalmqvist](https://explorer.betanet.near.org/accounts/fredrikmalmqvist)| no |
 | <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felix.schulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| no  |
+| <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
+| <img src="https://avatars3.githubusercontent.com/u/62906588?s=96&v=4" width="40"> | SimonHugo | Make Staking Great Again! | @simonhugo.test| 50% | UK | [@simonhugo](https://explorer.betanet.near.org/accounts/simonhugo)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -58,7 +60,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
-| <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |

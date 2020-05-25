@@ -52,6 +52,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars1.githubusercontent.com/u/62904697?s=96&v=4" width="40"> | OliGarr | - | @oligarr.test| 10% | UK | [@oligarr](https://explorer.betanet.near.org/accounts/oligarr)| no |
 | <img src="https://avatars1.githubusercontent.com/u/62906668?s=96&v=4" width="40"> | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | 10% | NO | [@villiamsivertsen](https://explorer.betanet.near.org/accounts/villiamsivertsen)| no |
 | <img src="https://avatars1.githubusercontent.com/u/62905922?s=96&v=4" width="40"> | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | 10% | FI | [@launooskuarttu](https://explorer.betanet.near.org/accounts/launooskuarttu)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62906205?s=96&v=4" width="40"> | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | [@janliamnilsson](https://explorer.betanet.near.org/accounts/janliamnilsson)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -64,7 +65,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
-| | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |

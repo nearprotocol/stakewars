@@ -65,13 +65,13 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Steak with alphabet1 | @alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | no |
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | no |
 |  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | no |
+| <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
 | | NUC "Home Alone" | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | -% | US | | |
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
 | <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | -% | NL | | |
-| <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD | | |
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. | @staked.test | -% | US | | |
 | <img src="http://www.itokenpool.com/img/logo.png" width="40"> | [itokenpool](http://www.itokenpool.com/) | Blockchain Pos Node service provider. Our team members mainly come from Tsinghua University. | @itokenpool.betanet | -% | CN | | |
 | | gunray | - | @gunray.test | -% | HR | | |

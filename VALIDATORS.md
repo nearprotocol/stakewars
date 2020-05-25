@@ -44,6 +44,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
 | <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | 10% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
 | <img src="https://avatars2.githubusercontent.com/u/55540473?s=96&v=4" width="40"> | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test| 10% | UK | [@dochpryof](https://explorer.betanet.near.org/accounts/dochpryof)| no |
+| <img src="https://avatars2.githubusercontent.com/u/62909056?s=96&v=4" width="40"> | FredrikMalmqvist | --- | @fredrikmalmqvist.test | 15% | SE | [@fredrikmalmqvist](https://explorer.betanet.near.org/accounts/fredrikmalmqvist)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -68,7 +69,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |
 | <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |
-| | FredrikMalmqvist | --- | @fredrikmalmqvist.test | -% | SE | | |
 | <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | -% | CN | | |
 | <img src="https://pbs.twimg.com/profile_images/947826924029665281/NYMOrEIV_400x400.jpg" width="40"> | [Zavodil](https://zavodil.ru/category/near/) | [Near Protocol Russian Community](https://t.me/near_protocol). Lowest fees. Trusted validator. | @zavodil.betanet | -% | RU | | |
 | | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG | | |

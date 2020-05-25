@@ -49,6 +49,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
 | <img src="https://avatars3.githubusercontent.com/u/62906588?s=96&v=4" width="40"> | SimonHugo | Make Staking Great Again! | @simonhugo.test| 50% | UK | [@simonhugo](https://explorer.betanet.near.org/accounts/simonhugo)| no |
 | <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62904697?s=96&v=4" width="40"> | OliGarr | - | @oligarr.test| 10% | UK | [@oligarr](https://explorer.betanet.near.org/accounts/oligarr)| no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -64,7 +65,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | | |
 | | TommyWesley | Me and my little node give U a big profit | @tommywesley.test | -% | UK | | |
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
-| | OliGarr | - | @oligarr.test | -% | UK | | |
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | -% | RU | | |

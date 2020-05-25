@@ -115,6 +115,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
 | | Warger |Pay pro bro | @warger01.betanet | -% | RU | | |
+| | blink | No money - no honey | @neartest2.betanet | 10% | RU | | |
 
 
 Notes:

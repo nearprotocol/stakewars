@@ -38,6 +38,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw](https://explorer.betanet.near.org/accounts/swissqstakepoolsw) | NO |
 | <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @highstakes | NO |
+| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | AndreyVelde | Validator and tester | @andreyvelde.test | -% | RU | [@ave](https://explorer.betanet.near.org/accounts/ave) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -113,7 +114,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
-| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | AndreyVelde | Validator and tester | @andreyvelde.test | 10% | RU |  | no |
 
 
 Notes:

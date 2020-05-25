@@ -40,6 +40,8 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @highstakes | NO |
 | <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | AndreyVelde | Validator and tester | @andreyvelde.test | -% | RU | [@ave](https://explorer.betanet.near.org/accounts/ave) | no |
 | | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
+| <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
+| <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

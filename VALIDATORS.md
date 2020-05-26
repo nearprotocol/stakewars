@@ -73,7 +73,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://miro.medium.com/max/1400/1*9Rg2AU9mF3eURmzDRPtXLA.jpeg" width="40"> | immortal | Justice | @immortal.betanet | 0% | - | [@justice.immortal.betanet](https://explorer.betanet.near.org/accounts/justice.immortal.betanet) | no |
 |  | mamojkool | RUde validator | @mamojkool.betanet | 0% | RU | [@fund.mamojkool.betanet](https://explorer.betanet.near.org/accounts/fund.mamojkool.betanet) | no |
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
-| | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool](https://explorer.betanet.near.org/accounts/nearcool) | no |
+| | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
 | (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | no |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver](https://explorer.betanet.near.org/accounts/silver) | |

@@ -77,6 +77,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | no |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver](https://explorer.betanet.near.org/accounts/silver) | |
+| | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear] (https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

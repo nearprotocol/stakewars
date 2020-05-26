@@ -23,7 +23,7 @@ If you are interested to participate, open an issue linking to this challenge wi
 
 ### List of available contributions
 
-| Abstract | Description                    | Contributor | Due Date | Tokens |
-| -------- | ------------------------------ | ----------- | -------- | ------ |
-| Entry one | Brief description | - | - | [amount] |
-| Entry two | Brief description | - | - | [amount] |
+| Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens |
+| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- |
+| Entry one | Create a tutorial, in the form of a video, a blogpost or Github document, that... Updates to this guide, reflecting any updates of the tools involved, will be paid 10% of the initial bounty per revision, up to once per month, until Stake Wars will be over. | - | - | - | [amount] |
+| Entry two | Brief description. Contributions in other languages are encouraged, but considered case by case basis.| - | - | - | [amount] |

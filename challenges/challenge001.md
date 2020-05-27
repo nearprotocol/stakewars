@@ -2,6 +2,7 @@
 Published on: May 25th 2020
 
 Create your BetaNet wallet, deploy your node, and correctly configure your staking pool.
+This challenge is designed to 
 
 ## Acceptance Criteria
 
@@ -111,15 +112,15 @@ We strongly suggest to get confidence with the `staking pool` contract, by readi
 
 ### 3.6. Update an old version of the staking pool (optional)
 
-The failsafe method is to deploy a new `stakingPool_ID` from step 1 of this challenge, unstake your funds from the old pool with the commands below, and use them on the new pool. Only when the new node becomes validator, you can shut down the old node, and remove the pool.
+The failsafe method is to deploy a new `stakingPool_ID` from step 1 of this challenge, unstake your funds from the old pool with the command `near call stakingPool_ID unstake` (see below for more details), and use them on the new pool. Only when the new node becomes validator, you can shut down the old node, and remove the pool.
 
 The steps to follow are:
 
 1. Unstake your funds: `near call stakingPool_ID unstake '{"amount": "100000000000000000000000000"}' --accountId account_ID`
-2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view stakingPool_ID is_account_unstaked_balance_available '{"account_id": "account_ID"}' --accountId account_ID`
+2. **IMPORTANT** Wait for 3 epochs (9 hours on BetaNet) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view stakingPool_ID is_account_unstaked_balance_available '{"account_id": "account_ID"}' --accountId account_ID`
 3. Once your funds are unlocked, withdraw them with the command `near call stakingPool_ID withdraw '{"amount": "100000000000000000000000000"}' --accountId account_ID`
 
-Once completed, you are deady to get back to the step 3.2 and build the new staking pool contract.
+Once completed, you are deady to get back to the step 3.2 and deploy a new staking pool contract.
 
 
 ## Contribution Opportunities
@@ -131,8 +132,7 @@ Open an [issue](https://github.com/nearprotocol/stakewars/issues) specifying:
 - the type of document
 - a due date within you will publish the content (you can postpone a few days, no worries)
 
-If approved, your Github account will be added to the list below together with the due date. More than one contribution for each opportunity is accepted, and you can apply even after this challenge is officially over. 
-Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, to comply with regulations.
+If you are interested to participate, check the issue linking to this challenge, and apply offering a due date to complete the challenge. Once your work will be done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, to comply with regulations.
 
 ### List of available contributions
 
@@ -140,7 +140,6 @@ Please note that rewards in tokens will need to pass basic KYC checks from NEAR 
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- |
 | How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide will be paid 10% of the initial bounty per revision, up to once per month until Stake Wars will be over. | - | - | - | 1,000 |
 | Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 10% of the initial bounty per each revision, up to once per month, until Stake Wars will be over.  | - | - | - | 1,000 |
-| Use Ledger Nano S | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to run `near shell` with your Ledger Nano S, from the seed key creation, to its backup and restore, to the signature of transactions and staking of funds to a staking pool. Contributions in other languages are encouraged, but considered case by case basis. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 5% of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 3,000 |
 
 
 

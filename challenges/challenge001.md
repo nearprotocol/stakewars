@@ -110,7 +110,7 @@ You're almost there!
 
 We strongly suggest to get confidence with the `staking pool` contract, by reading more on the official initial-contracts repo on [Github](https://github.com/near/initial-contracts/tree/master/staking-pool).
 
-### 3.6. Update an old version of the staking pool (optional)
+### 3.6. Update an old version of the staking pool (optional)
 
 The failsafe method is to deploy a new `stakingPool_ID` from step 1 of this challenge, unstake your funds from the old pool with the command `near call stakingPool_ID unstake` (see below for more details), and use them on the new pool. Only when the new node becomes validator, you can shut down the old node, and remove the pool.
 

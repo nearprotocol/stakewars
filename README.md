@@ -58,7 +58,7 @@ You don't have to install near-shell on your node - on the contrary, it's sugges
 6. Create your Staking Pool account, with the command `near create_account my_validator --masterAccount=owner --initialBalance 250` (see more documentation about near-shell [here](https://docs.near.org/docs/development/near-clitool)) - where `my_validator` is the account ID for your staking pool contract, `owner` is the account you used to perform the login at the step before, and `--initialBalance` is the amount in NEAR needed to pay the gas and deploy the smart contract
 7. Once you created your staking pool account, `near-shell` is ready to send staking transactions
 
-**Important** save the account ID you just created, you will need it to start the node in validator mode, and to deploy the staking pool contract. In the steps below, where you see `c1.nearkat` you will have to use the staking pool account, and where you see `nearkat.betanet` you will have to use your master account.
+**Important** save the account ID you just created, you will need it to start the node in validator mode, and to deploy the staking pool contract. In the steps below, where you see `c2.nearkat` you will have to use the staking pool account, and where you see `nearkat.betanet` you will have to use your master account.
 
 ### 2.Receive some tokens 
 This is a work in Progress. By now use this [request form](https://docs.google.com/forms/d/1xarv54e-fFSuD2AQorAPx4086z3zyS5ZNGwcLr4QkeQ). On the last page you can put your betanet account id. Starting May 18th 2020, tokens will be delegated to validators who deploy the staking pool contract. Only on a case-by-case basis, we may provide additional BetaNet tokens to test large-scale validation on betanet, without using the staking pool contract.
@@ -95,9 +95,9 @@ Please note that some operating systems already come with Rust installed, and th
 #### 4.2. Update an old version of the staking pool
 You can skip this part if you have no staking pool deployed yet
 
-1. If you have an old version of the staking pool, unstake your funds: `near call c1.nearkat unstake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
-2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view c1.nearkat is_account_unstaked_balance_available '{"account_id": "nearkat.betanet"}' --accountId nearkat.betanet`
-3. Once your funds are unlocked, withdraw them with the command `near call c1.nearkat withdraw '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
+1. If you have an old version of the staking pool, unstake your funds: `near call c2.nearkat unstake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
+2. **IMPORTANT** Wait for 3 epochs (9 hours) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view c2.nearkat is_account_unstaked_balance_available '{"account_id": "nearkat.betanet"}' --accountId nearkat.betanet`
+3. Once your funds are unlocked, withdraw them with the command `near call c2.nearkat withdraw '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
 
 #### 4.3. Build the new staking pool contract
 
@@ -110,21 +110,21 @@ You can skip this part if you have no staking pool deployed yet
 
 1. Cleanup your `~/.near/betanet` folder, to remove references to any previous validator node (the command `rm -rf ~/.near/betanet` should do the job)
 2. Launch your node with the command `nearup betanet`. Modify the launch command according to your actual validator configuration (e.g. using `--nodocker` and `--binary-path`)
-3. Nearup will ask for the validator ID to use. Put here your staking pool account (the one we call `c1.nearkat` in the steps above)
+3. Nearup will ask for the validator ID to use. Put here your staking pool account (the one we call `c2.nearkat` in the steps above)
 5. Note your validator public key, or issue the command `cat ~/.near/betanet/validator_key.json |grep "public_key"` before going to the next step
 
 #### 4.5. Deploy your staking pool
 
 1. From `near shell`, be sure that you are logged in and you have the key to manage `my_validator` account: `ls neardev/betanet`. If not present, double-check you are in the correct folder (e.g. `~/stakewars`)
-2. Deploy the staking pool contract on your account: `near deploy --accountId=c1.nearkat --wasmFile=initial-contracts/staking-pool/res/staking_pool.wasm`
-3. Initialize staking pool at account `c1.nearkat` for the owner account ID owner `c1.nearkat`, given a 10% reward fee: `near call c1.nearkat new '{"owner_id": "nearkat.betanet", "stake_public_key": "CE3QAXyVLeScmY9YeEyR3Tw9yXfjBPzFLzroTranYtVb", "reward_fee_fraction": {"numerator": 10, "denominator": 100}}' --account_id nearkat.betanet`
+2. Deploy the staking pool contract on your account: `near deploy --accountId=c2.nearkat --wasmFile=initial-contracts/staking-pool/res/staking_pool.wasm`
+3. Initialize staking pool at account `c2.nearkat` for the owner account ID owner `c2.nearkat`, given a 10% reward fee: `near call c2.nearkat new '{"owner_id": "nearkat.betanet", "stake_public_key": "CE3QAXyVLeScmY9YeEyR3Tw9yXfjBPzFLzroTranYtVb", "reward_fee_fraction": {"numerator": 10, "denominator": 100}}' --account_id nearkat.betanet`
 
 You're almost there!
 
 #### 4.6. Delegate your unstaked funds to the staking pool
 
-1. From your usual `stakewars` working directory, deposit the funds from your master account to the staking pool: `near call c1.nearkat deposit '{}' --accountId nearkat.betanet --amount 100`
-2. Stake your deposited funds, with the command `near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
+1. From your usual `stakewars` working directory, deposit the funds from your master account to the staking pool: `near call c2.nearkat deposit '{}' --accountId nearkat.betanet --amount 100`
+2. Stake your deposited funds, with the command `near call c2.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet`
 
 **Heads up:** the amount that you deposit is in $NEAR, while the amount in the argument is in YoctoNEAR. `1` $NEAR is `1*10^24` YoctoNEAR (1 followed by 26 zeroes. Therefore:
 
@@ -147,7 +147,7 @@ You have five different ways to verify that your stake transaction was successfu
 
 1. You should see a transaction receipt that ends with `[account_id]: Contract total staked balance` similar to the one below:
 ```
-nearkat@nearkat ~ $ near call c1.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet
+nearkat@nearkat ~ $ near call c2.nearkat stake '{"amount": "100000000000000000000000000"}' --accountId nearkat.betanet
 Using options: {
   accountId: 'nearkat.betanet',
   networkId: 'betanet',
@@ -176,25 +176,27 @@ Scheduling a call: c2.nearkat.stake({"amount": "100000000000000000000000000"})
 
 3. Run `near state <YOUR_ACCOUNT_ID> --walletUrl https://wallet.betanet.near.org --helperUrl https://helper.betanet.near.org --nodeUrl https://rpc.betanet.near.org` and see if the amount you've staked is marked as locked, similar to the content below:
 ```
-nearkat@nearkat ~ $ near state nearkat.betanet
+nearkat@nearkat ~ $ near state c2.nearkat
 Using options: {
   networkId: 'betanet',
   nodeUrl: 'https://rpc.betanet.near.org',
   contractName: undefined,
   walletUrl: 'https://wallet.betanet.near.org',
   helperUrl: 'https://helper.betanet.near.org',
-  accountId: 'nearkat.betanet'
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  accountId: 'c2.nearkat',
+  initialBalance: null
 }
-Account nearkat.betanet
+Account c2.nearkat
 {
-  amount: '58957995048254107744134739414',
-  locked: '70000000000000000000000000000',
-  code_hash: '11111111111111111111111111111111',
-  storage_usage: 510,
+  amount: '249999999866828994069565000',
+  locked: '83902414879460948877676916603',
+  code_hash: '3gYJ5yeTfmifmn4v2u99mtV7AAL4N1r2QQQnq7bAbge8',
+  storage_usage: 228033,
   storage_paid_at: 0,
-  block_height: 2556149,
-  block_hash: '3J8VBP5Yrooz3zoFhNHy6G15arkyuzg4QkYdtBsc3fUj',
-  formattedAmount: '58,957.995048254107744134739414'
+  block_height: 6002179,
+  block_hash: 'GjrG9nVLcAjEA3buHmXUQuvvBUwgErN89c5xdTnwFHuG',
+  formattedAmount: '249.999999866828994069565'
 }
 
 ```

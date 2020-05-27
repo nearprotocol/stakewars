@@ -86,5 +86,3 @@ List of community challenges:
 
 1. May 25th 2020, [Challenge 001](challenges/challenge001.md): Deploy your node.
 2. May 25th 2020, [Challenge 002](challenges/challenge002.md): Deploy your Staking Pool.
-
-

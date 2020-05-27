@@ -127,19 +127,19 @@ Once completed, you are deady to get back to the step 3.2 and deploy a new staki
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-Open an [issue](https://github.com/nearprotocol/stakewars/issues) specifying:
-- the link to this challenge
-- the type of document
-- a due date within you will publish the content (you can postpone a few days, no worries)
+Reply to the challenges application thread on[Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
+- which contribution you want to do, and the link to the challenge
+- the type of document you will release
+- the date when you will publish the content (you can postpone a few days, no worries)
 
-If you are interested to participate, check the issue linking to this challenge, and apply offering a due date to complete the challenge. Once your work will be done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, to comply with regulations.
+Once your work is done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
 ### List of available contributions
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens |
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- |
-| How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide will be paid 10% of the initial bounty per revision, up to once per month until Stake Wars will be over. | - | - | - | 1,000 |
-| Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 10% of the initial bounty per each revision, up to once per month, until Stake Wars will be over.  | - | - | - | 1,000 |
+| How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide will be paid a fraction of the initial bounty per revision, up to once per month until Stake Wars will be over. | - | - | - | 1,000 |
+| Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over.  | - | - | - | 1,000 |
 
 
 

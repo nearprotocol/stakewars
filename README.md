@@ -74,7 +74,7 @@ If you want to get your feet wet, and see if Stake Wars is for you, try this qui
 - Create a **BetaNet** account using our hosted wallet [here](https://wallet.betanet.near.org).
 - Spin up an Ubuntu/Debian VPS and install [nearup](https://github.com/near/nearup).
 - Deploy your Staking Pool contract using the [initial-contracts repo](https://github.com/near/initial-contracts/).
-- Once you are ready, fill up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars.
+- Once you are ready, fill up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars to receive updates on the program and simplify our evaluation process.
 
 As soon as we have a new slot available, we will _delegate_ enough BetaNet tokens to your pool, for a few days.
 If your node will not be running, or your staking pool was misconfigured, we will get in touch with you. We'll want to know more about your validator experience, and evaluate if you are ready to be included in the Stake Wars TestNet roster.

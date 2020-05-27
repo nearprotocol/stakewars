@@ -64,17 +64,20 @@ Use the command `cat ~/.near/betanet/validator_key.json | grep 'public_key\|acco
 
 ## Contribution Opportunities
 
-Do you want to earn extra tokens? We have contribution opportunities available below!
+Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-This challenge offers a lot of space for tutorials and tooling around checking that your node is healthy and generating new blocks.
+Reply to the challenges application thread on[Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
+- which contribution you want to do, and the link to the challenge
+- the type of document you will release
+- the date when you will publish the content (you can postpone a few days, no worries)
 
-If you are interested to participate, check the issue linking to this challenge, and apply offering a due date to complete the challenge. Once your work will be done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, to comply with regulations.
+Once your work is done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
 ### List of available contributions
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Languange |
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | --- | ---- |
-| Enroll your node | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to do a pull request to the VALIDATORS.md file, lock your contract, delegate some tokens, become a validator, and check that your pool and your node are correctly configured. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 10% of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
-| Monitor uptime | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to automatically check the performance of your validator node, create reports (per epoch, per day) and send alerts via chat-bots or SMS if your node is stuck/kicked out and needs attention. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 7.5% of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 2,000 | 7.5% | - |
-| Use Ledger Nano S | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to run `near shell` with your Ledger Nano S, from the seed key creation, to its backup and restore, to the delegation of funds to a staking pool. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid 5% of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 4,000 | 5% | - |
+| Enroll your node | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to do a pull request to the VALIDATORS.md file, lock your contract, delegate some tokens, become a validator, and check that your pool and your node are correctly configured. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
+| Monitor uptime | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to automatically check the performance of your validator node, create reports (per epoch, per day) and send alerts via chat-bots or SMS if your node is stuck/kicked out and needs attention. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
+| Use Ledger Nano S | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to run `near shell` with your Ledger Nano S, from the seed key creation, to its backup and restore, to the delegation of funds to a staking pool. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,500 | 10% | - |
 

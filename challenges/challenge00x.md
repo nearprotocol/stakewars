@@ -18,9 +18,14 @@ Explanation and walkthrough
 
 ## Contribution Opportunities
 
-Abstract, with goals and rewards
+Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-If you are interested to participate, check the issue linking to this challenge, and apply offering a due date to complete the challenge. Once your work will be done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, to comply with regulations.
+Reply to the challenges application thread on[Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
+- which contribution you want to do, and the link to the challenge
+- the type of document you will release
+- the date when you will publish the content (you can postpone a few days, no worries)
+
+Once your work is done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
 ### List of available contributions
 

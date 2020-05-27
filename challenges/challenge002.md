@@ -1,5 +1,5 @@
 # Stake Wars Challenge 002
-Published on: May 26th 2020
+Published on: May 25th 2020
 
 Enroll your staking pool, receive your delegation, and keep your validator status!
 This challenge is designed to learn how to keep track of your validator, and make your delegators happy.
@@ -43,7 +43,7 @@ Use the command `near state stakingPool_ID` to see the locked balance in your st
 
 ### 3.4.Check your nearup logs
 Nearup logs can show if you are a validator or not. The `V/71` below shows that your node is one of the 71 validators running the network.
-![alt text](../media/nearcore_logs_wide "nearcore validator logs")
+![alt text](../media/nearcore_logs_wide.png "nearcore validator logs")
 
 ### 3.5.Query the JSON RPC
 A combination of `curl` and `jq` can give you a trove of information about present and future validators:

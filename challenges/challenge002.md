@@ -10,6 +10,7 @@ This challenge is designed to learn how to keep track of your validator, and mak
 1. Enroll your staking pool
 2. Receive your delegation
 3. Check your validator status
+4. Collect your fees!
 
 ## 1.Enroll your staking pool
 As soon as you completed the Stake Wars [Challenge 001](challenge001.md), you are ready to join the roster of other professional validators, and receive your first delegation. 
@@ -54,6 +55,11 @@ curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": 
 
 The filter `jq .result.current_proposals` should show a staking transaction issued by your staking pool.
 
+### 4.Collect your fees!
+
+If you configured your pool correctly, and you control the pool owner wallet, you should be able to unstake and withdraw the fees collected by your pool. These fees will be listed as normal stake in the account used as the `owner` of the staking pool.
+
+
 ## HEADS UP!
 
 Always check that your `stakingPool_ID` and your validator node have the same account_ID and public_keu. Otherwise, you will receive your delegation, your validator will receive a seat, but your node will not be able to create blocks! This is the best way to lose delegators, and miss the opportunity to complete this challenge.
@@ -78,6 +84,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Languange |
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | --- | ---- |
 | Enroll your node | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to do a pull request to the VALIDATORS.md file, lock your contract, delegate some tokens, become a validator, and check that your pool and your node are correctly configured. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
+| Manage the pool | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to update the parameters of the staking pool, such as the owner id, the fees and the validator key. Show also how to collect the fees and unstake them. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
 | Monitor uptime | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to automatically check the performance of your validator node, create reports (per epoch, per day) and send alerts via chat-bots or SMS if your node is stuck/kicked out and needs attention. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,000 | 10% | - |
 | Use Ledger Nano S | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to run `near shell` with your Ledger Nano S, from the seed key creation, to its backup and restore, to the delegation of funds to a staking pool. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a fraction of the initial bounty per each revision, up to once per month, until Stake Wars will be over. | - | - | - | 1,500 | 10% | - |
 

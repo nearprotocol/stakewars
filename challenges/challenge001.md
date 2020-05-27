@@ -110,11 +110,22 @@ You're almost there!
 
 We strongly suggest to get confidence with the `staking pool` contract, by reading more on the official initial-contracts repo on [Github](https://github.com/near/initial-contracts/tree/master/staking-pool).
 
-### 3.6. Update an old version of the staking pool (optional)
+### 3.6. Delete the access keys and lock your staking pool
+
+Correctly use near-shell to delete any access keys from your staking pool. Please get confidence with this tool and lock the right keys, as it may lock your funds by removing any access to your main wallet.
+1. List the access keys of your staking pool contract: `near keys stakingPool_ID | grep public_key`
+2. Lock your contract, by removing the keys associated with your contract: `near delete-key --accessKey <PUBKEY> --accountId stakingPoolID`
+
+If successfully performed, you should see an entry on the [BetaNet explorer](https://explorer.betanet.near.org):
+
+![alt text](../media/deleted_key.png "Access Key successfully deleted")
+
+
+### 3.7. Update an old version of the staking pool (optional)
 
 The failsafe method is to deploy a new `stakingPool_ID` from step 1 of this challenge, unstake your funds from the old pool with the command `near call stakingPool_ID unstake` (see below for more details), and use them on the new pool. Only when the new node becomes validator, you can shut down the old node, and remove the pool.
 
-The steps to follow are:
+At a high level, the steps to follow are:
 
 1. Unstake your funds: `near call stakingPool_ID unstake '{"amount": "100000000000000000000000000"}' --accountId account_ID`
 2. **IMPORTANT** Wait for 3 epochs (9 hours on BetaNet) to withdraw. To check if the staked NEAR is ready to withdraw, use the command `near view stakingPool_ID is_account_unstaked_balance_available '{"account_id": "account_ID"}' --accountId account_ID`

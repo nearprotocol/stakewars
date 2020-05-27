@@ -98,7 +98,7 @@ You're almost there!
 1. From your usual near-shell machine, deposit the funds from your master account to the staking pool: `near call stakingPool_ID deposit '{}' --accountId account_ID --amount 100`
 2. Stake your deposited funds, with the command `near call stakingPool_ID stake '{"amount": "100000000000000000000000000"}' --accountId account_ID`
 
-**Heads up:** the amount that you deposit is in $NEAR, while the amount in the argument is in YoctoNEAR. `1` $NEAR is `1*10^24` YoctoNEAR (1 followed by 26 zeroes. Therefore:
+**Heads up:** the amount that you deposit is in $NEAR, while the amount in the argument is in YoctoNEAR. `1` $NEAR is `1*10^24` YoctoNEAR (1 followed by 24 zeroes. Therefore:
 
 | NEAR |  YoctoNEAR  | YoctoNEAR |
 | ---- | ----------- | ----------------|

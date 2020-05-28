@@ -137,6 +137,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://masternode24.de/wp-content/uploads/2020/04/LOGO-fur-Github-mit-Hintergrund-1.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | | |
 | | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU | | |
+| | sl1982 | Node tester | @sl1982.betanet | -% | RU | | |
 
 
 Notes:

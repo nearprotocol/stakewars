@@ -83,6 +83,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
+| | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | No |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

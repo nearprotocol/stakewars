@@ -9,6 +9,7 @@ The list etiquette is first come, first serve: please append your validator at t
 Validators running the [staking-pool contract](https://github.com/near/initial-contracts/) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
 We encourage to try delegation yourself, staking some tokens to other validators, and exchanging the favor.
 
+
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
 | <img src="https://expo-res.sparkpool.com/logo%E5%9B%BE%E5%BD%A2.svg" width="40"> | [Sparkpool](https://sparkpool.com) | The keeper of blockchain networks. NVAB member. | @sparkpool.test | 10% | CN | [@sparkpool.test](https://explorer.betanet.near.org/accounts/sparkpool.test) | no |
@@ -134,8 +135,9 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
 | <img src="https://masternode24.de/wp-content/uploads/2020/04/LOGO-fur-Github-mit-Hintergrund-1.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | | |
 | | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
+| <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU | | |
 
 
 Notes:
-- `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one
-- `Locked` means that there are no access keys allowing the contract code to be re-deployed. Even a single FullAccess permission access key will cast the locked status to "no"
+- `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.
+- `Locked` means that there are no access keys allowing the contract code to be re-deployed. If `near keys` of your Staking Pool is not `0`, your pool is not locked. See the Stake Wars [challenge 001](challenges/challenge001.md) for more information.

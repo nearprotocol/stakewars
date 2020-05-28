@@ -18,7 +18,6 @@
 | hoekevin         |  900        |
 | etherscam        |  600        |
 | sweetpotatoz     |  500        |
-| sweetpotatoz     |  400        |
 | k9thebeast       |  300        |
 | StakerSpace      |  200        |
 | bgapinski-bt     |  200        |

@@ -81,7 +81,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
 | (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | no |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
-| | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver](https://explorer.betanet.near.org/accounts/silver) | |
+| | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver1](https://explorer.betanet.near.org/accounts/silver1) | |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |

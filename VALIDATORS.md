@@ -138,6 +138,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU | | |
 | | sl1982 | Node tester | @sl1982.betanet | -% | RU | | |
+| | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 
 
 Notes:

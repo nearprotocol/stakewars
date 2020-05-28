@@ -79,6 +79,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver](https://explorer.betanet.near.org/accounts/silver) | |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |
+| | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

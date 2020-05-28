@@ -153,7 +153,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |
 
 
-
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.
 - `Locked` means that there are no access keys allowing the contract code to be re-deployed. If `near keys` of your Staking Pool is not `0`, your pool is not locked. See the Stake Wars [challenge 001](challenges/challenge001.md) for more information.

@@ -1,4 +1,4 @@
-# Stake Wars Challenge 00x
+# Stake Wars Challenge 00x template
 Published on: Month day year
 
 Abstract Here.
@@ -31,5 +31,5 @@ Once your work is done, you will be added to the list below. Please note that re
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | --- | ---- |
-| Entry one | Create a tutorial, in the form of a video, a blogpost or Github document, that... Updates to this guide, reflecting any updates of the tools involved, will be paid 10% of the initial bounty per revision, up to once per month, until Stake Wars will be over. | - | - | - | [amount] | 10% | CN |
+| Entry one | Create a tutorial, in the form of a video, a blogpost or Github document, that... Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | - | - | - | [amount] | 10% | CN |
 | Entry two | Brief description. Contributions in other languages are encouraged, but considered case by case basis.| - | - | - | [amount] | - x% | US |

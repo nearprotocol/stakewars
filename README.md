@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-May 25th 2020 update: new README.md
+May 27th 2020 update: new README.md
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -8,7 +8,7 @@ This page will guide you through three main aspects of this initiative:
 2. Your toolbox
 3. What you have to do
 
-## This Week Challenge
+## Current Challenge
 
 Create your BetaNet wallet, deploy your node, and correctly configure your staking pool. Once ready, NEAR team will delegate tokens to your pool, to have you take a seat as valdiator.
 See below for details.
@@ -31,11 +31,11 @@ A Validator Advisory Board, with a selected group of professional validators, wi
 
 ## :wrench: Your Toolbox
 
-NEAR Protocol provides you multiple tools, from source code and applications, to documentation and web-based resources. As a Stake Wars participant you will use all of them.
+NEAR Protocol provides you multiple tools such as Github repositories,  applications, documentation and web-based resources. As a Stake Wars participant you will use all of them.
 
 ### Github Repositories
 NEAR is using two main accounts: [github.com/nearprotocol](https://github.com/nearprotocol) and [github.com/near](https://github.com/near).
-To join Stake Wars you will need:
+To join Stake Wars you will use:
 - [nearup](https://github.com/near/nearup), public scripts to launch NEAR Protocol devnet, betanet and testnet nodes
 - [nearcore](https://github.com/nearprotocol/nearcore), the reference client for NEAR Protocol
 - [near-shell](https://github.com/near/near-shell), the general purpose command line tools for interacting with NEAR Protocol
@@ -49,9 +49,9 @@ The website provides a block explorer and a web wallet:
 - BetaNet web wallet: [wallet.betanet.near.org](https://wallet.betanet.near.org)
 - BetaNet explorer: [explorer.betanet.near.org](https://explorer.betanet.near.org/)
 
-You will have to create a BetaNet wallet to deploy any contract (which means also the staking pool), and receive your first delegation.
+You will need a BetaNet wallet to deploy your staking pool and receive your first delegation.
 
-You can also find a JSON RPC interface at the address [https://rpc.betanet.near.org/status](https://rpc.betanet.near.org/status) to quickly retrieve information about network, blocks, transactions and wallets. There's also a [documentation section](https://docs.near.org/docs/interaction/rpc) with the available endpoints.
+You can also use the JSON RPC interface at the address [https://rpc.betanet.near.org/status](https://rpc.betanet.near.org/status) to quickly retrieve information about network, blocks, transactions and wallets. There's also a [documentation section](https://docs.near.org/docs/interaction/rpc) with the available endpoints.
 
 As a final note, https://status.nearprotocol.com/ will give you feedback on the status of the network, and the most recent incidents.
 
@@ -67,22 +67,24 @@ Overall, if you want to successfully participate in the Stake Wars, you'll have 
 
 ## :trophy: What You Have to Do
 
-As you know, validators are responsible to generate new blocks and update the state of the network. NEAR Protocol uses proof-of-stake to secure its infrastruture, so you need tokens to _stake_ in order to become a validator. The contract-based delegation, as explained in the Stake Wars Ep.II [blog post](https://near.org/blog/stake-wars-episode-ii/), will provide you stake from users who don't want to run a node but are interested to secure the network - and earn rewards with you.
+As you know, validators are responsible to generate new blocks to update the state of the network. NEAR Protocol uses proof-of-stake to secure its infrastruture, so you have to _stake_ tokens to become a validator. The contract-based delegation, as explained in the Stake Wars Ep.II [blog post](https://near.org/blog/stake-wars-episode-ii/), will provide you stake from users who don't want to run a node but are interested to secure the network - and earn rewards with you.
 
 ### Quickstart
 If you want to get your feet wet, and see if Stake Wars is for you, try this quickstart guide:
 - Create a **BetaNet** account using our hosted wallet [here](https://wallet.betanet.near.org).
-- Spin up an Ubuntu/Debian VPS and install [nearup](https://github.com/near/nearup).
-- Deploy your Staking Pool contract using the [initial-contracts repo](https://github.com/near/initial-contracts/).
-- Once you are ready, fill up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars to receive updates on the program and simplify our evaluation process.
+- Spin up an Ubuntu/Debian VPS and run [nearup](https://github.com/near/nearup).
+- Deploy your staking pool from the [initial-contracts repo](https://github.com/near/initial-contracts/).
+- Submit up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars.
 
-As soon as we have a new slot available, we will _delegate_ enough BetaNet tokens to your pool, for a few days.
-If your node will not be running, or your staking pool was misconfigured, we will get in touch with you. We'll want to know more about your validator experience, and evaluate if you are ready to be included in the Stake Wars TestNet roster.
+As soon as we have a new slot available and we see that you completed some of the challenges below, we will _delegate_ some BetaNet tokens to your pool, for a few days.
+If your node will not be running, or your staking pool was misconfigured, we will get in touch with you - to know more about your validator experience, and offer you help.
 
 ### List of Validator Challenges
-We will publish new challenges for validators on a regular basis. Every challenge will have a progressive number, with an increasing level of difficulty. The acceptance criteria will provide high-level indications, and some of these challenges will list which previous challenges should be completed before.
+We will publish new challenges for validators on a regular basis. Every challenge will have a progressive number, with an increasing level of difficulty. The acceptance criteria will provide high-level indications, and some of these challenges may list previous challenges as a requirement.
 
 List of community challenges:
 
-1. May 25th 2020, [Challenge 001](challenges/challenge001.md): Deploy your node.
-2. May 25th 2020, [Challenge 002](challenges/challenge002.md): Deploy your Staking Pool.
+1. May 25th 2020, [Challenge 001](challenges/challenge001.md)
+  Deploy your node and your staking pool
+2. May 25th 2020, [Challenge 002](challenges/challenge002.md)
+  Become a validator and manage your seat

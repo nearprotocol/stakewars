@@ -88,6 +88,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
 | | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | No |
 | <img src="https://i.imgur.com/ZwHpy1V.jpg" width="40"> | Cloudpost Pool | Let's build a better future together with NEAR protocol | @cloudpost | 10% | RU | [@cloudpost_pool](https://explorer.betanet.near.org/accounts/cloudpost_pool) | no |
+| | Breeze | Stake of Zone | @breeze.betanet | 10% | CN | [@a_breeze](https://wallet.betanet.near.org/profile/a_breeze) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

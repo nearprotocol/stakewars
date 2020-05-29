@@ -142,7 +142,7 @@ Once completed, you are deady to get back to the step 3.2 and deploy a new staki
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-Reply to the challenges application thread on[Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
+Reply to the challenges application thread on [Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
 - which contribution you want to do, and the link to the challenge
 - the type of document you will release
 - the date when you will publish the content (you can postpone a few days, no worries)

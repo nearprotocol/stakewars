@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-May 27th 2020 update: new README.md
+May 28th 2020 update: quickstart updated
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -76,8 +76,11 @@ If you want to get your feet wet, and see if Stake Wars is for you, try this qui
 - Deploy your staking pool from the [initial-contracts repo](https://github.com/near/initial-contracts/).
 - Submit up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars.
 
-As soon as we have a new slot available and we see that you completed some of the challenges below, we will _delegate_ some BetaNet tokens to your pool, for a few days.
-If your node will not be running, or your staking pool was misconfigured, we will get in touch with you - to know more about your validator experience, and offer you help.
+At the moment of writing (May 28) we received an exceptional interest by the community of validators (300+ applications, 200+ PRs). We are processing all of them, sending 75,000 BetaNet tokens as promised, while making sure the network runs with no issues. As explained in the [docs](https://docs.near.org/docs/validator/economics), there are 100 seats per shard, so BetaNet is running at capacity with a cost per seat right above 75.000 tokens.
+How to solve this? Activate your network, and ask other validators to delegate to your staking pool. There are many of them with 100k+ tokens who can delegate 5-10k from their stake to your pool.
+The plan is to start transitioning the first batch of validators to TestNet. As soon as that happens, the seat price will go down, allowing more folks to join BetaNet.
+In the meantime, give a look to the available contributions, and keep an eye on the seat price, using the command `near validators current`.
+
 
 ### List of Validator Challenges
 We will publish new challenges for validators on a regular basis. Every challenge will have a progressive number, with an increasing level of difficulty. The acceptance criteria will provide high-level indications, and some of these challenges may list previous challenges as a requirement.

@@ -131,7 +131,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
-| | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
+| | marat111 |Easy Money for you | @marat111.betanet | 10% | RU |[@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |

@@ -1,4 +1,4 @@
-# Stake Wars Challenge 00x template
+# Stake Wars Challenge 00x _template_
 Published on: Month day year
 
 Abstract Here.
@@ -20,7 +20,7 @@ Explanation and walkthrough
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-Reply to the challenges application thread on[Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
+Reply to the challenges application thread on [Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
 - which contribution you want to do, and the link to the challenge
 - the type of document you will release
 - the date when you will publish the content (you can postpone a few days, no worries)

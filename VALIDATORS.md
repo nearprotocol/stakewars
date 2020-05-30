@@ -151,7 +151,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |
-
+| <img src="https://user-images.githubusercontent.com/21022937/83322887-06236b00-a296-11ea-9fc5-034f5dee648b.png" width="40"> | DSRV | www.dsrvlabs.com | @dsrv.betanet | 10% | KR | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

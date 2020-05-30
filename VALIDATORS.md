@@ -17,6 +17,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 | <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. | @validator_buildlinks.betanet | 10% | CN | [@validator_buildlinks.betanet](https://explorer.betanet.near.org/accounts/validator_buildlinks.betanet) | no |
 | <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
+|  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -71,7 +72,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | no |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Steak with alphabet1 | @alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | no |
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | no |
-|  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | yes |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
 | <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyid.betanet | 1% | ID | [@armyid](https://explorer.betanet.near.org/accounts/armyid) | no |
 |  | eosis | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | @eosis.betanet | 0% | RO | [@c.eosis.betanet](https://explorer.betanet.near.org/accounts/c.eosis.betanet) | no |

@@ -79,7 +79,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | mamojkool | RUde validator | @mamojkool.betanet | 0% | RU | [@fund.mamojkool.betanet](https://explorer.betanet.near.org/accounts/fund.mamojkool.betanet) | no |
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
-| (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | no |
+| (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | yes |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver](https://explorer.betanet.near.org/accounts/silver) | |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |

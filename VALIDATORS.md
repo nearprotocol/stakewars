@@ -17,6 +17,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 | <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. | @validator_buildlinks.betanet | 10% | CN | [@validator_buildlinks.betanet](https://explorer.betanet.near.org/accounts/validator_buildlinks.betanet) | no |
 | <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
+| <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -134,7 +135,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
-| <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://avatars3.githubusercontent.com/u/150731?s=460&v=4" width="40"> | huglester | be the best and never rest | @huglester.betanet | -% | LT | | |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |

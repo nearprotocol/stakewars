@@ -151,7 +151,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |
-| <img src="https://agx10k.ml/favicons/android-icon-48x48.png" width="40"> | [AG](https://agx10k.ml) | AG | [@ag.betanet](https://explorer.betanet.near.org/accounts/ag.betanet) | 10% | RU | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) |  |
+| <img src="https://agx10k.ml/favicons/android-icon-48x48.png" width="40"> | [AG](https://agx10k.ml) | Validating the CELO mainnet since genesis | [@ag.betanet](https://explorer.betanet.near.org/accounts/ag.betanet) | 10% | RU | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) | yes |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

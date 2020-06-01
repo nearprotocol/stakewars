@@ -20,6 +20,8 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
+| | | | | | | | |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/54d9aa8c94a4c2a8b9893fe94a721305_360_360.jpg" width="40"> | [Bambarello](https://keybase.io/bambarello) | Secured and trusted professional validator. | @bambarello | 10% | UA | | |
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@dokia](https://explorer.betanet.near.org/accounts/dokia) | no |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@global](https://explorer.betanet.near.org/accounts/global) | no |
 | | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 7% | AU | [@c.mutedtommy.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | No |

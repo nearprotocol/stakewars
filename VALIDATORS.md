@@ -151,6 +151,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |
+| | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 
 
 Notes:

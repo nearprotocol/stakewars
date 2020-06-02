@@ -40,6 +40,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1003-CUSA12054_00-FALLOUT1ST01YEAR/1585667908000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" width="40"> | askoldd | Need more gold! | @askold.betanet | 10% | RU | [@smart.askold.betanet](https://explorer.betanet.near.org/accounts/smart.askold.betanet) | yes |
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | yes |
 | (╯°□°）╯ | NatsZ | Do you want a little bit NEAR? | @nats.betanet | 10% | RU | [@contract.nats.betanet](https://explorer.betanet.near.org/accounts/contract.nats.betanet) | yes |
+| <img src="https://miro.medium.com/max/1400/1*9Rg2AU9mF3eURmzDRPtXLA.jpeg" width="40"> | immortal | Justice | @immortal.betanet | 0% | - | [@justice.immortal.betanet](https://explorer.betanet.near.org/accounts/justice.immortal.betanet) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -84,7 +85,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | no |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
 |  | eosis | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | @eosis.betanet | 0% | RO | [@c.eosis.betanet](https://explorer.betanet.near.org/accounts/c.eosis.betanet) | no |
-| <img src="https://miro.medium.com/max/1400/1*9Rg2AU9mF3eURmzDRPtXLA.jpeg" width="40"> | immortal | Justice | @immortal.betanet | 0% | - | [@justice.immortal.betanet](https://explorer.betanet.near.org/accounts/justice.immortal.betanet) | no |
 |  | mamojkool | RUde validator | @mamojkool.betanet | 0% | RU | [@fund.mamojkool.betanet](https://explorer.betanet.near.org/accounts/fund.mamojkool.betanet) | no |
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |

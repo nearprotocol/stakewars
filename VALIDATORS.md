@@ -30,6 +30,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyid.betanet | 1% | ID | [@armyids_pool](https://explorer.betanet.near.org/accounts/armyids_pool) | Yes |
 | | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 10% | AU | [@mutedtommy-staking-pool-2.stakehouse.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | Yes |
+| <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -77,7 +78,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | 10% | RU | [@mort1.mort.betanet](https://explorer.betanet.near.org/accounts/mort1.mort.betanet) | no |
 | <img src="https://i.imgur.com/yh1kBba.png" width="40"> | Bartalamew | Node tester, need toster! | @bartalamew.betanet | 10% | RU | [@contract.bartalamew.betanet](https://explorer.betanet.near.org/accounts/contract.bartalamew.betanet) | no |
 | <img src="https://i.imgur.com/2jD6bzU.png" width="40"> | Foxnorth1210 | What Does The Fox Say? | @foxnorth1210.betanet | 10% | RU | [@sc.foxnorth1210.betanet](https://explorer.betanet.near.org/accounts/sc.foxnorth1210.betanet) | no |
-| <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | no |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Steak with alphabet1 | @alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | no |
 | <img src="https://avatarfiles.alphacoders.com/167/167492.jpg" width="40"> | happin |  | @happin.betanet | 0% |  | [@pool.happin.betanet](https://explorer.betanet.near.org/accounts/pool.happin.betanet) | no |
 |  | galbraith | Node operator | @galbraith.betanet | 0% | RO | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | no |

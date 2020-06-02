@@ -52,6 +52,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 |<img src="https://66.media.tumblr.com/0c5c8e8d155dc32908529547af67de0b/tumblr_mewoq3YrGH1qbwnuho4_540.jpg" width="40"> | @ujjjoshi.betanet | may the force  be with you | [@ujjjoshi.betanet](https://explorer.betanet.near.org/accounts/ujjjoshi.betanet) | 5% | FR | | yes|
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/54d9aa8c94a4c2a8b9893fe94a721305_360_360.jpg" width="40"> | [Bambarello](https://keybase.io/bambarello) | Secured and trusted professional validator. | @bambarello | 10% | UA | [@bambarello](https://explorer.betanet.near.org/accounts/bambarello) | yes |
+| <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @777stakes | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -74,7 +75,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | 10% | RU | [@get_rich](https://explorer.betanet.near.org/accounts/get_rich) | no |
 | <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@ryabina-validator](https://explorer.betanet.near.org/accounts/ryabina-validator) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
-| <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @highstakes | NO |
 | <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | no |
 | | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |

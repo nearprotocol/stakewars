@@ -22,6 +22,8 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | sl1982 | Node tester | @sl1982.betanet | -% | RU | @slsub | Yes |
 | | flyhigh | Stake to my node | @vovaferma.betanet | 10% | UA | @vova | yes |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver1](https://explorer.betanet.near.org/accounts/silver1) | yes |
+| | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | YES |
+| <img src="https://agx10k.ml/favicons/android-icon-48x48.png" width="40"> | [AG](https://agx10k.ml) | Validating the CELO mainnet since genesis | [@ag.betanet](https://explorer.betanet.near.org/accounts/ag.betanet) | 10% | RU | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -88,7 +90,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
-| | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | No |
 | <img src="https://i.imgur.com/ZwHpy1V.jpg" width="40"> | Cloudpost Pool | Let's build a better future together with NEAR protocol | @cloudpost | 10% | RU | [@cloudpost_pool](https://explorer.betanet.near.org/accounts/cloudpost_pool) | no |
 | | Breeze | Stake of Zone | @breeze.betanet | 10% | CN | [@a_breeze](https://wallet.betanet.near.org/profile/a_breeze) | no |
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |

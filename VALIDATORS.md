@@ -25,6 +25,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | YES |
 | <img src="https://agx10k.ml/favicons/android-icon-48x48.png" width="40"> | [AG](https://agx10k.ml) | Validating the CELO mainnet since genesis | [@ag.betanet](https://explorer.betanet.near.org/accounts/ag.betanet) | 10% | RU | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) | yes |
 | <img src="https://avatars3.githubusercontent.com/u/150731?s=460&v=4" width="40"> | huglester | be the best and never rest | @huglester.betanet | 10% | LT | [@pool.huglester.betanet](https://explorer.betanet.near.org/accounts/pool.huglester.betanet) | |
+| | gunray | Stake it till you make it | [@gunray.test](https://explorer.betanet.near.org/accounts/gunray.test) | 10% | CRO | [@gunpool](https://explorer.betanet.near.org/accounts/gunpool) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -101,7 +102,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
 | <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @gaia.test | -% | NL | | |
 | <img src="http://www.itokenpool.com/img/logo.png" width="40"> | [itokenpool](http://www.itokenpool.com/) | Blockchain Pos Node service provider. Our team members mainly come from Tsinghua University. | @itokenpool.betanet | -% | CN | | |
-| | gunray | - | @gunray.test | -% | HR | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |

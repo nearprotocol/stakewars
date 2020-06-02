@@ -160,6 +160,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/lsGrsIV.jpg" width="40"> | [Alive29](https://keybase.io/alive29) | Secured and trusted validator | @alive29 | 10% | RU | | |
 | | dmytrokonon |  | @dmytrokonon.betanet | 10% | UA | | |
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
+| :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | | |
 
 
 Notes:

@@ -49,6 +49,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | yes |
 |  | goodstake | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake) | yes |
 | :rocket:  | YYYYYYYYYYYYY | [Y so serious](https://keybase.io/yyyyyyyyyyyyy)                                              | [@yyyyyyyyyyyyy.betanet](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy.betanet) | 10% | RU | [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | yes |
+| <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -141,7 +142,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
-| <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |

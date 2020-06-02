@@ -17,7 +17,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
 | <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. | @validator_buildlinks.betanet | 10% | CN | [@validator_buildlinks.betanet](https://explorer.betanet.near.org/accounts/validator_buildlinks.betanet) | no |
 | <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
-|  | goodstake | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake) | yes |
+|  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

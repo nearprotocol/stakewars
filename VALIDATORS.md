@@ -27,7 +27,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/150731?s=460&v=4" width="40"> | huglester | be the best and never rest | @huglester.betanet | 10% | LT | [@pool.huglester.betanet](https://explorer.betanet.near.org/accounts/pool.huglester.betanet) | |
 | | gunray | Stake it till you make it | [@gunray.test](https://explorer.betanet.near.org/accounts/gunray.test) | 10% | CRO | [@gunpool](https://explorer.betanet.near.org/accounts/gunpool) | yes |
 | <img src="http://delightlabs.io/wp-content/uploads/DELIGHT-primary-symbol.svg" width="40"> | [DELIGHT](https://delightlabs.io) | DELIGHT, highly secure and reliable validator. | @delight.betanet | 10% | KO | [@delight_pool](https://explorer.betanet.near.org/accounts/delight_pool) | yes |
-| <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyid.betanet | 1% | ID | [@armyids_pool](https://explorer.betanet.near.org/accounts/armyids_pool) | Yes |
 | | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 10% | AU | [@mutedtommy-staking-pool-2.stakehouse.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | Yes |
 | <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | yes |
@@ -45,6 +44,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | Steak with alphabet1 | @alphabet1.betanet | 0% | RU | [@abc.alphabet1.betanet](https://explorer.betanet.near.org/accounts/abc.alphabet1.betanet) | yes |
 |  | eosis | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | @eosis.betanet | 0% | RO | [@c.eosis.betanet](https://explorer.betanet.near.org/accounts/c.eosis.betanet) | yes |
 |  | mamojkool | RUde validator | @mamojkool.betanet | 0% | RU | [@fund.mamojkool.betanet](https://explorer.betanet.near.org/accounts/fund.mamojkool.betanet) | YES |
+| <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

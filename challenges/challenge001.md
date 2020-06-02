@@ -8,8 +8,9 @@ This is designed to be your very first challenge: use it to understand how the s
 ## Acceptance Criteria
 
 1. Generate your wallet
-2. Deploy your NEAR node
-3. Configure your Staking Pool
+2. Lock your staking pool
+3. Deploy your NEAR node
+4. Configure your Staking Pool
 
 ## 1.Generate your wallet
 
@@ -31,10 +32,20 @@ This process is needed to authorize a `signer key` on your `account_ID`, enablin
 Once near-shell is ready, create the account `stakingPool_ID` for your staking pool. Launch the command `near create_account stakingPool_ID --masterAccount=account_ID`, where `stakingPool_ID` will be the address used by your delegators, and the name of your NEAR node.
 This operation will create a new file in the folder `~/.near-credentials/betanet/` containing the private key of the staking pool.
 
+## 2.Delete the access keys and lock your staking pool
+
+Use near-shell to delete any access keys to your staking pool. Please get confidence with this tool and lock the right keys, as it may destroy your funds by removing any access to your main wallet.
+1. List the access keys of your staking pool contract: `near keys stakingPool_ID | grep public_key`
+2. Lock your contract, by removing the keys associated with your contract: `near delete-key --accessKey <PUBKEY> --accountId stakingPoolID`
+
+If successfully performed, you should see this entry on the [BetaNet explorer](https://explorer.betanet.near.org):
+
+![alt text](../media/deleted_key.png "Access Key successfully deleted")
+
 Confused? Read more on the differences between `signer keys`, `validator keys` and `node keys` in the official [documentation](https://docs.near.org/docs/validator/keys).
 
 
-## 2.Deploy your NEAR node
+## 3.Deploy your NEAR node
 
 Setup your validator node following the [hardware requirements](https://docs.near.org/docs/roles/validator/hardware). If you use a firewall, set the rules to allow traffic to port `24567` from all IPs (0.0.0.0/0).
 Once your machine is ready, install [nearup](https://github.com/near/nearup). Nearup provides simplified tools to run NEAR using Docker, and is designed to help developers who need a local RPC for their applications.
@@ -50,11 +61,11 @@ Your validator node will run the staking pool, so the account to use is the `sta
 
 Export your validator key by typing the command `cat ~/.near/betanet/validator_key.json | grep public_key` as it will be needed to configure the staking pool contract.
 
-## 3.Configure your Staking Pool
+## 4.Configure your Staking Pool
 
 Setting up your node is just half of the fun! Below, the core part of this challenge. 
 
-### 3.1. Preparation: unstake any currently locked funds and install Rustup
+### 4.1. Preparation: unstake any currently locked funds and install Rustup
 
 If you were already a validator on BetaNet, and you are using the legacy `near stake` command, follow the commands below before proceeding:
 1. Issue `export NODE_ENV=betanet` command before performing any unstaking, so near-shell will connect to `betanet` RPC.
@@ -71,20 +82,20 @@ Once your node is not anymore a validator, you can begin the deployment process 
 
 Please note that some operating systems (such as Ubuntu Server) already come with Rust installed, but the available version may be outdated for NEAR. Refer to the official [Rustup website](https://rustup.rs/) for more specific instructions and troubleshooting.
 
-### 3.2. Build the new staking pool contract
+### 4.2. Build the new staking pool contract
 
 1. Open your `stakewars` work directory: `cd ~/stakewars`
 2. Clone and deploy the staking pool contract: `git clone https://github.com/near/initial-contracts && cd initial-contracts/staking-pool`
 3. Configure rustup with the supported target `rustup target add wasm32-unknown-unknown`
 4. Build your staking pool contract: `./build.sh`
 
-### 3.3. Launch your new validator node
+### 4.3. Launch your new validator node
 
 2. Launch your node with the command `nearup betanet --nodocker`. Modify the launch command according to your actual validator configuration (e.g. `--nodocker` and `--binary-path` if you compiled your binaries)
 3. Nearup may ask again for the validator ID to use. Put here your staking pool account (which we called `stakingPool_ID` in the steps above)
 5. Note your validator public key on screen, or issue the command `cat ~/.near/betanet/validator_key.json |grep "public_key"` before going to the next step
 
-### 3.4. Deploy your staking pool
+### 4.4. Deploy your staking pool
 
 1. From `near shell`, be sure that you are logged in and you have the key to manage `stakingPool_ID` account: `ls ~/.near-credentials/betanet`. If not present, recover your staking pool keys from the backup at the step 1 above, and copy them in the appropriate folder.
 2. Deploy the staking pool contract on your account: `near deploy --accountId=stakingPool_ID --wasmFile=initial-contracts/staking-pool/res/staking_pool.wasm`
@@ -96,7 +107,7 @@ Please note that some operating systems (such as Ubuntu Server) already come wit
 
 You're almost there!
 
-### 3.5. Delegate your own unstaked funds to the staking pool
+### 4.5. Delegate your own unstaked funds to the staking pool
 
 1. From your near-shell machine, deposit the funds from your master account to the staking pool: `near call stakingPool_ID deposit '{}' --accountId account_ID --amount 100`
 	Where 100 is the amount in NEAR tokens you want to deposit.
@@ -114,18 +125,7 @@ You're almost there!
 
 We strongly suggest to get confidence with the `staking pool` contract, by reading more on the official initial-contracts repo on [Github](https://github.com/near/initial-contracts/tree/master/staking-pool). Pay particular attention to the distinction between `stakingPool_ID` and `account_ID`.
 
-### 3.6. Delete the access keys and lock your staking pool
-
-Use near-shell to delete any access keys to your staking pool. Please get confidence with this tool and lock the right keys, as it may destroy your funds by removing any access to your main wallet.
-1. List the access keys of your staking pool contract: `near keys stakingPool_ID | grep public_key`
-2. Lock your contract, by removing the keys associated with your contract: `near delete-key --accessKey <PUBKEY> --accountId stakingPoolID`
-
-If successfully performed, you should see this entry on the [BetaNet explorer](https://explorer.betanet.near.org):
-
-![alt text](../media/deleted_key.png "Access Key successfully deleted")
-
-
-### 3.7. Update an old version of the staking pool (optional)
+### 4.6. Update an old version of the staking pool (optional)
 
 The failsafe method is to deploy a new `stakingPool_ID` from step 1 of this challenge, unstake your funds from the old pool with the command `near call stakingPool_ID unstake`, and use them on the new pool. Only when the new node becomes validator, you can shut down the old node, and remove the pool.
 
@@ -159,8 +159,3 @@ Once your work is done, you will be added to the list below. Please note that re
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)
-
-## Previous Challenge
--
-
-

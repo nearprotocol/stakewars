@@ -19,6 +19,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 6% | CH | [@stake2earnfunds2](https://explorer.betanet.near.org/accounts/stake2earnfund) | Yes |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw3](https://explorer.betanet.near.org/accounts/swissqstakepoolsw) | YES |
+| | sl1982 | Node tester | @sl1982.betanet | -% | RU | @slsub | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -147,7 +148,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://masternode24.de/wp-content/uploads/2020/05/LOGO-Github.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | @masternode24 | no | | |
 | | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU | | |
-| | sl1982 | Node tester | @sl1982.betanet | -% | RU | | |
 | | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |

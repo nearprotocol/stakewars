@@ -32,7 +32,7 @@ This process is needed to authorize a `signer key` on your `account_ID`, enablin
 Once near-shell is ready, create the account `stakingPool_ID` for your staking pool. Launch the command `near create_account stakingPool_ID --masterAccount=account_ID`, where `stakingPool_ID` will be the address used by your delegators, and the name of your NEAR node.
 This operation will create a new file in the folder `~/.near-credentials/betanet/` containing the private key of the staking pool.
 
-### 2. Delete the access keys and lock your staking pool
+## 2.Delete the access keys and lock your staking pool
 
 Use near-shell to delete any access keys to your staking pool. Please get confidence with this tool and lock the right keys, as it may destroy your funds by removing any access to your main wallet.
 1. List the access keys of your staking pool contract: `near keys stakingPool_ID | grep public_key`
@@ -159,8 +159,3 @@ Once your work is done, you will be added to the list below. Please note that re
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)
-
-## Previous Challenge
--
-
-

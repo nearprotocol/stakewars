@@ -32,7 +32,6 @@ This process is needed to authorize a `signer key` on your `account_ID`, enablin
 Once near-shell is ready, create the account `stakingPool_ID` for your staking pool. Launch the command `near create_account stakingPool_ID --masterAccount=account_ID`, where `stakingPool_ID` will be the address used by your delegators, and the name of your NEAR node.
 This operation will create a new file in the folder `~/.near-credentials/betanet/` containing the private key of the staking pool.
 
-
 ## 2.Deploy your NEAR node
 
 Setup your validator node following the [hardware requirements](https://docs.near.org/docs/roles/validator/hardware). If you use a firewall, set the rules to allow traffic to port `24567` from all IPs (0.0.0.0/0).

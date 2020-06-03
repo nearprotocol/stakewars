@@ -73,7 +73,7 @@ As you know, validators are responsible to generate new blocks to update the sta
 If you want to get your feet wet, and see if Stake Wars is for you, try this quickstart guide:
 - Create a **BetaNet** account using our hosted wallet [here](https://wallet.betanet.near.org).
 - Spin up an Ubuntu/Debian VPS and run [nearup](https://github.com/near/nearup).
-- Deploy your staking pool from the [initial-contracts repo](https://github.com/near/initial-contracts/).
+- Deploy your staking pool using the [Staking Pool Factory](https://near-examples.github.io/staking-pool-factory/)
 - Submit up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars.
 
 At the moment of writing (May 28) we received an exceptional interest by the community of validators (300+ applications, 200+ PRs). We are processing all of them, sending 75,000 BetaNet tokens as promised, while making sure the network runs with no issues. As explained in the [docs](https://docs.near.org/docs/validator/economics), there are 100 seats per shard, so BetaNet is running at capacity with a cost per seat right above 75.000 tokens.

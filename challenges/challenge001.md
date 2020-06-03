@@ -8,9 +8,8 @@ This is designed to be your very first challenge: use it to understand how the s
 ## Acceptance Criteria
 
 1. Generate your wallet
-2. Lock your staking pool
-3. Deploy your NEAR node
-4. Configure your Staking Pool
+2. Deploy your NEAR node
+3. Configure your Staking Pool
 
 ## 1.Generate your wallet
 
@@ -31,7 +30,6 @@ This process is needed to authorize a `signer key` on your `account_ID`, enablin
 
 Once near-shell is ready, create the account `stakingPool_ID` for your staking pool. Launch the command `near create_account stakingPool_ID --masterAccount=account_ID`, where `stakingPool_ID` will be the address used by your delegators, and the name of your NEAR node.
 This operation will create a new file in the folder `~/.near-credentials/betanet/` containing the private key of the staking pool.
-
 
 ## 2.Deploy your NEAR node
 

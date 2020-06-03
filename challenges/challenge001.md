@@ -8,9 +8,8 @@ This is designed to be your very first challenge: use it to understand how the s
 ## Acceptance Criteria
 
 1. Generate your wallet
-2. Lock your staking pool
-3. Deploy your NEAR node
-4. Configure your Staking Pool
+2. Deploy your NEAR node
+3. Configure your Staking Pool
 
 ## 1.Generate your wallet
 

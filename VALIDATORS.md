@@ -96,7 +96,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
-| <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |
+| <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
@@ -126,7 +126,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | -% | RU | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
-| <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker](https://stakery.io) | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
+| <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker]() | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake | -% | SI | | |
 | <img src="https://avatars0.githubusercontent.com/u/47457161?s=60&u=a5327817d37c34aa58cb8a0671585323b8858b5f&v=4" width="40"> | Serj | Just do it | @fuckit.betanet | -% | UA | | |
 | | manhplus | - | @humanh.betanet | -% | UA | | |

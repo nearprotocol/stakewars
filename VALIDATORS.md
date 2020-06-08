@@ -102,6 +102,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/ZwHpy1V.jpg" width="40"> | Cloudpost Pool | Let's build a better future together with NEAR protocol | @cloudpost | 10% | RU | [@cloudpost_pool](https://explorer.betanet.near.org/accounts/cloudpost_pool) | no |
 | | Breeze | Stake of Zone | @breeze.betanet | 10% | CN | [@a_breeze](https://wallet.betanet.near.org/profile/a_breeze) | no |
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |
+| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -143,7 +144,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | Marat |Easy Money for you | @marat111.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
-| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |

@@ -31,6 +31,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/kaSFhqv.png" width="40"> | [ArmyIDs](http://armyids.com) | ArmyIDs protect the civilization from The Aliens. Support the Armies and safe your assets by staking with ArmyIDs right now! | @armyid.betanet | 1% | ID | [@armyids_pool](https://explorer.betanet.near.org/accounts/armyids_pool) | Yes |
 | | MutedTommy | Lets (S)takeoff! | [@mutedtommy.betanet](https://explorer.betanet.near.org/accounts/mutedtommy.betanet) | 10% | AU | [@mutedtommy-staking-pool-2.stakehouse.betanet](https://explorer.betanet.near.org/accounts/c.mutedtommy.betanet) | Yes |
 | <img src="https://raw.githubusercontent.com/th3m477/applied/master/as.png" width="40"> | Applied | Galactic validation! 🚀 | @applied.betanet | 10% | UK | [@applied](https://explorer.betanet.near.org/accounts/applied) | yes |
+| <img src="https://chainflow.io/content/images/2020/02/chainflow-1.png" width="40"> | [Chainflow](https://chainflow.io/chainflow-staking-systems/) | | @chainflow.betanet | 10% | US | [@pool.chainflow.betanet](https://explorer.betanet.near.org/accounts/pool.chainflow.betanet) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/62909056?s=96&v=4" width="40"> | FredrikMalmqvist | --- | @fredrikmalmqvist.test | 15% | SE | [@fredrik_pool](https://explorer.betanet.near.org/accounts/fredrik_pool)| yes |
 | <img src="https://www.stratege.ru/forums/files/gallery/1/d95/645/0472d5c7c302952c27102a261cddeb9e.png" width="40"> | Mort | Welcome home, good Hunter. What is it you desire? | @mort.betanet | 10% | RU | [@mort1.mort.betanet](https://explorer.betanet.near.org/accounts/mort1.mort.betanet) | yes |
 | <img src="https://rating-ico.com/wp-content/uploads/2019/01/binance-coin-logo-png-transparent.png" width="40"> | crazylandd | I am hero! | @crazylandd.betanet | 9% | RU | [@sub1.crazylandd.betanet](https://explorer.betanet.near.org/accounts/sub1.crazylandd.betanet) | yes |
@@ -48,6 +49,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | 10% | RU | [@top](https://explorer.betanet.near.org/accounts/top) | YES |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | yes |
+|  | goodstake | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake) | yes |
 | :rocket:  | YYYYYYYYYYYYY | [Y so serious](https://keybase.io/yyyyyyyyyyyyy)                                              | [@yyyyyyyyyyyyy.betanet](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy.betanet) | 10% | RU | [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | yes |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 |<img src="https://66.media.tumblr.com/0c5c8e8d155dc32908529547af67de0b/tumblr_mewoq3YrGH1qbwnuho4_540.jpg" width="40"> | @ujjjoshi.betanet | may the force  be with you | [@ujjjoshi.betanet](https://explorer.betanet.near.org/accounts/ujjjoshi.betanet) | 5% | FR | | yes|
@@ -96,10 +98,28 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
+| <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
+| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | no |
+| | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
+| <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
+| <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
+| <img src="https://avatars0.githubusercontent.com/u/61023562?s=460&u=57fd8688f27f6f84cc81cbafd4de8c895d3d454c&v=4" width="40"> | [2Staked](http://2staked.xyz) | Validate Everything! | @ractolechoc5.test | 10% | RU |[@sl-he](https://explorer.betanet.near.org/accounts/sl-he) | no |
+| <img src="https://avatars2.githubusercontent.com/u/55540473?s=96&v=4" width="40"> | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test| 10% | UK | [@dochpryof](https://explorer.betanet.near.org/accounts/dochpryof)| no |
+| <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felix.schulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| no  |
+| <img src="https://avatars1.githubusercontent.com/u/62909153?s=96&v=4" width="40"> | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | 10% | CZ | [@jaroslavrud](https://explorer.betanet.near.org/accounts/jaroslavrud)| no |
+| <img src="https://avatars3.githubusercontent.com/u/62906588?s=96&v=4" width="40"> | SimonHugo | Make Staking Great Again! | @simonhugo.test| 50% | UK | [@simonhugo](https://explorer.betanet.near.org/accounts/simonhugo)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62904697?s=96&v=4" width="40"> | OliGarr | - | @oligarr.test| 10% | UK | [@oligarr](https://explorer.betanet.near.org/accounts/oligarr)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62906668?s=96&v=4" width="40"> | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | 10% | NO | [@villiamsivertsen](https://explorer.betanet.near.org/accounts/villiamsivertsen)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62905922?s=96&v=4" width="40"> | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | 10% | FI | [@launooskuarttu](https://explorer.betanet.near.org/accounts/launooskuarttu)| no |
+| <img src="https://avatars1.githubusercontent.com/u/62906205?s=96&v=4" width="40"> | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | [@janliamnilsson](https://explorer.betanet.near.org/accounts/janliamnilsson)| no |
+| <img src="https://avatars3.githubusercontent.com/u/62905575?s=96&v=4" width="40"> | TommyWesley | Me and my little node give U a big profit | @tommywesley.test| 25% | UK | [@tommywesley](https://explorer.betanet.near.org/accounts/tommywesley)| no |
 | | Alex | stake here  | @alexa.betanet(https://explorer.betanet.near.org/accounts/alexa.betanet) | 1% | CN | [@alexa](https://explorer.betanet.near.org/accounts/alexa) | NO |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
+|  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | no |
+| <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
@@ -149,6 +169,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | -% | RU | | |
+| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | -% | UK | | |
 | <img src="https://i.imgur.com/3pGh2qD.png" width="40"> | Jupiter | A planet of staking | @crasengover.betanet | 5% | UA | | |
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
@@ -161,6 +182,12 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |
 | <img src="https://i.imgur.com/lsGrsIV.jpg" width="40"> | [Alive29](https://keybase.io/alive29) | Secured and trusted validator | [@alive29.betanet](https://explorer.betanet.near.org/accounts/alive29.betanet) | 10% | RU | | |
+| <img src="https://masternode24.de/wp-content/uploads/2020/05/LOGO-Github.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | @masternode24 | no | | |
+| | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
+| | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
+| | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
+| | @active907.betanet |  | @active907.betanet | 10% | UA | | |
+| <img src="https://i.imgur.com/lsGrsIV.jpg" width="40"> | [Alive29](https://keybase.io/alive29) | Secured and trusted validator | @alive29 | 10% | RU | | |
 | | dmytrokonon |  | @dmytrokonon.betanet | 10% | UA | | |
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | | |

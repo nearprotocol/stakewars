@@ -202,8 +202,8 @@ Updated on Wednesday, June 3rd 2020 at 8:39 GMT-7
 | Eorituz          |  2800       |
 | mbucci           |  1500       |
 | hoekevin         |  900        |
+| sweetpotatoz     |  900        |
 | etherscam        |  600        |
-| sweetpotatoz     |  500        |
 | k9thebeast       |  300        |
 | StakerSpace      |  200        |
 | bgapinski-bt     |  200        |

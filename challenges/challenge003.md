@@ -1,7 +1,7 @@
 # Stake Wars Challenge 003
 Published on: June 9 2020
 
-Monitor your node health, and send an email in case of issues.
+Monitor your node health, and send an automated email in case of issues.
 
 ## Acceptance Criteria
 
@@ -13,17 +13,17 @@ Define a list of parameters that you want to monitor on your node, to promptly i
 
 ### General Parameters
 Monitor storage, CPU and memory usage, to be sure that your node is working properly. Most cloud providers offer this service by configuring a few simple parameters.
-Alternatively, run simple crontab scripts that build your own logs, or install your favorite monitoring tools.
+Alternatively, run your own crontab scripts, or install your favorite monitoring tools.
 
 ### Nearcore Parameters
-Nearup comes with simplified logs, available via `docker logs nearcore` or `nearup logs` (the latter in necessary if you are running nearup without the `--nodocker` switch).
-By scripting `grep` or `tee` commands you can extract data from your node, such as:
+Nearup comes with simplified logs, available via `docker logs nearcore` or `nearup logs` (the latter is necessary if you are running nearup in `--nodocker` mode).
+By using `grep` or `tee` commands you can extract data from your node, such as:
 * number of active peers
 * validator status, by parsing `V/xx`
 * block height progress
 * network health, by parsing the `bps` value
 
-Alternatively, you can connect `nearcore` with [Prometheus](https://prometheus.io/). You can configure the endpoint in the `~/.near/betanet/config.json` file - and apply to add a tutorial below, if you are an expert.
+Alternatively, you can connect nearcore with [Prometheus](https://prometheus.io/) using the `<NODE_IP>:3030/metrics` endpoint.
 
 ### NEAR Network Parameters
 Monitor the network by using NEAR's [JSON RPC APIs](https://docs.near.org/docs/interaction/rpc). Simple `curl` commands can extract valuable information for your validator operations, such as:

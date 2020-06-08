@@ -62,6 +62,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/62905575?s=96&v=4" width="40"> | TommyWesley | Me and my little node give U a big profit | @tommywesley.test| 25% | UK | [@tommywesley](https://explorer.betanet.near.org/accounts/tommywesley)| yes |
 | <img src="https://avatars2.githubusercontent.com/u/62908990?s=96&v=4" width="40"> | felix.schulz | Need validating? Go with us! | @felixschulz.test | 25% | DE | [@felixschulz](https://explorer.betanet.near.org/accounts/felixschulz)| YES  |
 | <img src="https://avatars1.githubusercontent.com/u/62905922?s=96&v=4" width="40"> | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | 10% | FI | [@launooskuarttu](https://explorer.betanet.near.org/accounts/launooskuarttu)| Yes |
+| <img src="https://avatars1.githubusercontent.com/u/62904697?s=96&v=4" width="40"> | OliGarr | - | @oligarr.test| 10% | UK | [@oligarr](https://explorer.betanet.near.org/accounts/oligarr)| Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -89,7 +90,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |
 | <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| no |
-| <img src="https://avatars1.githubusercontent.com/u/62904697?s=96&v=4" width="40"> | OliGarr | - | @oligarr.test| 10% | UK | [@oligarr](https://explorer.betanet.near.org/accounts/oligarr)| no |
 | <img src="https://avatars1.githubusercontent.com/u/62906205?s=96&v=4" width="40"> | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE | [@janliamnilsson](https://explorer.betanet.near.org/accounts/janliamnilsson)| no |
 | | Alex | stake here  | @alexa.betanet(https://explorer.betanet.near.org/accounts/alexa.betanet) | 1% | CN | [@alexa](https://explorer.betanet.near.org/accounts/alexa) | NO |
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |

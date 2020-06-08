@@ -67,6 +67,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars1.githubusercontent.com/u/62907314?s=96&v=4" width="40"> | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | 50% | NL | [@olaiolsen](https://explorer.betanet.near.org/accounts/olaiolsen)| YES |
 | <img src="https://avatars1.githubusercontent.com/u/62906205?s=96&v=4" width="40"> | JanLiamNilsson | ---- | @janliamnilsson.test | 10% | SE | [@janliamnilsson](https://explorer.betanet.near.org/accounts/janliamnilsson)| yes |
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | @lunanova.betanet | 10% | UK | [@lunanova_pool](https://explorer.betanet.near.org/accounts/lunanova_pool) | yes |
+| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -88,7 +89,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | 10% | RU | [@get_rich](https://explorer.betanet.near.org/accounts/get_rich) | no |
 | <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@ryabina-validator](https://explorer.betanet.near.org/accounts/ryabina-validator) | no |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | @optimisticvalidator | no |
-| <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | no |
 | | Stake Tomato | Stake and bake | @ade.betanet | 10% | RO | [@stake_tomato](https://explorer.betanet.near.org/accounts/stake_tomato) | no |
 | <img src="https://avatars3.githubusercontent.com/u/54758560?s=200&v=4" width="40"> | [D1 Ventures](https://d1.ventures/) | Powering the Future of Open Economy | @d1admin.betanet | 10% | US 🇺🇸 | [@d1.betanet](https://explorer.betanet.near.org/accounts/d1.betanet) | no |
 | <img src="https://avatars2.githubusercontent.com/u/61577793?s=200&v=4" width="40"> | [CypherHunter](https://cypherhunter.com/) | Data Intelligence in Crypto | @cypherhunteradmin.betanet | 10% | US 🇺🇸 | [@cypherhunter.betanet](https://explorer.betanet.near.org/accounts/cypherhunter.betanet) | no |

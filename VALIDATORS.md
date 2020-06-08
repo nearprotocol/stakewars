@@ -72,6 +72,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | yes |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | [@optimisticvalidator](https://explorer.betanet.near.org/accounts/optimisticvalidator) | yes |
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | yes |
+| <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -98,7 +99,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://miro.medium.com/fit/c/256/256/2*x4-T9Pv2avw-3nwaagqJBQ.jpeg" width="40"> | [Novy](https://stake.novy.pw) | Validator in Cosmos Ecosystem for 1 year, deliver quality staking and support services! | @novy.betanet | -% | MD |[@stakeatnovy](https://explorer.betanet.near.org/accounts/stakeatnovy) | no |
 | <img src="https://i.imgur.com/HFN4gx7.jpg?1" width="40"> | GemsStake | The Art of Staking | @equilibrium.betanet | 2% | RU | [@gems](https://explorer.betanet.near.org/accounts/gems) | Yes |
 | | karbentum | Stake all here  | @karbentum.betanet | 10% | BY | [@nearcool2](https://explorer.betanet.near.org/accounts/nearcool2) | no |
-| <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | no |
 | | George | Stake is open to everyone | @bbaa.betanet | 1% | CN | [@bbaa](https://wallet.betanet.near.org/profile/bbaa) | no |
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
@@ -130,7 +130,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Blaze | - | @blaze.betanet | -% | US | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
-| <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | [DreamStaker](https://stakery.io) | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
+| <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | DreamStaker | On your marks, get set, STAKE!  | @dreamstaker.betanet | -% | RU | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake | -% | SI | | |
 | <img src="https://avatars0.githubusercontent.com/u/47457161?s=60&u=a5327817d37c34aa58cb8a0671585323b8858b5f&v=4" width="40"> | Serj | Just do it | @fuckit.betanet | -% | UA | | |
 | | manhplus | - | @humanh.betanet | -% | UA | | |

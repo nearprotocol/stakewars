@@ -53,6 +53,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |<img src="https://66.media.tumblr.com/0c5c8e8d155dc32908529547af67de0b/tumblr_mewoq3YrGH1qbwnuho4_540.jpg" width="40"> | @ujjjoshi.betanet | may the force  be with you | [@ujjjoshi.betanet](https://explorer.betanet.near.org/accounts/ujjjoshi.betanet) | 5% | FR | | yes|
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/54d9aa8c94a4c2a8b9893fe94a721305_360_360.jpg" width="40"> | [Bambarello](https://keybase.io/bambarello) | Secured and trusted professional validator. | @bambarello | 10% | UA | [@bambarello](https://explorer.betanet.near.org/accounts/bambarello) | yes |
 | <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @777stakes | YES |
+| | BearsNode | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | [@dog.bears.betanet](https://explorer.betanet.near.org/accounts/dog.bears.betanet) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -152,7 +153,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://i.imgur.com/21fOAek.jpg" width="40"> | Kodvas | Stake is open to everyone! | @kodvas.betanet | 10% | UA | | |
 | <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
 | <img src="https://masternode24.de/wp-content/uploads/2020/05/LOGO-Github.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | @masternode24.betanet | 10% | DE | @masternode24 | no | | |
-| | Alex Kodiak | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | | |
 | | alexgryb | if you had faith even as small as a mustard seed, you could say to this mountain, ‘Move from here to there,’ and it would move. Nothing would be impossible | @alexgryb.betanet | 10% | UA | | |
 | | [Bibiwang](https://bibiwang.com) | A professional blockchain information website from China | @bibiwang.betanet | 3% | CN | | |
 | | @active907.betanet |  | @active907.betanet | 10% | UA | | |

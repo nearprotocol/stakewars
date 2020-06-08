@@ -1,5 +1,9 @@
 # UPDATES
 
+## UPDATE June 8th
+
+* New challenge available [here](challenges/challenge003.md)! Build your monitoring platform and send alert emails in case of issues. Add `stefano@near.org` to your email recipients to receive extra funds for delegation.
+
 ## UPDATE May 28th
 
 **We sent 75,000 tokens to all applicants, excluding obvious duplicates**

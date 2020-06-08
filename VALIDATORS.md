@@ -54,6 +54,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/54d9aa8c94a4c2a8b9893fe94a721305_360_360.jpg" width="40"> | [Bambarello](https://keybase.io/bambarello) | Secured and trusted professional validator. | @bambarello | 10% | UA | [@bambarello](https://explorer.betanet.near.org/accounts/bambarello) | yes |
 | <img src="https://avatars0.githubusercontent.com/u/58822673?s=400&u=2ea6326dbc9b37d854f66a2a2757e3f38539037c&v=4" width="40"> | 7777nda | Much node very uptime | @7777nda.betanet | 10% | RU | @777stakes | YES |
 | | BearsNode | Life begins at the end of your WiFi zone | @bears.betanet | 10% | RU | [@dog.bears.betanet](https://explorer.betanet.near.org/accounts/dog.bears.betanet) | yes |
+| <img src="https://i.imgur.com/igH34oi.jpg" width="40"> | RosalesSierra91 | Give me more NEAR's! | @rosalessierra91.betanet | 10% | RU | [@sub.rosalessierra91.betanet](https://explorer.betanet.near.org/accounts/sub.rosalessierra91.betanet) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

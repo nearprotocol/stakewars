@@ -47,7 +47,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | 10% | RU | [@top](https://explorer.betanet.near.org/accounts/top) | YES |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | yes |
-|  | goodstake | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake) | yes |
 | :rocket:  | YYYYYYYYYYYYY | [Y so serious](https://keybase.io/yyyyyyyyyyyyy)                                              | [@yyyyyyyyyyyyy.betanet](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy.betanet) | 10% | RU | [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | yes |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 |<img src="https://66.media.tumblr.com/0c5c8e8d155dc32908529547af67de0b/tumblr_mewoq3YrGH1qbwnuho4_540.jpg" width="40"> | @ujjjoshi.betanet | may the force  be with you | [@ujjjoshi.betanet](https://explorer.betanet.near.org/accounts/ujjjoshi.betanet) | 5% | FR | | yes|
@@ -105,6 +104,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Breeze | Stake of Zone | @breeze.betanet | 10% | CN | [@a_breeze](https://wallet.betanet.near.org/profile/a_breeze) | no |
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
+|  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

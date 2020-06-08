@@ -91,3 +91,5 @@ List of community challenges:
   Deploy your node and your staking pool
 2. May 25th 2020, [Challenge 002](challenges/challenge002.md)
   Become a validator and manage your seat
+3. June 8th 2020, [Challenge 003](challenges/challenge003.md)
+  Monitor your node and setup automated alerts

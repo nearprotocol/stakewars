@@ -67,3 +67,6 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | - | - | - | 1000 | 10% | Any |
 
 
+## Previous Challenge
+Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)
+

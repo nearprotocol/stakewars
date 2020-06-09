@@ -197,6 +197,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
+| | isillien | Pool staking is easy with Near | @isillien.betanet | 10% | LT | [@isillien](https://explorer.betanet.near.org/accounts/isillien) | yes |
 
 
 Notes:

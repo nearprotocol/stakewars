@@ -47,6 +47,15 @@ Define the thresholds that trigger alerts, such as:
 
 **Heads up:** To prove that you are running your automated monitoring system, add `stefano@near.org` to your email alerts. If your node is running with insufficient stake and sends an alert email, a script will provide additional BetaNet tokens to your pool.
 
+## List of Validators who already completed this challenge (updated Jun 9)
+
+| pool ID |  date  | token staked |
+| ------- | ------ | ------------ |
+| [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | Jun 9 | 10,000 |
+| [@plex2](https://explorer.betanet.near.org/accounts/plex2) | Jun 9 | 10,000 |
+| @dsrv.betanet | Jun 9 | no pool |
+| [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | Jun 9 | 10,000 |
+
 
 ## Contribution Opportunities
 

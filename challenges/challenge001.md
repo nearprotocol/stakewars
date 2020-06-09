@@ -149,9 +149,12 @@ Once your work is done, you will be added to the list below. Please note that re
 
 ### List of available contributions
 
-| Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens |
-| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- |
-| How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | - | - | - | 1,000 |
+| Abstract | Description                    | Contributor | Publication | Link | NEAR Tokens |
+| -------- | ------------------------------ | ----------- | ----------- | ---- | ----------- |
+| How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | @htafolla | Jun 8 2020 | PRs at [1](https://github.com/nearprotocol/stakewars#quickstart), [2](https://docs.near.org/docs/validator/staking), [3](https://docs.near.org/docs/local-setup/running-testnet) | 1,000 |
+| How to compile nearcore | Same as above | @navneetlakra | Jun 8 2020 | [GitHub](https://github.com/mutedtommy/near-docs/blob/master/compile-nearcore.md) | 1,000 |
+| How to compile nearcore | Same as above | @georgec138 | Jun 8 2020 | [GitHub](https://github.com/georgec138/near-docs/blob/master/COMPILE-NEARCORE_cn.md) | 1,000 |
+| How to compile nearcore | Same as above | @narniec | Jun 8 2020 | [Medium](https://medium.com/@narniec2020/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BD%D0%BE%D0%B4%D1%8B-near-%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%B8-betanet-a4d58c9a7bb0) | 1,000 |
 | Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over.  | - | - | - | 1,000 |
 
 

@@ -53,8 +53,10 @@ Define the thresholds that trigger alerts, such as:
 | ------- | ------ | ------------ |
 | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | Jun 9 | 10,000 |
 | [@plex2](https://explorer.betanet.near.org/accounts/plex2) | Jun 9 | 10,000 |
-| @dsrv.betanet | Jun 9 | no pool |
+| [@staking.dsrv.betanet] | Jun 9 | 10,000 |
 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | Jun 9 | 10,000 |
+| [@a_validator](https://explorer.betanet.near.org/accounts/a_validator) | Jun 9 | 10,000 |
+| [@huglester](https://explorer.betanet.near.org/accounts/huglester) | Jun 9 | 10,000 |
 
 
 ## Contribution Opportunities

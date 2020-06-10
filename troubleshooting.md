@@ -42,4 +42,4 @@ Jun 07 21:26:49.489  INFO telemetry: Telemetry data could not be sent due to: pr
 
 - Join the Validator chat at [https://near.chat].
 - Ask questions on Stack Overflow, using the tags [nearprotocol](https://stackoverflow.com/questions/tagged/nearprotocol) and [nearprotocol-validator](https://stackoverflow.com/questions/tagged/nearprotocol-validator).
-- Open an issue (or ask for a new feature!) directly from [here](issues).
+- Submit a bug (or ask for a new feature!) directly from the Stake Wars [issues section](../../issues).

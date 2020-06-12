@@ -14,10 +14,10 @@ Contributions and corrections are welcome!
 
 ### Near-shell and RPC issues
 1. I get a `Server error: Timeout` when I use near-shell
-1. I get a `type: 'UntypedError'` if I try to use near-shell
-1. I get a `KeyNotFound` error if I try to use near-shell
-1. I get a timeout error from RPC after I sent a command
-1. I had a wallet created on [nearprotocol.com](http://nearprotocol.com) and now I can't see it anymore
+2. I get a `type: 'UntypedError'` if I try to use near-shell
+3. I get a `KeyNotFound` error if I try to use near-shell
+4. I get a timeout error from RPC after I sent a command
+5. I had a wallet created on [nearprotocol.com](http://nearprotocol.com) and now I can't see it anymore
 
 ### Staking-related issues
 1. I used `near send` instead of `near call` to a staking pool
@@ -33,15 +33,20 @@ This issue can happen if there's a mismatch of `public_key` or `account_id` betw
 
 **On your node**
 
+Check if your node is actively validating blocks, by inspecting the logs with the command `docker logs nearcore --tail 5 2>&1 | grep "V/"` or `nearup logs | grep "V/" -n 5` (depending if you are running nearup with or without docker). If this command produces zero results, your node may be misconfigured. 
+
 Issue the command `cat .near/betanet/validator_key.json | grep "account_id\|public_key"`. You should expect the following result:
 ```
   "account_id": "c2.nearkat",
   "public_key": "ed25519:Zk6cdWPxmK1H5cy3K3GbyDRUyHz9w8a9Q2Mb7ezKiHW",
 ```
+Note this result and proceed to verify the staking pool configuration.
 
 **On your near-shell machine**
 
-Issue the command `curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.current_validators[] | select(.account_id | contains ("c2.nearkat"))'`. You should expect the following result:
+Issue the command `curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.current_validators[] | select(.account_id | contains ("c2.nearkat"))'`. (Remember to replace `c2.nearkat` with the account_id from your validator_key.json)
+
+You should expect the following result:
 
 ```
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -173,15 +178,77 @@ Be sure that only one node at a time is using your validator_key.json, or you ri
 
 ## Near-shell and RPC issues
 
-_Work in Progress, stay tuned_
+### 1. I get a `Server error: Timeout` when I use near-shell
+If you are running on BetaNet, we often apply experimental features that can impact the stability of the RPC at the address `https://rpc.betanet.near.org`.
 
-### 1. I get a KeyNotFound error if I try to use near-shell
+The error may look similar to this one:
+```
+Error:  TypedError: [-32000] Server error: Timeout
+    at JsonRpcProvider.sendJsonRpc (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:129:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Account.signAndSendTransaction (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:97:22)
+    at async scheduleFunctionCall (/usr/lib/node_modules/near-shell/commands/call.js:30:34)
+    at async Object.handler (/usr/lib/node_modules/near-shell/utils/exit-on-error.js:4:9) {
+  type: 'UntypedError'
+}
+```
+
+There are three possible remetiations:
+1. Look for the transaction on the [BetaNet Explorer](https://explorer.betanet.near.org)
+2. Point near-shell to a local node
+3. The network is not producing new blocks
+
+**1. Look for the transaction on the BetaNet Explorer**
+Most of the time, your transaction was correctly sent to the network, regardless of the timeout error in `near-shell`.
+If you don't see the transaction in the explorer, you can issue the command again and refres the explorer page.
+
+**2. Point near-shell to a local node**
+Download and run `nearup` on your local machine, and point near-shell to the localhost for the queries. As an example, the command `near state test` would become `near state test --nodeUrl http://127.0.0.1:3030 --helperUrl http://127.0.0.1:3030`.
+You should see a result similar to this one:
+
+```
+Using options: {
+  nodeUrl: 'http://127.0.0.1:3030',
+  helperUrl: 'http://127.0.0.1:3030',
+  networkId: 'betanet',
+  contractName: undefined,
+  walletUrl: 'https://wallet.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  accountId: 'test',
+  initialBalance: null
+}
+Account test
+{
+  amount: '78447050893413945551764297785000',
+  locked: '0',
+  code_hash: '11111111111111111111111111111111',
+  storage_usage: 182,
+  storage_paid_at: 0,
+  block_height: 7095636,
+  block_hash: '9ukamhGe6fFgDnHXWvUQJoJhWXVQqKxqEr7zmmugfyWs',
+  formattedAmount: '78,447,050.893413945551764297785'
+}
+
+```
+
+**3. The network is not producing new blocks**
+If the network is not producing new blocks, near-shell cannot issue commands that change the state of the ledger, such as `near call` or `near login`. In this case, you have to check when the status of the network from the page at https://status.nearprotocol.com/
+
+
+### 2. I get a `type: 'UntypedError'` if I try to use near-shell
+
+
+### 3. I get a `KeyNotFound` error if I try to use near-shell
 
 ```
 {
   type: 'KeyNotFound'
 }
 ```
+
+
+### 4. I get a timeout error from RPC after I sent a command
+### 5. I had a wallet created from the old URL at nearprotocol.com and now I can't see it anymore
 
 
 

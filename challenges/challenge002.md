@@ -92,7 +92,7 @@ Once your work is done, you will be added to the list below. Please note that re
 
 
 ## Next Challenge
-Monitor your node health, and setup automated email alerts: [challenge003](challenges/challenge003.md)
+Monitor your node health, and setup automated email alerts: [challenge003](challenge003.md)
 
 ## Previous Challenge
 Create your BetaNet wallet, deploy your node, and correctly configure your staking pool: [challenge001](challenge001.md)

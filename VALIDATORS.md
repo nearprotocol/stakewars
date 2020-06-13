@@ -80,7 +80,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@global](https://explorer.betanet.near.org/accounts/global) | no |
-| | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | |
+| | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | No |

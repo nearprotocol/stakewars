@@ -232,24 +232,111 @@ Account test
 ```
 
 **3. The network is not producing new blocks**
-If the network is not producing new blocks, near-shell cannot issue commands that change the state of the ledger, such as `near call` or `near login`. In this case, you have to check when the status of the network from the page at https://status.nearprotocol.com/
-
+In the unlikely situation that NEAR Protocol is not producing new blocks, near-shell cannot issue commands that change the state of the ledger, such as `near call` or `near login`. In this case, you have to check the status of the network from the page at https://status.nearprotocol.com/ and wait when the services are back online to perform such actions.
 
 ### 2. I get a `type: 'UntypedError'` if I try to use near-shell
+Most of the time you can find the reason of the error by scrolling up a few lines:
+```
+Using options: {
+  networkId: 'default',
+  nodeUrl: 'https://rpc.testnet.near.org',
+  contractName: undefined,
+  walletUrl: 'https://wallet.testnet.near.org',
+  helperUrl: 'https://helper.testnet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  accountId: 'nearkat',
+  initialBalance: null
+}
+Error:  TypedError: [-32000] Server error: account nearkat does not exist while viewing
+    at JsonRpcProvider.sendJsonRpc (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:129:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async JsonRpcProvider.query (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/providers/json-rpc-provider.js:61:24)
+    at async Account.fetchState (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:46:23)
+    at async Account.state (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:53:9)
+    at async Near.account (/usr/lib/node_modules/near-shell/node_modules/near-api-js/lib/near.js:41:9)
+    at async exports.viewAccount (/usr/lib/node_modules/near-shell/index.js:161:19)
+    at async Object.handler (/usr/lib/node_modules/near-shell/utils/exit-on-error.js:4:9) {
+  type: 'UntypedError'
+}
+
+```
+The last line is not important, and you want to analyze the `Error:` line of the message. In this case, the error is `account nearkat does not exist while viewing`, so as a user you have to double-check the spelling of the account - or verify that you are looking on the right network as here I'm trying to find the user `nearkat` on TestNet and not BetaNet.
 
 
 ### 3. I get a `KeyNotFound` error if I try to use near-shell
+Your near-shell may not have the keys to operate on your account, showing an error similar to the one below: 
 
 ```
-{
+}
+Sending 1 NEAR to test from bowen.test
+Error:  TypedError: Can not sign transactions for account bowen.test, no matching key pair found in Signer.
+    at Account.signAndSendTransaction (/usr/local/lib/node_modules/near-shell/node_modules/near-api-js/lib/account.js:91:19)
+    at async exports.sendMoney (/usr/local/lib/node_modules/near-shell/index.js:198:33)
+    at async Object.handler (/usr/local/lib/node_modules/near-shell/utils/exit-on-error.js:4:9) {
   type: 'KeyNotFound'
 }
 ```
 
+**Remediations**
+You can use `near login` again, and authorize your machine, or just copy your json key from your backups to the `~/.near-credentials/betanet/` folder. Previous versions of near-shell were storing credentials in the `neardev` folder, so if your account name is `nearkat.betanet` you may look for it with the command `find -name "*nearkat*.json"`, showing results as below:
+```
+./betanet/c1.nearkat.betanet.json
+./betanet/nearkat.betanet.json
+./neardev/betanet/c2.nearkat.betanet.json
+./neardev/betanet/c3.nearkat.betanet.json
+./neardev/betanet/c1.nearkat.json
+./neardev/betanet/c1.nearkat.betanet.json
+./neardev/betanet/c2.nearkat.json
+./neardev/betanet/nearkat.betanet.json
+./neardev/betanet/nearkat.json
+./.near-credentials/betanet/c2.nearkat.json
+```
+The files `./betanet/nearkat.betanet.json` and `./neardev/betanet/nearkat.betanet.json` contain a valid private key to control the account `nearkat.betanet`, so moving them to the directory `./.near-credentials/betanet/` will allow your near-shell to sign transaction for that account.
+
+**Heads Up:** This solution doesn't apply if you are using a Ledger Wallet.
 
 ### 4. I get a timeout error from RPC after I sent a command
-### 5. I had a wallet created from the old URL at nearprotocol.com and now I can't see it anymore
+NEAR RPC may be unresponsive or too slow to reply, generating this type of error. The first step is to control that all the services are running correctly from the url https://status.nearprotocol.com/.
 
+If all services are operational, try to use the explorer yourself, by visiting the url https://explorer.betanet.near.org. If the explorer itself is slow or unresponsive, it's possible that your RPC calls need a longer timeout.
+
+**Remediation:**
+You can call the same RPC commands to your local node, replacing `https://rpc.betanet.near.org` with the IP address of your node. As an example the command
+```
+curl -d '{"jsonrpc": "2.0", "method": "status", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq
+```
+becomes
+```
+curl -d '{"jsonrpc": "2.0", "method": "status", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' http://127.0.0.1:3030 | jq
+```
+(note that you have to use plain http, and specify the port `3030`).
+
+
+### 5. I had a wallet created from the old URL at nearprotocol.com and now I can't see it anymore
+NEAR Protocol recently switched from the website `nearprotocol.com` to `near.org`. As a result, some cookies have been reset, and you can't see your wallet anymore because it's now moved from wallet.nearprotocol.com to wallet.near.org.
+
+**Remediation:**
+You have two main ways to recover your account:
+1. Use the method above to recover your json wallet file, and copy it where it is needed
+2. Recover your wallet using the recovery email, sms or seed passphrase
+
+While the option 1 is already documented above, option 2 requires additional steps if you want to use the recovery email with a _magic link_. More specifically, the magic link may still point to `nearprotocol.com`, so your recovery could fail.
+Look for any email coming from `wallet@nearprotocol.com` and copy/paste the "Recover Account" link on your favorite text editor.
+The result should be similar to the one below:
+```
+http://undefined/recover-with-link/nearkat/crazy%20horse%20battery%20staple
+```
+Your seed passphrase is separated by `%20`, so you can manually separate the keys (in this case they are `crazy`, `horse`, `battery`, `staple`) and try to recover your account using the passphrase metod.
+
+**Heads Up:** always use the right wallet address to recover your account:
+| Network | Wallet URL |
+| ------- | ---------- |
+| MainNet | https://wallet.near.org |
+| TestNet | https://wallet.testnet.near.org |
+| BetaNet | https://wallet.betanet.near.org |
+| DevNet | https://wallet.devnet.near.org |
+
+Trying to use the right passphrase with the wrong wallet address will produce no result.
 
 
 ## Staking-related issues

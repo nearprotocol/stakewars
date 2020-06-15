@@ -28,7 +28,7 @@ Contributions and corrections are welcome!
 
 ## Node-related issues
 
-### 1. My validator is in the current_validators set, but it's not producing blocks
+### 1. My validator is in the `current_validators` set, but it's not producing blocks
 This issue can happen if there's a mismatch of `public_key` or `account_id` between your validator node and the staking transaction.
 
 **On your node**
@@ -94,7 +94,7 @@ If successful, `num_produced_blocks` will be higher than zero.
 Remember to ping your staking pool to re-issue your staking transaction, as your node will most probably be kicked out in the next epoch, and you will lose your validator seat. Use the command `near call <ACCOUNT_ID> ping '{}' --accountId <OWNER_ID>`.
 
 
-### 2. I get _Telemetry data_ errors in the logs
+### 2. I get Telemetry data errors in the logs
 Sometimes, after you restart your node or shortly after an update, you may see this error in the logs:
 ```
 Jun 10 23:17:30.014  INFO telemetry: Telemetry data could not be sent due to: Failed to connect to host: Timeout out while establishing connection
@@ -312,7 +312,7 @@ curl -d '{"jsonrpc": "2.0", "method": "status", "id": "dontcare", "params": [nul
 (note that you have to use plain http, and specify the port `3030`).
 
 
-### 5. I had a wallet created from the old URL at nearprotocol.com and now I can't see it anymore
+### 5. I had a wallet created from the URL at betanet.nearprotocol.com and now I can't see it anymore
 NEAR Protocol recently switched from the website `nearprotocol.com` to `near.org`. As a result, some cookies have been reset, and you can't see your wallet anymore because it's now moved from wallet.nearprotocol.com to wallet.near.org.
 
 **Remediation:**
@@ -336,7 +336,7 @@ Your seed passphrase is separated by `%20`, so you can manually separate the key
 | BetaNet | https://wallet.betanet.near.org |
 | DevNet | https://wallet.devnet.near.org |
 
-Trying to use the right passphrase with the wrong wallet address will produce no result.
+Trying to use the right passphrase with the wrong wallet URL will produce no results.
 
 
 ## Staking-related issues

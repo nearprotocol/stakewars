@@ -341,11 +341,17 @@ Trying to use the right passphrase with the wrong wallet URL will produce no res
 
 ## Staking-related issues
 
-_Work in Progress, stay tuned_
+**Heads up:** most of the commands below imply that you are using the most recent [Staking Pool Contract](https://github.com/near/core-contracts/tree/master/staking-pool) to participate in the Stake Wars.
 
+### 1. I used `near send` instead of `near call` to a staking pool
 
-### 1. I get a GuestPanic error when I try to _unstake_ funds from my staking pool
+### 2. I used `near stake` instead of `near call` to stake funds to a pool
 
+### 3. I get a GuestPanic error when I try to _unstake_ funds from my staking pool
+This error may appear when you use a command similar to this one:
+`near call c2.nearkat unstake '{"amount": "10094702816452052707222750328"}' --accountId pepe.betanet`
+
+This call is trying to unstake a certain amount of _YoctoNEAR_, with no success:
 ```
 {
   type: 'GuestPanic',
@@ -354,8 +360,92 @@ _Work in Progress, stay tuned_
 }
 ```
 
-### 1. I get a GuestPanic when I try to _withdraw_ funds from my staking pool
+**Remediation:**
+1. Ping the contract
+2. Unstake the funds
+3. Send a small amount of NEAR tokens
 
+In detail:
+
+1. Call the ping method with the command `near call <POOL_ID> ping '{}' --accountId <ACCOUNT_ID>`, to spend some gas from <ACCOUNT_ID> and calculate the rewards of the pool. You should see a result similar to this:
+```
+ ~ $ near call blazenet ping '{}' --accountId pepe.betanet
+Using options: {
+  accountId: 'pepe.betanet',
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'blazenet',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  gas: '100000000000000',
+  amount: '0',
+  methodName: 'ping',
+  args: '{}',
+  initialBalance: null
+}
+Scheduling a call: blazenet.ping({})
+[blazenet]: Epoch 50: Contract received total rewards of 28434755107890138499172929 tokens. New total staked balance is 118722681336756467553977389908. Total number of shares 113966017752308135773807659229
+[blazenet]: Total rewards fee is 2729550721834190531620296 stake shares.
+''
+
+```
+
+2. Unstake the funds
+Use the command `near view <POOL_ID> get_account_staked_balance '{"account_id": "<ACCOUNT_ID"}'` to receive the exact amount of YoctoNEAR available in the account. The result should be as follows:
+```
+ ~ $ near view blazenet get_account_staked_balance '{"account_id": "pepe.betanet"}'
+Using options: {
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'blazenet',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  methodName: 'get_account_staked_balance',
+  args: '{"account_id": "pepe.betanet"}',
+  initialBalance: null
+}
+View call: blazenet.get_account_staked_balance({"account_id": "pepe.betanet"})
+'25074462113250696720368460556'
+```
+Afterwards, you can issue the command `near call <POOL_ID> unstake '{"amount": "<AMOUNT>"}' --accountId <ACCOUNT_ID>` where it is important to copy/paste an amount in YoctoNEAR wich is minor or equal to the amount above (`25074462113250696720368460556`), and set the <ACCOUNT_ID> with the owner of the staked funds (in this case `--accountId pepe.betanet`).
+The result should be similar to the one below:
+```
+$ near call blazenet unstake '{"amount":"100"}' --accountId pepe.betanet
+Using options: {
+  accountId: 'pepe.betanet',
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'blazenet',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  gas: '100000000000000',
+  amount: '0',
+  methodName: 'unstake',
+  args: '{"amount":"100"}',
+  initialBalance: null
+}
+Scheduling a call: blazenet.unstake({"amount":"100"})
+[blazenet]: Epoch 49: Contract received total rewards of 954000293751552732160506517 tokens. New total staked balance is 118694246581648577415478217080. Total number of shares 113963288201586301583276039030
+[blazenet]: Total rewards fee is 91597540363018443977531872 stake shares.
+[blazenet]: @pepe.betanet unstaking 102. Spent 97 staking shares. Total 104 unstaked balance and 24250598102835383494138245619 staking shares
+[blazenet]: Contract total staked balance is 118694246581648577415478216979. Total number of shares 113963288201586301583276038933
+''
+```
+
+3. If you still can't issue any `call` method on your staking pool, it is possible that you need additional stake to pay for the storage (see the [Introduction to NEAR Protocol’s Economics](https://near.org/blog/near-protocol-economics) for more details).
+Sending 1 NEAR token should be enough. From the shell, you can issue the command `near send <ACCOUNT_ID> <POOL_ID> 1` to add some funds, and try if the contract becomes responsive again.
+
+**Heads Up:** Any funds sent to a locked pool become _inaccessible_, so you won't be able to withdraw them later on.
+
+
+### 4. I get a GuestPanic when I try to _withdraw_ funds from my staking pool
+The _widthdraw_ command is used to move back to your wallet any _unstaked_ funds in the pool. You have to check if:
+- the amount you are trying to withdraw is higher than your unstaked balance
+- the unstaked balance is not yet available and still in the lock-period 
+You should see an error similar to the one below:
 ```
 {
   type: 'GuestPanic',
@@ -363,6 +453,79 @@ _Work in Progress, stay tuned_
   panic_msg: "panicked at 'Not enough unstaked balance to withdraw', src/lib.rs:224:9"
 }
 ```
+
+**Remediation:**
+1. Ping the contract
+2. View the available unstaked balance
+3. Verify if the funds are unlocked
+
+In detail:
+
+1. is documented above, and is easily performed with the command `near call <POOL_ID> call ping '{}' --accountId <ACCOUNT_ID>`.
+
+2. requires the use of the command `near call <POOL_ID> get_account_unstaked_balance '{"account_id": "<ACCOUNT_ID>"}' --accountId <ACCOUNT_ID>` to show the amount of YoctoNEAR available to withdraw. You should see a result similar to the one below:
+```
+ ~ $ near call blazenet get_account_unstaked_balance '{"account_id":"pepe.betanet"}' --accountId pepe.betanet
+Using options: {
+  accountId: 'pepe.betanet',
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'blazenet',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  gas: '100000000000000',
+  amount: '0',
+  methodName: 'get_account_unstaked_balance',
+  args: '{"account_id":"pepe.betanet"}',
+  initialBalance: null
+}
+Scheduling a call: blazenet.get_account_unstaked_balance({"account_id":"pepe.betanet"})
+'104'
+
+```
+`104` is the balance available to withdraw.
+
+3. requires the use of the command `near call <POOL_ID> is_account_unstaked_balance_available '{"account_id": "<ACCOUNT_ID"}' --accountId <ACCOUNT_ID>` to see if the funds are locked or not by the protocol. NEAR allows the withdraw of unstaked funds after **3 epochs**, to mitigate attacks.
+
+By issuing this command, you should get the following result:
+```
+ ~ $ near view blazenet is_account_unstaked_balance_available '{"account_id": "pepe.betanet"}'
+Using options: {
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: 'blazenet',
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  methodName: 'is_account_unstaked_balance_available',
+  args: '{"account_id": "pepe.betanet"}',
+  initialBalance: null
+}
+View call: blazenet.is_account_unstaked_balance_available({"account_id": "pepe.betanet"})
+false
+```
+
+If the result is not `true`, your withdraw command will fail, with an error similar to the one below:
+```
+{
+  type: 'GuestPanic',
+  index: 0,
+  panic_msg: "panicked at 'The unstaked balance is not yet available due to unstaking delay', src/lib.rs:228:9"
+}
+```
+
+**Heads up:** this remediation can't make a distinction between funds unstaked at different times. It shows a `false` statement even if a portion of your funds was available for withdraw (in the example above 4 YoctoNEAR are available out of the 104 unstaked).
+
+
+### 5. I set up the wrong owner to my staking pool, are funds lost?
+When you deploy the staking pool, you have to specify the <POOL_ID> and the <OWNER_ID>. The former is an account that will have to be _locked_ and will receive funds by other users (the delegators). The latter is the manager of the pool, which has specific methods to configure the pool (such as change the validator pubkey or the fees).
+
+Near-shell will not block you from misconfiguring the pool, and setting the <OWNER_ID> as the <POOL_ID>. As a result, when you lock your staking pool you lose the capability to change the parameters above. The solution is to re-deploy the pool and ask your delegators to manually move their funds.
+Your delegators will not lose funds, but they will have to unstake, wait three epochs, and withdraw any funds
+
+How to check if you are locked out from your pool?
+
 
 ## Additional resources
 

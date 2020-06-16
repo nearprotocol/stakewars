@@ -76,9 +76,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | yes |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
-
 | <img src="https://avatars2.githubusercontent.com/u/59618272?s=400&u=54f6926d571cae56797a4d3555a3d1a9c84788c8&v=4" width="40"> | kokos | secures Near from covid | @covid.betanet | 1% | UA | [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/cocos-anti-covid) | YES |
-
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

@@ -73,10 +73,13 @@ Once your work is done, you will be added to the list below. Please note that re
 ### List of available contributions
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Language |
-| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | --- | ---- |
-| Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | - | - | - | 1000 | 10% | Any |
-| Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | - | - | - | 1000 | 10% | Any |
+| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | ----------- | -------- |
+| Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | @masknetgoal634 | Jun 11 2020 | [Github](https://github.com/masknetgoal634/near-prometheus-exporter/blob/master/guide/GUIDE.md) | 1,100* | 10% | EN |
+| Run a monitoring platform | Same as above | @narniec | Jun 14 2020 | [Medium](https://link.medium.com/C82TyDMXo7) | 1,000 | 10% | RU |
+| Run a monitoring platform | Same as above | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/c0b9d21eba3d) | 1,000 | 10% | CN |
+| Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 
+\*Including 10% update reward
 
 ## Previous Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

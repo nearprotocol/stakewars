@@ -57,6 +57,23 @@ Define the thresholds that trigger alerts, such as:
 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | Jun 9 | 10,000 |
 | [@a_validator](https://explorer.betanet.near.org/accounts/a_validator) | Jun 9 | 10,000 |
 | [@huglester](https://explorer.betanet.near.org/accounts/huglester) | Jun 9 | 10,000 |
+| [@applied](https://explorer.betanet.near.org/accounts/applied) | Jun 17 | 10,000 |
+| [@bitcat.stakehouse.betanet](https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) | Jun 17 | 10,000 |
+| [@mutedtommy.betanet] | (https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) | Jun 17 | 10,000 |
+| [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Jun 17 | 10,000 |
+| [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | Jun 17 | 10,000 |
+| [@alexzz](https://explorer.betanet.near.org/accounts/alexzz) | Jun 17 | 10,000 |
+| [@a.betanet](https://explorer.betanet.near.org/accounts/a.betanet) | Jun 17 | 10,000 |
+| [@freshnears](https://explorer.betanet.near.org/accounts/freshnears) | Jun 17 | 10,000 |
+| [@jazza](https://explorer.betanet.near.org/accounts/jazza) | Jun 17 | 10,000 |
+| [@top](https://explorer.betanet.near.org/accounts/top) | Jun 17 | 10,000 |
+| [@joejoen.betanet](https://explorer.betanet.near.org/accounts/joejoen.betanet) | Jun 17 | 10,000 |
+| [@joesixpack.betanet](https://explorer.betanet.near.org/accounts/joesixpack.betanet) | Jun 17 | 10,000 |
+| [@blazenet](https://explorer.betanet.near.org/accounts/blazenet) | Jun 17 | 10,000 |
+| [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | Jun 17 | 10,000 |
+| [@c2.bibwang.betanet](https://explorer.betanet.near.org/accounts/c2.bibwang.betanet) | Jun 17 | 10,000 |
+| [@nodeasy.test](https://explorer.betanet.near.org/accounts/nodeasy.test) | Jun 17 | no staking pool |
+
 
 
 ## Contribution Opportunities

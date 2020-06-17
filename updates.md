@@ -1,5 +1,11 @@
 # UPDATES
 
+## UPDATE June 17th
+
+* Leaderboard modified: now it counts only expected blocks and uptime.
+* Contributions listed in the challenges, they are worth to be read!
+* Another BetaNet update was successfully completed, with minimal downtime. Congrats validators!
+
 ## UPDATE June 8th
 
 * New challenge available [here](challenges/challenge003.md)! Build your monitoring platform and send alert emails in case of issues. Add `stefano@near.org` to your email recipients to receive extra funds for delegation.

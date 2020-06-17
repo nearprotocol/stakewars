@@ -63,7 +63,7 @@ Define the thresholds that trigger alerts, such as:
 | [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Jun 17 | 10,000 |
 | [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | Jun 17 | 10,000 |
 | [@alexzz](https://explorer.betanet.near.org/accounts/alexzz) | Jun 17 | 10,000 |
-| [@a.betanet](https://explorer.betanet.near.org/accounts/a.betanet) | Jun 17 | 10,000 |
+| [@a.betanet](https://explorer.betanet.near.org/accounts/a.betanet) | Jun 17 | no staking pool |
 | [@freshnears](https://explorer.betanet.near.org/accounts/freshnears) | Jun 17 | 10,000 |
 | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | Jun 17 | 10,000 |
 | [@top](https://explorer.betanet.near.org/accounts/top) | Jun 17 | 10,000 |

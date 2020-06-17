@@ -1,195 +1,229 @@
 # STAKE WARS LEADERBOARD
 
 *Stake Wars 2.0 Leaderboard*
-Updated on Wednesday, June 3rd 2020 at 8:39 GMT-7
+Updated on Wednesday, June 17th 2020 at 12:35 GMT-7
 
-|ACCOUNT_ID                                  |NUM_PRODUCED_BLOCKS|NUM_EXPECTED_BLOCKS|ONLINE             |
-|--------------------------------------------|-------------------|-------------------|-------------------|
-|node3                                       |35323              |35904              |0.9838179590017825 |
-|node0                                       |35138              |35608              |0.9868007189395641 |
-|node1                                       |33164              |33905              |0.9781448163987613 |
-|node2                                       |32303              |33003              |0.9787898069872436 |
-|c1.hashquark                                |17803              |18301              |0.9727883722200973 |
-|fuckit.betanet                              |13758              |14000              |0.9827142857142858 |
-|node                                        |10396              |10503              |0.9898124345425117 |
-|a_validator                                 |8962               |9700               |0.9239175257731959 |
-|bowen.test                                  |7954               |8301               |0.9581978074930732 |
-|validator_buildlinks.betanet                |7926               |8100               |0.9785185185185186 |
-|pool                                        |7480               |7600               |0.9842105263157894 |
-|top                                         |7309               |7500               |0.9745333333333334 |
-|stakingfund                                 |7195               |7400               |0.9722972972972973 |
-|akme.betanet                                |7140               |7200               |0.9916666666666667 |
-|pool.happin.betanet                         |7020               |7102               |0.9884539566319347 |
-|sparkpool.test                              |6995               |7300               |0.9582191780821918 |
-|wetez                                       |6855               |6905               |0.9927588703837799 |
-|huglester.betanet                           |6671               |7300               |0.9138356164383562 |
-|bucket                                      |6662               |6801               |0.9795618291427731 |
-|jazza                                       |6661               |6801               |0.9794147919423614 |
-|lunanova_pool                               |6530               |6600               |0.9893939393939394 |
-|harrypotter                                 |6528               |6601               |0.988941069534919  |
-|get_rich                                    |6503               |6801               |0.9561829142773122 |
-|unknown.test                                |6491               |7001               |0.9271532638194544 |
-|sc.galbraith.betanet                        |6334               |6702               |0.9450910176066846 |
-|joe1                                        |6317               |6600               |0.9571212121212122 |
-|blazenet                                    |6267               |6500               |0.9641538461538461 |
-|c.eosis.betanet                             |6166               |6300               |0.9787301587301588 |
-|mmm                                         |6165               |6400               |0.96328125         |
-|rockpathpool                                |6090               |6200               |0.9822580645161291 |
-|global                                      |6018               |6400               |0.9403125          |
-|sl-he                                       |5887               |6900               |0.8531884057971014 |
-|mort1.mort.betanet                          |5809               |6300               |0.922063492063492  |
-|fund.mamojkool.betanet                      |5736               |6103               |0.9398656398492544 |
-|dreamstaker.betanet                         |5651               |5900               |0.9577966101694916 |
-|shudo                                       |5638               |5800               |0.9720689655172414 |
-|stakedpool.staked.test                      |5637               |5700               |0.9889473684210527 |
-|plex2                                       |5608               |6000               |0.9346666666666666 |
-|justice.immortal.betanet                    |5606               |5701               |0.9833362567970532 |
-|farm                                        |5577               |6401               |0.8712701140446805 |
-|baziliksub                                  |5539               |5900               |0.9388135593220339 |
-|sc.foxnorth1210.betanet                     |5534               |5800               |0.9541379310344827 |
-|contract.bartalamew.betanet                 |5520               |5900               |0.9355932203389831 |
-|isillien.betanet                            |5450               |5500               |0.990909090909091  |
-|dochpryof                                   |5368               |7101               |0.7559498662160259 |
-|abc.alphabet1.betanet                       |5360               |6000               |0.8933333333333333 |
-|dokiacapital.betanet                        |5356               |5400               |0.9918518518518519 |
-|stakin                                      |5193               |6100               |0.8513114754098361 |
-|simonhugo                                   |5054               |6602               |0.7655255983035444 |
-|volvos60909                                 |5038               |5600               |0.8996428571428572 |
-|warger_sub                                  |5031               |5101               |0.986277200548912  |
-|felixschulz                                 |4904               |6201               |0.7908401870666022 |
-|oligarr                                     |4853               |6400               |0.75828125         |
-|cryp                                        |4840               |5300               |0.9132075471698113 |
-|janliamnilsson                              |4812               |6500               |0.7403076923076923 |
-|somebody                                    |4784               |5000               |0.9568             |
-|smart.askold.betanet                        |4771               |5201               |0.9173235916169967 |
-|olaiolsen                                   |4769               |6501               |0.7335794493154899 |
-|tatianka                                    |4753               |5200               |0.9140384615384616 |
-|sub1.crazylandd.betanet                     |4731               |5200               |0.9098076923076923 |
-|launooskuarttu                              |4418               |6401               |0.6902046555225746 |
-|villiamsivertsen                            |4408               |6002               |0.7344218593802065 |
-|techno_validator                            |4390               |4500               |0.9755555555555555 |
-|tommywesley                                 |4369               |6100               |0.7162295081967213 |
-|moonlet.test                                |4310               |4400               |0.9795454545454545 |
-|optimisticvalidator                         |4288               |4300               |0.9972093023255814 |
-|vlad-validator.test                         |4246               |4600               |0.9230434782608695 |
-|anonstake                                   |4150               |4800               |0.8645833333333334 |
-|masternode24                                |4127               |4401               |0.937741422403999  |
-|c2.bibiwang.betanet                         |4016               |4500               |0.8924444444444445 |
-|silver1                                     |3934               |4600               |0.8552173913043478 |
-|alive29                                     |3786               |3800               |0.9963157894736843 |
-|interference                                |3679               |3700               |0.9943243243243243 |
-|jaroslavrud                                 |3666               |5301               |0.6915676287492926 |
-|c.mutedtommy.betanet                        |3636               |3700               |0.9827027027027027 |
-|highstakes                                  |3502               |4101               |0.8539380638868569 |
-|contract.nats.betanet                       |3442               |3500               |0.9834285714285714 |
-|stake2earnfunds2                            |3252               |3500               |0.9291428571428572 |
-|rock1path                                   |3174               |3201               |0.9915651358950328 |
-|validator_italia_contract                   |3163               |3401               |0.9300205821817112 |
-|itokenpool.betanet                          |3156               |3700               |0.8529729729729729 |
-|swissqstakepoolsw3                          |3098               |3303               |0.9379352104147745 |
-|gamah.betanet                               |3081               |3100               |0.9938709677419355 |
-|dog.bears.betanet                           |3081               |3901               |0.789797487823635  |
-|c2.nearkat                                  |2980               |3201               |0.9309590752889721 |
-|zenqqqq                                     |2854               |2900               |0.9841379310344828 |
-|mfsc                                        |2843               |3001               |0.947350883038987  |
-|stakeatnovy                                 |2575               |3000               |0.8583333333333333 |
-|nodeasy.test                                |2498               |3500               |0.7137142857142857 |
-|inotel.betanet                              |2495               |2500               |0.998              |
-|freshnear                                   |2490               |3301               |0.7543168736746441 |
-|megatron                                    |2468               |2500               |0.9872             |
-|bambarello                                  |2437               |2500               |0.9748             |
-|ryabina_io.betanet                          |2391               |2400               |0.99625            |
-|ujjjoshipooldeux                            |2377               |2500               |0.9508             |
-|pool.certusone.betanet                      |2336               |2600               |0.8984615384615384 |
-|gems                                        |2306               |2500               |0.9224             |
-|c1.erkan.betanet                            |2289               |2301               |0.9947848761408083 |
-|yoda                                        |2263               |2300               |0.9839130434782609 |
-|agrestus.betanet                            |2239               |2500               |0.8956             |
-|c2.nuc001.betanet                           |2238               |2300               |0.9730434782608696 |
-|sll.betanet                                 |2198               |2201               |0.9986369831894594 |
-|afi.betanet                                 |2097               |2100               |0.9985714285714286 |
-|zav.betanet                                 |2096               |2100               |0.9980952380952381 |
-|applied                                     |2057               |2300               |0.8943478260869565 |
-|aptemuyc4                                   |2050               |2200               |0.9318181818181818 |
-|sub.rosalessierra91.betanet                 |2018               |2100               |0.960952380952381  |
-|yyyyyyyyyyyyy1                              |1971               |2000               |0.9855             |
-|averonix                                    |1954               |2200               |0.8881818181818182 |
-|kvasnear                                    |1890               |2000               |0.945              |
-|cloudpost_pool                              |1859               |2200               |0.845              |
-|fredrik_pool                                |1845               |2200               |0.8386363636363636 |
-|humanh.betanet                              |1793               |1800               |0.9961111111111111 |
-|catcatcat.test                              |1793               |1800               |0.9961111111111111 |
-|olegjan                                     |1787               |1800               |0.9927777777777778 |
-|pro.stakehouse.betanet                      |1773               |1900               |0.9331578947368421 |
-|unicorn.betanet                             |1701               |1800               |0.945              |
-|techno-t1.betanet                           |1700               |1700               |1                  |
-|gaia.test                                   |1699               |1700               |0.9994117647058823 |
-|sebytza05_val.betanet                       |1697               |1700               |0.9982352941176471 |
-|warger01.betanet                            |1697               |1700               |0.9982352941176471 |
-|fra.betanet                                 |1696               |1700               |0.9976470588235294 |
-|stakery.betanet                             |1691               |1700               |0.9947058823529412 |
-|ag_staking                                  |1676               |1700               |0.9858823529411764 |
-|sl1sub                                      |1577               |1600               |0.985625           |
-|nearcool2                                   |1575               |1600               |0.984375           |
-|swissqstakepoolsw                           |1559               |1700               |0.9170588235294118 |
-|stake2earnfunds                             |1499               |1700               |0.8817647058823529 |
-|masternode24.betanet                        |1228               |1600               |0.7675             |
-|bazilik2020.test                            |1099               |1100               |0.9990909090909091 |
-|d1.betanet                                  |1097               |1100               |0.9972727272727273 |
-|cypherhunter.betanet                        |1093               |1101               |0.9927338782924614 |
-|mutedtommy-staking-pool-2.stakehouse.betanet|984                |1000               |0.984              |
-|audit_one                                   |972                |1700               |0.571764705882353  |
-|zee                                         |920                |1300               |0.7076923076923077 |
-|novy.betanet                                |896                |900                |0.9955555555555555 |
-|zzbar                                       |887                |900                |0.9855555555555555 |
-|zpool                                       |781                |1000               |0.781              |
-|lxyw.betanet                                |700                |700                |1                  |
-|betapool                                    |611                |1000               |0.611              |
-|auditone.betanet                            |600                |600                |1                  |
-|blink                                       |596                |600                |0.9933333333333333 |
-|validator.projecttent.betanet               |596                |600                |0.9933333333333333 |
-|erkan.betanet                               |500                |500                |1                  |
-|mf                                          |499                |500                |0.998              |
-|bisonshark.betanet                          |496                |700                |0.7085714285714285 |
-|awesome                                     |496                |500                |0.992              |
-|cryptomilion.betanet                        |492                |700                |0.7028571428571428 |
-|c4.nuc001.betanet                           |482                |800                |0.6025             |
-|bears.betanet                               |400                |400                |1                  |
-|vipnamai.betanet                            |400                |400                |1                  |
-|andreyvelde.test                            |399                |400                |0.9975             |
-|alexturetskiy.betanet                       |397                |400                |0.9925             |
-|777stakes                                   |386                |600                |0.6433333333333333 |
-|mutedtommy-staking-pool.stakehouse.betanet  |368                |500                |0.736              |
-|gunray.test                                 |200                |400                |0.5                |
-|alexg                                       |200                |200                |1                  |
-|ryabina                                     |200                |200                |1                  |
-|auditone_validator                          |187                |200                |0.935              |
-|aalex                                       |138                |1101               |0.12534059945504086|
-|s5.betanet                                  |100                |100                |1                  |
-|alexb                                       |95                 |300                |0.31666666666666665|
-|ablue                                       |68                 |400                |0.17               |
-|mutedtommy.stakehouse.betanet               |0                  |100                |0                  |
-|cher4                                       |0                  |400                |0                  |
-|delight_pool                                |0                  |3001               |0                  |
-|alexz01                                     |0                  |700                |0                  |
-|fredrikmalmqvist                            |0                  |2900               |0                  |
-|vova                                        |0                  |1100               |0                  |
-|cher3                                       |0                  |400                |0                  |
-|bitcat                                      |0                  |200                |0                  |
-|ryabina-validator                           |0                  |400                |0                  |
-|frapool                                     |0                  |200                |0                  |
-|slsub                                       |0                  |200                |0                  |
-|gunpool                                     |0                  |200                |0                  |
-|join.zav.betanet                            |0                  |500                |0                  |
-|stakery                                     |0                  |400                |0                  |
-|pool.huglester.betanet                      |0                  |1000               |0                  |
-|stake.afi.betanet                           |0                  |200                |0                  |
-|pool.hogwarts                               |0                  |200                |0                  |
-|c1.bibiwang.betanet                         |0                  |200                |0                  |
-|bibiwang.betanet                            |0                  |200                |0                  |
-|3q_val                                      |0                  |200                |0                  |
-|mike.betanet                                |0                  |200                |0                  |
-|vipnamai                                    |0                  |200                |0                  |
+| ACCOUNT\_ID                                  | NUM\_EXPECTED\_BLOCKS | ONLINE  |
+| -------------------------------------------- | --------------------- | ------- |
+| techno-t1.betanet                            | 1700                  | 100.00% |
+| cher5                                        | 1300                  | 100.00% |
+| lxyw.betanet                                 | 700                   | 100.00% |
+| auditone.betanet                             | 600                   | 100.00% |
+| erkan.betanet                                | 500                   | 100.00% |
+| bears.betanet                                | 400                   | 100.00% |
+| vipnamai.betanet                             | 400                   | 100.00% |
+| zeropool                                     | 300                   | 100.00% |
+| stakewolf\_pool                              | 300                   | 100.00% |
+| s5.betanet                                   | 100                   | 100.00% |
+| gaia.test                                    | 1700                  | 99.94%  |
+| bazilik2020.test                             | 1100                  | 99.91%  |
+| driftforall                                  | 5400                  | 99.87%  |
+| sll.betanet                                  | 2201                  | 99.86%  |
+| afi.betanet                                  | 2100                  | 99.86%  |
+| kokos-anti-covid                             | 600                   | 99.83%  |
+| sebytza05\_val.betanet                       | 1700                  | 99.82%  |
+| warger01.betanet                             | 1700                  | 99.82%  |
+| zav.betanet                                  | 2100                  | 99.81%  |
+| inotel.betanet                               | 2500                  | 99.80%  |
+| mf                                           | 500                   | 99.80%  |
+| fra.betanet                                  | 1700                  | 99.76%  |
+| andreyvelde.test                             | 400                   | 99.75%  |
+| validator.projecttent.betanet                | 1400                  | 99.71%  |
+| ryabina\_io.betanet                          | 2400                  | 99.63%  |
+| sllpool                                      | 6801                  | 99.62%  |
+| poolz                                        | 5900                  | 99.59%  |
+| novy.betanet                                 | 900                   | 99.56%  |
+| denis                                        | 600                   | 99.50%  |
+| c1.erkan.betanet                             | 2301                  | 99.48%  |
+| stakery.betanet                              | 1700                  | 99.47%  |
+| staking.dsrv.betanet                         | 2600                  | 99.46%  |
+| gamah.betanet                                | 3100                  | 99.39%  |
+| awesome                                      | 800                   | 99.38%  |
+| meleapool                                    | 3200                  | 99.34%  |
+| interference                                 | 4100                  | 99.34%  |
+| isillien                                     | 8600                  | 99.33%  |
+| alive29                                      | 12900                 | 99.30%  |
+| alexzz                                       | 6700                  | 99.30%  |
+| vipstakes                                    | 5000                  | 99.28%  |
+| alexturetskiy.betanet                        | 400                   | 99.25%  |
+| sfpool                                       | 4500                  | 99.24%  |
+| pool.chainflow.betanet                       | 2201                  | 99.23%  |
+| megatron                                     | 10501                 | 99.21%  |
+| nazar92                                      | 1500                  | 99.20%  |
+| dokiacapital.betanet                         | 5400                  | 99.19%  |
+| rock1path                                    | 3201                  | 99.16%  |
+| isillien.betanet                             | 5500                  | 99.09%  |
+| lunanova\_pool                               | 14102                 | 99.06%  |
+| buildlinks                                   | 7800                  | 99.03%  |
+| pool.dokiacapital.betanet                    | 7300                  | 98.97%  |
+| ag\_staking                                  | 8500                  | 98.95%  |
+| akme.betanet                                 | 15202                 | 98.92%  |
+| huglester                                    | 16201                 | 98.90%  |
+| harrypotter                                  | 6601                  | 98.89%  |
+| c2.inotel.betanet                            | 7001                  | 98.87%  |
+| optimisticvalidator                          | 7300                  | 98.81%  |
+| zzbar                                        | 1400                  | 98.79%  |
+| node                                         | 28903                 | 98.73%  |
+| bambarello                                   | 10102                 | 98.72%  |
+| moonlet.test                                 | 6900                  | 98.57%  |
+| yyyyyyyyyyyyy1                               | 4300                  | 98.30%  |
+| node0                                        | 60513                 | 98.27%  |
+| c.mutedtommy.betanet                         | 3700                  | 98.27%  |
+| jazza                                        | 15601                 | 98.26%  |
+| olegjan                                      | 10102                 | 98.06%  |
+| ryabina                                      | 5400                  | 98.06%  |
+| techno\_validator                            | 15501                 | 98.04%  |
+| c1.hashquark                                 | 35205                 | 98.03%  |
+| wetez                                        | 15006                 | 97.96%  |
+| catcatcat.test                               | 5001                  | 97.80%  |
+| stakedpool.staked.test                       | 12900                 | 97.78%  |
+| zpooll                                       | 12501                 | 97.77%  |
+| node3                                        | 57206                 | 97.73%  |
+| sl1sub                                       | 10400                 | 97.63%  |
+| sparkpool.test                               | 21801                 | 97.58%  |
+| blink                                        | 5801                  | 97.52%  |
+| pool                                         | 15201                 | 97.50%  |
+| get\_rich                                    | 14502                 | 97.45%  |
+| fuckit.betanet                               | 30100                 | 97.41%  |
+| cryptium.stakehouse.betanet                  | 5301                  | 97.36%  |
+| c2.nuc001.betanet                            | 2300                  | 97.30%  |
+| node2                                        | 54803                 | 97.30%  |
+| yoda                                         | 10800                 | 97.27%  |
+| zenqqqq                                      | 11700                 | 97.26%  |
+| pro.stakehouse.betanet                       | 10000                 | 97.21%  |
+| pool.happin.betanet                          | 15403                 | 97.18%  |
+| validator\_italia\_contract                  | 12003                 | 97.08%  |
+| bucket                                       | 15602                 | 97.06%  |
+| freshnears                                   | 4600                  | 97.04%  |
+| masternode24                                 | 12101                 | 96.97%  |
+| contract.nats.betanet                        | 6400                  | 96.95%  |
+| gunpool                                      | 8102                  | 96.82%  |
+| blazenet                                     | 14800                 | 96.81%  |
+| sub.rosalessierra91.betanet                  | 4800                  | 96.73%  |
+| validator\_buildlinks.betanet                | 8800                  | 96.66%  |
+| node1                                        | 40405                 | 96.42%  |
+| mfsc                                         | 11001                 | 96.40%  |
+| sc.galbraith.betanet                         | 14604                 | 96.38%  |
+| rockpathpool                                 | 14102                 | 96.33%  |
+| mmm                                          | 15000                 | 96.10%  |
+| bowen.test                                   | 10002                 | 95.97%  |
+| baziliksub                                   | 14900                 | 95.86%  |
+| smart.askold.betanet                         | 12601                 | 95.78%  |
+| tatianka                                     | 12502                 | 95.72%  |
+| a\_validator                                 | 27001                 | 95.71%  |
+| betapool                                     | 9900                  | 95.56%  |
+| applied                                      | 8800                  | 95.51%  |
+| cryp                                         | 13701                 | 95.48%  |
+| joe1                                         | 14601                 | 95.44%  |
+| c.eosis.betanet                              | 13200                 | 95.11%  |
+| dreamstaker.betanet                          | 8101                  | 95.10%  |
+| swissqstakepoolsw3                           | 8904                  | 95.08%  |
+| shudo                                        | 11300                 | 95.07%  |
+| gems                                         | 4500                  | 94.80%  |
+| nearcool2                                    | 8901                  | 94.79%  |
+| stake2earnfunds2                             | 8600                  | 94.71%  |
+| silver1                                      | 14101                 | 94.70%  |
+| humanh.betanet                               | 2000                  | 94.65%  |
+| unicorn.betanet                              | 1800                  | 94.50%  |
+| global                                       | 10001                 | 94.37%  |
+| aptemuyc4                                    | 8700                  | 94.36%  |
+| fund.mamojkool.betanet                       | 6403                  | 94.25%  |
+| kvasnear                                     | 9100                  | 94.18%  |
+| sc.foxnorth1210.betanet                      | 12101                 | 94.03%  |
+| cloudpost\_pool                              | 8100                  | 93.53%  |
+| auditone\_validator                          | 200                   | 93.50%  |
+| nazar92.betanet                              | 3901                  | 93.36%  |
+| moonlet                                      | 3100                  | 93.35%  |
+| plex2                                        | 11400                 | 93.15%  |
+| c2.nearkat                                   | 3201                  | 93.10%  |
+| sub1.crazylandd.betanet                      | 12000                 | 93.09%  |
+| unknown.test                                 | 7001                  | 92.72%  |
+| warger\_sub                                  | 12301                 | 92.59%  |
+| mort1.mort.betanet                           | 12601                 | 92.42%  |
+| contract.bartalamew.betanet                  | 12200                 | 92.30%  |
+| somebody                                     | 10400                 | 92.12%  |
+| mathwallet                                   | 3400                  | 92.00%  |
+| swissqstakepoolsw                            | 1700                  | 91.71%  |
+| top                                          | 14700                 | 91.48%  |
+| justice.immortal.betanet                     | 12101                 | 91.45%  |
+| vlad-validator.test                          | 6700                  | 91.39%  |
+| huglester.betanet                            | 7300                  | 91.38%  |
+| d1.betanet                                   | 2400                  | 90.50%  |
+| volvos60909                                  | 13001                 | 90.46%  |
+| goodstake2                                   | 3200                  | 90.41%  |
+| mutedtommy-staking-pool-2.stakehouse.betanet | 2200                  | 89.95%  |
+| pool.certusone.betanet                       | 2600                  | 89.85%  |
+| cypherhunter.betanet                         | 2201                  | 89.78%  |
+| anonstake                                    | 12301                 | 89.74%  |
+| agrestus.betanet                             | 2500                  | 89.56%  |
+| andrew\_builder.betanet                      | 3000                  | 89.50%  |
+| stakin                                       | 14600                 | 89.38%  |
+| nodeasy.test                                 | 11602                 | 89.27%  |
+| abc.alphabet1.betanet                        | 12400                 | 89.20%  |
+| bisontrails.stakehouse.betanet               | 5302                  | 89.14%  |
+| stakingfund                                  | 8100                  | 88.83%  |
+| swimmingpool                                 | 1700                  | 88.47%  |
+| stake2earnfunds                              | 1700                  | 88.18%  |
+| ujjjoshipooldeux                             | 2700                  | 88.04%  |
+| farm                                         | 16902                 | 87.92%  |
+| 777stakes                                    | 8200                  | 87.90%  |
+| averonix                                     | 3500                  | 87.66%  |
+| c2.bibiwang.betanet                          | 10302                 | 87.63%  |
+| alexg                                        | 1901                  | 87.38%  |
+| zpool                                        | 3800                  | 87.21%  |
+| bisonshark.betanet                           | 1701                  | 86.54%  |
+| dog.bears.betanet                            | 6301                  | 86.00%  |
+| stakeatnovy                                  | 3000                  | 85.83%  |
+| a\_breeze                                    | 700                   | 85.71%  |
+| highstakes                                   | 4101                  | 85.39%  |
+| itokenpool.betanet                           | 3700                  | 85.30%  |
+| sl-he                                        | 14200                 | 83.53%  |
+| felixschulz                                  | 14001                 | 81.92%  |
+| simonhugo                                    | 14202                 | 78.58%  |
+| olaiolsen                                    | 14101                 | 77.32%  |
+| masternode24.betanet                         | 1600                  | 76.75%  |
+| villiamsivertsen                             | 13002                 | 76.70%  |
+| audit\_one                                   | 3900                  | 75.90%  |
+| janliamnilsson                               | 13600                 | 75.85%  |
+| dochpryof                                    | 14401                 | 75.56%  |
+| freshnear                                    | 3301                  | 75.43%  |
+| jaroslavrud                                  | 12401                 | 75.23%  |
+| vova                                         | 7602                  | 74.57%  |
+| launooskuarttu                               | 13301                 | 74.41%  |
+| pool.hogwarts                                | 4101                  | 74.37%  |
+| mutedtommy-staking-pool.stakehouse.betanet   | 500                   | 73.60%  |
+| tommywesley                                  | 13102                 | 72.18%  |
+| zee                                          | 1300                  | 70.77%  |
+| cryptomilion.betanet                         | 700                   | 70.29%  |
+| delight\_pool                                | 10701                 | 69.46%  |
+| fredrik\_pool                                | 8602                  | 66.17%  |
+| oligarr                                      | 12201                 | 65.04%  |
+| c4.nuc001.betanet                            | 800                   | 60.25%  |
+| maxhealth                                    | 1400                  | 57.29%  |
+| valeraverim                                  | 1100                  | 53.09%  |
+| gunray.test                                  | 400                   | 50.00%  |
+| bitcat.stakehouse.betanet                    | 1900                  | 47.89%  |
+| alexb                                        | 300                   | 31.67%  |
+| ablue                                        | 400                   | 17.00%  |
+| aalex                                        | 1101                  | 12.53%  |
+| mutedtommy.stakehouse.betanet                | 100                   | 0.00%   |
+| cher4                                        | 400                   | 0.00%   |
+| alexz01                                      | 700                   | 0.00%   |
+| fredrikmalmqvist                             | 2900                  | 0.00%   |
+| cher3                                        | 400                   | 0.00%   |
+| bitcat                                       | 200                   | 0.00%   |
+| ryabina-validator                            | 400                   | 0.00%   |
+| frapool                                      | 200                   | 0.00%   |
+| slsub                                        | 200                   | 0.00%   |
+| join.zav.betanet                             | 700                   | 0.00%   |
+| stakery                                      | 800                   | 0.00%   |
+| pool.huglester.betanet                       | 1000                  | 0.00%   |
+| stake.afi.betanet                            | 200                   | 0.00%   |
+| c1.bibiwang.betanet                          | 200                   | 0.00%   |
+| vipnamai                                     | 400                   | 0.00%   |
+| bibiwang.betanet                             | 200                   | 0.00%   |
+| 3q\_val                                      | 200                   | 0.00%   |
+| mike.betanet                                 | 200                   | 0.00%   |
 
 
 

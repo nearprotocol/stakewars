@@ -57,6 +57,23 @@ Define the thresholds that trigger alerts, such as:
 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | Jun 9 | 10,000 |
 | [@a_validator](https://explorer.betanet.near.org/accounts/a_validator) | Jun 9 | 10,000 |
 | [@huglester](https://explorer.betanet.near.org/accounts/huglester) | Jun 9 | 10,000 |
+| [@applied](https://explorer.betanet.near.org/accounts/applied) | Jun 17 | 10,000 |
+| [@bitcat.stakehouse.betanet](https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) | Jun 17 | 10,000 |
+| [@mutedtommy.betanet] | (https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) | Jun 17 | 10,000 |
+| [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Jun 17 | 10,000 |
+| [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | Jun 17 | 10,000 |
+| [@alexzz](https://explorer.betanet.near.org/accounts/alexzz) | Jun 17 | 10,000 |
+| [@a.betanet](https://explorer.betanet.near.org/accounts/a.betanet) | Jun 17 | 10,000 |
+| [@freshnears](https://explorer.betanet.near.org/accounts/freshnears) | Jun 17 | 10,000 |
+| [@jazza](https://explorer.betanet.near.org/accounts/jazza) | Jun 17 | 10,000 |
+| [@top](https://explorer.betanet.near.org/accounts/top) | Jun 17 | 10,000 |
+| [@joejoen.betanet](https://explorer.betanet.near.org/accounts/joejoen.betanet) | Jun 17 | 10,000 |
+| [@joesixpack.betanet](https://explorer.betanet.near.org/accounts/joesixpack.betanet) | Jun 17 | 10,000 |
+| [@blazenet](https://explorer.betanet.near.org/accounts/blazenet) | Jun 17 | 10,000 |
+| [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | Jun 17 | 10,000 |
+| [@c2.bibwang.betanet](https://explorer.betanet.near.org/accounts/c2.bibwang.betanet) | Jun 17 | 10,000 |
+| [@nodeasy.test](https://explorer.betanet.near.org/accounts/nodeasy.test) | Jun 17 | no staking pool |
+
 
 
 ## Contribution Opportunities
@@ -73,10 +90,13 @@ Once your work is done, you will be added to the list below. Please note that re
 ### List of available contributions
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Language |
-| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | --- | ---- |
-| Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | - | - | - | 1000 | 10% | Any |
-| Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | - | - | - | 1000 | 10% | Any |
+| -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | ----------- | -------- |
+| Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | @masknetgoal634 | Jun 11 2020 | [Github](https://github.com/masknetgoal634/near-prometheus-exporter/blob/master/guide/GUIDE.md) | 1,100* | 10% | EN |
+| Run a monitoring platform | Same as above | @narniec | Jun 14 2020 | [Medium](https://link.medium.com/C82TyDMXo7) | 1,000 | 10% | RU |
+| Run a monitoring platform | Same as above | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/c0b9d21eba3d) | 1,000 | 10% | CN |
+| Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 
+\*Including 10% update reward
 
 ## Previous Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-May 28th 2020 update: quickstart updated
+June 16th 2020 update: troubleshooting page added [here](troubleshooting.md)!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

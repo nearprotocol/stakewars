@@ -78,6 +78,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/59618272?s=400&u=54f6926d571cae56797a4d3555a3d1a9c84788c8&v=4" width="40"> | kokos | secures Near from covid | @covid.betanet | 1% | UA | [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/cocos-anti-covid) | YES |
 | <img src="https://raw.githubusercontent.com/calify/IOSG/master/IOSG.png" width="40"> | [IOSG](https://iosg.vc) | Thesis and Community Driven | @iosgvc.betanet | 10% | CN | [@iosgvc.betanet](https://explorer.betanet.near.org/accounts/iosgvc.betanet) | yes |
+| <img src="https://www.kruptosnomisma.org/gallery_gen/be6a3702672f8947247d859b06035ec4.png" width="40"> | [Kruptos Nomisma](https://www.kruptosnomisma.org) | Crypto's - ICO's - Nodes | @joesixpack.betanet | 1% | CH | [@ou812](https://explorer.betanet.near.org/accounts/ou812) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

@@ -87,6 +87,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://raw.githubusercontent.com/iammelea/logs_melea/38cd50835125f5cce30741666e0199d1ec07198a/melea_cubo.svg" width="60"> | [melea](http://melea.xyz/) | Safe and trustworthy validator service, currently Validating in Cosmos, Solana, Iris, eMoney, KaVa → soon: Near, Nucypher, Coda & more. Validating blocks since 2017. | @melea.betanet | 10% | ES | [@meleapool](https://explorer.betanet.near.org/accounts/meleapool) | YES |
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | Yes |
 | | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | yes |
+| <img src="https://github.com/stakewolf/logos/blob/master/stakewolf%20logo%20bw.png" width="50"> | [stakewolf](http://stakewolf.com/) | The validation service you are looking for, secure and reliable. | [@stakewolf.test](https://wallet.betanet.nearprotocol.com/profile/stakewolf.test) | 10% | ES | [@stakewolf_pool](https://explorer.betanet.near.org/accounts/stakewolf_pool) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

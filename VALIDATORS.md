@@ -203,6 +203,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
 | :D | hekit-cyber-pool |build crypto future | @hekit.betanet | 10% | UA | | |
+| ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
 
 
 Notes:

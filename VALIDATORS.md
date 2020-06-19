@@ -90,6 +90,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://github.com/stakewolf/logos/blob/master/stakewolf%20logo%20bw.png" width="50"> | [stakewolf](http://stakewolf.com/) | The validation service you are looking for, secure and reliable. | [@stakewolf.test](https://wallet.betanet.nearprotocol.com/profile/stakewolf.test) | 10% | ES | [@stakewolf_pool](https://explorer.betanet.near.org/accounts/stakewolf_pool) | YES |
 | | Zpool | Stake wars | [@zpooll.betanet](https://explorer.betanet.near.org/accounts/zpooll.betanet) | 10% | CN |[@zpooll](https://explorer.betanet.near.org/accounts/zpooll)| Yes |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | 10% | CN | [@wetez](https://explorer.betanet.near.org/accounts/wetez) | yes |
+| <img src="https://scx2.b-cdn.net/gfx/news/hires/2019/newstudyhelp.jpg" width="40"> | Phenom | Phenomenal fisherman | @fisherman.betanet | 2% | - | [@phenom](https://explorer.betanet.near.org/accounts/phenom) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

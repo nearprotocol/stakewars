@@ -81,6 +81,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://www.kruptosnomisma.org/gallery_gen/be6a3702672f8947247d859b06035ec4.png" width="40"> | [Kruptos Nomisma](https://www.kruptosnomisma.org) | Crypto's - ICO's - Nodes | @joesixpack.betanet | 1% | CH | [@ou812](https://explorer.betanet.near.org/accounts/ou812) | YES |
 | | isillien | Pool staking is easy with Near | @isillien.betanet | 10% | LT | [@isillien](https://explorer.betanet.near.org/accounts/isillien) | yes |
 | | VIPnamai | NotSoSimpleStaking | @vipnamai.betanet | 10% | LT | [@vipstakes](https://explorer.betanet.near.org/accounts/vipstakes) | yes |
+| | Alex | Stake here | [@alexzz.betanet](https://explorer.betanet.near.org/accounts/alexzz.betanet) | 10% | CN |[@alexzz](https://explorer.betanet.near.org/accounts/alexzz)| Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -95,7 +96,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://bi23.com/bi23.svg" width="40"> | [Bi23 Labs](https://bi23.com) | Bi23 focuses on the blockchain and crypto-assets,providing users with Staking and DeFi services. | @bi23.betanet | 10% | CA | [@bi23_validator](https://explorer.betanet.near.org/accounts/bi23_validator) | no |
 | | Plex | Don't Trust. Validate. | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 6% | KR🇰🇷 | [@plex2](https://explorer.betanet.near.org/accounts/plex2) | no |
 | <img src="https://i.imgur.com/ji5j63s.png" width="40"> | Farmers | Everyone is welcome | @pony.test | 1% | Countryside | [@farm](https://explorer.betanet.near.org/accounts/farm) | no |
-| | Alex | Stake here | [@alexzz.betanet](https://explorer.betanet.near.org/accounts/alexzz.betanet) | 10% | CN |[@alexzz](https://explorer.betanet.near.org/accounts/alexzz)| NO |
 | <img src="https://pbs.twimg.com/profile_images/780076084452855808/jIzkJtJ8_400x400.jpg" width="40"> | [sebytza05](https://twitter.com/sebytza05) | Stake with sebytza05 | @sebytza05_val.betanet | 10% | RO | [@sebytza05](https://explorer.betanet.near.org/accounts/sebytza05_val.betanet) | no |
 | <img src="https://pbs.twimg.com/profile_images/1193309662071930880/FLUelAy-_400x400.jpg" width="40"> | [alexDcrypto](https://twitter.com/AlexDcrypto) | Come And Stake | @alexdcrypto-validator.betanet | 10% | Ro | [@alexDcrypto](https://explorer.betanet.near.org/accounts/alexdcrypto-validator.betanet) | no |
 | | tanderug | Easy Money - stake it here  | @tanderug5.betanet | 10% | RU | [@get_rich](https://explorer.betanet.near.org/accounts/get_rich) | no |

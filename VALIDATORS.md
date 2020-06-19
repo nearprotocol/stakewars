@@ -88,6 +88,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | Yes |
 | | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | yes |
 | <img src="https://github.com/stakewolf/logos/blob/master/stakewolf%20logo%20bw.png" width="50"> | [stakewolf](http://stakewolf.com/) | The validation service you are looking for, secure and reliable. | [@stakewolf.test](https://wallet.betanet.nearprotocol.com/profile/stakewolf.test) | 10% | ES | [@stakewolf_pool](https://explorer.betanet.near.org/accounts/stakewolf_pool) | YES |
+| | Zpool | Stake wars | [@zpooll.betanet](https://explorer.betanet.near.org/accounts/zpooll.betanet) | 10% | CN |[@zpooll](https://explorer.betanet.near.org/accounts/zpooll)| Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -138,7 +139,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
-| | Zpool | Stake wars | [@zpooll.betanet](https://explorer.betanet.near.org/accounts/zpooll.betanet) | 10% | CN |[@zpooll](https://explorer.betanet.near.org/accounts/zpooll)| NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

@@ -85,6 +85,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR | [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Yes |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | @alextur_pool | yes |
 | <img src="https://raw.githubusercontent.com/iammelea/logs_melea/38cd50835125f5cce30741666e0199d1ec07198a/melea_cubo.svg" width="60"> | [melea](http://melea.xyz/) | Safe and trustworthy validator service, currently Validating in Cosmos, Solana, Iris, eMoney, KaVa → soon: Near, Nucypher, Coda & more. Validating blocks since 2017. | @melea.betanet | 10% | ES | [@meleapool](https://explorer.betanet.near.org/accounts/meleapool) | YES |
+| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -92,7 +93,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
-| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | No |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | no |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | 10% | CN | [@wetez](https://explorer.betanet.near.org/accounts/wetez) | no |
 | <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | 1% | ID | [@pool](https://explorer.betanet.near.org/accounts/pool) |no |

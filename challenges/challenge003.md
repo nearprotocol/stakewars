@@ -98,6 +98,9 @@ Once your work is done, you will be added to the list below. Please note that re
 
 \*Including 10% update reward
 
+## Next Challenge
+Keep your warchest and dynamically keep one seat: [challenge004](challenge004.md)
+
 ## Previous Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)
 

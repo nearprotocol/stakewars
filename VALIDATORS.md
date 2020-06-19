@@ -84,6 +84,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Alex | Stake here | [@alexzz.betanet](https://explorer.betanet.near.org/accounts/alexzz.betanet) | 10% | CN |[@alexzz](https://explorer.betanet.near.org/accounts/alexzz)| Yes |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR | [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Yes |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | @alextur_pool | yes |
+| <img src="https://raw.githubusercontent.com/iammelea/logs_melea/38cd50835125f5cce30741666e0199d1ec07198a/melea_cubo.svg" width="60"> | [melea](http://melea.xyz/) | Safe and trustworthy validator service, currently Validating in Cosmos, Solana, Iris, eMoney, KaVa → soon: Near, Nucypher, Coda & more. Validating blocks since 2017. | @melea.betanet | 10% | ES | [@meleapool](https://explorer.betanet.near.org/accounts/meleapool) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

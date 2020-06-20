@@ -58,36 +58,37 @@ If this result is not empty, <POOL_ID> will be in the Rollover set.
 
 
 ### Monitor the next set with the JSON RPC:
-Similar to the above, use
+Similar to the commands above, use
 ```
 curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.next_validators[] | select(.account_id | contains ("<POOL_ID>"))'
 ```
 If the result is not empty, <POOL_ID> will be in the next validators set.
 
-After the end of the epoch you can also find the reason, by using the command
+You can also investigate the reason why a node is not in the current set, by using the command
 ```
 curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.prev_epoch_kickout[] | select(.account_id | contains ("<POOL_ID>"))' | jq .reason
 ```
 Similar to the other command above above:
-- `jq -c '.result.prev_epoch_kickout` visualizes the previous set kick out
-- `jq .reason` filters the reason, which may be insufficient stake or insufficient number of blocks generated
+- `jq -c '.result.prev_epoch_kickout` filters the previous epoch set kick out
+- `jq .reason` filters the reason, eg insufficient stake or insufficient number of blocks generated
 
 ### Monitor the epoch progress
-You have two main sources of information:
-- the current block height
-- the current epoch start
+- get the current block height
+- get the current epoch start
 
 As an example, you can use the command
 ```
 curl https://rpc.betanet.near.org/status | jq .sync_info.latest_block_height
 ```
-This command will generate an integer of the current block height.
+to generate an integer of the current block height.
 
-As of today, you can retrieve the `epoch_start` only from the JSON RPC:
+As of today, you can retrieve the `epoch_start` from the JSON RPC:
 ```
 curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq .result.epoch_start_height
 ```
-This query will generate an integer with the block that started the current epoch
+This query will generate an integer with the block number that started the current epoch
+
+As a final step, estimate how many blocks are left in the current epoch by subtracting the `latest_block_height` from `epoch_start_height + 10000`.
 
 **Heads up:** BetaNet, TestNet and MainNet have different epoch lengths:
 
@@ -97,21 +98,19 @@ This query will generate an integer with the block that started the current epoc
 | TestNet | 43,200 |
 | MainNet | 43,200 |
 
-You can estimate the advancement of the current epoch by subtracting the `latest_block_height` from `epoch_start_height + 10000`.
-
 ### Monitor the seat price
-Identify the current seat price, by using near-shell, or calculating it yourself.
+Measure or calculate yourself the cost of a seat to become validator.
 
-With near-shell you can know:
+As an example, you may use near-shell to know:
 - the current epoch seat price with `near validators current | awk '/price/ {print substr($6, 1, length($6)-2)}'`
 - the next epoch seat price price with `near validators next | awk '/price/ {print substr($7, 1, length($7)-2)}'`
 - the estimated t+2 seat price with `near proposals | awk '/price =/ {print substr($15, 1, length($15)-1)}'`
 
 
 ## 2.Manage the seat price
-The challenge is complete when you can dynamically adjust the locked balance of your staking pool to maintain **one seat**.
+This challenge is complete when you can dynamically adjust the locked balance of your staking pool, and maintain **one seat**.
 
-An example is to use the commands `stake` and `unstake` with near shell, dynamically locking your funds.
+You can use the commands `stake` and `unstake` with near shell, dynamically locking your funds:
 ```
 near call <POOL_ID> stake '{"amount": "<STAKE_AMOUNT>"}' --accountId <WARCHEST_ID>
 ```
@@ -120,15 +119,15 @@ Where:
 - `STAKE_AMOUNT` is calculated from the data collected above
 - `WARCHEST_ID` is the account that you use to delegate funds to your pool
 
-Similarly, if your current stake provides two seats or more, your funds should be unstaked.
+If your current stake provides two seats or more, your funds should be unstaked and held in the warchest balance.
 
 Prove that your _warchest_ is deployed, providing a list of 4 transactions that staked or unstaked funds based on the seat price. Reply to the [Issue #500](https://github.com/nearprotocol/stakewars/issues/500) to receive 100,000 extra betanet tokens delegated to your pool.
 
-**Heads up:** we will run our scripts too, and will un-delegate the 100,000 tokens from your pool if:
-- you retain **two or more seats** for two epochs in a row
-- you retain **two or more seats** for ten epochs in total
+**Heads up:** we will run our monitoring scripts too, and will un-delegate the 100,000 tokens from your pool if:
+- you retain **two or more seats** for three epochs in a row
+- you retain **two or more seats** for 15 epochs in total
 
-We suggest to use NEAR's delegated tokens as your main stake in the pool, and use your own reserves (earned from challenges and contributions) for your warchest.
+Overall, we suggest to use NEAR's delegated tokens as your main stake in the pool, and deposit your own token reserves (earned from challenges and contributions) in the warchest account, within the pool.
 The goal is to have 100 validator seats assigned to 100 different validators.
 
 

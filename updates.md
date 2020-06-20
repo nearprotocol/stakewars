@@ -1,5 +1,9 @@
 # UPDATES
 
+## UPDATE June 19nd
+
+* Added the Challenge 004, to learn how to dynamically adjust the stake of a pool: [Challenge004](/challenges/challenge004.md)
+
 ## UPDATE June 17th
 
 * Leaderboard modified: now it counts only expected blocks and uptime.

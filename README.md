@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-June 16th 2020 update: troubleshooting page added [here](troubleshooting.md)!
+June 19th 2020 update: New challenge added [here](/challenges/challenge004.md)!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -93,3 +93,5 @@ List of community challenges:
   Become a validator and manage your seat
 3. June 8th 2020, [Challenge 003](challenges/challenge003.md)
   Monitor your node and setup automated alerts
+4. June 19th 2020, [Challenge 004](challenges/challenge004.md)
+  Dynamically adjust your stake

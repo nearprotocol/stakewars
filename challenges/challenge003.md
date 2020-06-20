@@ -73,6 +73,7 @@ Define the thresholds that trigger alerts, such as:
 | [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | Jun 17 | 10,000 |
 | [@c2.bibwang.betanet](https://explorer.betanet.near.org/accounts/c2.bibwang.betanet) | Jun 17 | 10,000 |
 | [@nodeasy.test](https://explorer.betanet.near.org/accounts/nodeasy.test) | Jun 17 | no staking pool |
+| [@wetez](https://explorer.betanet.near.org/accounts/wetez) | Jun 17 | 10,000 |
 
 
 

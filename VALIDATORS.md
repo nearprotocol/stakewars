@@ -207,7 +207,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
 | :D | hekit-cyber-pool |build crypto future | @hekit.betanet | 10% | UA | | |
 | ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
-
+| <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| ubikcapital | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

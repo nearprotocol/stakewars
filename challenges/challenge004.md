@@ -1,8 +1,8 @@
 # Stake Wars Challenge 004
-Published on: June 19 2020
+Published on: June 22 2020
 
 Create a warchest of staked tokens, and dynamically maintain **no more than one seat**.
-This challenge is designed to learn how to monitor the minimum stake to become a validator, and dynamically manage your staking pool. The achievement is to manage a reserve of tokens, the _warchest_, that you can leverage if your validator risks to be kicked out from the current set for insufficient stake.
+This challenge is designed to learn how to monitor the minimum stake to become a validator, and dynamically manage your staking pool. Your achievement will be to control a liquid reserve of tokens, the _warchest_, that you can leverage if your validator risks to be kicked out from the current set for insufficient stake.
 
 ## Acceptance Criteria
 
@@ -25,26 +25,26 @@ Use
 near validators current | awk '/<POOL_ID>/ {print $4}'
 ```
 This command will generate a string with an integer in NEAR tokens, where:
-- `near validators current` shows the current set of validators
-- `awk '/<POOL_ID> {print $4}'` will filter by the POOL_ID, and will print an integer with its current stake
+- `near validators current` is used to show the current set of validators
+- `awk '/<POOL_ID> {print $4}'` filters by POOL_ID, and prints an integer with its current stake
 
 ### Monitor the current set with the RPC
 Use
 ```
 curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.current_validators[] | select(.account_id | contains ("<POOL_ID>"))' | jq .stake
 ```
-This command Will query the JSON RPC with:
+This command query the JSON RPC with:
 - `"method": "validators"`
 - `jq -c '.result.current_validators` to visualize only the current set
 - `select(.account_id | contains ("<POOL_ID>"))'` to filter only <POOL_ID> from the results
-- `jq .stake` to filter again the results and take only the total stake in YoctoNEAR
+- `jq .stake` to filter again via jq the results and take only the total stake in YoctoNEAR
 
-The result will print a more accurate number representing the stake of the <POOL_ID>.
+If compared with near-shell, this query provides a more accurate stake of the <POOL_ID>.
 
 You can use similar filters to check if your pool will be in the next set or not:
 
 ### Monitor the next set with near-shell
-Use
+Use the command below to see if your node will lose its seat in the next epoch:
 ```
 near validators next | grep "Kicked out" | grep "<POOL_ID>"
 ```
@@ -54,7 +54,7 @@ Alternatively, you can use
 ```
 near proposals | grep "Rollover" | grep "<POOL_ID>"
 ```
-If this result is not empty, <POOL_ID> will be in the Rollover set.
+If this result is not empty, <POOL_ID> will be in the Rollover set, and will maintain the validator seat.
 
 
 ### Monitor the next set with the JSON RPC:
@@ -64,7 +64,7 @@ curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": 
 ```
 If the result is not empty, <POOL_ID> will be in the next validators set.
 
-You can also investigate the reason why a node is not in the current set, by using the command
+The RPC provides data on the previous epoch, to investigate the reason why a node is not in the current set:
 ```
 curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.prev_epoch_kickout[] | select(.account_id | contains ("<POOL_ID>"))' | jq .reason
 ```
@@ -80,7 +80,7 @@ As an example, you can use the command
 ```
 curl https://rpc.betanet.near.org/status | jq .sync_info.latest_block_height
 ```
-to generate an integer of the current block height.
+to return an integer of the current block height.
 
 As of today, you can retrieve the `epoch_start` from the JSON RPC:
 ```
@@ -121,15 +121,14 @@ Where:
 
 If your current stake provides two seats or more, your funds should be unstaked and held in the warchest balance.
 
-Prove that your _warchest_ is deployed, providing a list of 4 transactions that staked or unstaked funds based on the seat price. Reply to the [Issue #500](https://github.com/nearprotocol/stakewars/issues/500) to receive 100,000 extra betanet tokens delegated to your pool.
+To prove that your _warchest_ is deployed, provide a list of 4 transactions that staked or unstaked funds based on the seat pric following these principles. Reply to this [Form](https://nearprotocol1001.typeform.com/to/x4Bval) to receive 100,000 extra betanet tokens delegated to your pool and begin the challenge.
 
 **Heads up:** we will run our monitoring scripts too, and will un-delegate the 100,000 tokens from your pool if:
 - you retain **two or more seats** for three epochs in a row
 - you retain **two or more seats** for 15 epochs in total
 
-Overall, we suggest to use NEAR's delegated tokens as your main stake in the pool, and deposit your own token reserves (earned from challenges and contributions) in the warchest account, within the pool.
-The goal is to have 100 validator seats assigned to 100 different validators.
-
+Overall, we suggest to use NEAR's delegated tokens as your main stake in the pool, and keep your own token reserves (earned from previous challenges and contributions) as liquid tokens within the pool.
+Once you are running your _warchest_, reply to the [Issue #500](https://github.com/nearprotocol/stakewars/issues/500) posting your accomplishment. Use also the same issue if we undelegated your funds, and you want to try again.
 
 ## Contribution Opportunities
 

@@ -1,6 +1,6 @@
 # UPDATES
 
-## UPDATE June 19nd
+## UPDATE June 22nd
 
 * Added the Challenge 004, to learn how to dynamically adjust the stake of a pool: [Challenge004](/challenges/challenge004.md)
 

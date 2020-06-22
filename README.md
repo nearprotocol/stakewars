@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-June 19th 2020 update: New challenge added [here](/challenges/challenge004.md)!
+June 22th 2020 update: New challenge added [here](/challenges/challenge004.md)!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

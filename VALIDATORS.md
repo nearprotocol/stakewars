@@ -76,6 +76,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | yes |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
+| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -147,7 +148,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR | | |
 | | Gamah | Home server node! | @gamah.betanet | -% | FR | | |
 | | seanq (technovatic) | Team of 7 crypto developers across USA, UA and LatinAmerica | @seanq.betanet | -% | US | | |
-| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | -% | RU | | |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/597px-SARS-CoV-2_without_background.png" width="40"> | Covid-20 | Stake at me | @covid.betanet | 10% | UA | | |
 | | Blaze | - | @blaze.betanet | -% | US | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |

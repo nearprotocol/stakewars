@@ -73,13 +73,6 @@ Define the thresholds that trigger alerts, such as:
 | [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | Jun 17 | 10,000 |
 | [@c2.bibwang.betanet](https://explorer.betanet.near.org/accounts/c2.bibwang.betanet) | Jun 17 | 10,000 |
 | [@nodeasy.test](https://explorer.betanet.near.org/accounts/nodeasy.test) | Jun 17 | no staking pool |
-| [wetez](https://explorer.betanet.near.org/accounts/wetez) | Jun 19 | 10,000 |
-| [@masternode24](https://explorer.betanet.near.org/accounts/masernode24) | Jun 23 | 10,000 |
-| [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | Jun 23 | 10,000 |
-| [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/kokos-anti-covid) | Jun 23 | 10,000 |
-| [@zeropool](https://explorer.betanet.near.org/accounts/zeropool) | Jun 23 | 10,000 |
-| [@ryabina](https://explorer.betanet.near.org/accounts/ryabina) | Jun 23 | 10,000 |
-| [@sl1sub](https://explorer.betanet.near.org/accounts/sl1sub) | Jun 23 | 10,000 |
 
 
 
@@ -101,7 +94,9 @@ Once your work is done, you will be added to the list below. Please note that re
 | Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | @masknetgoal634 | Jun 11 2020 | [Github](https://github.com/masknetgoal634/near-prometheus-exporter/blob/master/guide/GUIDE.md) | 1,100* | 10% | EN |
 | Run a monitoring platform | Same as above | @narniec | Jun 14 2020 | [Medium](https://link.medium.com/C82TyDMXo7) | 1,000 | 10% | RU |
 | Run a monitoring platform | Same as above | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/c0b9d21eba3d) | 1,000 | 10% | CN |
+| Run a monitoring platform | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-compose.md) | 1,000 | 10% | CN |
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
+| Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |
 
 \*Including 10% update reward
 

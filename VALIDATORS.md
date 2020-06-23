@@ -97,6 +97,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | DreamStaker | On your marks, get set, STAKE!  | @dreamstaker.betanet | 10% | RU | [@valeraverim](https://explorer.betanet.near.org/accounts/valeraverim) | yes |
 | <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| @ubik.betanet | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
 | <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
+| <img src="http://neozaru.com/avatar.png" width="40" alt="neozaru" title="neozaru"> | neozaru | Decentralized sheep | [@neozaru14.betanet](https://explorer.betanet.near.org/accounts/neozaru14.betanet) | 0.1% | FR | [@neozaru.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neozaru.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -160,7 +161,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG | | |
 | | Gamah | Home server node! | @gamah.betanet | -% | FR | | |
 | | seanq (technovatic) | Team of 7 crypto developers across USA, UA and LatinAmerica | @seanq.betanet | -% | US | | |
-| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | -% | RU | | |
 | | Blaze | - | @blaze.betanet | -% | US | | |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |

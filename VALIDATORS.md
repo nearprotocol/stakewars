@@ -96,6 +96,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Plex | Don't Trust. Validate. | [@jjangg96.betanet](https://explorer.betanet.near.org/accounts/jjangg96.betanet) | 6% | KR🇰🇷 | [@plex2](https://explorer.betanet.near.org/accounts/plex2) | YES |
 | <img src="https://avatars0.githubusercontent.com/u/65075036?s=460&u=e42cf776a0a449f55dce14c4c230eb2d1bfade6a&v=4"> | DreamStaker | On your marks, get set, STAKE!  | @dreamstaker.betanet | 10% | RU | [@valeraverim](https://explorer.betanet.near.org/accounts/valeraverim) | yes |
 | <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| @ubik.betanet | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
+| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

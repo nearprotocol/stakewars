@@ -22,7 +22,7 @@ NEAR team, and other Stake Wars participants, will keep an eye on the validators
 This step of the challenge requires that you have at least 100 tokens alread delegated to your staking pool. If you participated in the previous Stake Wars, and you already received BetaNet tokens in the past weeks, you can delegate all of them to your own pool.
 
 Understand how to use the comamnd `near delete-key` from near-shell, and lock on your staking pool. Otherwise your pool will be listed, but you will not receive any delegation.
-To verify if your pool is locked, use the command `near keys stakingPool_ID | grep length`. If the result is different than `[length]: 0`, your pool is not unlocked.
+To verify if your pool is locked, use the command `near keys stakingPool_ID | grep length`. If the result is different than `[length]: 0`, your pool is not locked.
 
 ## 3.Check your validator status
 You have five different ways to verify that your staking pool is successfully working, and you are a validator:

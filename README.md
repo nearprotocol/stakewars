@@ -93,5 +93,5 @@ List of community challenges:
   Become a validator and manage your seat
 3. June 8th 2020, [Challenge 003](challenges/challenge003.md)
   Monitor your node and setup automated alerts
-4. June 19th 2020, [Challenge 004](challenges/challenge004.md)
+4. June 22nd 2020, [Challenge 004](challenges/challenge004.md)
   Dynamically adjust your stake

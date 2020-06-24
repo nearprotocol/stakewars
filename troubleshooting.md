@@ -18,6 +18,7 @@ Contributions and corrections are welcome!
 3. I get a `KeyNotFound` error if I try to use near-shell
 4. I get a timeout error from the RPC after I send a command
 5. I had a wallet created on [nearprotocol.com](http://nearprotocol.com), and now I can't access it anymore
+6. I try to login with near-shell, but I receive the `ERR_CONNECTION_REFUSED` error on the website
 
 ### Staking-related issues
 1. I used `near send` instead of `near call` to my staking pool
@@ -339,6 +340,42 @@ Your seed passphrase is separated by `%20`, so you can manually separate the key
 | DevNet | https://wallet.devnet.near.org |
 
 Trying to use the right passphrase with the wrong wallet URL will produce no results.
+
+### 2.6. I try to login with near-shell, but I receive the `ERR_CONNECTION_REFUSED` error on the website
+You may encounter this error if you copy/paste the url from the login window. The login dialog may be similar to the one below:
+```
+ ~ $ near login
+Using options: {
+  networkId: 'betanet',
+  nodeUrl: 'https://rpc.betanet.near.org',
+  contractName: undefined,
+  walletUrl: 'https://wallet.betanet.near.org',
+  helperUrl: 'https://helper.betanet.near.org',
+  helperAccount: 'betanet',
+  useLedgerKey: "44'/397'/0'/0'/1'",
+  initialBalance: null
+}
+
+Please authorize NEAR Shell on at least one of your accounts.
+
+If your browser doesn't automatically open, please visit this URL
+https://wallet.betanet.near.org/login/?title=NEAR+Shell&public_key=ed25519%3AAvQK7mV22ua7QW2Me4BCGzVL2XBMehk1oH6XUuAmQ5iZ&success_url=http%3A%2F%2F127.0.0.1%3A5000
+Please authorize at least one account at the URL above.
+
+Which account did you authorize for use with NEAR Shell?
+Enter it here (if not redirected automatically):
+```
+Near-shell generates an URL to automatically redirect to `http%3A%2F%2F127.0.0.1%3A5000`, generating the error if your near-shell is not running locally but on a remote server.
+
+**Remediation**
+This error has no impact on a successful login. Simply return to the shell window, and type the username you want to use on near-shell in the propmt screen. If successful, you should see a message similar to the one below:
+
+```
+Enter it here (if not redirected automatically):
+nearkat.betanet
+Logged in as [ nearkat.betanet ] with public key [ ed25519:AvQK7m... ] successfully
+
+```
 
 
 ## 3. Staking-related issues

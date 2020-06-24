@@ -73,6 +73,16 @@ Define the thresholds that trigger alerts, such as:
 | [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | Jun 17 | 10,000 |
 | [@c2.bibwang.betanet](https://explorer.betanet.near.org/accounts/c2.bibwang.betanet) | Jun 17 | 10,000 |
 | [@nodeasy.test](https://explorer.betanet.near.org/accounts/nodeasy.test) | Jun 17 | no staking pool |
+| [wetez](https://explorer.betanet.near.org/accounts/wetez) | Jun 19 | 10,000 |
+| [@masternode24](https://explorer.betanet.near.org/accounts/masernode24) | Jun 23 | 10,000 |
+| [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | Jun 23 | 10,000 |
+| [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/kokos-anti-covid) | Jun 23 | 10,000 |
+| [@zeropool](https://explorer.betanet.near.org/accounts/zeropool) | Jun 23 | 10,000 |
+| [@ryabina](https://explorer.betanet.near.org/accounts/ryabina) | Jun 23 | 10,000 |
+| [@sl1sub](https://explorer.betanet.near.org/accounts/sl1sub) | Jun 23 | 10,000 |
+| [@mathwallet](https://explorer.betanet.near.org/accounts/mathwallet) | Jun 23 | 10,000 |
+| [@stakedpool.staked.test](https://explorer.betanet.near.org/accounts/stakedpool.staked.test) | Jun 24 | 10,000 |
+| [@neozaru.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neozaru.stakehouse.betanet) Jun 24 | 10,000 |
 
 
 

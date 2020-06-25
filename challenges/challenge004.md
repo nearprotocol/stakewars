@@ -3,6 +3,7 @@ Published on: June 22 2020
 
 Create a warchest of staked tokens, and dynamically maintain **no more than one seat**.
 This challenge is designed to learn how to monitor the minimum stake to become a validator, and dynamically manage your staking pool. Your achievement will be to control a liquid reserve of tokens, the _warchest_, that you can leverage if your validator risks to be kicked out from the current set for insufficient stake.
+**Heads Up:** After you complete the script, fill up this form: https://nearprotocol1001.typeform.com/to/x4Bval
 
 ## Acceptance Criteria
 

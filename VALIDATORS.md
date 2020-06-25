@@ -98,6 +98,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| @ubik.betanet | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
 | <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
 | <img src="http://neozaru.com/avatar.png" width="40" alt="neozaru" title="neozaru"> | neozaru | Decentralized sheep | [@neozaru14.betanet](https://explorer.betanet.near.org/accounts/neozaru14.betanet) | 0.1% | FR | [@neozaru.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neozaru.stakehouse.betanet) | YES |
+| <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | To infinity ... and beyond | [@mf.betanet] (https://explorer.betanet.near.org/accounts/mf.betanet) | 10% | RU | [@mfsc](https://explorer.betanet.near.org/accounts/mfsc) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -173,7 +174,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
-| <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |

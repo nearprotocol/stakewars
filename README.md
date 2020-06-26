@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-June 22th 2020 update: New challenge added [here](/challenges/challenge004.md)!
+June 26th 2020 update: TestNet guidelines are live [here](GUIDELINES.md).
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

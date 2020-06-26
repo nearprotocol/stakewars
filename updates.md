@@ -1,5 +1,9 @@
 # UPDATES
 
+## UPDATE June 29th
+
+* Added the guidelines to join TestNet! See them [here](GUIDELINES.md)
+
 ## UPDATE June 22nd
 
 * Added the Challenge 004, to learn how to dynamically adjust the stake of a pool: [Challenge004](/challenges/challenge004.md)

@@ -8,9 +8,9 @@ This is not going to be easy: we will deploy hard forks constantly, we will test
 However, Stake Wars is not about doing things right or wrong. It is mostly about learning how smart contract-based delegation works, and get ready to run NEAR together.
 
 ## Rules
-There are no strict rules, rather guidelines and examples. Judges on NEAR side will rate your participation, and will update the [leaderboard](LEADERBOARD.md) every week with basic node information.
+There are no strict rules, rather guidelines and examples. Judges on NEAR side will rate your participation, and will update the [leaderboard](LEADERBOARD.md) every week.
 
-*If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will exclude you from the competition.*
+_If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will exclude you from the competition._
 
 Here are some examples and we will trust you to follow the spirit of the law:
 
@@ -39,3 +39,28 @@ We want...
 * To put the last year or so of hard work in front of our community to try it out
 * To find glaring flaws in our systems, designs and code
 * To learn what your needs are as part of the validator community
+
+## Additional guidelines to join TestNet
+We are happy to have as many professional validators and distinguished BetaNet node operators to TestNet as we can. However, TestNet network requires additional attention, as we have applications and developers actively using it - which means we can't afford to have nodes offline or not updated.
+
+Stake Wars organizers will reach out directly, proposing to shut down your BetaNet node, and receive delegated tokens on TestNet. There are no specific requirements, however the evaluation will be based on these factors (not in order of importance):
+* your staking pool uptime is in the 90th percentile of the [leaderboard](LEADERBOARD.md)
+* your pool was running for a substantial number of epochs
+* you successfully completed the Stake Wars challenges
+* you are active in the community channels (Discord and the [portal](https://portal.near.org))
+* you actively updated your node and successfully completed BetaNet migrations on Tuesdays
+* you are already a successful validator on other PoS networks
+* you contributed to `nearcore` and other NEAR repositories (submitting issues, finding bugs, improving docs...)
+
+In practical terms, to join TestNet you will have to:
+1. deploy your TestNet staking pool, using the staking pool factory [smart contract](https://explorer.testnet.near.org/accounts/stakingpool)
+2. build and run your TestNet node
+3. submit your information to [this form](https://nearprotocol1001.typeform.com/to/x4Bval). Specify both your BetaNet and TestNet pools, and don't forget to disclose your Github and Discord/Telegram IDs, so it's easier for us to contact you in case of issues
+
+The main differences with BetaNet will be:
+- less frequent updates
+- a different branch of nearcore: [stable](https://github.com/nearprotocol/nearcore/tree/stable)
+- longer epochs (43,200 blocks instead of 10,000)
+
+**Heads up:** TestNet is a permissionless network, so you can deploy your validator node and its staking pool today. However, Stake Wars organizers will delegate TestNet tokens to your pool only after reaching out and discussing your commitment in running the network.
+

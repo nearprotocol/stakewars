@@ -6,7 +6,7 @@ Validators still have to properly run their nodes infrastructure, and get famili
 1. Professionally deploy and run the node
 2. Update the node software
 3. Deploy the Delegation smart contract
-4. Enroll your Validator on the Delegator App
+4. Enroll your Validator
 5. Update the Delegation smart contract
 
 ### 1.Professionally deploy and run the node
@@ -36,7 +36,7 @@ _Note: this part is still work in progress_
 - Stake delegating your BetaNet funds to the contract
 
 
-### 4. Enroll your Validator in the Delegator App
+### 4. Enroll your Validator
 Once your contract is ready, you can issue a pull request to the file [VALIDATORS.md](VALIDATORS.md), including your information at the bottom of the list. This file will automatically enroll your node in the Stake Wars 2.0, and will help users to find your staking pool.
 
 

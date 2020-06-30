@@ -211,6 +211,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
+| :) | xiaoshen | Near the future. | @xiaoshen.betanet | 10% | CN | [@stakepool2.xiaoshen.betanet](https://explorer.betanet.near.org/accounts/stakepool2.xiaoshen.betanet) | YES |
 
 
 Notes:

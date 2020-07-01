@@ -57,6 +57,20 @@ In practical terms, to join TestNet you will have to:
 2. build and run your TestNet node
 3. submit your information to [this form](https://nearprotocol1001.typeform.com/to/x4Bval). Specify both your BetaNet and TestNet pools, and don't forget to disclose your Github and Discord/Telegram IDs, so it's easier for us to contact you in case of issues
 
+You can instantly deploy the staking pool factory with near-shell, using the command:
+```
+near call stakingpool create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30
+```
+Where:
+* `stakingpool` is the staking pool factory contract mentioned above
+* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.stakingpool`
+* `OWNER_ID` is the owner of the pool, who's authorized to change the stake public key and the fees
+* `VALIDATOR_KEY` is the public key found in the file `~/.near/testnet/validator_key.json` on the machine running the node
+* `{"numerator": <X>, "denominator": <Y>}` set the validator fees. To set 10% of fees x=10 and y=100
+* `--amount 30` attaches 30 $NEAR to the transaction, as a reserve to pay the contract storage
+
+**Heads up:** be sure that your validator node and your staking pool have the same ID, as explained [here](troubleshooting.md#11-my-validator-is-in-the-current_validators-set-but-its-not-producing-blocks).
+
 The main differences with BetaNet will be:
 - less frequent updates
 - a different branch of nearcore: [stable](https://github.com/nearprotocol/nearcore/tree/stable)

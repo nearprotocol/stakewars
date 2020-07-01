@@ -146,6 +146,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
+| | Warger |Pay pro bro | @warger01.betanet | 2% | RU |[@warger_sub](https://explorer.betanet.near.org/accounts/warger_sub)| NO|
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -185,7 +186,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
-| | Warger |Pay pro bro | @warger01.betanet | -% | RU | | |
 | | blink | No money - no honey | @neartest2.betanet | 10% | RU | | |
 | <img src="https://i.imgur.com/21fOAek.jpg" width="40"> | Kodvas | Stake is open to everyone! | @kodvas.betanet | 10% | UA |  | |
 | <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |

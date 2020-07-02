@@ -147,7 +147,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Abstract | Description                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
 | Monitor the Stake | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to monitor your stake, and the current seat price. The goal is to help users integrate this system with their monitoring platform, such as Grafana or Datadog. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other languages are encouraged, but considered case by case basis. | @narniec | Jun 23 2020 | [Medium](https://link.medium.com/ycHhCnWBy7 ) | 1,000 | 15% | RU |
-| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | - | - | - | 2,500 | 10% | - |
+| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 
 ## Previous Challenge
 Monitor your node health, and setup automated email alerts: [challenge003](challenge003.md)

@@ -49,7 +49,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars0.githubusercontent.com/u/34697173?s=460&u=c428e7758828eb5d3fbd66a6ea8e7040dc841f45&v=4" width="40"> | Averonix | Validator in a galaxy far far away | @averonix.betanet | 10% | RU |@averonix | yes |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | @ru.betanet | 10% | RU | [@top](https://explorer.betanet.near.org/accounts/top) | YES |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | yes |
-|  | goodstake | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake](https://explorer.betanet.near.org/accounts/goodstake) | yes |
+|  | goodstake2 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake2](https://explorer.betanet.near.org/accounts/goodstake2) | yes |
 | :rocket:  | YYYYYYYYYYYYY | [Y so serious](https://keybase.io/yyyyyyyyyyyyy)                                              | [@yyyyyyyyyyyyy.betanet](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy.betanet) | 10% | RU | [@yyyyyyyyyyyyy1](https://explorer.betanet.near.org/accounts/yyyyyyyyyyyyy1) | yes |
 | <img src="https://avatars3.githubusercontent.com/u/41889754?s=460&u=4" width="40"> | Agrestus |  | @agrestus.betanet | 9% | BY |  [@awesome](https://explorer.betanet.near.org/accounts/awesome) | yes |
 |<img src="https://66.media.tumblr.com/0c5c8e8d155dc32908529547af67de0b/tumblr_mewoq3YrGH1qbwnuho4_540.jpg" width="40"> | @ujjjoshi.betanet | may the force  be with you | [@ujjjoshi.betanet](https://explorer.betanet.near.org/accounts/ujjjoshi.betanet) | 5% | FR | | yes|
@@ -98,6 +98,10 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| @ubik.betanet | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
 | <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
 | <img src="http://neozaru.com/avatar.png" width="40" alt="neozaru" title="neozaru"> | neozaru | Decentralized sheep | [@neozaru14.betanet](https://explorer.betanet.near.org/accounts/neozaru14.betanet) | 0.1% | FR | [@neozaru.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neozaru.stakehouse.betanet) | YES |
+| | Breeze | Stake of Zone | @zebra.betanet | 10% | CN | [@zebra](https://explorer.betanet.near.org/accounts/zebra) | Yes |
+| <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | To infinity ... and beyond | [@mf.betanet](https://explorer.betanet.near.org/accounts/mf.betanet) | 10% | RU | [@mfsc](https://explorer.betanet.near.org/accounts/mfsc) | YES |
+| :) | xiaoshen | Near the future. | @xiaoshen.betanet | 10% | CN | [@stakepool2.xiaoshen.betanet](https://explorer.betanet.near.org/accounts/stakepool2.xiaoshen.betanet) | YES |
+| <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet | 5% | CN |  [@youlaiwuqu1.stakehouse.betanet](https://explorer.betanet.near.org/accounts/youlaiwuqu1.stakehouse.betanet)  | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -140,11 +144,11 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | jukblr1991 | World of stake  | @kvasik.betanet | 10% | BY | [@kvasnear](https://explorer.betanet.near.org/accounts/kvasnear) | no |
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
 | <img src="https://i.imgur.com/ZwHpy1V.jpg" width="40"> | Cloudpost Pool | Let's build a better future together with NEAR protocol | @cloudpost | 10% | RU | [@cloudpost_pool](https://explorer.betanet.near.org/accounts/cloudpost_pool) | no |
-| | Breeze | Stake of Zone | @breeze.betanet | 10% | CN | [@a_breeze](https://wallet.betanet.near.org/profile/a_breeze) | no |
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
+| | Warger |Pay pro bro | @warger01.betanet | 2% | RU |[@warger_sub](https://explorer.betanet.near.org/accounts/warger_sub)| NO|
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
@@ -173,7 +177,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | System_S | Make Staking Great Again! | @system_s.betanet | -% | RU | | |
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
-| <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
@@ -185,7 +188,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://previews.123rf.com/images/uasumy/uasumy1706/uasumy170600018/80558815-letter-b-logo-modern-design-element-template-paper-material-idea-identity-mark-business-card-tech-bl.jpg" width="40"> | alphabet1 | - | @alphabet1.betanet | -% | RU | | |
 | https://imgur.com/CXlFA5x  | cryptomilion | Stake with me | @cryptomilion.betanet | -% | UA | @cryp | |
 | <img src="https://imgur.com/HvL3dPt" width="40"> | chernopyatko | Near the beginning of something beautiful | @chernopyatko.betanet | 5% | RU | | |
-| | Warger |Pay pro bro | @warger01.betanet | -% | RU | | |
 | | blink | No money - no honey | @neartest2.betanet | 10% | RU | | |
 | <img src="https://i.imgur.com/21fOAek.jpg" width="40"> | Kodvas | Stake is open to everyone! | @kodvas.betanet | 10% | UA |  | |
 | <img src="https://trello-attachments.s3.amazonaws.com/5aceaf1164c86a15f5956cda/5ec8bfe10b5375695794efa1/a6e59225ea31918ee44f6f5c09f086d6/caos.jpeg" width="40"> | Caos | Blockchain developer | @caos.betanet | 10% | ZH | | |
@@ -211,6 +213,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
+| | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
 
 
 Notes:

@@ -98,6 +98,9 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="http://ubik.capital/ubikprep/ubik256x256.png" width="40"> | [Ubik Capital](https://ubik.capital/ ) | Ubik Capital is providing highly resilient and secure staking service for different blockchain projects.| @ubik.betanet | 10% | RO | [@ubikcapital](https://explorer.betanet.near.org/accounts/ubikcapital) | YES |
 | <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | [Orangeclub] | Orange. Staking. Nothing more. | @something.betanet | 10% | RU | [@somebody](https://explorer.betanet.near.org/accounts/somebody) | yes |
 | <img src="http://neozaru.com/avatar.png" width="40" alt="neozaru" title="neozaru"> | neozaru | Decentralized sheep | [@neozaru14.betanet](https://explorer.betanet.near.org/accounts/neozaru14.betanet) | 0.1% | FR | [@neozaru.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neozaru.stakehouse.betanet) | YES |
+
+| <img src="https://www.yieh.com/Common/ShowaImg?faname=4BD075EDADDBDBC1A2AF05A8D85F02FC2965C4CA3932F74293978ACCDC9F7CB6B0DFFEAEB8EB8EAEC9ACCE63AA1554FA" width="40"> | arm | your validator-friend | [@armada.betanet](https://explorer.betanet.near.org/accounts/armada.betanet) | 10% |  | [@arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | YES |
+
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

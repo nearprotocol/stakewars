@@ -12,6 +12,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | [@www.nodeasy.test](https://explorer.betanet.near.org/accounts/www.nodeasy.test) | YES |
 | <img src="https://expo-res.sparkpool.com/logo%E5%9B%BE%E5%BD%A2.svg" width="40"> | [Sparkpool](https://sparkpool.com) | The keeper of blockchain networks. NVAB member. | @sparkpool.test | 10% | CN | [@sparkpool.test](https://explorer.betanet.near.org/accounts/sparkpool.test) | no |
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| @staked.test | 10% | US | [@stakedpool.staked.test](https://explorer.betanet.near.org/accounts/stakedpool.staked.test) | YES |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
@@ -164,7 +165,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | blablabla | @mf.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
-| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |

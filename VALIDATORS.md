@@ -214,6 +214,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
+| <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet |10% | CN |  [@stakingpool.youlaiwuqu.betanet](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet)  | No |
 
 
 Notes:

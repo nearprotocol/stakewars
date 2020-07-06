@@ -216,6 +216,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
+| | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
 
 
 Notes:

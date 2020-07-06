@@ -153,6 +153,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
 | | Warger |Pay pro bro | @warger01.betanet | 2% | RU |[@warger_sub](https://explorer.betanet.near.org/accounts/warger_sub)| NO|
+| <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet |10% | CN |  [@stakingpool.youlaiwuqu.betanet](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet)  | No |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

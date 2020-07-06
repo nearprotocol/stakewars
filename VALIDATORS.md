@@ -102,6 +102,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | To infinity ... and beyond | [@mf.betanet](https://explorer.betanet.near.org/accounts/mf.betanet) | 10% | RU | [@mfsc](https://explorer.betanet.near.org/accounts/mfsc) | YES |
 | :) | xiaoshen | Near the future. | @xiaoshen.betanet | 10% | CN | [@stakepool2.xiaoshen.betanet](https://explorer.betanet.near.org/accounts/stakepool2.xiaoshen.betanet) | YES |
 | <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet | 5% | CN |  [@youlaiwuqu1.stakehouse.betanet](https://explorer.betanet.near.org/accounts/youlaiwuqu1.stakehouse.betanet)  | YES |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | [@www.nodeasy.test](https://explorer.betanet.near.org/accounts/www.nodeasy.test) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
@@ -178,7 +179,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
-| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |

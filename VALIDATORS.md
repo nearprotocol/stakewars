@@ -212,6 +212,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet | 5% | CN |  [@youlaiwuqu1.stakehouse.betanet](https://explorer.betanet.near.org/accounts/youlaiwuqu1.stakehouse.betanet)  | YES |
+| <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet |10% | CN |  [@stakingpool.youlaiwuqu.betanet](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet)  | No |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

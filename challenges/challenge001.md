@@ -158,10 +158,12 @@ Once your work is done, you will be added to the list below. Please note that re
 | How to compile nearcore | Same as above | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/c962edcb1099) | 1,000 |
 | How to compile nearcore | Same as above | @dreamstaker | Jun 23 2020 | [Medium](https://medium.com/@nodesanna/stake-wars-challenge-001-d87d207db948) | 1,000 |
 | How to compile nearcore | Same as above | @marshall-d-teach | Jul 1 2020 | [Github](https://github.com/marshall-d-teach/near-doc/blob/master/create-validator.md) | 1,000 |
+| How to compile nearcore | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-stakewars-guide/blob/master/challenge001-how-to-compile-nearcore.org) | 1,000 |
 | Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over.  | @narniec | June 12 2020 | [Medium](https://medium.com/@narniec2020/near-shell-backup-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9-b30e8ed1d39d); [Youtube](https://www.youtube.com/watch?v=VHtzBjbmzT0&feature=youtu.be) | | 1,000 |
 | Explain NEAR keys | Same as above | @wjdfx | June 15 2020 | [Jianshu](https://www.jianshu.com/p/f238b7049cb9) | 1,000 |
 | Explain NEAR keys | Same as above | @georgec138 | June 23 2020 | [Github](https://github.com/georgec138/near-docs/blob/master/Explain-NEAR-keys_cn.md) | 1,000 |
 | Explain NEAR keys | Same as above | @bonsfi | June 23 2020 | [Medium](https://link.medium.com/LQTQbsABy7) | 1,000 |
+| Explain NEAR keys | Same as above | @marshall-d-teach | Jul 6 2020 | [Github](https://github.com/marshall-d-teach/near-doc/blob/master/explain-near-keys.md) | 1,000 |
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

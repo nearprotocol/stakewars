@@ -25,12 +25,11 @@ Validators still have to properly run their nodes infrastructure, and get famili
 - Update the node without missing more than 10% of the `num_expected_blocks` (to avoid being kicked out in the next epoch)
 - Promptly Re-stake if your node misses the target and will be kicked out
 
-**Heads up:** as of today, BetaNet goes through a reset and hard-fork every Tuesday at 6pm Pacific. More details can be found in the documentation pages at [docs.near.org/validator/staking-overview](https://docs.near.org/docs/validator/staking-overview)
-
+**Heads up:** BetaNet goes through frequent updates and hard-forks, set to every Monday at 5:30pm Pacific. TestNet is using a less tight schedule, with releases that can be deployed up to once every four weeks. Please use the `stable` branch of [nearcore](https://github.com/nearprotocol/nearcore) if you are running a node on TestNet.
+More details can be found in the documentation pages at [docs.near.org/validator/staking-overview](https://docs.near.org/docs/validator/staking-overview)
 
 ### 3.Deploy the Delegation smart contract
-_Note: this part is still work in progress_
-- Clone and compile the [Staking Pool contract](https://github.com/near/initial-contracts/tree/master) on the operator machine
+- Deploy your Staking Pool using the `staking-pool-factory` from the [Initial Contracts repo](https://github.com/near/core-contracts)
 - Deploy the contract with `near-shell`
 - Configure the contract with the exact node id and its validator public key
 - Stake delegating your BetaNet funds to the contract

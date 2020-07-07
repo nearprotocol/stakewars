@@ -1,5 +1,10 @@
 # UPDATES
 
+## UPDATE July 6th
+
+* The first validators officially joined TestNet, and they will progressively unstake and leave BetaNet.
+* Thank you Figment Networks for the first [experimental release](https://hubble.figment.network/near/chains/testnet) of Figment Hubble on NEAR!
+
 ## UPDATE June 29th
 
 * Added the guidelines to join TestNet! See them [here](GUIDELINES.md)

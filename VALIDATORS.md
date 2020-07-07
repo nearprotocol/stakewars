@@ -2,21 +2,34 @@
 # Stake Wars Ep.II Validators List
 
 Hello! This is the list of professional validators that joined Stake Wars Episode II
-Fork this repo and submit you PR adding your validator, or fixing any typo or error in the description. Please use the branch `update-validators-list`, we will merge all the changes to `master` at least twice per week.
-The list etiquette is first come, first serve: please append your validator at the **end** of the table.
+Fork this repo and submit you PR adding or updating your validator. We will merge all the changes to `master` at least once per week.
+The list etiquette is first come, first serve: please append your validator at the **end** of the table, in the section reflecting your staking pool status.
 **NVAB** means NEAR Validator Advisory Board Member, they are added in alphabetic order on top of the list. Read more [here](https://near.org/blog/stake-wars-episode-ii/)
 
-Validators running the [staking-pool contract](https://github.com/near/initial-contracts/) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
-We encourage to try delegation yourself, staking some tokens to other validators, and exchanging the favor.
+Validators running the [staking-pool contract](https://github.com/near/core-contracts) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
+We encourage to try delegation yourself, staking some tokens to other validators.
 
+## TestNet Validators
+_in alphabetic order by staking pool name. Thank you [Figment Network](https://hubble.figment.network/near/chains/testnet) for Hubble explorer._
+
+| Logo  | Validator | Blurb                                              | Account ID | Country | 
+| :---: | :-------: | -------------------------------------------------- | ---------- | :-----: |
+| <img src="https://bisontrails.co/images/assets/brand-symbol.svg" width="40"> | Bison Trails | The premiere platform operating security-first robust and redundant infrastructure across 20+ protocols. Proud NVAB member. | [@bisontrails.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/bisontrails.stakingpool) | US |
+| <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. NVAB member. | [@buildlinks_pool.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/buildlinks_pool.stakingpool) | CN |
+| | Cryptium | | [@cryptium.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/cryptium.stakingpool) | |
+| | Certus One | | [@certusone.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/certusone.stakingpool) | |
+| <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | [@freshnears.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/freshnears.stakingpool) | NL |
+| <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | [@inotel.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/inotel.stakingpool) | RO🇷🇴 |
+| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | [@pool_dokiacapital.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/pool_dokiacapital.stakingpool) | RO🇷🇴 |
+| <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/staked.stakingpool) | US |
+| <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
+
+
+
+## BetaNet Validators
 
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
-| <img src="https://expo-res.sparkpool.com/logo%E5%9B%BE%E5%BD%A2.svg" width="40"> | [Sparkpool](https://sparkpool.com) | The keeper of blockchain networks. NVAB member. | @sparkpool.test | 10% | CN | [@sparkpool.test](https://explorer.betanet.near.org/accounts/sparkpool.test) | no |
-| <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| @staked.test | 10% | US | [@stakedpool.staked.test](https://explorer.betanet.near.org/accounts/stakedpool.staked.test) | YES |
-| <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | @hashquark | 10% | CN | [@c1.hashquark](https://explorer.betanet.near.org/accounts/c1.hashquark) | no |
-| <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. NVAB member. | @buildlinks.betanet | 10% | CN | [@buildlinks](https://explorer.betanet.near.org/accounts/buildlinks) | yes |
-| <img src="https://bisontrails.co/images/assets/brand-symbol.svg" width="40"> | Bison Trails | The premiere platform operating security-first robust and redundant infrastructure across 20+ protocols. Proud NVAB member. | @bisontrails.betanet | 10% | US | @bisontrails.stakehouse.betanet | YES |
 | <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 6% | CH | [@stake2earnfunds2](https://explorer.betanet.near.org/accounts/stake2earnfunds2) | Yes |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw3](https://explorer.betanet.near.org/accounts/swissqstakepoolsw3) | YES |
@@ -73,7 +86,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | YES |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | yes |
 | <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | [@optimisticvalidator](https://explorer.betanet.near.org/accounts/optimisticvalidator) | yes |
-| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | @dokiacapital.betanet | 10% | RO🇷🇴 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | yes |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/59618272?s=400&u=54f6926d571cae56797a4d3555a3d1a9c84788c8&v=4" width="40"> | kokos | secures Near from covid | @covid.betanet | 1% | UA | [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/cocos-anti-covid) | YES |
@@ -102,12 +114,15 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://avatars2.githubusercontent.com/u/10295908?s=460&v=4" width="40"> | mark_fo | To infinity ... and beyond | [@mf.betanet](https://explorer.betanet.near.org/accounts/mf.betanet) | 10% | RU | [@mfsc](https://explorer.betanet.near.org/accounts/mfsc) | YES |
 | :) | xiaoshen | Near the future. | @xiaoshen.betanet | 10% | CN | [@stakepool2.xiaoshen.betanet](https://explorer.betanet.near.org/accounts/stakepool2.xiaoshen.betanet) | YES |
 | <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet | 5% | CN |  [@youlaiwuqu1.stakehouse.betanet](https://explorer.betanet.near.org/accounts/youlaiwuqu1.stakehouse.betanet)  | YES |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | [@www.nodeasy.test](https://explorer.betanet.near.org/accounts/www.nodeasy.test) | YES |
+| <img src="https://www.yieh.com/Common/ShowaImg?faname=4BD075EDADDBDBC1A2AF05A8D85F02FC2965C4CA3932F74293978ACCDC9F7CB6B0DFFEAEB8EB8EAEC9ACCE63AA1554FA" width="40"> | arm | your validator-friend | [@armada.betanet](https://explorer.betanet.near.org/accounts/armada.betanet) | 10% |  | [@arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | YES |
+| <img src="https://wp.technologyreview.com/wp-content/uploads/2019/09/spacejunk_0-10.jpg" width="40"> | meridian | staking aroung meridians | [@meridian.betanet](https://explorer.betanet.near.org/accounts/meridian.betanet) | 1% | GEOID | [@m40th.meridian.betanet](https://explorer.betanet.near.org/accounts/40th.meridian.betanet) | YES |
+| <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | 10% | CN |[@bitcat.stakehouse.betanet](https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) |  yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@global](https://explorer.betanet.near.org/accounts/global) | no |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |
-| <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | @inotel.betanet | 10% | RO🇷🇴 | [@inotel](https://explorer.betanet.near.org/accounts/inotel) | no |
 | <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | 1% | ID | [@pool](https://explorer.betanet.near.org/accounts/pool) |no |
 | <img src="https://bi23.com/bi23.svg" width="40"> | [Bi23 Labs](https://bi23.com) | Bi23 focuses on the blockchain and crypto-assets,providing users with Staking and DeFi services. | @bi23.betanet | 10% | CA | [@bi23_validator](https://explorer.betanet.near.org/accounts/bi23_validator) | no |
 | <img src="https://i.imgur.com/ji5j63s.png" width="40"> | Farmers | Everyone is welcome | @pony.test | 1% | Countryside | [@farm](https://explorer.betanet.near.org/accounts/farm) | no |
@@ -149,18 +164,17 @@ We encourage to try delegation yourself, staking some tokens to other validators
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
 | | Warger |Pay pro bro | @warger01.betanet | 2% | RU |[@warger_sub](https://explorer.betanet.near.org/accounts/warger_sub)| NO|
+| <img src="https://i.imgur.com/rDKVNWd.png" width="40"> | youlaiwuqu | Having a qualified and robust hardware with i7-10700K, 16G DDR4 RAM, 512G nvme SSD. Currently staking on Avalanche Protocol. Happy staking! | @youlaiwuqu.betanet |10% | CN |  [@stakingpool.youlaiwuqu.betanet](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet)  | No |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |
 | | NUC "Home Alone" | A small, Intel NUC-based validator node, connected to a residential Interenet connection | @nuc.test | -% | US | | |
 | | [Validators.Online ](https://validators.online/)| - | @validatorsonline.test | -% | MY | | |
-| <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | @freshnears | -% | NL | | |
 | <img src="http://www.itokenpool.com/img/logo.png" width="40"> | [itokenpool](http://www.itokenpool.com/) | Blockchain Pos Node service provider. Our team members mainly come from Tsinghua University. | @itokenpool.betanet | -% | CN | | |
 | <img src="https://avatars1.githubusercontent.com/u/52304443?s=460&u=9ece86f9785107cc1d3203af48ed7528ae7ba18e&v=4" width="40"> | c29r3 | -  | @c29r3.betanet | -% | RU | | |
 | | stateb | Professional validator | @stateb.betanet | -% | RU | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://pbs.twimg.com/profile_images/926173411482701824/HPFBrW_6_400x400.jpg" width="40"> | [Staking Facilities](https://stakingfacilities.com/) | Staking Facilities is an enterprise-grade validator based in Germany. We operate secure, reliable and performant bare-metal Proof of Stake infrastructure, distributed across multiple datacenter sites. | @stakingfacilities.betanet | -% | DE | | |
-| <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | -% | CN | | |
 | <img src="https://pbs.twimg.com/profile_images/947826924029665281/NYMOrEIV_400x400.jpg" width="40"> | [Zavodil](https://zavodil.ru/category/near/) | [Near Protocol Russian Community](https://t.me/near_protocol). Lowest fees. Trusted validator. | @zavodil.betanet | -% | RU | | |
 | | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG | | |
 | | Gamah | Home server node! | @gamah.betanet | -% | FR | | |
@@ -178,7 +192,6 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | Only25x |  | @only25x.betanet | -% | US | | |
 | | crazylandd | I am hero! | @crazylandd.betanet | -% | RU | | |
 |  (x)(x) | Skywalker | A new hope | @skywalker.betanet | 0% | RU | | |
-| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | @nodeasy.test | -% | CN | | |
 | <img src="https://image.prntscr.com/image/gh3ymDG6QbmLmCAeW3f2Kw.jpg" width="40"> | E2ard | A penny saved is a penny earned! | @e2ard.betanet | -% | BY | | |
 | <img src="https://i.imgur.com/PPnrjaD.jpg" width="40"> | blxpro | come and stake | @blxpro.betanet | -% | RU | | |
 | | olegjan2008 | Let's validate! | @olegjan20008.betanet | -% | RU | | |
@@ -214,6 +227,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
+| | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
 
 
 Notes:

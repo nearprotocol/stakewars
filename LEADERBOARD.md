@@ -12,7 +12,7 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | -------------------------------------------- | --------------------- | ------- |
 | node0                                        | 73813                 | 98.31%  |
 | fuckit.betanet                               | 57201                 | 98.12%  |
-| c1.hashquark                                 | 57006                 | 98.19%  |
+| c1.hashquark                                 | TestNet                 | TestNet  |
 | node3                                        | 57206                 | 97.73%  |
 | node                                         | 55504                 | 98.81%  |
 | node2                                        | 54803                 | 97.30%  |
@@ -44,7 +44,7 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | contract.bartalamew.betanet                  | 26100                 | 95.79%  |
 | sl-he                                        | 27501                 | 90.30%  |
 | simonhugo                                    | 28203                 | 87.95%  |
-| stakedpool.staked.test                       | 25100                 | 98.32%  |
+| stakedpool.staked.test                       | TestNet                | TestNet  |
 | stakin                                       | 27201                 | 90.09%  |
 | anonstake                                    | 26001                 | 94.20%  |
 | sc.galbraith.betanet                         | 25104                 | 97.28%  |
@@ -77,7 +77,7 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | silver1                                      | 22603                 | 91.77%  |
 | yoda                                         | 21500                 | 95.93%  |
 | megatron                                     | 21301                 | 96.72%  |
-| cryptium.stakehouse.betanet                  | 20801                 | 98.18%  |
+| cryptium.stakehouse.betanet                  | TestNet                | TestNet  |
 | cryp                                         | 21802                 | 92.70%  |
 | buildlinks                                   | 20400                 | 98.94%  |
 | tommywesley                                  | 24802                 | 80.55%  |
@@ -92,17 +92,17 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | c.eosis.betanet                              | 19300                 | 96.25%  |
 | betapool                                     | 19000                 | 96.53%  |
 | oligarr                                      | 23702                 | 76.42%  |
-| c2.inotel.betanet                            | 18503                 | 96.30%  |
+| c2.inotel.betanet                            | TestNet                 | TestNet  |
 | farm                                         | 21802                 | 79.37%  |
 | aptemuyc4                                    | 18701                 | 91.51%  |
 | sfpool                                       | 17800                 | 94.79%  |
-| freshnears                                   | 17300                 | 97.23%  |
+| freshnears                                   | TestNet                | TestNet  |
 | ryabina                                      | 16900                 | 98.62%  |
 | sllpool                                      | 16501                 | 98.91%  |
 | fredrik\_pool                                | 20502                 | 79.48%  |
 | blink                                        | 16701                 | 94.48%  |
 | nearcool2                                    | 17601                 | 86.09%  |
-| pool.dokiacapital.betanet                    | 15702                 | 95.15%  |
+| pool.dokiacapital.betanet                    | TestNet                | TestNet  |
 | bitcat.stakehouse.betanet                    | 16100                 | 92.41%  |
 | nazar92                                      | 15000                 | 98.41%  |
 | kokos-anti-covid                             | 14201                 | 98.68%  |
@@ -128,7 +128,7 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | global                                       | 10001                 | 94.37%  |
 | phenom                                       | 9300                  | 98.37%  |
 | d1.betanet                                   | 9000                  | 96.72%  |
-| validator\_buildlinks.betanet                | 8800                  | 96.66%  |
+| validator\_buildlinks.betanet                | TestNet                 | TestNet  |
 | vipstakes                                    | 8600                  | 98.53%  |
 | neozaru.stakehouse.betanet                   | 8500                  | 98.92%  |
 | yyyyyyyyyyyyy1                               | 8401                  | 98.30%  |
@@ -170,7 +170,7 @@ Updated on Wednesday, July 6th 2020 at 12:40 GMT-7
 | freshnear                                    | 3301                  | 75.43%  |
 | ryabina\_io.betanet                          | 2400                  | 99.63%  |
 | ujjjoshipooldeux                             | 2700                  | 88.04%  |
-| pool.certusone.betanet                       | 2600                  | 89.85%  |
+| pool.certusone.betanet                       | TestNet                  | TestNet  |
 | c1.erkan.betanet                             | 2301                  | 99.48%  |
 | mutedtommy-staking-pool-2.stakehouse.betanet | 2500                  | 89.72%  |
 | agrestus.betanet                             | 2500                  | 89.56%  |

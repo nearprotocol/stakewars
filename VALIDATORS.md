@@ -11,8 +11,9 @@ We encourage to try delegation yourself, staking some tokens to other validators
 
 ## TestNet Validators
 
-| Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
-| :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
+| Logo  | Validator | Blurb                                              | Account ID | Fees | Country | 
+| :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: |
+| <img src="https://dokia.capital/img/loader.svg" width="40"> | [DokiaCapital](https://staking.dokia.cloud) | Stake with a pro! | [@pool_dokiacapital.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/pool_dokiacapital.stakingpool) | 10% | RO🇷🇴 |
 
 ## BetaNet Validators
 

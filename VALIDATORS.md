@@ -2,13 +2,19 @@
 # Stake Wars Ep.II Validators List
 
 Hello! This is the list of professional validators that joined Stake Wars Episode II
-Fork this repo and submit you PR adding your validator, or fixing any typo or error in the description. Please use the branch `update-validators-list`, we will merge all the changes to `master` at least twice per week.
-The list etiquette is first come, first serve: please append your validator at the **end** of the table.
+Fork this repo and submit you PR adding or updating your validator. We will merge all the changes to `master` at least once per week.
+The list etiquette is first come, first serve: please append your validator at the **end** of the table, in the section reflecting your staking pool status.
 **NVAB** means NEAR Validator Advisory Board Member, they are added in alphabetic order on top of the list. Read more [here](https://near.org/blog/stake-wars-episode-ii/)
 
-Validators running the [staking-pool contract](https://github.com/near/initial-contracts/) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
-We encourage to try delegation yourself, staking some tokens to other validators, and exchanging the favor.
+Validators running the [staking-pool contract](https://github.com/near/core-contracts) can update their entry below and append themselves to the top section of the list (which is reserved for staking pools). Please note that starting May 17th tokens will only be _delegated_ to staking pools, and not anymore transferred.
+We encourage to try delegation yourself, staking some tokens to other validators.
 
+## TestNet Validators
+
+| Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
+| :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
+
+## BetaNet Validators
 
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |

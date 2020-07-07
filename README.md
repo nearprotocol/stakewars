@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-June 26th 2020 update: TestNet guidelines are live [here](GUIDELINES.md).
+July 6th 2020 update: Congrats to validators joining TestNet!.
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

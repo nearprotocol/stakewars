@@ -121,6 +121,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://wp.technologyreview.com/wp-content/uploads/2019/09/spacejunk_0-10.jpg" width="40"> | meridian | staking aroung meridians | [@meridian.betanet](https://explorer.betanet.near.org/accounts/meridian.betanet) | 1% | GEOID | [@m40th.meridian.betanet](https://explorer.betanet.near.org/accounts/40th.meridian.betanet) | YES |
 | <img src="https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png" width="40"> | [Bit Cat](https://www.bitcat365.com) | A maverick cat. Secure and stable validator service from China team. | @catcatcat.test | 10% | CN |[@bitcat.stakehouse.betanet](https://explorer.betanet.near.org/accounts/bitcat.stakehouse.betanet) |  yes |
 | <img src="https://raw.githubusercontent.com/traderok/screenshots/master/megatron.jpg" width="40"> | megatron | "Give me the spark, silly, and I will leave you alive." | @hexbi.betanet | 10% | UA | [@megatron](https://explorer.betanet.near.org/accounts/megatron) | Yes |
+| <img src="https://raw.githubusercontent.com/magisteryada/screenshots/master/b7ca2b40b99b4827ecea08769e8a5fd5.jpg" width="40"> | yoda | "Let the force be with you" | @magisteryoda.betanet | 10% | UA |[@yoda](https://explorer.betanet.near.org/accounts/yoda) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

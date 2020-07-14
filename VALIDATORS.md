@@ -25,6 +25,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/sparkpool.png" width="40"> | [Sparkpool](https://www.sparkpool.com) | The keeper of blockchain networks. | [@sparkpool.testnet](https://wallet.testnet.near.org/sparkpool.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/top.stakingpool) | RU |
+| <img src="https://user-images.githubusercontent.com/21022937/83322887-06236b00-a296-11ea-9fc5-034f5dee648b.png" width="40"> | DSRV | www.dsrvlabs.com | [@staking.dsrvlabs.testnet](https://hubble.figment.network/near/chains/testnet/validators/staking.dsrvlabs.testnet) | 10% | KR |
 
 
 
@@ -220,7 +221,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.imgur.com/lsGrsIV.jpg" width="40"> | [Alive29](https://keybase.io/alive29) | Secured and trusted validator | @alive29 | 10% | RU | | |
 | | dmytrokonon |  | @dmytrokonon.betanet | 10% | UA | | |
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
-| <img src="https://user-images.githubusercontent.com/21022937/83322887-06236b00-a296-11ea-9fc5-034f5dee648b.png" width="40"> | DSRV | www.dsrvlabs.com | @dsrv.betanet | 10% | KR | | |
 | | andrew_builder |  | @andrew_builder.betanet | 10% | UA | | |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/204d1abfeb21ece2e0b56e1ad8304305_360_360.jpg" width="40"> | [GRom81](https://keybase.io/grom81) | Professional and trusted validator | [@grom818181.betanet](https://explorer.betanet.near.org/accounts/grom818181.betanet) | 10% | RU | | |
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |

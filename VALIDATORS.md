@@ -228,6 +228,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
 | | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
+| <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | ramkiller1 | Happy staking! | @ramkiller1.betanet | 10% | US | | |
+| <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | US | | |
 
 
 Notes:

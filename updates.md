@@ -3,6 +3,7 @@
 ## UPDATE July 17th
 
 * A new challenge is live [here](challenges/challenge005.md)! Deploy your CI/CD infrastructure to upgrade your node programmatically. This challenge will be very important if you plan to join MainNet Restricted as a validator.
+* Added the [staking cheatsheet](staking_cheatsheet.md) 
 
 ## UPDATE July 6th
 

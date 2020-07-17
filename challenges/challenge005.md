@@ -59,6 +59,8 @@ Follow the Validator channel on [NEAR Portal](https://portal.near.org/topic/vali
 
 Once your work is reviewed, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
+**Heads up:** If you can't see/write in the Validator Portal, be sure that you filled up the [Challenge 004 contact form](https://nearprotocol1001.typeform.com/to/x4Bval), so we can send you an invitation email.
+
 ### List of available contributions
 
 | Title | Abstract                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |

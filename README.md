@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-July 15th 2020 update: Added the [staking pool cheatsheet](staking_cheatsheet.md)!
+July 17th 2020 update: the [challenge 005](challenges/challenge005.md) is live!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -72,14 +72,14 @@ As you know, validators are responsible to generate new blocks to update the sta
 ### Quickstart
 If you want to get your feet wet, and see if Stake Wars is for you, try this quickstart guide:
 - Create a **BetaNet** account using our hosted wallet [here](https://wallet.betanet.near.org).
-- Spin an Ubuntu or Debian VPS, and run [nearup](https://github.com/near/nearup).
-- Follow this [cheatsheet](staking_cheatsheet.md) to deploy your NEAR Staking Pool contract.
-- Submit up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll your node in the Stake Wars.
+- Spin up an Ubuntu/Debian VPS and run [nearup](https://github.com/near/nearup).
+- Deploy your staking pool using the [Staking Pool Factory](https://near-examples.github.io/staking-pool-factory/)
+- Submit up [this form](https://nearprotocol1001.typeform.com/to/TvvOMf) to enroll in the Stake Wars.
 
-At the moment of writing (July 15) we received an exceptional interest by the community of validators (450+ applications, 300+ PRs). We are processing all of them, sending 75,000 BetaNet tokens as promised, while making sure the network runs with no issues. As explained in the [docs](https://docs.near.org/docs/validator/economics), there are 100 seats per shard, so BetaNet is running at capacity with a cost per seat right above 75.000 tokens.
+At the moment of writing (May 28) we received an exceptional interest by the community of validators (300+ applications, 200+ PRs). We are processing all of them, sending 75,000 BetaNet tokens as promised, while making sure the network runs with no issues. As explained in the [docs](https://docs.near.org/docs/validator/economics), there are 100 seats per shard, so BetaNet is running at capacity with a cost per seat right above 75.000 tokens.
 How to solve this? Activate your network, and ask other validators to delegate to your staking pool. There are many of them with 100k+ tokens who can delegate 5-10k from their stake to your pool.
-We are transitioning distinguished validators from BetaNet to TestNet: as soon as that happens, the seat price will go down, allowing more folks to join BetaNet.
-In the meantime, give a look to the available contributions, and keep an eye on the seat price, using the command `near proposals`.
+The plan is to start transitioning the first batch of validators to TestNet. As soon as that happens, the seat price will go down, allowing more folks to join BetaNet.
+In the meantime, give a look to the available contributions, and keep an eye on the seat price, using the command `near validators current`.
 
 
 ### List of Validator Challenges

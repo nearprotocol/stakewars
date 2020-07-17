@@ -20,12 +20,12 @@ Explanation and walkthrough
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 
 
-Reply to the challenges application thread on [Github](https://github.com/nearprotocol/stakewars/issues/350) specifying:
-- which contribution you want to do, and the link to the challenge
-- the type of document you will release
-- the date when you will publish the content (you can postpone a few days, no worries)
+Follow the Validator channel on [NEAR Portal](https://portal.near.org/topic/validator), you will find a list of available contributions to earn tokens. In order to participate, you will have to specify:
+- the title of the contribution you made
+- the type of document you released
+- a clear reference to the available contribution below
 
-Once your work is done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
+Once your work is reviewed, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
 ### List of available contributions
 

@@ -59,11 +59,11 @@ In practical terms, to join TestNet you will have to:
 
 You can instantly deploy the staking pool factory with near-shell, using the command:
 ```
-near call stakingpool create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
+near call pool.6fb1358 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
 ```
 Where:
-* `stakingpool` is the staking pool factory contract mentioned above
-* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.stakingpool`
+* `pool.6fb1358` is the staking pool factory contract mentioned above
+* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.pool.6fb1358`
 * `OWNER_ID` is the owner of the pool, who's authorized to change the stake public key and the fees
 * `VALIDATOR_KEY` is the public key found in the file `~/.near/testnet/validator_key.json` on the machine running the node
 * `{"numerator": <X>, "denominator": <Y>}` set the validator fees. To set 10% of fees x=10 and y=100

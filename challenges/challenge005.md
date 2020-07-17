@@ -1,5 +1,5 @@
 # Stake Wars Challenge 005
-Published on: July 10 2020
+Published on: July 17 2020
 
 Automatically deploy nearcore using a CI/CD pipeline.
 This challenge is designed to have validators build and deploy their own node from the source code, instead of using the precompiled binaries provided by NEAR. The result is having multiple teams that can independently build and test new releases of the node, to improve the quality and security of the network as a whole.
@@ -8,7 +8,7 @@ To participate, validators will be asked to build and deploy a specific branch/t
 
 If you already run a professional validator setup, and you have CI/CD experience, you don't need any further instructions.
 
-If you want to test yourself and use this as a learning opportunity, the list of available tools can be very long:
+If you want to test yourself and use this as a learning opportunity, the list of available tools to accomplish can be very long:
 - Jenkins
 - Terraform
 - Gitlab

@@ -10,7 +10,7 @@ This page will guide you through three main aspects of this initiative:
 
 ## :information_desk_person: In a Few Words
 
-Stake Wars is the program that accelerates your path to become a validator on NEAR Protocol. It is structured in technical challenges of increasing difficulty, giving you the opportunity of "learning by doing". Validators that will complete all the challenges will prove to be ready to join [MainNet Restricted](https://near.org/blog/near-mainnet-genesis/) and be recognized as early supporters of NEAR Protocol.
+Stake Wars is the program that accelerates your path to become a validator on NEAR Protocol. It is structured in technical challenges of increasing difficulty, giving you the opportunity of "learning by doing". Validators that will complete all the challenges will prove to be ready to join [MainNet Restricted](https://near.org/blog/near-mainnet-genesis/) and will be recognized as early supporters of NEAR Protocol.
 
 _List of available challenges:_
 - [001](challenges/challenge001.md): Create your BetaNet wallet, deploy your node, and correctly configure your staking pool.
@@ -20,6 +20,8 @@ _List of available challenges:_
 - [005](challenges/challenge005.md): Automatically deploy nearcore using a CI/CD pipeline.
 
 - [00x](challenges/challenge00x.md): _Challenge other validators with something that validators should be doing, just use this template!_
+
+
 
 
 ## :rocket: What is NEAR Stake Wars
@@ -36,6 +38,9 @@ If you want to know more about this opportunity, read the [Stake Wars Episode II
 
 Stake Wars Ep.II introduces NEAR's contract-based delegation, offering validators the opportunity to take part in the [Open Finance](https://near.org/blog/the-evolution-of-the-open-web/) ecosystem. There is a _staking pool_ reference contract on [Github](https://github.com/near/initial-contracts), ready for experimenting with these principles. Deploying the staking pool and participating in the Stake Wars will give access to NEAR's MainNet Restricted. Rewards will include 10,000 NEAR tokens/month for every validator on MainNet Restricted, plus 1 Million NEAR tokens available for contributions and community challenges. To become validators on MainNet Restricted, participants will have to accomplish technical challenges and successfully run nodes on BetaNet and TestNet. Judgment criteria will be quantitative, such as number of blocks generated and uptime; and qualitative, such as reactivity to network updates and community participation.
 A Validator Advisory Board, with a selected group of professional validators, will become over time the voice of validators in the technical governance of the protocol
+
+
+
 
 ## :wrench: Your Toolbox
 
@@ -71,6 +76,19 @@ Connect to other validators using the dedicated channel on [Discord](https://nea
 Overall, if you want to successfully participate in the Stake Wars, you'll have to:
 - Keep an eye to Validator Announcements on Discord (there's [a dedicated channel](https://discord.gg/xsrHaCb)). It will be used to inform you about technical releases and hard forks, community challenges, contribution opportunities and other initiatives that will be valuable for you.
 - Give and receive technical help here on Github, in the [issues section](https://github.com/nearprotocol/stakewars/issues).
+
+### Other files is in this repo
+* [GUIDELINES.md](GUIDELINES.md): some basic rules to follow, and what to do when you are invited to join TestNet
+* [updates.md](updates.md): good to catch up if you missed the last few weeks
+* [VALIDATORS.md](VALIDATORS.md): who else is participating in the Stake Wars
+* [LEADERBOARD.md](LEADERBOARD.md): how validators are doing in terms of uptime
+* [troubleshooting.md](troubleshooting.md): a colletion of the most common issues
+* [staking_cheatsheet.md](staking_cheatsheet.md): a list of the most common commands to manage the staking pool
+* [scenarios.md](scenarios.md): some high-level examples of what you will have to do
+
+...and the [challenges](challenges/) folder...
+
+
 
 
 ## :trophy: What You Have to Do

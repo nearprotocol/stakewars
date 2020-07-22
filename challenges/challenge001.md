@@ -8,11 +8,11 @@ This is designed to be your very first challenge: use it to understand how the s
 
 ## Acceptance Criteria
 
-1. Connect `near-shell` with your BetaNet wallet
+1. Connect `near-shell` to your BetaNet wallet
 2. Deploy your NEAR node
 3. Launch your Staking Pool
 
-## 1.Connect `near-shell` with your BetaNet wallet
+## 1.Connect `near-shell` to your BetaNet wallet
 
 You need [near-shell](https://github.com/near/near-shell), a Node.js application that relies on nearlib to generate secure keys, connect to the NEAR platform and send transactions to the network on your behalf.
 You don't have to install near-shell on your validator node - on the contrary, it's suggested to keep your staking wallet on a different machine.

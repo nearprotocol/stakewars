@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-July 22nd 2020 update: added an explanation of the available challenges
+July 22nd 2020 update: new sections in this README file!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -13,13 +13,11 @@ This page will guide you through three main aspects of this initiative:
 Stake Wars is the program that accelerates your path to become a validator on NEAR Protocol. It is structured in technical challenges of increasing difficulty, giving you the opportunity of "learning by doing". Validators that will complete all the challenges will prove to be ready to join [MainNet Restricted](https://near.org/blog/near-mainnet-genesis/) and will be recognized as early supporters of NEAR Protocol.
 
 _List of available challenges:_
-- [001](challenges/challenge001.md): Create your BetaNet wallet, deploy your node, and correctly configure your staking pool.
-- [002](challenges/challenge002.md): Enroll your staking pool, receive your delegation, and maintain your validator status!
-- [003](challenges/challenge003.md): Monitor your node health, and send an automated email in case of issues.
-- [004](challenges/challenge004.md): Create a warchest of staked tokens, and dynamically maintain no more than one validator seat.
-- [005](challenges/challenge005.md): Automatically deploy nearcore using a CI/CD pipeline.
-
-- [00x](challenges/challenge00x.md): _Challenge other validators with something that validators should be doing, just use this template!_
+* [001](challenges/challenge001.md): Create your BetaNet wallet, deploy your node, and correctly configure your staking pool.
+* [002](challenges/challenge002.md): Enroll your staking pool, receive your delegation, and maintain your validator status!
+* [003](challenges/challenge003.md): Monitor your node health, and send an automated email in case of issues.
+* [004](challenges/challenge004.md): Create a warchest of staked tokens, and dynamically maintain no more than one validator seat.
+* [005](challenges/challenge005.md): Automatically deploy nearcore using a CI/CD pipeline.
 
 
 

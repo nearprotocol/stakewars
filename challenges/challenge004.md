@@ -147,8 +147,10 @@ Once your work is done, you will be added to the list below. Please note that re
 | Abstract | Description                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
 | Monitor the Stake | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to monitor your stake, and the current seat price. The goal is to help users integrate this system with their monitoring platform, such as Grafana or Datadog. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other languages are encouraged, but considered case by case basis. | @narniec | Jun 23 2020 | [Medium](https://link.medium.com/ycHhCnWBy7 ) | 1,000 | 15% | RU |
+| Monitor the Stake | Same as the above | @bonsfi | Jul 21 2020 | [Medium](https://medium.com/@bonsfi/como-monitorear-el-stake-de-tu-validador-en-near-protocol-d709326cf6ff?sk=09f62413b029762a549b5596c9543a4c) | 1,000 | 15% | ES |
 | Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
 
 ## Next Challenge
 Automatically deploy nearcore using a CI/CD pipeline: [challenge005](challenge005.md)

@@ -1,5 +1,9 @@
 # UPDATES
 
+## UPDATE July 22nd
+
+* Improved the [README.md](README.md) to clarify the role of challenges and add orientation of the files in this repository.
+
 ## UPDATE July 17th
 
 * A new challenge is live [here](challenges/challenge005.md)! Deploy your CI/CD infrastructure to upgrade your node programmatically. This challenge will be very important if you plan to join MainNet Restricted as a validator.

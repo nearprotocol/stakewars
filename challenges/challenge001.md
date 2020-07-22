@@ -164,6 +164,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @georgec138 | June 23 2020 | [Github](https://github.com/georgec138/near-docs/blob/master/Explain-NEAR-keys_cn.md) | 1,000 |
 | Explain NEAR keys | Same as above | @bonsfi | June 23 2020 | [Medium](https://link.medium.com/LQTQbsABy7) | 1,000 |
 | Explain NEAR keys | Same as above | @marshall-d-teach | Jul 6 2020 | [Github](https://github.com/marshall-d-teach/near-doc/blob/master/explain-near-keys.md) | 1,000 |
+| Explain NEAR keys | Same as above | @Viacheslav198 | Jul 7 2020 | [Github](https://github.com/Viacheslav198/near/blob/master/keys.md) | 1,000 |
 | Explain NEAR keys | Same as above | @Vasya-krypto | July 21 2020 | [Medium](https://medium.com/@orang3club/explain-near-keys-737162914413) | 1,000 |
 
 ## Next Challenge

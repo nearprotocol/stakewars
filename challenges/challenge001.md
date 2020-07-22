@@ -37,7 +37,7 @@ Take your time to understand how to manually update [nearcore](https://github.co
 To connect your node to `betanet` download and compile `nearcore` from its [beta branch](https://github.com/nearprotocol/nearcore/tree/beta).
 
 **Heads up:** at this point, you have to decide the name of your staking pool!
-If your wallet is `nearkat.betanet`, you will have to choose a specific name for the staking pool, such as `nearkat_staking`. Since in the [step 3.3](challenges/challenge001.md#32-deploy-your-staking-pool) you will use the staking pool factory, your name will become `stakingPool_ID` + `stakehouse.betanet`.
+If your wallet is `nearkat.betanet`, you will have to choose a specific name for the staking pool, such as `nearkat_staking`. Since in the [step 3.2](challenge001.md#32-deploy-your-staking-pool) you will use the staking pool factory, your name will become `stakingPool_ID` + `stakehouse.betanet`.
 
 The first time you run `nearup` the application will ask your staking pool account ID, which is where you have to type `nearkat_staking.stakehouse.betanet` if the name of the pool is just `nearkat_staking`:
 ```
@@ -59,7 +59,7 @@ If you were already a validator on BetaNet, and you are using the legacy `near s
 
 Please note that your staked funds will require three epochs to be available (9 hours on BetaNet). Once the funds are unlocked, you can stop nearup with the command `nearup stop`, cleanup the folder `~/.near/betanet` on your validator node, and start nearcore again, following the process from the step 2 above.
 
-If you are running an old version of the staking pool jump to [step 3.7](challenges/challenge001.md#34-update-an-old-version-of-the-staking-pool-optional) before proceeding.
+If you are running an old version of the staking pool jump to [step 3.4](challenge001.md#34-update-an-old-version-of-the-staking-pool-optional) before proceeding.
 
 Once your node is not anymore a validator using the legacy `near stake` command you can begin deploy the staking pool.
 
@@ -109,7 +109,7 @@ At a high level, the steps to follow are:
 2. **IMPORTANT** Wait for 3 epochs (9 hours on BetaNet) to withdraw. Check if the stake is unlocked with the command `near view stakingPool_ID is_account_unstaked_balance_available '{"account_id": "account_ID"}' --accountId account_ID`
 3. Once your funds are unlocked, withdraw them with the command `near call stakingPool_ID withdraw '{"amount": "100007548461634906498130995"}' --accountId account_ID`
 
-Once completed, you are deady to get back to the step 3.2 and deploy a new staking pool contract. You may use the [staking_cheatsheet.md](../staking_cheatsheet.md) as a quick reference to use your staking pool.
+Once completed, you are deady to get back to the step 3.2 and deploy a new staking pool contract. You may use the [Staking Pool Cheatsheet](../staking_cheatsheet.md) as a quick reference to use your staking pool.
 
 ## Contribution Opportunities
 

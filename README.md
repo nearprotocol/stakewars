@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-July 6th 2020 update: Congrats to [validators joining TestNet](VALIDATORS.md#testnet-validators)!
+July 22nd 2020 update: new sections in this README file!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 
@@ -8,26 +8,37 @@ This page will guide you through three main aspects of this initiative:
 2. Your toolbox
 3. What you have to do
 
-## Current Challenge
+## :information_desk_person: In a Few Words
 
-Create your BetaNet wallet, deploy your node, and correctly configure your staking pool. Once ready, NEAR team will delegate tokens to your pool, to have you take a seat as valdiator.
-See below for details.
+Stake Wars is the program that accelerates your path to become a validator on NEAR Protocol. It is structured in technical challenges of increasing difficulty, giving you the opportunity of "learning by doing". Validators that will complete all the challenges will prove to be ready to join [MainNet Restricted](https://near.org/blog/near-mainnet-genesis/) and will be recognized as early supporters of NEAR Protocol.
+
+_List of available challenges:_
+* [001](challenges/challenge001.md): Create your BetaNet wallet, deploy your node, and correctly configure your staking pool.
+* [002](challenges/challenge002.md): Enroll your staking pool, receive your delegation, and maintain your validator status!
+* [003](challenges/challenge003.md): Monitor your node health, and send an automated email in case of issues.
+* [004](challenges/challenge004.md): Create a warchest of staked tokens, and dynamically maintain no more than one validator seat.
+* [005](challenges/challenge005.md): Automatically deploy nearcore using a CI/CD pipeline.
+
+
 
 
 ## :rocket: What is NEAR Stake Wars
 
 Stake Wars is NEAR's incentivized testnet for professional validators.
 
-NEAR’s [MainNet](https://explorer.near.org/) recently launched into its first phase, called “POA” ([see full roadmap](https://near.ai/mainnet-roadmap)). This means that a small handful of validating nodes are currently being run by the core team. In order to progress to the next phase, “MainNet: Restricted”, the operation of the network will be handed off to a large group of node operators called validators. 
+NEAR’s [MainNet](https://explorer.near.org/) recently launched into its first phase, called “POA” ([see full roadmap](https://near.org/blog/mainnet-roadmap/)). This means that a small handful of validating nodes are currently being run by the core team. In order to progress to the next phase, “MainNet: Restricted”, the operation of the network will be handed off to a large group of node operators called validators. 
 
 The goal of Stake Wars: Episode II is to onboard those validators, test the stability of the system, and begin introducing some of the unique aspects of NEAR’s delegation in preparation for the next phase of MainNet itself.
 
 If you want to know more about this opportunity, read the [Stake Wars Episode II blog post](https://near.org/blog/stake-wars-episode-ii/).
 
-**TL;DR:**
+**Blogpost TL;DR:**
 
 Stake Wars Ep.II introduces NEAR's contract-based delegation, offering validators the opportunity to take part in the [Open Finance](https://near.org/blog/the-evolution-of-the-open-web/) ecosystem. There is a _staking pool_ reference contract on [Github](https://github.com/near/initial-contracts), ready for experimenting with these principles. Deploying the staking pool and participating in the Stake Wars will give access to NEAR's MainNet Restricted. Rewards will include 10,000 NEAR tokens/month for every validator on MainNet Restricted, plus 1 Million NEAR tokens available for contributions and community challenges. To become validators on MainNet Restricted, participants will have to accomplish technical challenges and successfully run nodes on BetaNet and TestNet. Judgment criteria will be quantitative, such as number of blocks generated and uptime; and qualitative, such as reactivity to network updates and community participation.
 A Validator Advisory Board, with a selected group of professional validators, will become over time the voice of validators in the technical governance of the protocol
+
+
+
 
 ## :wrench: Your Toolbox
 
@@ -64,6 +75,19 @@ Overall, if you want to successfully participate in the Stake Wars, you'll have 
 - Keep an eye to Validator Announcements on Discord (there's [a dedicated channel](https://discord.gg/xsrHaCb)). It will be used to inform you about technical releases and hard forks, community challenges, contribution opportunities and other initiatives that will be valuable for you.
 - Give and receive technical help here on Github, in the [issues section](https://github.com/nearprotocol/stakewars/issues).
 
+### Other files is in this repo
+* [GUIDELINES.md](GUIDELINES.md): some basic rules to follow, and what to do when you are invited to join TestNet
+* [updates.md](updates.md): good to catch up if you missed the last few weeks
+* [VALIDATORS.md](VALIDATORS.md): who else is participating in the Stake Wars
+* [LEADERBOARD.md](LEADERBOARD.md): how validators are doing in terms of uptime
+* [troubleshooting.md](troubleshooting.md): a colletion of the most common issues
+* [staking_cheatsheet.md](staking_cheatsheet.md): a list of the most common commands to manage the staking pool
+* [scenarios.md](scenarios.md): some high-level examples of what you will have to do
+
+...and the [challenges](challenges/) folder...
+
+
+
 
 ## :trophy: What You Have to Do
 
@@ -85,7 +109,7 @@ In the meantime, give a look to the available contributions, and keep an eye on 
 ### List of Validator Challenges
 We will publish new challenges for validators on a regular basis. Every challenge will have a progressive number, with an increasing level of difficulty. The acceptance criteria will provide high-level indications, and some of these challenges may list previous challenges as a requirement.
 
-List of community challenges:
+List of challenges:
 
 1. May 25th 2020, [Challenge 001](challenges/challenge001.md)
   Deploy your node and your staking pool
@@ -95,3 +119,5 @@ List of community challenges:
   Monitor your node and setup automated alerts
 4. June 22nd 2020, [Challenge 004](challenges/challenge004.md)
   Dynamically adjust your stake
+5. July 17 2020, [Challenge 005](challenges/challenge005.md)
+  Automatically deploy nearcore using a CI/CD pipeline.

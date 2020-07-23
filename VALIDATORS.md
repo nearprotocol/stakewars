@@ -228,9 +228,9 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
 | | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
-| <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | swag2 | Happy staking! | @swag2.betanet | 10% | TT | | |
-| <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
-|| swag1 | Boom | @swag1.betanet | 10% | TT | | |
+| <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | swag2 | Happy staking! | @swag2.betanet | 10% | US | [@swain2.stakehouse.betanet](https://explorer.betanet.near.org/accounts/swain2.stakehouse.betanet) | Yes |
+| <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | US | [@emilia.stakehouse.betanet](https://explorer.betanet.near.org/accounts/emilia.stakehouse.betanet) | Yes |
+|| swag1 | Boom | @swag1.betanet | 10% | US | [@swag1.stakehouse.betanet](https://explorer.betanet.near.org/accounts/swag1.stakehouse.betanet) | Yes |
 
 
 Notes:

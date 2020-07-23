@@ -184,7 +184,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | Vnode | Happy and easy Staking! | @volvos60909.test | -% | SG | | |
 | | Gamah | Home server node! | @gamah.betanet | -% | FR | | |
 | | seanq (technovatic) | Team of 7 crypto developers across USA, UA and LatinAmerica | @seanq.betanet | -% | US | | |
-| | Blaze | - | @blaze.betanet | -% | US | | |
+| <img src="https://blazenet.io/wp-content/uploads/2020/05/cropped-blaze-favicon-9.png" width="40"> | Blaze | Staking up a Blaze! | blazenet.testnet | 10% | US | [@blazenet](https://explorer.testnet.near.org/accounts/blazenet_voting.pool.6fb1358) | Yes |
 | <img src="https://github.com/june07/NiM/blob/master/icon/icon128@3x.png?raw=true" width="40"> | [NiM](https://june07.com/nim) | Node.js tooling and other stuff.  Based in The Town (Oakland, CA). | @a.betanet | -% | US | | |
 | <img src="https://pbs.twimg.com/profile_images/527176025931649024/sygiFNaR_400x400.jpeg" width="40"> | [Erkan](https://twitter.com/erknfe) | If you can't find a way to make money while you sleep, you'll work until you die. | @erkan.betanet | -% | TR | | |
 | <img src="https://raw.githubusercontent.com/Anonstake/Anonstake/master/anonstake.png" width="40"> | [Anonstake](https://anonstake.com/) | Anonstake is a staking infrastructure provider for Proof-of-Stake blockchains. We work hard to provide secure, reliable and anonymous service. | @anonstake | -% | SI | | |

@@ -197,6 +197,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
+| <img src="https://01node.com/wp-content/themes/01Node/assets/img/01node.svg" width="40"> | 01node | https://01node.com | 01node.betanet | 10% | RO | @01node.stakehouse.betanet |  |
 
 
 Notes:

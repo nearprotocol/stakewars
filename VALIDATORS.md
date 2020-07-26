@@ -236,7 +236,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CA | | |
 | <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | ramkiller1 | Happy staking! | @ramkiller1.betanet | 10% | TT | | |
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
-| <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | s5.stakehouse.betanet | 10% | CN | | |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | | |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

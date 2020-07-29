@@ -127,6 +127,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://raw.githubusercontent.com/traderok/screenshots/master/megatron.jpg" width="40"> | megatron | "Give me the spark, silly, and I will leave you alive." | @hexbi.betanet | 10% | UA | [@megatron](https://explorer.betanet.near.org/accounts/megatron) | Yes |
 | <img src="https://raw.githubusercontent.com/magisteryada/screenshots/master/b7ca2b40b99b4827ecea08769e8a5fd5.jpg" width="40"> | yoda | "Let the force be with you" | @magisteryoda.betanet | 10% | UA |[@yoda](https://explorer.betanet.near.org/accounts/yoda) | Yes |
 | <img src="https://github.com/everstake/everstake.github.io/blob/master/img/Everstake-256.png" width="40"> | [Everstake](https://everstake.one/) | Reliable and experienced staking service provider from Ukraine. | [@everstake.betanet](https://explorer.betanet.near.org/accounts/everstake.betanet) | 10% | UA | [@pool.everstake.betanet](https://explorer.betanet.near.org/accounts/pool.everstake.betanet) | yes |
+| <img src="https://01node.com/wp-content/themes/01Node/assets/img/01node.svg" width="40"> | 01node | https://01node.com | 01node.betanet | 10% | RO | @01node.stakehouse.betanet | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
 | | | | | | | | |

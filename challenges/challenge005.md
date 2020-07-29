@@ -66,7 +66,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Title | Abstract                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
 | Release a CI Pipeline doc | Create an article or a commented Github script to explain and execute an automated building and testing of a new release of nearcore. Before starting the project request approval in the NEAR portal. | - | - | - | 3,500 | 15% | - |
-| Release a CD Pipeline doc | Create an article and a Github document/script to explain and execute an automated deployment of a new release of nearcore. Before starting the project request approval in the NEAR portal. | - | - | - | 3,000 | 15% | - |
+| Release a CD Pipeline doc | Create an article and a Github document/script to explain and execute an automated deployment of a new release of nearcore. Before starting the project request approval in the NEAR portal. | @The Passive Trust | Jul 29 2020 | [GitHub](https://github.com/abellinii/near-terraform)| 3,000 | 15% | EN |
 | Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | - | - | - | 1,500 | 10% | - |
 
 ## Previous Challenge

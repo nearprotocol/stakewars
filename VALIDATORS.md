@@ -96,7 +96,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/59618272?s=400&u=54f6926d571cae56797a4d3555a3d1a9c84788c8&v=4" width="40"> | kokos | secures Near from covid | @covid.betanet | 1% | UA | [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/cocos-anti-covid) | YES |
 | <img src="https://raw.githubusercontent.com/calify/IOSG/master/IOSG.png" width="40"> | [IOSG](https://iosg.vc) | Thesis and Community Driven | @iosgvc.betanet | 10% | CN | [@iosgvc.betanet](https://explorer.betanet.near.org/accounts/iosgvc.betanet) | yes |
-| <img src="https://www.kruptosnomisma.org/gallery_gen/be6a3702672f8947247d859b06035ec4.png" width="40"> | [Kruptos Nomisma](https://www.kruptosnomisma.org) | Crypto's - ICO's - Nodes | @joesixpack.betanet | 1% | CH | [@ou812](https://explorer.betanet.near.org/accounts/ou812) | YES |
+| <img src="https://www.kruptosnomisma.org/gallery_gen/be6a3702672f8947247d859b06035ec4.png" width="40"> | [Kruptos Nomisma](https://www.kruptosnomisma.org) | Crypto's - ICO's - Nodes | @joesixpack.betanet | 0% | CH | [@ou812.stakehouse.betanet](https://explorer.betanet.near.org/accounts/ou812.stakehouse.betanet) | YES |
 | | isillien | Pool staking is easy with Near | @isillien.betanet | 10% | LT | [@isillien](https://explorer.betanet.near.org/accounts/isillien) | yes |
 | | VIPnamai | NotSoSimpleStaking | @vipnamai.betanet | 10% | LT | [@vipstakes](https://explorer.betanet.near.org/accounts/vipstakes) | yes |
 | | Alex | Stake here | [@alexzz.betanet](https://explorer.betanet.near.org/accounts/alexzz.betanet) | 10% | CN |[@alexzz](https://explorer.betanet.near.org/accounts/alexzz)| Yes |
@@ -131,7 +131,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | Zero Pool | Stake here | [@zeropool.betanet](https://explorer.betanet.near.org/accounts/zeropool.betanet) | 10% | CN |[@pool.zeropool.betanet](https://explorer.betanet.near.org/accounts/pool.zeropool.betanet)| Yes |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | | |
 | | | | | | | | |
-| | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | |
+| | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |
 | <img src="https://petapixel.com/assets/uploads/2017/01/baikal3-800x781.jpg" width="40"> | Gladba | .. no false promises here .. | @gladba.betanet | 10% | Wonderful world | [@global](https://explorer.betanet.near.org/accounts/global) | no |
 | <img src="https://avatars2.githubusercontent.com/u/60854664?s=96&v=4" width="40"> | k0kk0k | Stake them ALL! | @danil.betanet | 10% | RU | [@bucket](https://explorer.betanet.near.org/accounts/bucket) | no |

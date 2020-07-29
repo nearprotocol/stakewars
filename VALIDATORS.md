@@ -170,7 +170,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
-| <img src="https://swiss-staking.ch/img/logo.png" width="40"> | Swiss Staking | Validating since 2018. With over 700 days of staking experience we offer a highly secure and stable validator. We are based in Zug, Switzerland. | @swiss-staking.betanet | 10% | CH | @swiss-staking.stakehouse.betanet | Yes |
+| <img src="https://swiss-staking.ch/img/logo.png" width="80"> | Swiss Staking | Validating since 2018. With over 700 days of staking experience we offer a highly secure and stable validator. We are based in Zug, Switzerland. | @swiss-staking.betanet | 10% | CH | @swiss-staking.stakehouse.betanet | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

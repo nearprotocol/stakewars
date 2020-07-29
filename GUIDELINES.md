@@ -40,17 +40,19 @@ We want...
 * To find glaring flaws in our systems, designs and code
 * To learn what your needs are as part of the validator community
 
-## Additional guidelines to join TestNet
-We are happy to have as many professional validators and distinguished BetaNet node operators to TestNet as we can. However, TestNet network requires additional attention, as we have applications and developers actively using it - which means we can't afford to have nodes offline or not updated.
+## Additional guidelines for validators joining TestNet
+After a validator generated at least \~6000 blocks on BetaNet (and has been one week in the active set), it becomes eligible to receive staking on TestNet. Before the migration takes place, Stake Wars organizers will reach out directly to the validator, proposing to shut down the BetaNet node, and receive delegated tokens on TestNet.
 
-Stake Wars organizers will reach out directly, proposing to shut down your BetaNet node, and receive delegated tokens on TestNet. There are no specific requirements, however the evaluation will be based on these factors (not in order of importance):
+There are no specific requirements, and the promotion is not automatic. The evaluation will be based on these factors (not in order of importance):
 * your staking pool uptime is in the 90th percentile of the [leaderboard](LEADERBOARD.md)
-* your pool was running for a substantial number of epochs
+* your pool run for a substantial number of epochs without being kicked out
 * you successfully completed the Stake Wars challenges
 * you are active in the community channels (Discord and the [portal](https://portal.near.org))
-* you actively updated your node and successfully completed BetaNet migrations on Tuesdays
+* you actively updated your node and successfully applied BetaNet node ugrades
 * you are already a successful validator on other PoS networks
 * you contributed to `nearcore` and other NEAR repositories (submitting issues, finding bugs, improving docs...)
+
+While we are happy to have as many professional validators and distinguished BetaNet node operators to TestNet as we can, all validators need to guarantee TestNet uptime and reliability. Failing to do so may induce the Stake Wars organizers to unstake the funds from the pool.
 
 In practical terms, to join TestNet you will have to:
 1. deploy your TestNet staking pool, using the staking pool factory [smart contract](https://explorer.testnet.near.org/accounts/stakingpool)

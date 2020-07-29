@@ -129,7 +129,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://github.com/everstake/everstake.github.io/blob/master/img/Everstake-256.png" width="40"> | [Everstake](https://everstake.one/) | Reliable and experienced staking service provider from Ukraine. | [@everstake.betanet](https://explorer.betanet.near.org/accounts/everstake.betanet) | 10% | UA | [@pool.everstake.betanet](https://explorer.betanet.near.org/accounts/pool.everstake.betanet) | yes |
 | <img src="https://01node.com/wp-content/themes/01Node/assets/img/01node.svg" width="40"> | 01node | https://01node.com | 01node.betanet | 10% | RO | @01node.stakehouse.betanet | yes |
 | | Zero Pool | Stake here | [@zeropool.betanet](https://explorer.betanet.near.org/accounts/zeropool.betanet) | 10% | CN |[@pool.zeropool.betanet](https://explorer.betanet.near.org/accounts/pool.zeropool.betanet)| Yes |
-| <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | | |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | yes | 
+| <img src="https://swiss-staking.ch/img/logo.png" width="80"> | Swiss Staking | Validating since 2018. With over 700 days of staking experience we offer a highly secure and stable validator. | @swiss-staking.betanet | 10% | CH | @swiss-staking.stakehouse.betanet | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

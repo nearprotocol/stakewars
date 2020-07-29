@@ -27,6 +27,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/top.stakingpool) | RU |
 | <img src="https://masternode24.de/wp-content/uploads/2020/05/LOGO-Github.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | [@masternode24.pool.6fb1358](https://explorer.testnet.near.org/accounts/masternode24.pool.6fb1358) | DE |
+| <img src="https://blazenet.io/wp-content/uploads/2020/05/cropped-blaze-favicon-9.png" width="40"> | Blaze | Staking up a Blaze of Rewards! | [@blazenet](https://explorer.testnet.near.org/accounts/blazenet_voting.pool.6fb1358) | US |
 
 
 

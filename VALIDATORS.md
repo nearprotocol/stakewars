@@ -229,7 +229,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 | | andrew_builder |  | @andrew_builder.betanet | 10% | UA | | |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/204d1abfeb21ece2e0b56e1ad8304305_360_360.jpg" width="40"> | [GRom81](https://keybase.io/grom81) | Professional and trusted validator | [@grom818181.betanet](https://explorer.betanet.near.org/accounts/grom818181.betanet) | 10% | RU | | |
-| | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
+| <img src="https://shop.io.mi-img.com/app/shop/img?id=shop_cb3982acbf9f4c974b9a855b6416aece.jpeg" width="40"> | aquariuspool.stakehouse.betanet | Professional,trusted and Stable node operator | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @mamayavkino.betanet | -% | RU | | |
 | :D | hekit-cyber-pool |build crypto future | @hekit.betanet | 10% | UA | | |

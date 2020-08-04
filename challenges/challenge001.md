@@ -34,7 +34,9 @@ Setup your validator node following the hardware requirements [here](https://doc
 Once your machine is ready, install [nearup](https://github.com/near/nearup). Nearup will provide simplified tools to run NEAR nodes, and is designed to help validators start their nodes, and developers who need a local RPC for their applications.
 
 Take your time to understand how to manually update [nearcore](https://github.com/nearprotocol/nearcore), and how to properly use the command `nearup betanet --nodocker --binary-path` (see below for contribution opportunities).
-To connect your node to `betanet` download and compile `nearcore` from its [beta branch](https://github.com/nearprotocol/nearcore/tree/beta).
+To connect your node to `betanet` download and compile the latest [nearcore release](https://github.com/nearprotocol/nearcore/releases):
+- BetaNet releases of nearcore are mapped with the tag `x.y.z-beta`
+- TestNet releases of nearcore are mapped with the tag `x.y.z-rc`
 
 **Heads up:** at this point, you have to decide the name of your staking pool!
 If your wallet is `nearkat.betanet`, you will have to choose a specific name for the staking pool, such as `nearkat_staking`. Since in the [step 3.2](challenge001.md#32-deploy-your-staking-pool) you will use the staking pool factory, your name will become `stakingPool_ID` + `stakehouse.betanet`.

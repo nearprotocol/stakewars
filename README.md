@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-July 22nd 2020 update: new sections in this README file!
+August 4th 2020 update: new `nearcore` release tags!
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

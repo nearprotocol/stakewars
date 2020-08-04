@@ -1,5 +1,9 @@
 # UPDATES
 
+## UPDATE August 3rd
+
+* Nearcore releases are not using anymore branching, so the instructions to build the binaries are different. Refer to https://github.com/nearprotocol/nearcore/releases to see the new release mapping.
+
 ## UPDATE July 22nd
 
 * Improved the [README.md](README.md) to clarify the role of challenges and add orientation of the files in this repository.

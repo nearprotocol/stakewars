@@ -24,7 +24,9 @@ You may want to read [this article](https://hackernoon.com/understanding-the-bas
 3. Deploy the node
 
 ### 1.Build nearcore
-Subscribe to the [branch beta](https://github.com/nearprotocol/nearcore/tree/beta) of nearcore, and automatically build the artifact from the source code as soon as there's a new release.
+Subscribe to [Nearcore releases](https://github.com/nearprotocol/nearcore/releases), and automatically build the artifact from the source code as soon as there's a new version of the node. Every release is tagged as follows:
+- BetaNet releases of nearcore will be mapped with the tag `x.y.z-beta`
+- TestNet releases of nearcore will be mapped with the tag `x.y.z-rc`
 
 More information is available in the official documentation, in the [contribution section](https://docs.near.org/docs/contribution/nearcore) and in the [develop section](https://docs.near.org/docs/local-setup/running-testnet#compiling-and-running-official-node-without-docker)
 

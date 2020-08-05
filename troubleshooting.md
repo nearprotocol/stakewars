@@ -12,13 +12,13 @@ Contributions and corrections are welcome!
 4. My node seems stuck at 98% of the sync, without progressing
 5. My node is stuck at zero peers
 
-### Near-shell and RPC issues
-1. I get a `Server error: Timeout` when I use near-shell
-2. I get a `type: 'UntypedError'` if I try to use near-shell
-3. I get a `KeyNotFound` error if I try to use near-shell
+### Near-cli and RPC issues
+1. I get a `Server error: Timeout` when I use near-cli
+2. I get a `type: 'UntypedError'` if I try to use near-cli
+3. I get a `KeyNotFound` error if I try to use near-cli
 4. I get a timeout error from the RPC after I send a command
 5. I had a wallet created on [nearprotocol.com](http://nearprotocol.com), and now I can't access it anymore
-6. I try to login with near-shell, but I receive the `ERR_CONNECTION_REFUSED` error on the website
+6. I try to login with near-cli, but I receive the `ERR_CONNECTION_REFUSED` error on the website
 
 ### Staking-related issues
 1. I used `near send` instead of `near call` to my staking pool
@@ -43,7 +43,7 @@ Issue the command `cat .near/betanet/validator_key.json | grep "account_id\|publ
 ```
 Note this result and proceed to verify the staking pool configuration.
 
-**On your near-shell machine**
+**On your near-cli machine**
 
 Issue the command `curl -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq -c '.result.current_validators[] | select(.account_id | contains ("c2.nearkat"))'`. (Remember to replace `c2.nearkat` with the account_id from your validator_key.json)
 
@@ -139,7 +139,7 @@ You should expect a result similar to this one:
 Jun 10 23:17:11.628  INFO near: Version: 1.0.0, Build: b30864b8, Latest Protocol: 22 
 ```
 
-**On your near-shell machine**
+**On your near-cli machine**
 Issue the command `curl -d '{"jsonrpc": "2.0", "method": "status", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' https://rpc.betanet.near.org | jq .result.version`
 
 You should expect a result similar to this one:
@@ -179,9 +179,9 @@ To check logs call: `nearup logs` or `nearup logs --follow`
 This process will use nearup scripts to generate the config files, the node keys and the genesis.json file from scratch while keeping the validator_key intact (which is used by the staking pool contract).
 Be sure that only one node at a time is using your validator_key.json, or you risk to double-sign blocks.
 
-## 2.Near-shell and RPC issues
+## 2.Near-cli and RPC issues
 
-### 2.1. I get a `Server error: Timeout` when I use near-shell
+### 2.1. I get a `Server error: Timeout` when I use near-cli
 If you are on BetaNet, we often apply experimental features that can impact RPC's stability.
 
 The error may look similar to this one:
@@ -198,15 +198,15 @@ Error:  TypedError: [-32000] Server error: Timeout
 
 **Remediation:**
 1. Look for the transaction on the [BetaNet Explorer](https://explorer.betanet.near.org)
-2. Point near-shell to a local node
+2. Point near-cli to a local node
 3. The network is not producing new blocks
 
 **1. Look for the transaction on the BetaNet Explorer**
-Most of the time, your transaction was correctly sent to the network, regardless of the timeout error in `near-shell`.
+Most of the time, your transaction was correctly sent to the network, regardless of the timeout error in `near-cli`.
 If you don't see the transaction in the explorer, you can issue the command again and refres the explorer page.
 
-**2. Point near-shell to a local node**
-Download and run `nearup` on your local machine, and point near-shell to the localhost for the queries. As an example, the command `near state test` would become `near state test --nodeUrl http://127.0.0.1:3030 --helperUrl http://127.0.0.1:3030`.
+**2. Point near-cli to a local node**
+Download and run `nearup` on your local machine, and point near-cli to the localhost for the queries. As an example, the command `near state test` would become `near state test --nodeUrl http://127.0.0.1:3030 --helperUrl http://127.0.0.1:3030`.
 You should see a result similar to this one:
 
 ```
@@ -235,9 +235,9 @@ Account test
 ```
 
 **3. The network is not producing new blocks**
-In the unlikely situation that NEAR Protocol is not producing new blocks, near-shell cannot issue commands that change the state of the ledger, such as `near call` or `near login`. In this case, you have to check the status of the network from the page at https://status.nearprotocol.com/ and wait when the services are back online to perform such actions.
+In the unlikely situation that NEAR Protocol is not producing new blocks, near-cli cannot issue commands that change the state of the ledger, such as `near call` or `near login`. In this case, you have to check the status of the network from the page at https://status.nearprotocol.com/ and wait when the services are back online to perform such actions.
 
-### 2.2. I get a `type: 'UntypedError'` if I try to use near-shell
+### 2.2. I get a `type: 'UntypedError'` if I try to use near-cli
 Most of the time you can find the reason of the error by scrolling up a few lines:
 ```
 Using options: {
@@ -266,8 +266,8 @@ Error:  TypedError: [-32000] Server error: account nearkat does not exist while 
 Simply analyze the `Error:` line of the message. In this case, `account nearkat does not exist while viewing` means I'm trying to view the user `nearkat` on TestNet network and not BetaNet (as you can see in the `walletUrl` and `helperUrl` fields of the options).
 
 
-### 2.3. I get a `KeyNotFound` error if I try to use near-shell
-Your near-shell may not have the keys to operate on your account, showing an error similar to the one below: 
+### 2.3. I get a `KeyNotFound` error if I try to use near-cli
+Your near-cli may not have the keys to operate on your account, showing an error similar to the one below: 
 
 ```
 }
@@ -281,7 +281,7 @@ Error:  TypedError: Can not sign transactions for account bowen.test, no matchin
 ```
 
 **Remediations**
-You can use `near login` again, and authorize your machine, or just copy your json key from your backups to the `~/.near-credentials/betanet/` folder. Previous versions of near-shell were storing credentials in the `neardev` folder, so if your account name is `nearkat.betanet` you may look for it with the command `find -name "*nearkat*.json"`, showing results as below:
+You can use `near login` again, and authorize your machine, or just copy your json key from your backups to the `~/.near-credentials/betanet/` folder. Previous versions of near-cli were storing credentials in the `neardev` folder, so if your account name is `nearkat.betanet` you may look for it with the command `find -name "*nearkat*.json"`, showing results as below:
 ```
 ./betanet/c1.nearkat.betanet.json
 ./betanet/nearkat.betanet.json
@@ -294,7 +294,7 @@ You can use `near login` again, and authorize your machine, or just copy your js
 ./neardev/betanet/nearkat.json
 ./.near-credentials/betanet/c2.nearkat.json
 ```
-The files `./betanet/nearkat.betanet.json` and `./neardev/betanet/nearkat.betanet.json` contain a valid private key to control the account `nearkat.betanet`, so moving them to the directory `./.near-credentials/betanet/` will allow your near-shell to sign a transaction for that account.
+The files `./betanet/nearkat.betanet.json` and `./neardev/betanet/nearkat.betanet.json` contain a valid private key to control the account `nearkat.betanet`, so moving them to the directory `./.near-credentials/betanet/` will allow your near-cli to sign a transaction for that account.
 
 **Heads Up:** This solution doesn't apply if you are using a Ledger Wallet.
 
@@ -341,7 +341,7 @@ Your seed passphrase is separated by `%20`, so you can manually separate the key
 
 Trying to use the right passphrase with the wrong wallet URL will produce no results.
 
-### 2.6. I try to login with near-shell, but I receive the `ERR_CONNECTION_REFUSED` error on the website
+### 2.6. I try to login with near-cli, but I receive the `ERR_CONNECTION_REFUSED` error on the website
 You may encounter this error if you copy/paste the url from the login window. The login dialog may be similar to the one below:
 ```
  ~ $ near login
@@ -365,10 +365,10 @@ Please authorize at least one account at the URL above.
 Which account did you authorize for use with NEAR Shell?
 Enter it here (if not redirected automatically):
 ```
-Near-shell generates an URL to automatically redirect to `http%3A%2F%2F127.0.0.1%3A5000`, generating the error if your near-shell is not running locally but on a remote server.
+Near-cli generates an URL to automatically redirect to `http%3A%2F%2F127.0.0.1%3A5000`, generating the error if your near-cli is not running locally but on a remote server.
 
 **Remediation**
-This error has no impact on a successful login. Simply return to the shell window, and type the username you want to use on near-shell in the propmt screen. If successful, you should see a message similar to the one below:
+This error has no impact on a successful login. Simply return to the shell window, and type the username you want to use on near-cli in the propmt screen. If successful, you should see a message similar to the one below:
 
 ```
 Enter it here (if not redirected automatically):

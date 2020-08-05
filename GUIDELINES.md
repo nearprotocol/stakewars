@@ -59,7 +59,7 @@ In practical terms, to join TestNet you will have to:
 2. build and run your TestNet node
 3. submit your information to [this form](https://nearprotocol1001.typeform.com/to/x4Bval). Specify both your BetaNet and TestNet pools, and don't forget to disclose your Github and Discord/Telegram IDs, so it's easier for us to contact you in case of issues
 
-You can instantly deploy the staking pool factory with near-shell, using the command:
+You can instantly deploy the staking pool factory with near-cli, using the command:
 ```
 near call pool.6fb1358 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
 ```

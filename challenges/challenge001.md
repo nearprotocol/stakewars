@@ -8,25 +8,25 @@ This is designed to be your very first challenge: use it to understand how the s
 
 ## Acceptance Criteria
 
-1. Connect `near-shell` to your BetaNet wallet
+1. Connect `near-cli` to your BetaNet wallet
 2. Deploy your NEAR node
 3. Launch your Staking Pool
 
-## 1.Connect `near-shell` to your BetaNet wallet
+## 1.Connect `near-cli` to your BetaNet wallet
 
-You need [near-shell](https://github.com/near/near-shell), a Node.js application that relies on nearlib to generate secure keys, connect to the NEAR platform and send transactions to the network on your behalf.
-You don't have to install near-shell on your validator node - on the contrary, it's suggested to keep your staking wallet on a different machine.
+You need [near-cli](https://github.com/near/near-cli), a Node.js application that relies on nearlib to generate secure keys, connect to the NEAR platform and send transactions to the network on your behalf.
+You don't have to install near-cli on your validator node - on the contrary, it's suggested to keep your staking wallet on a different machine.
 
 **Heads up:** please be sure to have Node version 10+ installed before trying to run near shell
 
-1. Download `near-shell` with `npm install -g near-shell`
+1. Download `near-cli` with `npm install -g near-cli`
 2. Set your NODE_ENV to betanet. You can do this in `bash` with the command `export NODE_ENV=betanet`
 3. Run `near login` and copy/paste in your browser the link from the instructions on the screen
-4. If you are not automatically redirected, manually type the `account_ID` of your BetaNet account in near-shell
+4. If you are not automatically redirected, manually type the `account_ID` of your BetaNet account in near-cli
 
-**Heads up:** Even if you see an `ERR_CONNECTION_REFUSED` error in your browser, your login may be successful. So complete the step 5 and manually type your `account_ID` in near-shell.
+**Heads up:** Even if you see an `ERR_CONNECTION_REFUSED` error in your browser, your login may be successful. So complete the step 5 and manually type your `account_ID` in near-cli.
 
-This process is needed to authorize a `signer key` on your `account_ID`, enabling near-shell to control your wallet.
+This process is needed to authorize a `signer key` on your `account_ID`, enabling near-cli to control your wallet.
 
 ## 2.Deploy your NEAR node
 
@@ -56,7 +56,7 @@ Once your validator node is running under the name you decided, you have to conn
 ### 3.1. Preparation: unstake any previously locked funds
 
 If you were already a validator on BetaNet, and you are using the legacy `near stake` command, follow the commands below before proceeding:
-1. Issue `export NODE_ENV=betanet` command before performing any unstaking, so near-shell will connect to `betanet` RPC.
+1. Issue `export NODE_ENV=betanet` command before performing any unstaking, so near-cli will connect to `betanet` RPC.
 2. Unstake your previously locked funds, by setting stake to zero: `near stake account_ID <staking public key> 0` - where the public key and the account ID are the same you used when you initially issued the staking transaction.
 
 Please note that your staked funds will require three epochs to be available (9 hours on BetaNet). Once the funds are unlocked, you can stop nearup with the command `nearup stop`, cleanup the folder `~/.near/betanet` on your validator node, and start nearcore again, following the process from the step 2 above.
@@ -69,7 +69,7 @@ Once your node is not anymore a validator using the legacy `near stake` command 
 
 Updated July 22nd: to accommodate MainNet Restricted requirements, we introduced a [Staking Pool Factory](https://github.com/near/core-contracts/tree/master/staking-pool-factory). This smart contract will deploy the staking pool for you, and will _whitelist_ the contract to receive and send tokens to your wallet. If you have any previous release of the staking pool, we strongly suggest to deploy this new version and dismiss the previous staking pool. 
 
-The staking pool factory is a normal smart contract that can be invoked with the `call` function on near-shell:
+The staking pool factory is a normal smart contract that can be invoked with the `call` function on near-cli:
 ```
 near call stakehouse.betanet create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
 ```
@@ -84,7 +84,7 @@ Where:
 
 ### 3.3. Delegate your own unstaked funds to the staking pool
 
-1. From your near-shell machine, deposit the funds from your master account to the staking pool: `near call stakingPool_ID deposit '{}' --accountId account_ID --amount 100`
+1. From your near-cli machine, deposit the funds from your master account to the staking pool: `near call stakingPool_ID deposit '{}' --accountId account_ID --amount 100`
 	Where 100 is the amount in NEAR tokens you want to deposit.
 2. Stake your deposited funds, with the command `near call stakingPool_ID stake '{"amount": "100000000000000000000000000"}' --accountId account_ID`
 

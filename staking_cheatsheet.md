@@ -1,6 +1,6 @@
 # Staking Pool Cheatsheet
 
-This low-maintained cheatsheet supports Validators and Delegators who use [near-shell](https://github.com/near/near-shell) to manage their stake.
+This low-maintained cheatsheet supports Validators and Delegators who use [near-cli](https://github.com/near/near-cli) to manage their stake.
 
 Replace `nearkat.stakingpool` with the name of your pool, and `pool_admin.nearkat` with the owner/administrator of the pool (or the account that is staking the tokens).
 

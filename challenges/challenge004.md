@@ -11,8 +11,8 @@ This challenge is designed to learn how to monitor the minimum stake to become a
 2. Manage the seat price
 
 ## 1.Monitor your stake
-Use [near-shell](https://github.com/near/near-shell) or the `validators` method in the [JSON RPC](https://docs.near.org/docs/interaction/rpc) to query the validators state:
-| Action | near-shell | validators JSON RPC |
+Use [near-cli](https://github.com/near/near-cli) or the `validators` method in the [JSON RPC](https://docs.near.org/docs/interaction/rpc) to query the validators state:
+| Action | near-cli | validators JSON RPC |
 | ------ | ---------- | -------- |
 | current set (t0) | `near validators current` | `result.current_validators` |
 | next set (t+1) | `near validators next` | `result.next_validators` |
@@ -20,7 +20,7 @@ Use [near-shell](https://github.com/near/near-shell) or the `validators` method 
 
 Where `t0` is the current epoch, and `t+n` epochs in the future.
 
-### Monitor the current set of validators with near-shell
+### Monitor the current set of validators with near-cli
 Use
 ```
 near validators current | awk '/<POOL_ID>/ {print $4}'
@@ -40,11 +40,11 @@ This command query the JSON RPC with:
 - `select(.account_id | contains ("<POOL_ID>"))'` to filter only <POOL_ID> from the results
 - `jq .stake` to filter again via jq the results and take only the total stake in YoctoNEAR
 
-If compared with near-shell, this query provides a more accurate stake of the <POOL_ID>.
+If compared with near-cli, this query provides a more accurate stake of the <POOL_ID>.
 
 You can use similar filters to check if your pool will be in the next set or not:
 
-### Monitor the next set with near-shell
+### Monitor the next set with near-cli
 Use the command below to see if your node will lose its seat in the next epoch:
 ```
 near validators next | grep "Kicked out" | grep "<POOL_ID>"
@@ -102,7 +102,7 @@ As a final step, estimate how many blocks are left in the current epoch by subtr
 ### Monitor the seat price
 Measure or calculate yourself the cost of a seat to become validator.
 
-As an example, you may use near-shell to know:
+As an example, you may use near-cli to know:
 - the current epoch seat price with `near validators current | awk '/price/ {print substr($6, 1, length($6)-2)}'`
 - the next epoch seat price price with `near validators next | awk '/price/ {print substr($7, 1, length($7)-2)}'`
 - the estimated t+2 seat price with `near proposals | awk '/price =/ {print substr($15, 1, length($15)-1)}'`

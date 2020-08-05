@@ -244,6 +244,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | | |
 | :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
+| <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | swag2 | Happy staking! | @swag2.betanet | 10% | US | [@swain2.stakehouse.betanet (https://explorer.betanet.near.org/accounts/swain2.stakehouse.betanet) | Yes |
+| :+ | swag1 | Boom | @swag1.betanet | 10% | US | [@sam.stakehouse.betanet(https://explorer.betanet.near.org/accounts/sam.stakehouse.betanet) | Yes |
 
 
 Notes:

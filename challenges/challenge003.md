@@ -86,6 +86,7 @@ Define the thresholds that trigger alerts, such as:
 | [@sc.galbraith.betanet](https://explorer.betanet.near.org/accounts/sc.galbraith.betanet) | Jul 1 | 10,000 |
 | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) | Jul 6 | 10,000 |
 | [@777stakes](https://explorer.betanet.near.org/accounts/777stakes) | Jul 29 | 10,000 |
+| [@paulainsley1betanet.stakehouse.betanet](https://explorer.betanet.near.org/accounts/paulainsley1betanet.stakehouse.betanet) | Jul 31 | 10,000 |
 
 
 ## Contribution Opportunities

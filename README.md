@@ -49,7 +49,7 @@ NEAR is using two main accounts: [github.com/nearprotocol](https://github.com/ne
 To join Stake Wars you will use:
 - [nearup](https://github.com/near/nearup), public scripts to launch NEAR Protocol devnet, betanet and testnet nodes
 - [nearcore](https://github.com/nearprotocol/nearcore), the reference client for NEAR Protocol
-- [near-shell](https://github.com/near/near-shell), the general purpose command line tools for interacting with NEAR Protocol
+- [near-cli](https://github.com/near/near-cli), the general purpose command line tools for interacting with NEAR Protocol
 - [initial-contracts](https://github.com/near/initial-contracts), where you can find the staking pool
 
 ### NEAR Documentation

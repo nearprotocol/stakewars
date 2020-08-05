@@ -30,7 +30,7 @@ More details can be found in the documentation pages at [docs.near.org/validator
 
 ### 3.Deploy the Delegation smart contract
 - Deploy your Staking Pool using the `staking-pool-factory` from the [Initial Contracts repo](https://github.com/near/core-contracts)
-- Deploy the contract with `near-shell`
+- Deploy the contract with `near-cli`
 - Configure the contract with the exact node id and its validator public key
 - Stake delegating your BetaNet funds to the contract
 

@@ -11,8 +11,8 @@ This challenge is designed to learn how to monitor the minimum stake to become a
 2. Manage the seat price
 
 ## 1.Monitor your stake
-Use [near-shell](https://github.com/near/near-shell) or the `validators` method in the [JSON RPC](https://docs.near.org/docs/interaction/rpc) to query the validators state:
-| Action | near-shell | validators JSON RPC |
+Use [near-cli](https://github.com/near/near-cli) or the `validators` method in the [JSON RPC](https://docs.near.org/docs/interaction/rpc) to query the validators state:
+| Action | near-cli | validators JSON RPC |
 | ------ | ---------- | -------- |
 | current set (t0) | `near validators current` | `result.current_validators` |
 | next set (t+1) | `near validators next` | `result.next_validators` |
@@ -20,7 +20,7 @@ Use [near-shell](https://github.com/near/near-shell) or the `validators` method 
 
 Where `t0` is the current epoch, and `t+n` epochs in the future.
 
-### Monitor the current set of validators with near-shell
+### Monitor the current set of validators with near-cli
 Use
 ```
 near validators current | awk '/<POOL_ID>/ {print $4}'
@@ -40,11 +40,11 @@ This command query the JSON RPC with:
 - `select(.account_id | contains ("<POOL_ID>"))'` to filter only <POOL_ID> from the results
 - `jq .stake` to filter again via jq the results and take only the total stake in YoctoNEAR
 
-If compared with near-shell, this query provides a more accurate stake of the <POOL_ID>.
+If compared with near-cli, this query provides a more accurate stake of the <POOL_ID>.
 
 You can use similar filters to check if your pool will be in the next set or not:
 
-### Monitor the next set with near-shell
+### Monitor the next set with near-cli
 Use the command below to see if your node will lose its seat in the next epoch:
 ```
 near validators next | grep "Kicked out" | grep "<POOL_ID>"
@@ -102,7 +102,7 @@ As a final step, estimate how many blocks are left in the current epoch by subtr
 ### Monitor the seat price
 Measure or calculate yourself the cost of a seat to become validator.
 
-As an example, you may use near-shell to know:
+As an example, you may use near-cli to know:
 - the current epoch seat price with `near validators current | awk '/price/ {print substr($6, 1, length($6)-2)}'`
 - the next epoch seat price price with `near validators next | awk '/price/ {print substr($7, 1, length($7)-2)}'`
 - the estimated t+2 seat price with `near proposals | awk '/price =/ {print substr($15, 1, length($15)-1)}'`
@@ -148,7 +148,9 @@ Once your work is done, you will be added to the list below. Please note that re
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
 | Monitor the Stake | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to monitor your stake, and the current seat price. The goal is to help users integrate this system with their monitoring platform, such as Grafana or Datadog. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other languages are encouraged, but considered case by case basis. | @narniec | Jun 23 2020 | [Medium](https://link.medium.com/ycHhCnWBy7 ) | 1,000 | 15% | RU |
 | Monitor the Stake | Same as the above | @bonsfi | Jul 21 2020 | [Medium](https://medium.com/@bonsfi/como-monitorear-el-stake-de-tu-validador-en-near-protocol-d709326cf6ff?sk=09f62413b029762a549b5596c9543a4c) | 1,000 | 15% | ES |
-| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
+| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @48cfu | Jun 28 2020 | [Github](https://github.com/48cfu/near-warchest-bot) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Same as the above | @gaia | Jun 29 2020 | [Github](https://gist.github.com/gaia/cff45baf3fa710a42c3fc4cdaafe8edc) | 2,500 | 10% | EN |
+| Release the Warchest Bot | Same as the above | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
 

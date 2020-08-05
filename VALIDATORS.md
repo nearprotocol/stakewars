@@ -131,6 +131,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | Zero Pool | Stake here | [@zeropool.betanet](https://explorer.betanet.near.org/accounts/zeropool.betanet) | 10% | CN |[@pool.zeropool.betanet](https://explorer.betanet.near.org/accounts/pool.zeropool.betanet)| Yes |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | yes | 
 | <img src="https://swiss-staking.ch/img/logo.png" width="80"> | Swiss Staking | Validating since 2018. With over 700 days of staking experience we offer a highly secure and stable validator. | @swiss-staking.betanet | 10% | CH | @swiss-staking.stakehouse.betanet | Yes |
+| <img src="https://p.pstatp.com/origin/138040000417b361a135c" width="40"> | Staking-Power(http://www.staking-power.tech) | Chinese professional node operator | [@lizhongbo3.betanet](https://explorer.betanet.near.org/accounts/lizhongbo3.betanet) | 10% | CN | [@staking_viboracecata.stakehouse.betanet](https://explorer.betanet.near.org/accounts/staking_viboracecata.stakehouse.betanet) | Yes |
+| <img src="https://img.bafang.com/cdn/assets/imgs/MjAxOTg/C3B8310FFC1B46DA82C8ED7910C2AD61.png" width="40"> | [OKExPool](https://okex.com/pool) | OKExPool | [@okexpool.betanet](https://explorer.betanet.near.org/accounts/okexpool.betanet) | 10% | CN | [@okexpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/okexpool.stakehouse.betanet) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |
@@ -229,7 +231,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 | | andrew_builder |  | @andrew_builder.betanet | 10% | UA | | |
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/204d1abfeb21ece2e0b56e1ad8304305_360_360.jpg" width="40"> | [GRom81](https://keybase.io/grom81) | Professional and trusted validator | [@grom818181.betanet](https://explorer.betanet.near.org/accounts/grom818181.betanet) | 10% | RU | | |
-| | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
+| <img src="https://shop.io.mi-img.com/app/shop/img?id=shop_cb3982acbf9f4c974b9a855b6416aece.jpeg" width="40"> | aquariuspool.stakehouse.betanet | Professional,trusted and Stable node operator | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @mamayavkino.betanet | -% | RU | | |
 | :D | hekit-cyber-pool |build crypto future | @hekit.betanet | 10% | UA | | |
@@ -237,11 +239,11 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
-| | lizhongbo(http://www.staking-power.tech) | Chinese professional node operator | @lizhongbo3.betanet | 10% | CN | | |
 | <img src="https://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/sparkpool.png" width="40"> | [Sparkpool](https://www.sparkpool.com) | The keeper of blockchain networks. | [@sparkpool.test](https://wallet.betanet.near.org/sparkpool.test) | CN |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CA | | |
-| <img src="https://i.imgur.com/EkFy7z7.jpg" width="40"> | ramkiller1 | Happy staking! | @ramkiller1.betanet | 10% | TT | | |
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
+|<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | | |
+| :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
 
 
 Notes:

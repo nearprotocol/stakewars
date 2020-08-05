@@ -21,13 +21,13 @@ NEAR team, and other Stake Wars participants, will keep an eye on the validators
 
 This step of the challenge requires that you have at least 100 tokens alread delegated to your staking pool. If you participated in the previous Stake Wars, and you already received BetaNet tokens in the past weeks, you can delegate all of them to your own pool.
 
-Understand how to use the comamnd `near delete-key` from near-shell, and lock on your staking pool. Otherwise your pool will be listed, but you will not receive any delegation.
+Understand how to use the comamnd `near delete-key` from near-cli, and lock on your staking pool. Otherwise your pool will be listed, but you will not receive any delegation.
 To verify if your pool is locked, use the command `near keys stakingPool_ID | grep length`. If the result is different than `[length]: 0`, your pool is not locked.
 
 ## 3.Check your validator status
 You have five different ways to verify that your staking pool is successfully working, and you are a validator:
 1. Check on BetaNet block explorer
-2. Use the `near validators next | grep stakingPool_ID` on near-shell
+2. Use the `near validators next | grep stakingPool_ID` on near-cli
 3. Control the locked balance in your account, using `near state stakingPool_ID | grep locked` command
 4. Check that `nearup` logs are displayng an uppercase "V"
 5. A query to the JSON RPC using the `validator` endpoint
@@ -36,7 +36,7 @@ You have five different ways to verify that your staking pool is successfully wo
 Visit the [betanet explorer](https://explorer.betanet.near.org) and check that your staking transaction succeeded:
 ![alt text](../media/near_explorer_staking_pool.png "Explorer successful transaction")
 
-### 3.2.Use near-shell
+### 3.2.Use near-cli
 Use the command `near validators current` and `near validators next` to know who is currently running the network, a who will join next. The command `near validators next | grep stakingPool_ID` will show if your node will keep its seat in the next epoch.
 Use `near validators next | grep 'seat price'` to know how big is the stake to become a validator.
 

@@ -1,5 +1,10 @@
 # UPDATES
 
+## UPDATE August 5th
+
+* Changed `near-shell` into `near-cli`, reflecting the new naming of this tool: https://github.com/near/near-cli
+
+
 ## UPDATE August 3rd
 
 * Nearcore releases are not using anymore branching, so the instructions to build the binaries are different. Refer to https://github.com/nearprotocol/nearcore/releases to see the new release mapping.

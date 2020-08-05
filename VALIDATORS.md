@@ -132,6 +132,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/de32b7ca9108d3d7de68949f81114205_360_360.jpg" width="40"> | @s5.betanet | Professional PoS node contributor | @s5.stakehouse.betanet | 10% | CN | yes | 
 | <img src="https://swiss-staking.ch/img/logo.png" width="80"> | Swiss Staking | Validating since 2018. With over 700 days of staking experience we offer a highly secure and stable validator. | @swiss-staking.betanet | 10% | CH | @swiss-staking.stakehouse.betanet | Yes |
 | <img src="https://p.pstatp.com/origin/138040000417b361a135c" width="40"> | Staking-Power(http://www.staking-power.tech) | Chinese professional node operator | [@lizhongbo3.betanet](https://explorer.betanet.near.org/accounts/lizhongbo3.betanet) | 10% | CN | [@staking_viboracecata.stakehouse.betanet](https://explorer.betanet.near.org/accounts/staking_viboracecata.stakehouse.betanet) | Yes |
+| <img src="https://img.bafang.com/cdn/assets/imgs/MjAxOTg/C3B8310FFC1B46DA82C8ED7910C2AD61.png" width="40"> | [OKExPool](https://okex.com/pool) | OKExPool | [@okexpool.betanet](https://explorer.betanet.near.org/accounts/okexpool.betanet) | 10% | CN | [@okexpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/okexpool.stakehouse.betanet) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

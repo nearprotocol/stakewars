@@ -68,9 +68,10 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Title | Abstract                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
 | Release a CI Pipeline doc | Create an article or a commented Github script to explain and execute an automated building and testing of a new release of nearcore. Before starting the project request approval in the NEAR portal. | masknetgoal634 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | August 5 2020 | 3,500 | 15% | EN |
+| Release a CI Pipeline doc | Same as above | @abellinii | [Github](https://github.com/abellinii/near-ci) | August 6 2020 | 3,500 | 15% | EN |
 | Release a CD Pipeline doc | Create an article and a Github document/script to explain and execute an automated deployment of a new release of nearcore. Before starting the project request approval in the NEAR portal. | @abellinii | Jul 29 2020 | [Terraform](https://github.com/abellinii/near-terraform)| 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | masknetgoal634 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | August 5 2020 | 3,000 | 15% | EN |
-| Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | - | - | - | 1,500 | 10% | - |
+| Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | @abellinii | [Medium](https://medium.com/@thepassivetrust/automating-ci-cd-on-a-near-network-validator-6803b3b63f2f) | August 6 2020 | 1,500 | 10% | EN |
 
 ## Previous Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

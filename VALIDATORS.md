@@ -246,7 +246,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | | |
 | :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
-
+| <img src="https://01node.com/wp-content/themes/01Node/assets/img/01node.svg" width="40"> | [01node](https://01node.com) | 01node Trusted Validator | [@01node.betanet](https://explorer.betanet.near.org/accounts/01node.betanet) | 10% | RO🇷🇴 | [@01node.stakehouse.betanet](https://explorer.betanet.near.org/accounts/01node.betanet) | yes |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

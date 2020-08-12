@@ -246,6 +246,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | | |
 | :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/f1c3ac0c88fd06cc78907e71bceb6405_360_360.jpg" width="40"> | [alexandruast](https://stake.systems) | secure and highly available infrastructure | [@alexandruast.betanet](https://explorer.betanet.near.org/accounts/alexandruast.betanet) | 10% |  RO🇷🇴 | [@alexandruast_staking.stakehouse.betanet](https://explorer.betanet.near.org/accounts/alexandruast_staking.stakehouse.betanet) | YES |
 
 
 Notes:

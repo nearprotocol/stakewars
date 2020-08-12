@@ -141,6 +141,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | [@neonong_pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neonong_pool.stakehouse.betanet) | YES |
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | [@emilia.stakehouse.betanet](https://explorer.betanet.near.org/accounts/emilia.stakehouse.betanet) | Yes |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy for you | @marat111.betanet | -% | RU | [@mmm.stakehouse.betanet](https://explorer.betanet.near.org/accounts/mmm.stakehouse.betanet) | YES |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/f1c3ac0c88fd06cc78907e71bceb6405_360_360.jpg" width="40"> | [alexandruast](https://stake.systems) | secure and highly available infrastructure | [@alexandruast.betanet](https://explorer.betanet.near.org/accounts/alexandruast.betanet) | 10% |  RO🇷🇴 | [@alexandruast_staking.stakehouse.betanet](https://explorer.betanet.near.org/accounts/alexandruast_staking.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

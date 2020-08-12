@@ -14,6 +14,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 
 | Logo  | Validator | Blurb                                              | Account ID | Country | 
 | :---: | :-------: | -------------------------------------------------- | ---------- | :-----: |
+| <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  TestNet validator - Stake with me! | [@baziliksub.pool.6fb1358](https://explorer.testnet.near.org/accounts/baziliksub.pool.6fb1358) | RU |
 | <img src="https://bisontrails.co/images/assets/brand-symbol.svg" width="40"> | Bison Trails | The premiere platform operating security-first robust and redundant infrastructure across 20+ protocols. Proud NVAB member. | [@bisontrails.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/bisontrails.stakingpool) | US |
 | <img src="https://blazenet.io/wp-content/uploads/2020/05/cropped-blaze-favicon-9.png" width="40"> | Blaze | Staking up a Blaze of Rewards! | [@blazenet](https://explorer.testnet.near.org/accounts/blazenet_voting.pool.6fb1358) | US |
 | <img src="http://near.buildlinks.org/buildlinks-logo.png" width="40"> | [buildlinks](http://near.buildlinks.org) | Buildlinks, build on-chain governance. NVAB member. | [@buildlinks_pool.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/buildlinks_pool.stakingpool) | CN |
@@ -37,7 +38,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | Logo  | Validator | Blurb                                              | Account ID | Fees | Country | Pool ID | Locked |
 | :---: | :-------: | -------------------------------------------------- | ---------- | ---- | :-----: | :-----: | :----: |
 | <img src="https://user-images.githubusercontent.com/11320251/86902478-4df7a680-c10e-11ea-9452-4f11716fb803.jpg" width="40"> | [Cryptium Labs](https://cryptium.ch) | Secure and available validation from the Swiss Alps! Proud **NVAB** member! | [@cryptium.betanet](https://explorer.betanet.near.org/accounts/cryptium.betanet) | 20% | 🇨🇭CH🇨🇭 | [@cryptium.stakehouse.betanet](https://explorer.betanet.near.org/accounts/cryptium.stakehouse.betanet) | ✅ |
-| <img src="https://i.ibb.co/k3bmP1g/BAZILIK.jpg" width="40"> | [Bazilik] |  BetaNet validator - Stake with me! | @bazilik2020.test | 7.7% | RU | [@baziliksub](https://explorer.betanet.near.org/accounts/baziliksub) | yes |
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 6% | CH | [@stake2earnfunds2](https://explorer.betanet.near.org/accounts/stake2earnfunds2) | Yes |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw3](https://explorer.betanet.near.org/accounts/swissqstakepoolsw3) | YES |
 | | sl1982 | Node tester | @sl1982.betanet | -% | RU | @sl1sub | Yes |

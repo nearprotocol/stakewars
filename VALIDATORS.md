@@ -247,6 +247,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/sparkpool.png" width="40"> | [Sparkpool](https://www.sparkpool.com) | The keeper of blockchain networks. | [@sparkpool.test](https://wallet.betanet.near.org/sparkpool.test) | CN |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CA | | |
 | :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
+| <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
 
 
 Notes:

@@ -138,6 +138,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 |<a href="https://blockchain.gielve.com/"><img src="https://avatars3.githubusercontent.com/u/1295417?s=100&v=4" alt="Gielve" width="40"/></a> | [Gielve](https://blockchain.gielve.com) | Efficient blockchain infrastructure | [@gielve.betanet](https://explorer.betanet.near.org/accounts/gielve.betanet) | 10% | FR 🇫🇷 | [@gielve.stakehouse.betanet](https://explorer.betanet.near.org/accounts/gielve.stakehouse.betanet) | Yes |
 | <img src="https://shop.io.mi-img.com/app/shop/img?id=shop_cb3982acbf9f4c974b9a855b6416aece.jpeg" width="40"> | aquariuspool.stakehouse.betanet | Professional,trusted and Stable node operator | @aquariusluo.betanet | 10% | CN | [@aquariuspool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/aquariuspool.stakehouse.betanet) | YES |
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | [@neonong_pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neonong_pool.stakehouse.betanet) | YES |
+| <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | [@emilia.stakehouse.betanet](https://explorer.betanet.near.org/accounts/emilia.stakehouse.betanet) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |
@@ -245,7 +246,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
 | <img src="https://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/sparkpool.png" width="40"> | [Sparkpool](https://www.sparkpool.com) | The keeper of blockchain networks. | [@sparkpool.test](https://wallet.betanet.near.org/sparkpool.test) | CN |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | @thepassivetrust-near.betanet | 10% | CA | | |
-| <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | | |
 | :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
 
 

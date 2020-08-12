@@ -139,6 +139,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://shop.io.mi-img.com/app/shop/img?id=shop_cb3982acbf9f4c974b9a855b6416aece.jpeg" width="40"> | aquariuspool.stakehouse.betanet | Professional,trusted and Stable node operator | @aquariusluo.betanet | 10% | CN | [@aquariuspool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/aquariuspool.stakehouse.betanet) | YES |
 |<img src="https://p.pstatp.com/origin/fe7100021f105b2a7206" width="40">  | neonong_pool.stakehouse.betanet | Stable Node Operator | @neonong.betanet | 10% | CN | [@neonong_pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/neonong_pool.stakehouse.betanet) | YES |
 | <img src="https://i.imgur.com/nAY4JVl.jpg" width="40"> | john1 | Emilia #1 Waifu | @john1.betanet | 10% | TT | [@emilia.stakehouse.betanet](https://explorer.betanet.near.org/accounts/emilia.stakehouse.betanet) | Yes |
+| <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy for you | @marat111.betanet | -% | RU | [@mmm.stakehouse.betanet](https://explorer.betanet.near.org/accounts/mmm.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |
@@ -183,7 +184,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
-| <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1996._Elektrostal._Cat._img_001.jpg/413px-1996._Elektrostal._Cat._img_001.jpg width="40"> | marat111 |Easy Money for you | @marat111.betanet | -% | RU | [@mmm](https://explorer.betanet.near.org/accounts/mmm) | NO |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |
 | | | | | | | | |

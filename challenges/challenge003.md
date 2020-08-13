@@ -87,6 +87,10 @@ Define the thresholds that trigger alerts, such as:
 | [@ag_staking](https://explorer.betanet.near.org/accounts/ag_staking) | Jul 6 | 10,000 |
 | [@777stakes](https://explorer.betanet.near.org/accounts/777stakes) | Jul 29 | 10,000 |
 | [@paulainsley1betanet.stakehouse.betanet](https://explorer.betanet.near.org/accounts/paulainsley1betanet.stakehouse.betanet) | Jul 31 | 10,000 |
+| [staking_viboracecata.stakehouse.betanet](https://explorer.betanet.near.org/accounts/staking_viboracecata.stakehouse.betanet) | Aug 8 | 10,000 |
+| [general.alfa.betanet](https://explorer.betanet.near.org/accounts/general.alfa.betanet) | Aug 13 | 10,000 |
+| [aquariuspool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/aquariuspool.stakehouse.betanet) | Aug 13 | 10,000 |
+| [arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | Aug 13 | 10,000 |
 
 
 ## Contribution Opportunities

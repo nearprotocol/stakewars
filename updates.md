@@ -1,5 +1,55 @@
 # UPDATES
 
+## UPDATE August 5th
+
+* Changed `near-shell` into `near-cli`, reflecting the new naming of this tool: https://github.com/near/near-cli
+
+
+## UPDATE August 3rd
+
+* Nearcore releases are not using anymore branching, so the instructions to build the binaries are different. Refer to https://github.com/nearprotocol/nearcore/releases to see the new release mapping.
+
+## UPDATE July 22nd
+
+* Improved the [README.md](README.md) to clarify the role of challenges and add orientation of the files in this repository.
+
+## UPDATE July 17th
+
+* A new challenge is live [here](challenges/challenge005.md)! Deploy your CI/CD infrastructure to upgrade your node programmatically. This challenge will be very important if you plan to join MainNet Restricted as a validator.
+* Added the [staking cheatsheet](staking_cheatsheet.md) 
+
+## UPDATE July 6th
+
+* The first validators officially joined TestNet, and they will progressively unstake and leave BetaNet.
+* Thank you Figment Networks for the first [experimental release](https://hubble.figment.network/near/chains/testnet) of Figment Hubble on NEAR!
+
+## UPDATE June 29th
+
+* Added the guidelines to join TestNet! See them [here](GUIDELINES.md)
+
+## UPDATE June 22nd
+
+* Added the Challenge 004, to learn how to dynamically adjust the stake of a pool: [Challenge004](/challenges/challenge004.md)
+
+## UPDATE June 17th
+
+* Leaderboard modified: now it counts only expected blocks and uptime.
+* Contributions listed in the challenges, they are worth to be read!
+* Another BetaNet update was successfully completed, with minimal downtime. Congrats validators!
+
+## UPDATE June 8th
+
+* New challenge available [here](challenges/challenge003.md)! Build your monitoring platform and send alert emails in case of issues. Add `stefano@near.org` to your email recipients to receive extra funds for delegation.
+
+## UPDATE May 28th
+
+**We sent 75,000 tokens to all applicants, excluding obvious duplicates**
+We received exceptional interest by the community of validators, with 300+ applications and 200+ PRs). We are processing all of them, sending 75,000 BetaNet tokens as promised, while making sure the network runs with no issues. As explained in the [docs](https://docs.near.org/docs/validator/economics), there are 100 seats per shard, so BetaNet is running at capacity with a cost per seat right above 75.000 tokens - which means that our contribution will not be sufficient.
+How to solve this issue? Activate your network, and ask other validators to delegate to your staking pool. There are many of them with 100k+ tokens who can delegate 5-10k of their stake to you.
+
+The plan is to start transitioning the first batch of validators to TestNet. As soon as that happens, the seat price will go down, allowing more folks to join BetaNet.
+In the meantime, apply for the [contributions](challenges/challenge001.md) as they are worth real NEAR tokens, and keep an eye on the seat price, using the command `near validators current`.
+
 ## UPDATE May 22nd
 
 * New `near-shell` 

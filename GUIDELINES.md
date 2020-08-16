@@ -8,9 +8,9 @@ This is not going to be easy: we will deploy hard forks constantly, we will test
 However, Stake Wars is not about doing things right or wrong. It is mostly about learning how smart contract-based delegation works, and get ready to run NEAR together.
 
 ## Rules
-There are no strict rules, rather guidelines and examples. Judges on NEAR side will rate your participation, and will update the [leaderboard](LEADERBOARD.md) every week with basic node information.
+There are no strict rules, rather guidelines and examples. Judges on NEAR side will rate your participation, and will update the [leaderboard](LEADERBOARD.md) every week.
 
-*If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will exclude you from the competition.*
+_If you are acting in good faith, you’re almost assuredly good. If you’re acting in bad faith, moderators will exclude you from the competition._
 
 Here are some examples and we will trust you to follow the spirit of the law:
 
@@ -39,3 +39,45 @@ We want...
 * To put the last year or so of hard work in front of our community to try it out
 * To find glaring flaws in our systems, designs and code
 * To learn what your needs are as part of the validator community
+
+## Additional guidelines for validators joining TestNet
+After a validator generated at least \~6000 blocks on BetaNet (and has been one week in the active set), it becomes eligible to receive staking on TestNet. Before the migration takes place, Stake Wars organizers will reach out directly to the validator, proposing to shut down the BetaNet node, and receive delegated tokens on TestNet.
+
+There are no specific requirements, and the promotion is not automatic. The evaluation will be based on these factors (not in order of importance):
+* your staking pool uptime is in the 90th percentile of the [leaderboard](LEADERBOARD.md)
+* your pool run for a substantial number of epochs without being kicked out
+* you successfully completed the Stake Wars challenges
+* you are active in the community channels (Discord and the [portal](https://portal.near.org))
+* you actively updated your node and successfully applied BetaNet node ugrades
+* you are already a successful validator on other PoS networks
+* you contributed to `nearcore` and other NEAR repositories (submitting issues, finding bugs, improving docs...)
+
+While we are happy to have as many professional validators and distinguished BetaNet node operators to TestNet as we can, all validators need to guarantee TestNet uptime and reliability. Failing to do so may induce the Stake Wars organizers to unstake the funds from the pool.
+
+In practical terms, to join TestNet you will have to:
+1. deploy your TestNet staking pool, using the staking pool factory [smart contract](https://explorer.testnet.near.org/accounts/stakingpool)
+2. build and run your TestNet node
+3. submit your information to [this form](https://nearprotocol1001.typeform.com/to/x4Bval). Specify both your BetaNet and TestNet pools, and don't forget to disclose your Github and Discord/Telegram IDs, so it's easier for us to contact you in case of issues
+
+You can instantly deploy the staking pool factory with near-cli, using the command:
+```
+near call pool.6fb1358 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
+```
+Where:
+* `pool.6fb1358` is the staking pool factory contract mentioned above
+* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.pool.6fb1358`
+* `OWNER_ID` is the owner of the pool, who's authorized to change the stake public key and the fees
+* `VALIDATOR_KEY` is the public key found in the file `~/.near/testnet/validator_key.json` on the machine running the node
+* `{"numerator": <X>, "denominator": <Y>}` set the validator fees. To set 10% of fees x=10 and y=100
+* `--amount 30` attaches 30 $NEAR to the transaction, as a reserve to pay the contract storage
+* `--gas 300000000000000` specifies the gas for the transaction (optional)
+
+**Heads up:** be sure that your validator node and your staking pool have the same ID, as explained [here](troubleshooting.md#11-my-validator-is-in-the-current_validators-set-but-its-not-producing-blocks).
+
+The main differences with BetaNet will be:
+- less frequent updates
+- a different branch of nearcore: [stable](https://github.com/nearprotocol/nearcore/tree/stable)
+- longer epochs (43,200 blocks instead of 10,000)
+
+**Heads up:** TestNet is a permissionless network, so you can deploy your validator node and its staking pool today. However, Stake Wars organizers will delegate TestNet tokens to your pool only after reaching out and discussing your commitment in running the network.
+

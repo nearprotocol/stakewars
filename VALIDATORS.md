@@ -254,7 +254,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
 | <img src="https://kytzu.com/assets/images/logo%202.png"> | Kytzu | Validator infrastructure maintained by cats  | @kytzu.betanet | 10% | RO | | |
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
-| <img scr="https://avatars3.githubusercontent.com/u/63687596" width="40"> | [Maj Loves Reg](https://www.majlovesreg.one/) | Secure and stable cloud infrastructure. Automated upgrades and systems maintenance. Always online. | [@majlovesreg.betanet](https://explorer.betanet.near.org/accounts/majlovesreg.betanet) | 1% | PH | [@majlovesreg.stakehouse.betanet](https://explorer.betanet.near.org/accounts/majlovesreg.stakehouse.betanet) | Yes |
+| <img src="https://avatars3.githubusercontent.com/u/63687596" width="40"> | [Maj Loves Reg](https://www.majlovesreg.one/) | Secure and stable cloud infrastructure. Automated upgrades and systems maintenance. Always online. | [@majlovesreg.betanet](https://explorer.betanet.near.org/accounts/majlovesreg.betanet) | 1% | PH | [@majlovesreg.stakehouse.betanet](https://explorer.betanet.near.org/accounts/majlovesreg.stakehouse.betanet) | Yes |
 
 
 Notes:

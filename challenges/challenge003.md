@@ -91,6 +91,7 @@ Define the thresholds that trigger alerts, such as:
 | [general.alfa.betanet](https://explorer.betanet.near.org/accounts/general.alfa.betanet) | Aug 13 | 10,000 |
 | [aquariuspool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/aquariuspool.stakehouse.betanet) | Aug 13 | 10,000 |
 | [arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | Aug 13 | 10,000 |
+| [iosgvc.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/iosgvc.stakehouse.betanet) | Aug 13 | 75,000 |
 
 
 ## Contribution Opportunities

@@ -94,7 +94,6 @@ Define the thresholds that trigger alerts, such as:
 | [iosgvc.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/iosgvc.stakehouse.betanet) | Aug 13 | 75,000 |
 | [swiss-staking.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/swiss-staking.stakehouse.betanet) | Aug 19 | 20,000 |
 
-
 ## Contribution Opportunities
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 

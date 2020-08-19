@@ -92,6 +92,7 @@ Define the thresholds that trigger alerts, such as:
 | [aquariuspool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/aquariuspool.stakehouse.betanet) | Aug 13 | 10,000 |
 | [arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | Aug 13 | 10,000 |
 | [iosgvc.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/iosgvc.stakehouse.betanet) | Aug 13 | 75,000 |
+| [swiss-staking.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/swiss-staking.stakehouse.betanet) | Aug 19 | 20,000 |
 
 
 ## Contribution Opportunities

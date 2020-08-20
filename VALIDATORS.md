@@ -257,6 +257,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
 | <img src="https://kytzu.com/assets/images/logo%202.png"> | Kytzu | Validator infrastructure maintained by cats  | @kytzu.betanet | 10% | RO | | |
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
+| https://avatars0.githubusercontent.com/u/47457161?s=60&v=4 | Serj | Take me to the Mars | fuckit.betanet | 10% | UA | [@takeittothemoon.fuckit.betanet] (https://explorer.betanet.near.org/accounts/takeittothemoon.fuckit.betanet)| YES |
 
 
 Notes:

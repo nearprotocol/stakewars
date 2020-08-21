@@ -61,10 +61,10 @@ In practical terms, to join TestNet you will have to:
 
 You can instantly deploy the staking pool factory with near-cli, using the command:
 ```
-near call pool.6fb1358 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
+near call pool.f863973.m0 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000
 ```
 Where:
-* `pool.6fb1358` is the staking pool factory contract mentioned above
+* `pool.f863973.m0` is the staking pool factory mentioned above
 * `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.pool.6fb1358`
 * `OWNER_ID` is the owner of the pool, who's authorized to change the stake public key and the fees
 * `VALIDATOR_KEY` is the public key found in the file `~/.near/testnet/validator_key.json` on the machine running the node
@@ -76,7 +76,7 @@ Where:
 
 The main differences with BetaNet will be:
 - less frequent updates
-- a different branch of nearcore: [stable](https://github.com/nearprotocol/nearcore/tree/stable)
+- a different build of nearcore: [x.y.z-rc](https://github.com/nearprotocol/nearcore/releases) instead of beta
 - longer epochs (43,200 blocks instead of 10,000)
 
 **Heads up:** TestNet is a permissionless network, so you can deploy your validator node and its staking pool today. However, Stake Wars organizers will delegate TestNet tokens to your pool only after reaching out and discussing your commitment in running the network.

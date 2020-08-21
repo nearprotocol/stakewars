@@ -69,6 +69,8 @@ Once your node is not anymore a validator using the legacy `near stake` command 
 
 Updated July 22nd: to accommodate MainNet Restricted requirements, we introduced a [Staking Pool Factory](https://github.com/near/core-contracts/tree/master/staking-pool-factory). This smart contract will deploy the staking pool for you, and will _whitelist_ the contract to receive and send tokens to your wallet. If you have any previous release of the staking pool, we strongly suggest to deploy this new version and dismiss the previous staking pool. 
 
+Updated August 21st: You can use the staking pool factory via this web interface [Near Examples: Staking Pool Factory (betanet)](https://near-examples.github.io/staking-pool-factory) or you can invoke the factory's `create_staking_pool` function from the command line using `near-cli`
+
 The staking pool factory is a normal smart contract that can be invoked with the `call` function on near-cli:
 ```
 near call stakehouse.betanet create_staking_pool '{"staking_pool_id":"<POOL_ID>", "owner_id":"<OWNER_ID>", "stake_public_key":"<VALIDATOR_KEY>", "reward_fee_fraction": {"numerator": <X>, "denominator": <Y>}}' --account_id <OWNER_ID> --amount 30 --gas 300000000000000

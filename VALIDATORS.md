@@ -257,7 +257,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
 | <img src="https://kytzu.com/assets/images/logo%202.png"> | Kytzu | Validator infrastructure maintained by cats  | @kytzu.betanet | 10% | RO | | |
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
-
+| <img src="https://genesislab.net/img/logo.png" width=40> | Genesis Lab | Blockchain-focused development company and validation nodes operator in PoS networks. We provide staking services in Cosmos, Kava, IRIS, Terra, Minter and Kusama networks and participate in NEAR, Solana and Coda testnets as a potential validator. | [@genesislab.betanet](https://explorer.betanet.near.org/accounts/genesislab.betanet) | 7% | RU | [@genesislab.stakehouse.betanet](https://explorer.betanet.near.org/accounts/genesislab.stakehouse.betanet) | ✅ |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

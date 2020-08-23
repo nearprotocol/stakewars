@@ -31,6 +31,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
+| <img src="https://avatars1.githubusercontent.com/u/35801878?s=460&u=8681d485115d5da9341a1bf33447fe93a5f7d534&v=4" width="40"> | Orangeclub | Orange. Staking. Nothing more. | [@orangeclub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/orangeclub.pool.f863973.m0) | RU |
+
 
 
 

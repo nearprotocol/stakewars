@@ -138,6 +138,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | How to compile nearcore | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-stakewars-guide/blob/master/challenge001-how-to-compile-nearcore.org) | 1,000 |
 | How to compile nearcore | Same as the above | @Lalit15 | Jul 21 2020 | [Medium](https://medium.com/@coolphil15/launch-near-node-on-near-betanet-test-network-4fcd810a71b5) | 1,000 |
 | How to compile nearcore | Same as the above | @qwerspe | Jul 21 2020 | [Medium](https://medium.com/@qwerspe/compile-nearcore-and-create-validator-338fbf471ec0) | 1,000 |
+| How to compile nearcore | Same as the above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/diventare-validatore.md) IT | 1,000 |
 | Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over.  | @narniec | June 12 2020 | [Medium](https://medium.com/@narniec2020/near-shell-backup-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9-b30e8ed1d39d); [Youtube](https://www.youtube.com/watch?v=VHtzBjbmzT0&feature=youtu.be) | | 1,000 |
 | Explain NEAR keys | Same as above | @wjdfx | June 15 2020 | [Jianshu](https://www.jianshu.com/p/f238b7049cb9) | 1,000 |
 | Explain NEAR keys | Same as above | @georgec138 | June 23 2020 | [Github](https://github.com/georgec138/near-docs/blob/master/Explain-NEAR-keys_cn.md) | 1,000 |
@@ -146,6 +147,6 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @Viacheslav198 | Jul 7 2020 | [Github](https://github.com/Viacheslav198/near/blob/master/keys.md) | 1,000 |
 | Explain NEAR keys | Same as above | @Vasya-krypto | July 21 2020 | [Medium](https://medium.com/@orang3club/explain-near-keys-737162914413) | 1,000 |
 | Explain NEAR keys | Same as above | @Lalit15 | July 21 2020 | [Medium](https://medium.com/@coolphil15/how-to-generate-near-keys-using-near-shell-and-authorize-access-6b114003e9d) | 1,000 |
-
+| Explain NEAR keys | Same as above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/chiavi-spiegate.md) IT | 1,000 |
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

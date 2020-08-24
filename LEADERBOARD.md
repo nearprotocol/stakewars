@@ -6,7 +6,7 @@ The real-time leaderboard is available via Figment Hubble, at the address https:
 Congrats to all validators who joined TestNet, and a big thank you to Figment Networks for deploying Hubble on NEAR!
 
 *Stake Wars 2.0 Leaderboard - Betanet*
-Updated on Wednesday, August 17th 2020 at 12:05 GMT-7
+Updated on Wednesday, August 26th 2020 at 12:05 GMT-7
 
 | ACCOUNT\_ID                                  | NUM\_EXPECTED\_BLOCKS | ONLINE  |
 | -------------------------------------------- | --------------------- | ------- |

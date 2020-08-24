@@ -31,7 +31,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
-
+| | Zpool | Stake wars | [@zpool.testnet](https://explorer.testnet.near.org/accounts/zpool.testnet) | 10% | CN |[@zpool.pool.f863973.m0](https://explorer.testnet.near.org/accounts/zpool.pool.f863973.m0)| Yes |
 
 
 ## BetaNet Validators
@@ -108,7 +108,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1) | Yes |
 | | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | yes |
 | <img src="https://github.com/stakewolf/logos/blob/master/stakewolf%20logo%20bw.png" width="50"> | [stakewolf](http://stakewolf.com/) | The validation service you are looking for, secure and reliable. | [@stakewolf.test](https://wallet.betanet.nearprotocol.com/profile/stakewolf.test) | 10% | ES | [@stakewolf_pool](https://explorer.betanet.near.org/accounts/stakewolf_pool) | YES |
-| | Zpool | Stake wars | [@zpooll.betanet](https://explorer.betanet.near.org/accounts/zpooll.betanet) | 10% | CN |[@zpooll](https://explorer.betanet.near.org/accounts/zpooll)| Yes |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | 10% | CN | [@wetez](https://explorer.betanet.near.org/accounts/wetez) | yes |
 | <img src="https://scx2.b-cdn.net/gfx/news/hires/2019/newstudyhelp.jpg" width="40"> | Phenom | Phenomenal fisherman | @fisherman.betanet | 2% | - | [@phenom](https://explorer.betanet.near.org/accounts/phenom) | YES |
 | <img src="https://ggscore.com/media/logo/t14.png" width="40">  | Jazza | Jazza are doing it  | @jazza.test | 1% | RU | [@jazza](https://explorer.betanet.near.org/accounts/jazza) | yes |

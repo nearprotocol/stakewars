@@ -31,6 +31,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
+| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | [Stakin](https://www.stakin.com/) | Your Trusted Crypto Rewards | [@stakin.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakin.testnet)| UK |
 
 
 
@@ -189,7 +190,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | casualbrooks | casual verifying | @casualbrooks.betanet | 9% | US | [@casualbrooks](https://explorer.betanet.near.org/accounts/casualbrooks.betanet) | no |
 | <img src="https://i.imgur.com/ZwHpy1V.jpg" width="40"> | Cloudpost Pool | Let's build a better future together with NEAR protocol | @cloudpost | 10% | RU | [@cloudpost_pool](https://explorer.betanet.near.org/accounts/cloudpost_pool) | no |
 | <img src="https://avatars2.githubusercontent.com/u/59943323?s=400&u=b18e7492a3dc011818808de7f78cbf41992b50a6&v=4" width="80"> | [Projecttent](https://projecttent.com) | Staking as a service. Validator on Celo and other next-gen networks. | @projecttent.betanet | 10% | US | [@validator.projecttent.betanet](https://explorer.betanet.near.org/accounts/validator.projecttent.betanet) | no |
-| <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | Stakin | Your Trusted Crypto Rewards | @stakin.betanet | 25% | UK | @stakin | no |
 |  | goodstake1 | Honest Validator node from India | @lalitnear.betanet | 10% | IN | [@goodstake1](https://explorer.betanet.near.org/accounts/goodstake1) | no |
 | | | | | | | | |
 | | | | From here, the list contains validators who didn't deploy a [staking pool](https://github.com/near/initial-contracts/) yet | | | | |

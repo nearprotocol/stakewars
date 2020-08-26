@@ -31,7 +31,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
-
+| <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 
 
 ## BetaNet Validators
@@ -42,7 +42,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| @staked.test | 10% | US | [@staked.stakehouse.betanet](https://explorer.betanet.near.org/accounts/staked.stakehouse.betanet) | yes |
 | <img src="https://img.bfmtv.com/c/630/420/f10deb/0b195b76b77995a22743df27d9.jpg" width="40">  | Stake2Earn | Nearup No Stop  | @arnzo.betanet | 6% | CH | [@stake2earnfunds2](https://explorer.betanet.near.org/accounts/stake2earnfunds2) | Yes |
 | <img src="https://www.swiss-fencing.ch/wp-content/uploads/2015/03/croix-suisse.jpg" width="40"> | swissQualitystake | node Up On Time All Time  | @axone.betanet | 5% | CH | [@swissqstakepoolsw3](https://explorer.betanet.near.org/accounts/swissqstakepoolsw3) | YES |
-| | sl1982 | Node tester | @sl1982.betanet | -% | RU | @sl1sub | Yes |
 | | flyhigh | Stake to my node | @vovaferma.betanet | 10% | UA | @vova | yes |
 | | silvervir | Stake it | @silvervir.betanet | -% | UA | [@silver1](https://explorer.betanet.near.org/accounts/silver1) | yes |
 | | validator_italia | #Stayhome and get 25% ROI | [@validator_italia.betanet](https://explorer.betanet.near.org/accounts/validator_italia.betanet) | 25% | ITA | [@validator_italia_contract](https://explorer.betanet.near.org/accounts/validator_italia_contract) | YES |

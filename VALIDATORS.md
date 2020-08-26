@@ -152,6 +152,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | https://avatars0.githubusercontent.com/u/47457161?s=60&v=4 | Serj | Take me to the Mars | fuckit.betanet | 10% | UA | [@takeittothemoon.fuckit.betanet](https://explorer.betanet.near.org/accounts/takeittothemoon.fuckit.betanet)| YES |
 | <img src="http://www.tecnogob.com/Logo-cuadrado.png"> | tecnogob | Technology experts from the south  | @luciotato.betanet | 8% | AR | @luckystaker.stakehouse.betanet | yes |
 | <img src="https://github.com/alma-uk/alma3/blob/master/Alma3.png" width="40"> | Alma3 | Alma Staking | @alma3.betanet | 10% | UK | [@alma3.stakehouse.betanet](https://explorer.betanet.near.org/accounts/alma3.stakehouse.betanet) | YES |
+| <img src="https://genesislab.net/img/logo.png" width=40> | Genesis Lab | Blockchain-focused development company and validation nodes operator in PoS networks. We provide staking services in Cosmos, Kava, IRIS, Terra, Minter and Kusama networks and participate in NEAR, Solana and Coda testnets as a potential validator. | [@genesislab.betanet](https://explorer.betanet.near.org/accounts/genesislab.betanet) | 7% | RU | [@genesislab.stakehouse.betanet](https://explorer.betanet.near.org/accounts/genesislab.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

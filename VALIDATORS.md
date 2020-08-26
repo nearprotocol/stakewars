@@ -150,6 +150,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | | crypto-solutions | Wheres the stake? | [@crypto-solutions.betanet](https://explorer.betanet.near.org/accounts/crypto-solutions.betanet) | 10% | US | [@crypto-solutions.stakehouse.betanet](https://explorer.betanet.near.org/accounts/crypto-solutions.stakehouse.betanet) | yes |
 | <img src="https://user-images.githubusercontent.com/3634574/81186113-1f990600-8fbb-11ea-92a1-17b44b3e65f0.png" width="40"> | [Ryabina](https://ryabina.io) | Validators for awesome networks. | @ryabina_io.betanet | -% | RU | [@pool.ryabina_io.betanet](https://explorer.betanet.near.org/accounts/pool.ryabina_io.betanet) | yes |
 | https://avatars0.githubusercontent.com/u/47457161?s=60&v=4 | Serj | Take me to the Mars | fuckit.betanet | 10% | UA | [@takeittothemoon.fuckit.betanet] (https://explorer.betanet.near.org/accounts/takeittothemoon.fuckit.betanet)| YES |
+| <img src="http://www.tecnogob.com/Logo-cuadrado.png"> | tecnogob | Technology experts from the south  | @luciotato.betanet | 8% | AR | @luckystaker.stakehouse.betanet | yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

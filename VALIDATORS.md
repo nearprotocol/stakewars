@@ -161,6 +161,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://cdni.rbth.com/rbthmedia/images/2019.06/original/5cffb50715e9f971c10e59e4.jpg" width="40"> | [General] | General of blockchains | @alfa.betanet | 10% | RU | [@general.alfa.betanet](https://explorer.betanet.near.org/accounts/general.alfa.betanet) | yes |
 | <img src="https://github.com/OhmTHStakePool/THStakePool-Near/blob/master/THStakePool%20Logo%20Only%20Small%2064x64.png" width="40"> | [🇹🇭 THStakePool](https://thstakepool.com)  | Be Your Own Bank  | @thstakepool.betanet | 10% | 🇹🇭 | [@thstakepool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/thstakepool.stakehouse.betanet) | YES |
 | | Dmitry | Learning by doing | [@dmitrue.betanet](https://explorer.betanet.near.org/accounts/dmitrue.betanet) | 10% | RU | [@dmitrue.stakehouse.betanet](https://explorer.betanet.near.org/accounts/dmitrue.stakehouse.betanet)| YES |
+| <img src="https://avatars3.githubusercontent.com/u/32561566?s=200&v=4" width="40"> | [Forbole](https://www.forbole.com/) | WE ARE VALIDATORS, BUILDERS AND CONTRIBUTORS. | [@forbole_hk.betanet](https://explorer.betanet.near.org/accounts/forbole_hk.betanet) | 5% | HK | [@forbole.stakehouse.betanet](https://explorer.betanet.near.org/accounts/forbole.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

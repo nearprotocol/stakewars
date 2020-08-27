@@ -65,7 +65,7 @@ near call pool.f863973.m0 create_staking_pool '{"staking_pool_id":"<POOL_ID>", "
 ```
 Where:
 * `pool.f863973.m0` is the staking pool factory mentioned above
-* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.pool.6fb1358`
+* `POOL_ID` is the name of the staking pool contract. If your validator name is `nearkat` the result will be `nearkat.pool.f863973.m0`
 * `OWNER_ID` is the owner of the pool, who's authorized to change the stake public key and the fees
 * `VALIDATOR_KEY` is the public key found in the file `~/.near/testnet/validator_key.json` on the machine running the node
 * `{"numerator": <X>, "denominator": <Y>}` set the validator fees. To set 10% of fees x=10 and y=100

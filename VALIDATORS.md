@@ -269,6 +269,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://kytzu.com/assets/images/logo%202.png"> | Kytzu | Validator infrastructure maintained by cats  | @kytzu.betanet | 10% | RO | | |
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
+| V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 
 
 Notes:

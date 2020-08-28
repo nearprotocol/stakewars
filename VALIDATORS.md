@@ -198,6 +198,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
+| <img src="https://avatars0.githubusercontent.com/u/31588547?s=60&v=4">  | DenysK | Validating is only the beginning | <a href="https://explorer.betanet.near.org/accounts/starlink.betanet" target="_blank">@starlink.betanet</a> | 10% | Ireland | <a href="https://explorer.betanet.near.org/accounts/starlink-pool.stakehouse.betanet" target="_blank">@starlink-pool.stakehouse.betanet</a> | ✅ |
 
 
 Notes:

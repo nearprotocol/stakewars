@@ -270,6 +270,8 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
+| <img src="https://lh3.googleusercontent.com/-BYUotXE-QoE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwQN_Bmqzfw58oRKqSZ8VY1NbkJw/photo.jpg?sz=46" width="40"> | dimaro1 | "Experienced staking provider from UA" | [@dimaro1.betanet](https://explorer.betanet.near.org/accounts/dimaro1.betanet)  | 8% | UA |[@coolpool.dimaro1.betanet](https://explorer.betanet.near.org/accounts/coolpool.dimaro1.betanet) | Yes |
+
 
 
 Notes:

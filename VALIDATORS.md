@@ -41,6 +41,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | | Zpool | Stake wars | [@zpool.testnet](https://explorer.testnet.near.org/accounts/zpool.testnet) | 10% | CN |[@zpool.pool.f863973.m0](https://explorer.testnet.near.org/accounts/zpool.pool.f863973.m0)| Yes |
+|  | [syncnode](https://wallet.syncnode.ro) | syncnode staking services | [@syncnode.pool.f863973.m0 | RO🇷🇴 |
 
 
 

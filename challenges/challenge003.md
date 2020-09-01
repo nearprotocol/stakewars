@@ -94,7 +94,7 @@ Define the thresholds that trigger alerts, such as:
 | [iosgvc.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/iosgvc.stakehouse.betanet) | Aug 13 | 10,000 |
 | [swiss-staking.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/swiss-staking.stakehouse.betanet) | Aug 19 | 10,000 |
 | [crypto-solutions.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/crypto-solutions.stakehouse.betanet) | Aug 20 | 10,000 | 
-| [stakingpool.youlaiwuqu.betanet ](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet) | Aug 26 | 10,000 |
+| [stakingpool.youlaiwuqu.betanet ](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet) | Sep 1 | 10,000 |
 
 ## Contribution Opportunities
 

@@ -105,6 +105,8 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-ledger-nano-s-%D0%B2-near-b536abfaaf7e)| 1,500 | 10% | RU |
 | Use Ledger Nano S | Same as above | @Viacheslav198 | Jul 6 2020 | [Github](https://github.com/Viacheslav198/near/blob/master/ledger.md)| 1,500 | 10% | RU |
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
+| Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
+| Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | EN |
 
 
 ## Next Challenge

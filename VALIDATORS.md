@@ -37,11 +37,11 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | [Stakin](https://www.stakin.com/) | Your Trusted Crypto Rewards | [@stakin.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakin.testnet)| UK |
+|  | [syncnode](https://wallet.syncnode.ro) | syncnode staking services | [@syncnode.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/syncnode.pool.f863973.m0) | RO🇷🇴 |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" width="100" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | [@thepassivetrust.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/thepassivetrust.pool.6fb1358) | CA | 
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | | Zpool | Stake wars | [@zpool.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/zpool.pool.f863973.m0) | CN |
-
 
 
 ## BetaNet Validators

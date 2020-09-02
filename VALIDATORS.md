@@ -270,7 +270,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
-
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/39002ba27b7a8267410a2fedd5528305_360_360.jpg" width=40> | [AUDIT.one](https://audit.one) | Validators of today, Auditors of tomorrow | [@auditone](https://explorer.betanet.near.org/accounts/auditone.betanet) | 20% | IN | [@audit_two](https://explorer.betanet.near.org/accounts/audit_two.stakehouse.betanet) | NO|
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

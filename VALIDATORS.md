@@ -37,11 +37,11 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://user-images.githubusercontent.com/3753783/80396381-8c592580-8882-11ea-81b9-8ec06e242f93.png" width="40"> | [Staked.us](https://staked.us/) | Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry. NVAB member.| [@staked.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked.pool.6fb1358); [@staked_vote.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/staked_vote.pool.6fb1358) | US |
 | <img src="https://raw.githubusercontent.com/hashquark-research/resource/master/HashQuark_logo_icon_blue.png" width="40"> | [HashQuark](https://www.hashquark.io/#/) | Staking Made Easier. NVAB member. | [@stakepool.hashquark.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakepool.hashquark.testnet) | CN |
 | <img src="https://stakin.com/assets/icon/logo256.png" width="40"> | [Stakin](https://www.stakin.com/) | Your Trusted Crypto Rewards | [@stakin.testnet](https://hubble.figment.network/near/chains/testnet/validators/stakin.testnet)| UK |
+|  | [syncnode](https://wallet.syncnode.ro) | syncnode staking services | [@syncnode.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/syncnode.pool.f863973.m0) | RO🇷🇴 |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" width="100" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | [@thepassivetrust.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/thepassivetrust.pool.6fb1358) | CA | 
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
-| | Zpool | Stake wars | [@zpool.testnet](https://explorer.testnet.near.org/accounts/zpool.testnet) | 10% | CN |[@zpool.pool.f863973.m0](https://explorer.testnet.near.org/accounts/zpool.pool.f863973.m0)| Yes |
-
+| | Zpool | Stake wars | [@zpool.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/zpool.pool.f863973.m0) | CN |
 
 
 ## BetaNet Validators
@@ -163,6 +163,9 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://github.com/OhmTHStakePool/THStakePool-Near/blob/master/THStakePool%20Logo%20Only%20Small%2064x64.png" width="40"> | [🇹🇭 THStakePool](https://thstakepool.com)  | Be Your Own Bank  | @thstakepool.betanet | 10% | 🇹🇭 | [@thstakepool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/thstakepool.stakehouse.betanet) | YES |
 | | Dmitry | Learning by doing | [@dmitrue.betanet](https://explorer.betanet.near.org/accounts/dmitrue.betanet) | 10% | RU | [@dmitrue.stakehouse.betanet](https://explorer.betanet.near.org/accounts/dmitrue.stakehouse.betanet)| YES |
 | <img src="https://avatars3.githubusercontent.com/u/32561566?s=200&v=4" width="40"> | [Forbole](https://www.forbole.com/) | WE ARE VALIDATORS, BUILDERS AND CONTRIBUTORS. | [@forbole_hk.betanet](https://explorer.betanet.near.org/accounts/forbole_hk.betanet) | 5% | HK | [@forbole.stakehouse.betanet](https://explorer.betanet.near.org/accounts/forbole.stakehouse.betanet) | YES |
+| <img src="https://avatars0.githubusercontent.com/u/31588547?s=60&v=4">  | DenysK | Validating is only the beginning | <a href="https://explorer.betanet.near.org/accounts/starlink.betanet" target="_blank">@starlink.betanet</a> | 10% | Ireland | <a href="https://explorer.betanet.near.org/accounts/starlink-pool.stakehouse.betanet" target="_blank">@starlink-pool.stakehouse.betanet</a> | ✅ |
+| <img src="https://lh3.googleusercontent.com/-BYUotXE-QoE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwQN_Bmqzfw58oRKqSZ8VY1NbkJw/photo.jpg?sz=46" width="40"> | dimaro1 | "Experienced staking provider from UA" | [@dimaro1.betanet](https://explorer.betanet.near.org/accounts/dimaro1.betanet)  | 8% | UA |[@coolpool.dimaro1.betanet](https://explorer.betanet.near.org/accounts/coolpool.dimaro1.betanet) | Yes |
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/39002ba27b7a8267410a2fedd5528305_360_360.jpg" width=40> | [AUDIT.one](https://audit.one) | Validators of today, Auditors of tomorrow | [@auditone](https://explorer.betanet.near.org/accounts/auditone.betanet) | 20% | IN | [@audit_two.stakehouse.betanet](https://explorer.betanet.near.org/accounts/audit_two.stakehouse.betanet) | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |
@@ -270,6 +273,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
+| | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
 
 
 Notes:

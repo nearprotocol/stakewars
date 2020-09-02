@@ -96,6 +96,7 @@ Define the thresholds that trigger alerts, such as:
 | [crypto-solutions.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/crypto-solutions.stakehouse.betanet) | Aug 20 | 10,000 | 
 | [@optimisticvalidator ](https://explorer.betanet.near.org/accounts/optimisticvalidator) | Sep 01 | 10,000 | 
 | [stakingpool.youlaiwuqu.betanet ](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet) | Sep 1 | 10,000 |
+| [get_rich](https://explorer.betanet.near.org/accounts/get_rich) | Sep  2 | 10,000 | 
 
 ## Contribution Opportunities
 

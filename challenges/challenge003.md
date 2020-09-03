@@ -122,6 +122,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Run a monitoring platform | Same as above | @Viacheslav198 | Jul 1 2020 | [Github](https://github.com/Viacheslav198/grafana-prometheus/blob/master/alert.md) | 1,000 | 10% | IT |
 | Run a monitoring platform | Same as above | @Lalit15 | Jul 6 2020 | [Medium](https://medium.com/@coolphil15/setting-up-monitoring-on-near-node-via-grafana-prometheus-fd641ff82aeb) | 1,000 | 10% | EN |
 | Run a monitoring platform | Same as above | @RussellGalt | Sep 01 2020 | [Notion](https://www.notion.so/Install-Zabbix-5-0-Ubuntu-18-6f63c1d985cb4d1ab7dc6edc3a91bafb) | 1,000 | 10% | EN |
+| Run a monitoring platform | Same as above | @RussellGalt | Sep 03 2020 | [Notion](https://www.notion.so/Zabbix-5-0-Ubuntu-18-04-5f93580ffde34bf4a8b3b13e1650f1a3) | 1,000 | 10% | RU |
 
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |

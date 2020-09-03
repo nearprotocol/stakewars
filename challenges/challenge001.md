@@ -150,9 +150,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @Vasya-krypto | July 21 2020 | [Medium](https://medium.com/@orang3club/explain-near-keys-737162914413) | 1,000 |
 | Explain NEAR keys | Same as above | @Lalit15 | July 21 2020 | [Medium](https://medium.com/@coolphil15/how-to-generate-near-keys-using-near-shell-and-authorize-access-6b114003e9d) | 1,000 |
 | Explain NEAR keys | Same as above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/chiavi-spiegate.md) IT | 1,000 |
-| Launch NEAR node | Server requirements, setup your validator node, explain how connect `near-cli` to betanet wallet, deploing NEAR node, etc.  | @everuner | Aug 29 2020 | [Medium]( https://medium.com/@serj_czech/%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B4%D1%8B-near-protocol-a67c5d7b8a9f) | 1,000 |
-| Explain using SSH console MobaXterm | Explaining setup, connect to server, etc. | @everuner | Aug 29 2020 | [Medium](https://medium.com/@serj_czech/%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA-vps-hetzner-cloud-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-ssh-mobaxterm-65c5fe4882e7) | 1,000 |
-| How to launch your staking pool | Explain how create and deploy your staking pool, loading contract, etc. | @everuner | Aug 29 2020 | [Medium](https://medium.com/@serj_czech/%D0%B2%D0%B0%D1%88-%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82-%D0%B8-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BF%D1%83%D0%BB-near-challenge-001-3bac2dda4aa) | 1,000 |
+| Explain NEAR keys | Same as above | @everuner | Sept 3 2020 | [Medium](https://medium.com/@serj_czech/explain-near-keys-845c9ad7b13d) | 1,000 |
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

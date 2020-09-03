@@ -155,7 +155,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Release the Warchest Bot | Same as the above | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
-| Install and start warchest bot | Explain installation, configuration and monitoring work of warchest bot. Process of obtaining results| @everuner | Aug 30 2020 | [Medium](https://medium.com/@serj_czech/near-warchest-%D0%B1%D0%BE%D1%82-stake-wars-challenge-004-a332d028fb53) | 2,500 | 10% | RU |
+| Install and start warchest bot | Explain installation, configuration and monitoring work of warchest bot. Process of obtaining results| @everuner | Aug 30 2020 | [Medium](https://medium.com/@serj_czech/near-warchest-%D0%B1%D0%BE%D1%82-stake-wars-challenge-004-a332d028fb53) | - | - | RU |
 
 ## Next Challenge
 Automatically deploy nearcore using a CI/CD pipeline: [challenge005](challenge005.md)

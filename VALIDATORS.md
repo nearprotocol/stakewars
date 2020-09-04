@@ -42,7 +42,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | | Zpool | Stake wars | [@zpool.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/zpool.pool.f863973.m0) | CN |
-
+| <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Optimistic validator | [@optimistic.pool.f863973.m0](https://explorer.testnet.near.org/accounts/optimistic.pool.f863973.m0) | RU |
 
 ## BetaNet Validators
 
@@ -102,7 +102,6 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://avatars1.githubusercontent.com/u/62906205?s=96&v=4" width="40"> | JanLiamNilsson | ---- | @janliamnilsson.test | 10% | SE | [@janliamnilsson](https://explorer.betanet.near.org/accounts/janliamnilsson)| yes |
 | <img src="https://github.com/AndreyVelde/AndreyVelde/blob/master/avatar.png" width="40"> | andreyvelde | Tester and validator | @andreyvelde.test | 10% | RU | [@shudo](https://explorer.betanet.near.org/accounts/shudo) | YES |
 |  | lixoy | Tester of nodes | @lxyw.betanet | 10% | RU | [@interference](https://explorer.betanet.near.org/accounts/interference) | yes |
-| <img src="https://avatars1.githubusercontent.com/u/30159243?s=400&u=7b7f78e29066712728abf7672af9d6802f05a97a&v=4" width="40"> | RussellGalt | Just optimistic validator | @russellgalt.betanet | 10% | RU | [@optimisticvalidator](https://explorer.betanet.near.org/accounts/optimisticvalidator) | yes |
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | 10% | DE | [@stakery](https://explorer.betanet.near.org/accounts/stakery) | Yes |
 | <img src=" https://avatars0.githubusercontent.com/u/66552062?s=460&u=9917802fa05db4eefa8ec6a411071114a2062dd0&v=4 " width="40"> | denis| Stake me! | @moon.betanet | 10% | RU | [@denis](https://explorer.betanet.near.org/accounts/denis) | yes |
 | <img src="https://avatars2.githubusercontent.com/u/59618272?s=400&u=54f6926d571cae56797a4d3555a3d1a9c84788c8&v=4" width="40"> | kokos | secures Near from covid | @covid.betanet | 1% | UA | [@kokos-anti-covid](https://explorer.betanet.near.org/accounts/cocos-anti-covid) | YES |

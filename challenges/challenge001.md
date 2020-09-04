@@ -113,7 +113,7 @@ At a high level, the steps to follow are:
 2. **IMPORTANT** Wait for 3 epochs (9 hours on BetaNet) to withdraw. Check if the stake is unlocked with the command `near view stakingPool_ID is_account_unstaked_balance_available '{"account_id": "account_ID"}' --accountId account_ID`
 3. Once your funds are unlocked, withdraw them with the command `near call stakingPool_ID withdraw '{"amount": "100007548461634906498130995"}' --accountId account_ID`
 
-Once completed, you are deady to get back to the step 3.2 and deploy a new staking pool contract. You may use the [Staking Pool Cheatsheet](../staking_cheatsheet.md) as a quick reference to use your staking pool.
+Once completed, you are ready to get back to the step 3.2 and deploy a new staking pool contract. You may use the [Staking Pool Cheatsheet](../staking_cheatsheet.md) as a quick reference to use your staking pool.
 
 ## Contribution Opportunities
 

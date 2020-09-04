@@ -42,6 +42,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | | Zpool | Stake wars | [@zpool.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/zpool.pool.f863973.m0) | CN |
+| <img src="https://miro.medium.com/max/5000/1*8GDFUEsd0z8SidRfg9IljA.png" width="40"> | joejoen | living inside the POS | [@joe1.pool.f863973.m0](https://explorer.testnet.near.org/accounts/joe1.pool.f863973.m0) | Beautiful World |
 
 
 ## BetaNet Validators
@@ -114,7 +115,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg" width="40"> | [Staking Fund](https://staking.fund) | - | @stakingfund.test | -% | KR | [@sfpool](https://explorer.betanet.near.org/accounts/sfpool) | Yes |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | @alextur_pool | yes |
 | <img src="https://raw.githubusercontent.com/iammelea/logs_melea/38cd50835125f5cce30741666e0199d1ec07198a/melea_cubo.svg" width="60"> | [melea](http://melea.xyz/) | Safe and trustworthy validator service, currently Validating in Cosmos, Solana, Iris, eMoney, KaVa → soon: Near, Nucypher, Coda & more. Validating blocks since 2017. | @melea.betanet | 10% | ES | [@meleapool](https://explorer.betanet.near.org/accounts/meleapool) | YES |
-| <img src="https://embed.widencdn.net/img/beef/ng96sbyljl/exact/Ribeye%20Steak_Lip-on.psd?keep=c&u=7fueml" width="40"> | JoeJoen| Let's stake it | joejoen.betanet | 10% | UA | [@joe1](https://explorer.betanet.near.org/accounts/joe1); [@joe1.joejoen.betanet](https://explorer.betanet.near.org/accounts/joe1.joejoen.betanet) | Yes |
+
 | | pathrock |stake with us | [@pathrock.test](https://explorer.betanet.near.org/accounts/rockpath)| 10% | GER | [@rockpathpool](https://explorer.betanet.near.org/accounts/rockpathpool) | yes |
 | <img src="https://github.com/stakewolf/logos/blob/master/stakewolf%20logo%20bw.png" width="50"> | [stakewolf](http://stakewolf.com/) | The validation service you are looking for, secure and reliable. | [@stakewolf.test](https://wallet.betanet.nearprotocol.com/profile/stakewolf.test) | 10% | ES | [@stakewolf_pool](https://explorer.betanet.near.org/accounts/stakewolf_pool) | YES |
 | <img src="http://www.wetez.io/_nuxt/img/72ebb49.png" width="40"> | [Wetez](https://wetez.io) | Wetez is the most professional team in the POS ( Proof of Stake) field. And we provide the most secure and efficient node management service. Stake with us! | @wetez11.test | 10% | CN | [@wetez](https://explorer.betanet.near.org/accounts/wetez) | yes |

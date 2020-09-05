@@ -42,7 +42,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | | Zpool | Stake wars | [@zpool.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/zpool.pool.f863973.m0) | CN |
-
+| <img src="https://kytzu.com/assets/images/logo%202.png"> | [kytzu](https://kytzu.com) | kytzu validator services | [@kytzu.pool.f863973.m0](https://explorer.testnet.near.org/accounts/kytzu.pool.f863973.m0) | RO🇷🇴 |
 
 ## BetaNet Validators
 

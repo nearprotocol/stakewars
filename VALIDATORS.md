@@ -197,6 +197,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
+| <img src="https://d33wubrfki0l68.cloudfront.net/07afeaae1790553e5481e5f35e99236ad7d7f583/42a25/assets/images/logo@2x.png"> | [KysenPool](https://www.kysenpool.io)  | Professional Stake Pool Operator.  |@kysenpool.betanet |10%|EU|[@kysenpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/kysenpool.stakehouse.betanet)| Yes |
 
 
 Notes:

@@ -274,6 +274,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
+| <img src="https://images.prismic.io/anechoic/4f35a3f4-f643-447a-ab01-65d0dd8a55c6_logo.png?auto=compress,format"> | [Anechoic](http://www.anechoic.company) | Pioneering DApp Staking Incentives since 2020. Learn More about our programs on our website!  | [@anechoic.betanet](https://explorer.testnet.near.org/accounts/anechoic)  | 3% | US 🇺🇸 | anechoic.stakehouse.betanet |✅|
 
 
 Notes:

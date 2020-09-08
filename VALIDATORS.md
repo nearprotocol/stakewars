@@ -274,6 +274,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
+| <img src="https://i.imgur.com/KILUmAT.png" width="40"> | DolphinTwo | Happy Staking. | [@dolphin.betanet](https://explorer.betanet.near.org/accounts/dolphin.betanet) | 10% | CN | [@pool.dolphin.betanet](https://explorer.betanet.near.org/accounts/pool.dolphin.betanet) | Yes|
 
 
 Notes:

@@ -170,7 +170,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 || enterpool | Near forever | [@enter](https://explorer.betanet.near.org/accounts/enter.betanet) | 10% | UA | [@enterpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/enterpool.stakehouse.betanet) | Yes |
 | | Castle | Network Verification Services | @testaccount1.betanet | 10% | UK | @castle.stakehouse.betanet | YES
 | <img src="https://i.imgur.com/URWEnJC.jpg" width="40"> | ronmnm | Best validator in the world | [@ronmnm.betanet](https://explorer.betanet.near.org/accounts/ronmnm.betanet) | 10% | UA | [@roma_k.stakehouse.betanet](https://explorer.betanet.near.org/accounts/roma_k.stakehouse.betanet) | yes | | |
-| <img src="https://images.prismic.io/anechoic/4f35a3f4-f643-447a-ab01-65d0dd8a55c6_logo.png?auto=compress,format"> | [Anechoic](http://www.anechoic.company) | Pioneering DApp Staking Incentives since 2020. Learn More about our programs on our website!  | [@anechoic.betanet](https://explorer.testnet.near.org/accounts/anechoic)  | 3% | US 🇺🇸 | anechoic.stakehouse.betanet | YES |
+| <img src="https://images.prismic.io/anechoic/4f35a3f4-f643-447a-ab01-65d0dd8a55c6_logo.png?auto=compress,format"> | [Anechoic](http://www.anechoic.company) | Pioneering DApp Staking Incentives since 2020. Learn More about our programs on our website!  | [@anechoic.betanet](https://explorer.betanet.near.org/accounts/anechoic.betanet)  | 3% | US 🇺🇸 | anechoic.stakehouse.betanet | YES |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

@@ -274,6 +274,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
+| <img src="https://github.com/SmartStake/info/blob/master/logo/smartstake.png" width="40"> | [Smart Stake](https://smartstake.io) | Smart Stake is a transparent, professional, and feature rich staking service provider. We provide staking service with realtime performance assessment & analytics tools. | @smartstake.betanet | 10% | CA | | |
 
 
 Notes:

@@ -172,6 +172,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.imgur.com/URWEnJC.jpg" width="40"> | ronmnm | Best validator in the world | [@ronmnm.betanet](https://explorer.betanet.near.org/accounts/ronmnm.betanet) | 10% | UA | [@roma_k.stakehouse.betanet](https://explorer.betanet.near.org/accounts/roma_k.stakehouse.betanet) | yes | | |
 | <img src="https://images.prismic.io/anechoic/4f35a3f4-f643-447a-ab01-65d0dd8a55c6_logo.png?auto=compress,format"> | [Anechoic](http://www.anechoic.company) | Pioneering DApp Staking Incentives since 2020. Learn More about our programs on our website!  | [@anechoic.betanet](https://explorer.betanet.near.org/accounts/anechoic.betanet)  | 3% | US 🇺🇸 | anechoic.stakehouse.betanet | YES |
 | <img src="https://d33wubrfki0l68.cloudfront.net/07afeaae1790553e5481e5f35e99236ad7d7f583/42a25/assets/images/logo@2x.png"> | [KysenPool](https://www.kysenpool.io)  | Professional Stake Pool Operator.  |@kysenpool.betanet |10%|EU|[@kysenpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/kysenpool.stakehouse.betanet)| Yes |
+| <img src="https://i.imgur.com/KILUmAT.png" width="40"> | DolphinTwo | Happy Staking. | [@dolphin.betanet](https://explorer.betanet.near.org/accounts/dolphin.betanet) | 10% | CN | [@pool.dolphin.betanet](https://explorer.betanet.near.org/accounts/pool.dolphin.betanet) | Yes|
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

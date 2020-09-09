@@ -93,6 +93,8 @@ Define the thresholds that trigger alerts, such as:
 | [arm.armada.betanet](https://explorer.betanet.near.org/accounts/arm.armada.betanet) | Aug 13 | 10,000 |
 | [iosgvc.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/iosgvc.stakehouse.betanet) | Aug 13 | 10,000 |
 | [swiss-staking.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/swiss-staking.stakehouse.betanet) | Aug 19 | 10,000 |
+| [crypto-solutions.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/crypto-solutions.stakehouse.betanet) | Aug 20 | 10,000 |
+| [genesislab.stakehouse.betanet](https://explorer.betanet.near.org/accounts/genesislab.stakehouse.betanet) | Sep 07 | 10,000  | 
 | [crypto-solutions.stakehouse.betanet ](https://explorer.betanet.near.org/accounts/crypto-solutions.stakehouse.betanet) | Aug 20 | 10,000 | 
 | [@optimisticvalidator ](https://explorer.betanet.near.org/accounts/optimisticvalidator) | Sep 01 | 10,000 | 
 | [stakingpool.youlaiwuqu.betanet ](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet) | Sep 1 | 10,000 |
@@ -127,9 +129,11 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-grafana-b697f3e92cc4) | 1,000 | 10% | RU |
+| Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
+| Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |
+| Send alerts | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-grafana-b697f3e92cc4) | 1,000 | 10% | RU |
 | Send alerts | Same as above | @masknetgoal634 | Aug 25 2020 | [Github](https://github.com/masknetgoal634/StakeWarsGuides/blob/master/Send-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @ama31337 | Sep 09 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/Telegram-Alerts.md) | 1,000 | 10% | EN |
-
 \*Including 10% update reward
 
 ## Next Challenge

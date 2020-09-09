@@ -98,6 +98,7 @@ Define the thresholds that trigger alerts, such as:
 | [stakingpool.youlaiwuqu.betanet ](https://explorer.betanet.near.org/accounts/stakingpool.youlaiwuqu.betanet) | Sep 1 | 10,000 |
 | [get_rich](https://explorer.betanet.near.org/accounts/get_rich) | Sep  2 | 10,000 | 
 | [starlink-pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/starlink-pool.stakehouse.betanet) | Sep 02 | 10,000  |
+| [@mfsc.stakehouse.betanet](https://explorer.betanet.near.org/accounts/mfsc.stakehouse.betanet) | Sep 04 | 10,000  |
 
 
 ## Contribution Opportunities

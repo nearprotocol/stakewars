@@ -167,6 +167,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/39002ba27b7a8267410a2fedd5528305_360_360.jpg" width=40> | [AUDIT.one](https://audit.one) | Validators of today, Auditors of tomorrow | [@auditone](https://explorer.betanet.near.org/accounts/auditone.betanet) | 20% | IN | [@audit_two.stakehouse.betanet](https://explorer.betanet.near.org/accounts/audit_two.stakehouse.betanet) | YES |
 | <img src="https://avatars2.githubusercontent.com/u/26545493?s=40&u=bfba8360f6c4e06b0bb16c390c476770663ff06a&v=4" width="40"> | [Savelev](https://tele.click/savelev96) | Stake pool for your game change | [@savelev.betanet](https://explorer.betanet.near.org/accounts/savelev.betanet) | 10% | RU | [@savelev.stakehouse.betanet](https://explorer.betanet.near.org/accounts/savelev.stakehouse.betanet) | YES |
 || enterpool | Near forever | [@enter](https://explorer.betanet.near.org/accounts/enter.betanet) | 10% | UA | [@enterpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/enterpool.stakehouse.betanet) | Yes |
+| | Castle | Network Verification Services | @testaccount1.betanet | 10% | UK | @castle.stakehouse.betanet | YES
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

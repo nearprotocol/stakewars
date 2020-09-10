@@ -197,7 +197,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
-
+| <img src="https://s3.amazonaws.com/keybase_processed_uploads/39be673afeff56dc1c5ad17f68734505_360_360.jpg" width="40"> | Blockdaemon | our nodes are manned by a dedicated clone army | @blockdaemon.betanet | 10% | IE 🇮🇪 | [@blockdaemon.stakehouse.betanet](https://explorer.betanet.near.org/accounts/blockdaemon.stakehouse.betanet) | ✅ |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.

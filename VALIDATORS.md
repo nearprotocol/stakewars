@@ -46,6 +46,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | <img src="https://ibb.co/7pLyBC2" width="40"> | Zpool | Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
+| <img src="https://p.pstatp.com/origin/138040000417b361a135c" width="40"> | [Staking-Power](http://www.staking-power.tech) | Chinese Professional Node Operator | [@staking-power.pool.f863973.m0](https://explorer.testnet.near.org/accounts/staking-power.pool.f863973.m0)| CN |
 
 
 ## BetaNet Validators

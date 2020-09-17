@@ -74,6 +74,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Release a CD Pipeline doc | Same as the above | masknetgoal634 | August 5 2020 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | etherscam | August 17 2020 | [Jenkins](https://github.com/etherscam/testnear) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | minstr22 <zainy | August 28 2020 | [Jenkins](https://github.com/minstr22/near-Protocol--ci-cd-Jenkins) | 3,500 | 15% | EN |
+| Release a CD Pipeline doc | Same as the above | @mabalaru | Sep 17 2020 | [Ansible](https://github.com/mabalaru/near/tree/master/near-ci) | 3,500 | 15% | EN |
 | Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | @abellinii | August 6 2020 | [Medium](https://medium.com/@thepassivetrust/automating-ci-cd-on-a-near-network-validator-6803b3b63f2f) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | @minstr22 | August 6 2020 | [Medium](https://medium.com/@ainsleypaul7/near-jenkins-fbd42e027a93) | 1,500 | 10% | EN |
 

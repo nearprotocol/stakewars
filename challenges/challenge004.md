@@ -155,6 +155,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Release the Warchest Bot | Same as the above | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
+| New Warchest Bot | Same as the above | @denysk | Sep 15 2020 | [Github](https://gist.github.com/dentesting/3a919f394a0fe68dcfed1f5fada8ee58) | 2,500 | 15% | EN |
 
 ## Next Challenge
 Automatically deploy nearcore using a CI/CD pipeline: [challenge005](challenge005.md)

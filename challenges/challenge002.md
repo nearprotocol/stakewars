@@ -102,12 +102,14 @@ Once your work is done, you will be added to the list below. Please note that re
 | Monitor uptime | Same as above | @wjdfx | Jun 15 2020| [Jianshu](https://www.jianshu.com/p/6e197eeb63a0) | 1,000 | 10% | CN |
 | Monitor uptime | Same as above | @marshall-d-teach | Jul 6 2020 | [Github](https://github.com/marshall-d-teach/near-doc/) | 1,000 | 10% | EN |
 | Monitor uptime | Same as above | @masknetgoal634 | Aug 24 2020 | [Github](https://github.com/masknetgoal634/StakeWarsGuides/blob/master/Monitor-Uptime.md) | 1,000 | 10% | EN |
+| Monitor uptime | Same as above | @youlaiwuqu | Sep 11 2020| [Jianshu](https://www.jianshu.com/p/e60764d1333c) | 1,000 | 10% | CN |
 | Use Ledger Nano S | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to run `near shell` with your Ledger Nano S, from the seed key creation, to its backup and restore, to the delegation of funds to a staking pool. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | @wjdfx | Jun 15 2020| [Jianshu](https://www.jianshu.com/p/39b3562943e0) | 1,500 | 10% | CN |
 | Use Ledger Nano S | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-ledger-nano-s-%D0%B2-near-b536abfaaf7e)| 1,500 | 10% | RU |
 | Use Ledger Nano S | Same as above | @Viacheslav198 | Jul 6 2020 | [Github](https://github.com/Viacheslav198/near/blob/master/ledger.md)| 1,500 | 10% | RU |
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
+| Manage the pool | Explain how to enroll your staking pool, receive your delegation, check your validator status, fees | @everuner | Aug 29 2020 | [Medium](https://medium.com/@serj_czech/%D0%BF%D1%83%D0%BB-%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D1%81%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8-stake-wars-challenge-002-19c172b3d0)| 1,000 | 10% | EN |
 
 
 ## Next Challenge

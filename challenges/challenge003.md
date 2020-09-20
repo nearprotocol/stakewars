@@ -137,6 +137,8 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @masknetgoal634 | Aug 25 2020 | [Github](https://github.com/masknetgoal634/StakeWarsGuides/blob/master/Send-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @ama31337 | Sep 09 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/Telegram-Alerts.md) | 1,000 | 10% | EN |
 \*Including 10% update reward
+| Run a monitoring platform | Same as above | @Cryptomilion | Sept 13 2020 | [Medium](https://medium.com/@shiverov/near-stake-wars-challenge-003-%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-near-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-grafana-prometheus-bce1dde57d30) | 1,000 | 10% | UA |
+
 
 ## Next Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

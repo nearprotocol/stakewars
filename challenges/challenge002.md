@@ -110,7 +110,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
 | Manage the pool | Explain how to enroll your staking pool, receive your delegation, check your validator status, fees | @everuner | Aug 29 2020 | [Medium](https://medium.com/@serj_czech/%D0%BF%D1%83%D0%BB-%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D1%81%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8-stake-wars-challenge-002-19c172b3d0)| 1,000 | 10% | EN |
-
+| Manage the pool |  Same as above  | @Cryptomilion | Sep 05 2020 | [Medium](https://medium.com/@shiverov/near-stake-wars-challenge-002-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%83%D0%BB%D0%B0-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D0%B8-%D1%81%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B9-52ba16aedb49)| 1,000 | 10% | RU |
 
 ## Next Challenge
 Monitor your node health, and setup automated email alerts: [challenge003](challenge003.md)

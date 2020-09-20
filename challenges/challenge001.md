@@ -152,6 +152,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @Lalit15 | July 21 2020 | [Medium](https://medium.com/@coolphil15/how-to-generate-near-keys-using-near-shell-and-authorize-access-6b114003e9d) | 1,000 |
 | Explain NEAR keys | Same as above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/chiavi-spiegate.md) IT | 1,000 |
 | Explain NEAR keys | Same as above | @everuner | Sept 3 2020 | [Medium](https://medium.com/@serj_czech/explain-near-keys-845c9ad7b13d) | 1,000 |
+| сompile nearcore and deploy stacking pool | Ukrainian guide with video: сompile nearcore and deploy stacking pool | @Cryptomilion | Aug 16 2020 | [Medium](https://medium.com/@shiverov/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BD%D0%BE%D0%B4%D0%B8-nearcore-near-%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%96%D0%B9-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96-betanet-216415954c4e) | 1,000 |
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

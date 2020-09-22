@@ -176,6 +176,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://d33wubrfki0l68.cloudfront.net/07afeaae1790553e5481e5f35e99236ad7d7f583/42a25/assets/images/logo@2x.png"> | [KysenPool](https://www.kysenpool.io)  | Professional Stake Pool Operator.  |@kysenpool.betanet |10%|EU|[@kysenpool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/kysenpool.stakehouse.betanet)| Yes |
 | <img src="https://i.imgur.com/KILUmAT.png" width="40"> | DolphinTwo | Happy Staking. | [@dolphin.betanet](https://explorer.betanet.near.org/accounts/dolphin.betanet) | 10% | CN | [@pool.dolphin.betanet](https://explorer.betanet.near.org/accounts/pool.dolphin.betanet) | Yes|
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/39be673afeff56dc1c5ad17f68734505_360_360.jpg" width="40"> | Blockdaemon | our nodes are manned by a dedicated clone army | @blockdaemon.betanet | 10% | IE 🇮🇪 | [@blockdaemon.stakehouse.betanet](https://explorer.betanet.near.org/accounts/blockdaemon.stakehouse.betanet) | YES |
+| | filippova | "Safe and responcible validator" | [@filippova.betanet](https://explorer.betanet.near.org/accounts/filippova.betanet)  | 10% | UA |[@filippova_pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/filippova_pool.stakehouse.betanet) | Yes |
 | | | | | | | | |
 | | | | From here, the list contains validators who are not part of the NVAB and haven't locked their staking pool contract yet | | | | | |
 | | | | | | | | |

@@ -103,7 +103,6 @@ Define the thresholds that trigger alerts, such as:
 | [starlink-pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/starlink-pool.stakehouse.betanet) | Sep 02 | 10,000  |
 | [@mfsc.stakehouse.betanet](https://explorer.betanet.near.org/accounts/mfsc.stakehouse.betanet) | Sep 04 | 10,000  |
 
-
 ## Contribution Opportunities
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 

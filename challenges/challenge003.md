@@ -129,6 +129,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Run a monitoring platform | Same as above | @RussellGalt | Sep 03 2020 | [Notion](https://www.notion.so/Zabbix-5-0-Ubuntu-18-04-5f93580ffde34bf4a8b3b13e1650f1a3) | 1,000 | 10% | RU |
 | Run a monitoring platform | Same as above | @everuner | Sept 07 2020 | [Medium] (https://medium.com/@serj_czech/run-a-monitoring-platform-30ef76041ca4) | 1,000 | 10% | RU |
 | Run a monitoring platform | Same as above | @youlaiwuqu | Sep 12 2020 | [Jianshu](https://www.jianshu.com/p/2beea09af773) | 1,000 | 10% | CN |
+| Run a monitoring platform | Same as above | @Cryptomilion | Sept 13 2020 | [Medium](https://medium.com/@shiverov/near-stake-wars-challenge-003-%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-near-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-grafana-prometheus-bce1dde57d30) | 1,000 | 10% | UA |
 | Run a monitoring platform | Same as above | @mabalaru | Sep 17 2020 | [Ansible](https://github.com/mabalaru/near/tree/master/monitoring) | 1,000 | 10% | EN |
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |
@@ -139,8 +140,8 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @masknetgoal634 | Aug 25 2020 | [Github](https://github.com/masknetgoal634/StakeWarsGuides/blob/master/Send-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @ama31337 | Sep 09 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/Telegram-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @mabalaru | Sep 17 2020 | [Github](https://github.com/mabalaru/near/tree/master/monitoring) | 1,000 | 10% | EN |
-\*Including 10% update reward
 | Send alerts | Same as above | @youlaiwuqu | Sep 12 2020 | [Jianshu](https://www.jianshu.com/p/b6f116e5105d) | 1,000 | 10% | CN |
+\*Including 10% update reward
 
 ## Next Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

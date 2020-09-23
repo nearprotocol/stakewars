@@ -64,6 +64,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 **Heads up:** If you can't see/write in the Validator Portal, be sure that you filled up the [Challenge 004 contact form](https://nearprotocol1001.typeform.com/to/x4Bval), so we can send you an invitation email.
 
 ### List of available contributions
+**Heads Up:** No more contributions are accepted, except the ones already posted on https://portal.near.org before September 23. You are free to add new ones without receiving token rewards!
 
 | Title | Abstract                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |

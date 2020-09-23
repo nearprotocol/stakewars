@@ -138,6 +138,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @masknetgoal634 | Aug 25 2020 | [Github](https://github.com/masknetgoal634/StakeWarsGuides/blob/master/Send-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @ama31337 | Sep 09 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/Telegram-Alerts.md) | 1,000 | 10% | EN |
 \*Including 10% update reward
+| Send alerts | Same as above | @youlaiwuqu | Sep 12 2020 | [Jianshu](https://www.jianshu.com/p/b6f116e5105d) | 1,000 | 10% | CN |
 
 ## Next Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

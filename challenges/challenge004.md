@@ -156,6 +156,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @minstr22 | aug 28 2020 | [Github](https://github.com/minstr22/Near-Protocol-warchest) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Same as the above | @savelev1 | Sep 16 2020 | [Github](https://github.com/savelev1/near-warchest-bot) | 2,500 | 15% | RU/EN |
 | Install and start warchest bot | Explain installation, configuration and monitoring work of warchest bot by @eorituz. Process of obtaining results | @everuner | Aug 30 2020 | [Medium](https://medium.com/@serj_czech/near-warchest-%D0%B1%D0%BE%D1%82-stake-wars-challenge-004-a332d028fb53) | - | - | RU |
 | Release the Warchest Bot | Release the Warchest Bot, and have a Chinese usage description | @crackerli | sep 16 2020 | [Github](https://github.com/crackerli/near-validator-monitor) | 2,500 | 15% | CN |
 

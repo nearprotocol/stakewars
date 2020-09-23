@@ -75,6 +75,8 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Release a CD Pipeline doc | Create an article and a Github document/script to explain and execute an automated deployment of a new release of nearcore. Before starting the project request approval in the NEAR portal. | @abellinii | Jul 29 2020 | [Terraform](https://github.com/abellinii/near-terraform)| 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | masknetgoal634 | August 5 2020 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | etherscam | August 17 2020 | [Jenkins](https://github.com/etherscam/testnear) | 3,000 | 15% | EN |
+| Release a CD Pipeline doc | Same as the above | minstr22 <zainy | August 28 2020 | [Jenkins](https://github.com/minstr22/near-Protocol--ci-cd-Jenkins) | 3,000 | 15% | EN |
+| Release a CD Pipeline doc | Same as the above | @mabalaru | Sep 17 2020 | [Ansible](https://github.com/mabalaru/near/tree/master/near-ci) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | minstr22 <zainy | August 28 2020 | [Jenkins](https://github.com/minstr22/near-Protocol--ci-cd-Jenkins) | 3,500 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | minstr22 <zainy | August 28 2020 | [Jenkins](https://github.com/minstr22/near-Protocol--ci-cd-Jenkins) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github Actions + Shell](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 3,000 | 10% | IT |

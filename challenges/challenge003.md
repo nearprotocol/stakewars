@@ -115,7 +115,7 @@ Reply to the challenges application thread on [Github](https://github.com/nearpr
 Once your work is done, you will be added to the list below. Please note that rewards in tokens will need to pass basic KYC checks from NEAR Foundation, and comply with regulations.
 
 ### List of available contributions
-**Heads Up:** No more contributions are accepted, except the ones already posted on https://portal.near.org before September 23. You are free to add new ones without receiving token rewards!
+**Heads Up:** No more contributions are accepted, except the ones already posted on https://portal.near.org before October 2nd. You are free to add new ones without receiving token rewards!
 
 | Abstract | Description                    | Contributor | Due Date | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | ----------- | -------- |

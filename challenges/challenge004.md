@@ -152,13 +152,18 @@ Once your work is done, you will be added to the list below. Please note that re
 | Monitor the Stake | Same as the above | @masknetgoal634 | Jun 26 2020 | [Github](https://github.com/masknetgoal634/near-go-warchest/blob/master/README.md) | 1,000 | 15% | EN |
 | Monitor the Stake | Same as the above | @bonsfi | Jul 21 2020 | [Medium](https://medium.com/@bonsfi/como-monitorear-el-stake-de-tu-validador-en-near-protocol-d709326cf6ff?sk=09f62413b029762a549b5596c9543a4c) | 1,000 | 15% | ES |
 | Release the Warchest Bot | Same as the above | @masknetgoal634 | Jun 26 2020 | [Github](https://github.com/masknetgoal634/near-go-warchest) | 2,500 | 15% | EN |
-| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @48cfu | Jun 28 2020 | [Github](https://github.com/48cfu/near-warchest-bot) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @48cfu | Jun 28 2020 | [Github EN](https://github.com/48cfu/near-warchest-bot)/[Github IT](https://github.com/48cfu/near-warchest-bot/blob/master/README-ITALIANO.md) | 2,875 | 15% | EN and IT |
 | Release the Warchest Bot | Same as the above | @gaia | Jun 29 2020 | [Github](https://gist.github.com/gaia/cff45baf3fa710a42c3fc4cdaafe8edc) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @eorituz | Jul 1 2020 | [Github](https://github.com/eorituz/near_warchest) | 2,500 | 10% | EN |
 | Release the Warchest Bot | Same as the above | @imnisen | Jul 6 2020 | [Github](https://github.com/imnisen/near-warchest/) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @WilliamGuozi | Jul 21 2020 | [Github](https://github.com/WilliamGuozi/near-monitor) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Same as the above | @minstr22 | aug 28 2020 | [Github](https://github.com/minstr22/Near-Protocol-warchest) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Same as the above | @denysk | Sep 15 2020 | [Github](https://gist.github.com/dentesting/3a919f394a0fe68dcfed1f5fada8ee58) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Same as the above | @savelev1 | Sep 16 2020 | [Github](https://github.com/savelev1/near-warchest-bot) | 2,500 | 15% | RU/EN |
+| Release the Warchest Bot | Release the Warchest Bot, and have a Chinese usage description | @crackerli | sep 16 2020 | [Github](https://github.com/crackerli/near-validator-monitor) | 2,500 | 15% | CN |
 | Install and start warchest bot | Explain installation, configuration and monitoring work of warchest bot by @eorituz. Process of obtaining results | @everuner | Aug 30 2020 | [Medium](https://medium.com/@serj_czech/near-warchest-%D0%B1%D0%BE%D1%82-stake-wars-challenge-004-a332d028fb53) | - | - | RU |
+| Install and start warchest bot | Same as the above | @Cryptomilion | Sep 19 2020 | [Medium](https://medium.com/@shiverov/near-warchest-bot-stake-wars-challenge-004-363b352567d2) | - | - | UA |
+
 
 ## Next Challenge
 Automatically deploy nearcore using a CI/CD pipeline: [challenge005](challenge005.md)

@@ -86,6 +86,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | @abellinii | August 6 2020 | [Medium](https://medium.com/@thepassivetrust/automating-ci-cd-on-a-near-network-validator-6803b3b63f2f) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | @minstr22 | August 6 2020 | [Medium](https://medium.com/@ainsleypaul7/near-jenkins-fbd42e027a93) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 1,500 | 10% | IT |
+| CI/CD using Bash script | Same as the above | [@majal](https://github.com/majal) | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/ce091bf598ab77f69b7312791eba9af2) | 3,500 | 15% | EN |
 
 ## Previous Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

@@ -115,7 +115,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
-
+| Manage the pool | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to update the parameters of the staking pool, such as the fees and the validator key. Show also how to collect the fees and unstake them. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | @georgec138 | Sep 28 2020 | [Github](https://github.com/georgec138/near-docs/blob/master/Manage-the-pool_cn.md) | 1,000 | 10% | CN |
 ## Next Challenge
 Monitor your node health, and setup automated email alerts: [challenge003](challenge003.md)
 

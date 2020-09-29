@@ -102,6 +102,7 @@ Define the thresholds that trigger alerts, such as:
 | [get_rich](https://explorer.betanet.near.org/accounts/get_rich) | Sep  2 | 10,000 | 
 | [starlink-pool.stakehouse.betanet](https://explorer.betanet.near.org/accounts/starlink-pool.stakehouse.betanet) | Sep 02 | 10,000  |
 | [@mfsc.stakehouse.betanet](https://explorer.betanet.near.org/accounts/mfsc.stakehouse.betanet) | Sep 04 | 10,000  |
+| [@majlovesreg.stakehouse.betanet](https://explorer.betanet.near.org/accounts/majlovesreg.stakehouse.betanet) | Aug 26 | 115,685 |
 
 ## Contribution Opportunities
 
@@ -143,6 +144,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @ama31337 | Sep 09 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/Telegram-Alerts.md) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @mabalaru | Sep 17 2020 | [Github](https://github.com/mabalaru/near/tree/master/monitoring) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @youlaiwuqu | Sep 12 2020 | [Jianshu](https://www.jianshu.com/p/b6f116e5105d) | 1,000 | 10% | CN |
+| Send alerts | Same as above | @majal | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/c36279140f9326c684edb758d3aa86d2) | 1,000 | 10% | EN
 | Send alerts | Same as above | [@48cfu](https://github.com/48cfu) | Sep 25 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/monitoraggio-server-near.md#aggiunta-di-un-metodo-di-notifica) | 1,000 | 10% | IT |
 \*Including 10% update reward
 

@@ -132,6 +132,7 @@ Overall, we suggest to use NEAR's delegated tokens as your main stake in the poo
 Once you are running your _warchest_, reply to the [Issue #500](https://github.com/nearprotocol/stakewars/issues/500) posting your accomplishment. Use also the same issue if we undelegated your funds, and you want to try again.
 
 ## Contribution Opportunities
+**Heads Up:** No more contributions are accepted, except the ones already posted on https://portal.near.org before October 2nd. You are free to add new ones without receiving token rewards!
 
 Do you want to earn extra tokens? We have contribution opportunities available below! 
 

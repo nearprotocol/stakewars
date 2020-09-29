@@ -83,9 +83,11 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Release a CD Pipeline doc | Same as the above | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github Actions + Shell](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 3,000 | 10% | IT |
 | Release a CD Pipeline doc | Same as the above | @savelev1 | Sep 16 2020 | [Github](https://github.com/savelev1/nearcore-updater) | 3,000 | 15% | RU/EN |
 | Release a CD Pipeline doc | Same as the above | @crypto-solutions(https://github.com/crypto-guys/) | Sep 16 2020 | [Github](https://github.com/crypto-guys/nearcore-continuous-delivery) | 3,000 | 15% | EN |
+| Release a CD Pipeline doc | Same as the above | @ama31337(https://github.com/ama31337/) | Sep 24 2020 | [Github](https://github.com/ama31337/near-update) | 3,000 | 15% | EN |
 | Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | @abellinii | August 6 2020 | [Medium](https://medium.com/@thepassivetrust/automating-ci-cd-on-a-near-network-validator-6803b3b63f2f) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | @minstr22 | August 6 2020 | [Medium](https://medium.com/@ainsleypaul7/near-jenkins-fbd42e027a93) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 1,500 | 10% | IT |
+| Write a localnet tutorial | Detailed guide on localnet | @ama31337(https://github.com/ama31337/) | September 24 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/running-localnet.md) | 1,500 | 10% | EN |
 
 ## Previous Challenge
 Create your warchest to dynamically keep one seat: [challenge004](challenge004.md)

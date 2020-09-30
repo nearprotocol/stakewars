@@ -1,5 +1,8 @@
 # UPDATES
 
+## UPDATE September 25th
+* With NEAR [entering Phase 1](https://near.org/blog/near-mainnet-is-now-community-operated/) we will suspend token rewards after October 2nd 2020. You are still free to add and update your guides, but you will not receive tokens.
+
 ## UPDATE August 5th
 
 * Changed `near-shell` into `near-cli`, reflecting the new naming of this tool: https://github.com/near/near-cli

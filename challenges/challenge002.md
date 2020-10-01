@@ -116,6 +116,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
+| Enroll your node | Same as above | @rozum-dev | Sept 6 2020 | [Medium](https://medium.com/@dmytro.rozum/зареєструйте-свою-ноду-39be8334a512) | 1,000 | 10% | UA |
 
 
 ## Next Challenge

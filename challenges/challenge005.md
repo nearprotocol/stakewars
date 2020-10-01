@@ -90,6 +90,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Write a localnet tutorial | Same as the above. | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 1,500 | 10% | IT |
 | Write a localnet tutorial | Detailed guide on localnet | @ama31337(https://github.com/ama31337/) | September 24 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/running-localnet.md) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above | @cryptomilion | Sep 25 2020 | [Medium](https://medium.com/@shiverov/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5-%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-nearcore-d84b22a691aa) | 1,500 | 10% | UA |
+| Write a localnet tutorial | Same as the above | @bonsfi | Oct 1 2020 | [Medium](https://medium.com/@bonsfi/como-automatizar-ci-cd-en-tu-validador-de-near-protocol-6ccf9ca91529) | 1,500 | 10% | ES |
 
 
 ## Previous Challenge

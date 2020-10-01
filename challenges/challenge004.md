@@ -161,6 +161,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Release the Warchest Bot | Same as the above | @savelev1 | Sep 16 2020 | [Github](https://github.com/savelev1/near-warchest-bot) | 2,500 | 15% | RU/EN |
 | Release the Warchest Bot | Release the Warchest Bot, and have a Chinese usage description | @crackerli | sep 16 2020 | [Github](https://github.com/crackerli/near-validator-monitor) | 2,500 | 15% | CN |
 | Release the warchest bot | One script both as warchest and node monitor | @majal | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/c36279140f9326c684edb758d3aa86d2) | 2,500 | 15% | EN |
+| Release the Warchest Bot | Release the Warchest Bot with a Ukrainian usage description | @rozum-dev | sep 17 2020 | [Github](https://github.com/rozum-dev/near-go-warchest) | 2,500 | 15% | UA |
 | Install and start warchest bot | Explain installation, configuration and monitoring work of warchest bot by @eorituz. Process of obtaining results | @everuner | Aug 30 2020 | [Medium](https://medium.com/@serj_czech/near-warchest-%D0%B1%D0%BE%D1%82-stake-wars-challenge-004-a332d028fb53) | - | - | RU |
 | Install and start warchest bot | Same as the above | @Cryptomilion | Sep 19 2020 | [Medium](https://medium.com/@shiverov/near-warchest-bot-stake-wars-challenge-004-363b352567d2) | - | - | UA |
 

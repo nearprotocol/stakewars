@@ -156,5 +156,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/chiavi-spiegate.md) IT | 1,000 |
 | Explain NEAR keys | Same as above | @everuner | Sept 3 2020 | [Medium](https://medium.com/@serj_czech/explain-near-keys-845c9ad7b13d) | 1,000 |
 | Explain NEAR keys  | Same as above | @mabalaru | Sep 17 2020 | [Medium](https://medium.com/@inotel/explain-near-keys-c3bda285ebb2) EN | 1,000 |
+| Explain NEAR keys | Same as above | @youlaiwuqu | Oct 1 2020 | [Jianshu](https://www.jianshu.com/p/15e65f79f79e) | 1,000 |
+
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

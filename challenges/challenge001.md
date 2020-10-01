@@ -157,7 +157,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @everuner | Sept 3 2020 | [Medium](https://medium.com/@serj_czech/explain-near-keys-845c9ad7b13d) | 1,000 |
 | Explain NEAR keys  | Same as above | @mabalaru | Sep 17 2020 | [Medium](https://medium.com/@inotel/explain-near-keys-c3bda285ebb2) EN | 1,000 |
 | Explain NEAR keys | Same as above | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1983456602)  | 1,000 |
-| How to compile nearcore | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to clone, compile and run `nearcore` from the beta branch, and prove that you can become validator with the process. Contributions in other languages are encouraged, but considered case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1192815460)  | 1,000 |
+| How to compile nearcore | Same as above | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1192815460)  | 1,000 |
 
 
 ## Next Challenge

@@ -49,7 +49,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" width="100" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | [@thepassivetrust.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/thepassivetrust.pool.6fb1358) | CA | 
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
-| <img src="https://ibb.co/7pLyBC2" width="40"> | Zpool | Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
+| <a href="https://ibb.co/GncY2Vv"><img src="https://i.ibb.co/GncY2Vv/2020-10-03-16-28-11.jpg" alt="2020-10-03-16-28-11" border="0" /></a> |stake with Ains |Zainy| Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
 
 
 ## BetaNet Validators

@@ -287,6 +287,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
 | <img src="https://github.com/SmartStake/info/blob/master/logo/smartstake.png" width="40"> | [Smart Stake](https://smartstake.io) | Smart Stake is a transparent, professional, and feature rich staking service provider. We provide staking service with realtime performance assessment & analytics tools. | @smartstake.betanet | 10% | CA | | |
+| <img src="http://eostribe.io/images/logo.png" width="40"> | TRIBE | Crypto Tribe - Experienced POS Validator | @tribe.betanet | 10% | US | [@tribe](https://explorer.betanet.near.org/accounts/tribe.betanet) | yes |
 
 
 

@@ -155,6 +155,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @Lalit15 | July 21 2020 | [Medium](https://medium.com/@coolphil15/how-to-generate-near-keys-using-near-shell-and-authorize-access-6b114003e9d) | 1,000 |
 | Explain NEAR keys | Same as above | @48cfu | Aug 24 2020 | [GitHub](https://github.com/48cfu/near-documentazione/blob/master/chiavi-spiegate.md) IT | 1,000 |
 | Explain NEAR keys | Same as above | @everuner | Sept 3 2020 | [Medium](https://medium.com/@serj_czech/explain-near-keys-845c9ad7b13d) | 1,000 |
+| Explain NEAR keys | Same as above | @yes-filippova | Sept 13 2020 | [Medium](https://medium.com/@yes.filippova/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F-%D0%BA%D0%BB%D1%8E%D1%87%D1%96%D0%B2-near-%D1%82%D0%B0-%D1%97%D1%85-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF-963cd6ab563?source=friends_link&sk=46b4d78cdfcf168234894e6df0fa9825) UA | 1,000 |
 | Explain NEAR keys  | Same as above | @mabalaru | Sep 17 2020 | [Medium](https://medium.com/@inotel/explain-near-keys-c3bda285ebb2) EN | 1,000 |
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

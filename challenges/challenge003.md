@@ -135,6 +135,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Run a monitoring platform | Same as above | @Cryptomilion | Sept 13 2020 | [Medium](https://medium.com/@shiverov/near-stake-wars-challenge-003-%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-near-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-grafana-prometheus-bce1dde57d30) | 1,000 | 10% | UA |
 | Run a monitoring platform | Same as above | @mabalaru | Sep 17 2020 | [Ansible](https://github.com/mabalaru/near/tree/master/monitoring) | 1,000 | 10% | EN |
 | Run a monitoring platform | Same as above | [@48cfu](https://github.com/48cfu) | Sep 17 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/monitoraggio-server-near.md) | 1,000 | 10% | IT |
+| Run a monitoring platform | Same as above | [@bonsfi](https://github.com/bonsfi) | Oct 1 2020 | [Github Gist](https://gist.github.com/bonsfi/d6331d70caae74dd3eefe3c198ed6857) | 1,000 | 10% | EN |
 | Send alerts | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to connect cloud alerts from AWS, GCP, Azure, Alibaba (and others) with your nearcore node. Contributions in other languages are encouraged, but considered case by case basis. | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/0ae64d4c53aa) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-alert.md) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-grafana-b697f3e92cc4) | 1,000 | 10% | RU |
@@ -149,6 +150,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @majal | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/c36279140f9326c684edb758d3aa86d2) | 1,000 | 10% | EN
 | Send alerts | Same as above | @yes-filippova | Sep 19 2020 | [Medium](https://medium.com/@yes.filippova/%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BC%D0%BE-%D1%81%D1%82%D0%B0%D0%BD-%D0%BD%D0%BE%D0%B4%D0%B8-near-node-%D0%B7-prometheus-%D1%82%D0%B0-grafana-95a4b88ca643?source=friends_link&sk=12f7ac583d23e90c5abe581371ead6e8) | 1,000 | 10% | UA
 | Send alerts | Same as above | [@48cfu](https://github.com/48cfu) | Sep 25 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/monitoraggio-server-near.md#aggiunta-di-un-metodo-di-notifica) | 1,000 | 10% | IT |
+| Send alerts | Same as above | [@bonsfi](https://github.com/bonsfi) | Oct 1 2020 | [Medium](https://medium.com/@bonsfi/como-monitorear-tu-nodo-de-near-para-recibir-alertas-mediante-email-y-slack-con-digital-ocean-ba7ec37fa9a6) | 1,000 | 10% | ES |
 \*Including 10% update reward
 
 ## Next Challenge

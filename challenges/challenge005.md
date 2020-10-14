@@ -74,6 +74,7 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Release a CI Pipeline doc | Same as above | @narniec | August 23 2020| [Medium](https://medium.com/@narniec2020/ci-pipeline-jenkins-for-near-91b4ae3edde)  | 3,500 | 15% | RU |
 | Release a CI Pipeline doc | Same as above | [@48cfu](https://github.com/48cfu) | September 12 2020| [Github Actions + Shell](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 3,500 | 15% | IT |
 | Release a CI Pipeline doc | Same as above | [@majal](https://github.com/majal) | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/ce091bf598ab77f69b7312791eba9af2) | 3,500 | 15% | EN |
+| Release a CI Pipeline doc | Same as above | [@bonsfi](https://github.com/majal) | Sep 16 2020 | [GitHub](https://github.com/bonsfi/nixos-nearcore) | 3,500 | 15% | EN |
 | Release a CD Pipeline doc | Create an article and a Github document/script to explain and execute an automated deployment of a new release of nearcore. Before starting the project request approval in the NEAR portal. | @abellinii | Jul 29 2020 | [Terraform](https://github.com/abellinii/near-terraform)| 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | masknetgoal634 | August 5 2020 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | etherscam | August 17 2020 | [Jenkins](https://github.com/etherscam/testnear) | 3,000 | 15% | EN |
@@ -86,11 +87,13 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 | Release a CD Pipeline doc | Same as the above | @crypto-solutions(https://github.com/crypto-guys/) | Sep 16 2020 | [Github](https://github.com/crypto-guys/nearcore-continuous-delivery) | 3,000 | 15% | EN |
 | Release a CD Pipeline doc | Same as the above | @rozum-dev(https://github.com/rozum-dev/) | Sep 20 2020 | [Medium](https://medium.com/@dmytro.rozum/використання-jenkins-для-ci-cd-nearcore-7e4aa8f598a0) | 3,000 | 15% | UA |
 | Release a CD Pipeline doc | Same as the above | @ama31337(https://github.com/ama31337/) | Sep 24 2020 | [Github](https://github.com/ama31337/near-update) | 3,000 | 15% | EN |
+| Release a CD Pipeline doc | Same as the above | @bonsfi(https://github.com/ama31337/) | Oct 1 2020 | [Github](https://github.com/bonsfi/nixos-nearcore) | 3,000 | 15% | EN |
 | Write a localnet tutorial | Create a tutorial on how to automatically deploy and boot your own NEAR network, using it to test a new release of nearcore. | @abellinii | August 6 2020 | [Medium](https://medium.com/@thepassivetrust/automating-ci-cd-on-a-near-network-validator-6803b3b63f2f) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | @minstr22 | August 6 2020 | [Medium](https://medium.com/@ainsleypaul7/near-jenkins-fbd42e027a93) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above. | [@48cfu](https://github.com/48cfu) | September 12 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/guida-localnet.md) | 1,500 | 10% | IT |
 | Write a localnet tutorial | Detailed guide on localnet | @ama31337(https://github.com/ama31337/) | September 24 2020 | [Github](https://github.com/ama31337/neartips/blob/master/manuals/running-localnet.md) | 1,500 | 10% | EN |
 | Write a localnet tutorial | Same as the above | @cryptomilion | Sep 25 2020 | [Medium](https://medium.com/@shiverov/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5-%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-nearcore-d84b22a691aa) | 1,500 | 10% | UA |
+| Write a localnet tutorial | Same as the above | @bonsfi | Oct 1 2020 | [Medium](https://medium.com/@bonsfi/como-automatizar-ci-cd-en-tu-validador-de-near-protocol-6ccf9ca91529) | 1,500 | 10% | ES |
 
 
 ## Previous Challenge

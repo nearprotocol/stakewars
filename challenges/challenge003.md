@@ -122,6 +122,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | -------- | ------------------------------ | ----------- | -------- | ---- | ----------- | ----------- | -------- |
 | Run a monitoring platform | Create a tutorial, in the form of a video, a blogpost or Github document, that explains how to monitor the health of your node (general parameters, nearcore parameters and NEAR network). Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. Contributions in other language than English are encouraged, but considered case by case basis. | @masknetgoal634 | Jun 11 2020 | [Github](https://github.com/masknetgoal634/near-prometheus-exporter/blob/master/guide/GUIDE.md) | 1,100* | 10% | EN |
 | Run a monitoring platform | Same as above | @narniec | Jun 14 2020 | [Medium](https://link.medium.com/C82TyDMXo7) | 1,000 | 10% | RU |
+| Run a monitoring platform | Same as above | @Minstr22 | Sept 30 2020 | [Github] (https://github.com/minstr22/Monitoring-Alerting | 1,000 | 10% | EN |
 | Run a monitoring platform | Same as above | @wjdfx | Jun 15 2020 | [Jianshu](https://www.jianshu.com/p/c0b9d21eba3d) | 1,000 | 10% | CN |
 | Run a monitoring platform | Same as above | @imnisen | Jun 23 2020 | [Github](https://github.com/dolphintwo/near-prometheus-exporter/blob/master/guide/GUIDE-compose.md) | 1,000 | 10% | CN |
 | Run a monitoring platform | Same as above | @Viacheslav198 | Jul 1 2020 | [Github](https://github.com/Viacheslav198/grafana-prometheus/blob/master/alert.md) | 1,000 | 10% | IT |
@@ -145,6 +146,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Send alerts | Same as above | @mabalaru | Sep 17 2020 | [Github](https://github.com/mabalaru/near/tree/master/monitoring) | 1,000 | 10% | EN |
 | Send alerts | Same as above | @youlaiwuqu | Sep 12 2020 | [Jianshu](https://www.jianshu.com/p/b6f116e5105d) | 1,000 | 10% | CN |
 | Send alerts | Same as above | @majal | Sep 16 2020 | [GitHub Gist](https://gist.github.com/majal/c36279140f9326c684edb758d3aa86d2) | 1,000 | 10% | EN
+| Send alerts | Same as above | @yes-filippova | Sep 19 2020 | [Medium](https://medium.com/@yes.filippova/%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BC%D0%BE-%D1%81%D1%82%D0%B0%D0%BD-%D0%BD%D0%BE%D0%B4%D0%B8-near-node-%D0%B7-prometheus-%D1%82%D0%B0-grafana-95a4b88ca643?source=friends_link&sk=12f7ac583d23e90c5abe581371ead6e8) | 1,000 | 10% | UA
 | Send alerts | Same as above | [@48cfu](https://github.com/48cfu) | Sep 25 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/monitoraggio-server-near.md#aggiunta-di-un-metodo-di-notifica) | 1,000 | 10% | IT |
 \*Including 10% update reward
 

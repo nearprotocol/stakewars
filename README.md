@@ -1,5 +1,5 @@
 # Stake Wars Episode II: Return of the Validators
-August 13th 2020 update: better readme!
+September 25rd 2020 update: contribution opportunities will be over next week.
 
 Welcome to NEAR Stake Wars Episode II, Return of the Validators!
 

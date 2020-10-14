@@ -94,6 +94,8 @@ Once your work is done, you will be added to the list below. Please note that re
 | Enroll your node | Same as above | @narniec | Jul 1 2020 | [Medium](https://medium.com/@narniec2020/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%BE%D0%B4%D1%8B-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-near-84c7df7ee701) | 1,000 | 10% | RU |
 | Enroll your node | Same as above | @marshall-d-teach | Jul 6 2020 | [Github](https://github.com/marshall-d-teach/near-doc/) | 1,000 | 10% | EN |
 | Enroll your node | Same as above | @youlaiwuqu | Sep 8 2020| [Jianshu](https://www.jianshu.com/p/39709af55d8a) | 1,000 | 10% | CN |
+| Enroll your node | Same as above | @rozum-dev | Sept 6 2020 | [Medium](https://medium.com/@dmytro.rozum/зареєструйте-свою-ноду-39be8334a512) | 1,000 | 10% | UA |
+| Enroll your node | Same as above | @yes-filippova | Sep 13 2020| [Medium](https://medium.com/@yes.filippova/%D0%B2%D1%81%D1%82%D1%83%D0%BF-9754c948ca3d?source=friends_link&sk=cde4a7f92837c8716f6df2f64cae6e63) | 1,000 | 10% | UA |
 | Manage the pool | Create a tutorial, in the form of a video, a blogpost or Github document, that shows how to update the parameters of the staking pool, such as the fees and the validator key. Show also how to collect the fees and unstake them. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over. | @wjdfx | Jun 15 2020| [Jianshu](https://www.jianshu.com/p/b6b954e121c0) | 1,000 | 10% | CN |
 | Manage the pool | Same as above | @narniec | Jun 16 2020 | [Github](https://link.medium.com/o0nn4kVzy7) | 1,000 | 10% | RU |
 | Manage the pool | Same as above | @mabalaru | Sep 17 2020 | [Github](https://github.com/mabalaru/near/blob/master/manage_the_pool.md) | 1,000 | 10% | EN |
@@ -116,7 +118,6 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
-
 
 ## Next Challenge
 Monitor your node health, and setup automated email alerts: [challenge003](challenge003.md)

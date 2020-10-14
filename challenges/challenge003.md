@@ -55,7 +55,7 @@ Define the thresholds that trigger alerts, such as:
 | [@plex2](https://explorer.betanet.near.org/accounts/plex2) | Jun 9 | 10,000 |
 | [@staking.dsrv.betanet](https://explorer.betanet.near.org/accounts/staking.dsrv.betanet) | Jun 9 | 10,000 |
 | [@pool.dokiacapital.betanet](https://explorer.betanet.near.org/accounts/pool.dokiacapital.betanet) | Jun 9 | 10,000 |
-| [@pool.inotel.betanet](https://explorer.betanet.near.org/accounts/pool.inotel.betanet) | Jun 17 | 10,000 |
+| [@c3.inotel.betanet](https://explorer.betanet.near.org/accounts/c3.inotel.betanet) | Jun 9 | 10,000 |
 | [@a_validator](https://explorer.betanet.near.org/accounts/a_validator) | Jun 9 | 10,000 |
 | [@huglester](https://explorer.betanet.near.org/accounts/huglester) | Jun 9 | 10,000 |
 | [@applied](https://explorer.betanet.near.org/accounts/applied) | Jun 17 | 10,000 |

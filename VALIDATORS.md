@@ -31,6 +31,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://raw.githubusercontent.com/Pete-LunaNova/LunaNova/master/LunaNova-logo-Square-blackbackground-discordv3.png" width="40"> | [LunaNova](https://lunanova.tech) | Robust, vigilant, performant. Experienced organization using closely-monitored, enterprise-grade hardware in secure, high-availability UK datacentres. | [@lunanova.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/lunanova.pool.6fb1358) | UK |
 | <img src="https://masternode24.de/wp-content/uploads/2020/05/LOGO-Github.jpg" width="40"> | [Masternode24](https://masternode24.de) | Staking Provider from Germany | [@masternode24.pool.6fb1358](https://explorer.testnet.near.org/accounts/masternode24.pool.6fb1358) | DE |
 | <img src="https://camo.githubusercontent.com/e01879d323491dd09b33fd93792f130b01f71b21/68747470733a2f2f692e696d6775722e636f6d2f6d38556b4d7a412e706e67" width="40"> | [Mitera.net](https://mitera.net) | Mitera runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics. | [@freshnears.stakingpool](https://hubble.figment.network/near/chains/testnet/validators/freshnears.stakingpool) | NL |
+|| NEAR THE BEST | easy money | @mmm.pool.f863973.m0 | RU |
 | <img src="http://inotel.ro/wp-content/uploads/2020/04/white_logo_dark_background-1-scaled.jpg" width="40"> | Inotel | We do staking for a living | [@inotel.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/inotel.pool.6fb1358) | RO🇷🇴 |
 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png" width="40"> | Jazza | Decentralized validator | [@jazza.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/jazza.pool.6fb1358) | RU |
 | <img src="https://miro.medium.com/max/5000/1*8GDFUEsd0z8SidRfg9IljA.png" width="40"> | joejoen | living inside the POS | [@joe1.pool.f863973.m0](https://explorer.testnet.near.org/accounts/joe1.pool.f863973.m0) | |
@@ -49,7 +50,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqtwSmg/mstile-150x150.png" alt="mstile-150x150" border="0" width="100" /></a> | [ThePassiveTrust](http://www.thepassivetrust.com) | Professional Secure Blockchain Infracstruture  | [@thepassivetrust.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/thepassivetrust.pool.6fb1358) | CA | 
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
-| <img src="https://ibb.co/7pLyBC2" width="40"> | Zpool | Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
+| <a href="https://ibb.co/GncY2Vv"><img src="https://i.ibb.co/GncY2Vv/2020-10-03-16-28-11.jpg" alt="2020-10-03-16-28-11" border="0" /></a> |stake with Ains |Zainy| Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
 
 
 ## BetaNet Validators
@@ -286,6 +287,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
 | <img src="https://github.com/SmartStake/info/blob/master/logo/smartstake.png" width="40"> | [Smart Stake](https://smartstake.io) | Smart Stake is a transparent, professional, and feature rich staking service provider. We provide staking service with realtime performance assessment & analytics tools. | @smartstake.betanet | 10% | CA | | |
+| <img src="http://eostribe.io/images/logo.png" width="40"> | TRIBE | Crypto Tribe - Experienced POS Validator | @tribe.betanet | 10% | US | [@tribe](https://explorer.betanet.near.org/accounts/tribe.betanet) | yes |
 
 
 

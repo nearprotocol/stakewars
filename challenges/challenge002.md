@@ -121,6 +121,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Use Ledger Nano S | Same as above | @bonsfi | Jul 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-ledger-nano-s-como-key-en-nearprotocol-aac252dd374f) | 1,500 | 10% | ES |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-EN.md) | 1,500 | 10% | EN |
 | Use Ledger Nano S | Same as above | @48cfu | Aug 28 2020 | [Github](https://github.com/48cfu/near-documentazione/blob/master/ledger-nano-IT.md) | 1,500 | 10% | IT |
+| Use Ledger Nano S | Same as above | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1726076153) | 1,500 | 10% | CN |
 | Use Ledger Nano S | Same as above | @qwerspe | Oct 3 2020 | [Medium](https://medium.com/@qwerspe/near-wallet-use-ledger-nano-s-315568f077db) | 1,500 | 10% | CN |
 | Use Ledger Nano S with Near cli | Basic operation with Ledger to interact with Near | @bonsfi | Aug 22 2020 | [Medium](https://medium.com/@bonsfi/como-usar-leger-con-near-cli-8b9ed66f3b1d) | 1,500 | 10% | ES |
 | Use Ledger Nano S with Near cli | Basic operation with Ledger to interact with Near | @bonsfi | Aug 22 2020 | [Medium](https://medium.com/@bonsfi/how-to-use-ledger-with-near-cli-648d5d990517) | 1,500 | 10% | EN |

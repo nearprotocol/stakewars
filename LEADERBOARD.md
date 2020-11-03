@@ -361,7 +361,7 @@ Once the number of epochs for each validator are known, we applied the following
 - number of epochs `*` number of blocks per epoch `*` block speed (1 second per block) `/` 3600 `=` hours the node was operating
 - hours `*` $0.12 (which is the estimated hourly cost of a $80/month VPS) `*` 1.8 `+` 50 `=` the total NEAR tokens allocated
 
-All validators that run epochs or more (>44 hours) received a base tokens allocation of `50 NEAR`, plus the hourly VPS costs to run the node.
+All validators that run their node for 17 epochs or more (>=47 hours) received a base tokens allocation of `50 NEAR`, plus the hourly VPS costs to run the node.
 
 **HEADS UP:** if your staking pool has `TRUE` on SEND FORM, we don't have the email to send you the instructions to claim your tokens. Please send your contact information [here](https://nearprotocol1001.typeform.com/to/x4Bval), specifying if you were already running another validator on the list, so we can batch the tokens allocation.
 

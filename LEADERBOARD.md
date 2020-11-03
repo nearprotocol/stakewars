@@ -1,7 +1,7 @@
 # STAKE WARS LEADERBOARD
 
 ## Stake Wars Final Leaderboard - Betanet Nodes
-Updated on October 30, 9:55 AM PST
+Updated on October 30, 9:55 AM PST - [block 18608936](https://explorer.betanet.near.org/blocks/18608936) 
 
 This is the final Stake Wars Leaderboard:
 - `ACCOUNT_ID` represents the name of the staking pool
@@ -353,6 +353,17 @@ This is the final Stake Wars Leaderboard:
 | stakefish.betanet                            | 200                   | 0.00%   | 4            | 11    | 0      |			 |
 
 ## Tokens calculation criteria
+We used the same [Validators Scoreboard](https://github.com/frol/near-validators-scoreboard/) of the Stake Wars, processing the epoch files with [this script](https://gist.github.com/jimmy3dita/e60b974701ac64cec51632fc57d3e5e8). The last epoch processed is `18608936`, which ended on October 30th 2020 at 9:55 AM Pacific Time.
+
+The output of the script is the json available [here](validators_counted.json). 
+
+Once the number of epochs for each validator are known, we applied the following calculations:
+- number of epochs `*` number of blocks per epoch `*` block speed (1 second per block) `/` 3600 `=` hours the node was operating
+- hours `*` $0.12 (which is the estimated hourly cost of a $80/month VPS) `*` 1.8 `+` 50 `=` the total NEAR tokens allocated
+
+All validators that run epochs or more (>44 hours) received a base tokens allocation of `50 NEAR`, plus the hourly VPS costs to run the node.
+
+**HEADS UP:** if your staking pool has `TRUE` on SEND FORM, we don't have the email to send you the instructions to claim your tokens. Please send your contact information [here](https://nearprotocol1001.typeform.com/to/x4Bval), specifying if you were already running another validator on the list, so we can batch the tokens allocation.
 
 
 *Stake Wars 1.0 Leaderboard*

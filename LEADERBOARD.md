@@ -366,34 +366,37 @@ All validators that run epochs or more (>44 hours) received a base tokens alloca
 **HEADS UP:** if your staking pool has `TRUE` on SEND FORM, we don't have the email to send you the instructions to claim your tokens. Please send your contact information [here](https://nearprotocol1001.typeform.com/to/x4Bval), specifying if you were already running another validator on the list, so we can batch the tokens allocation.
 
 
-*Stake Wars 1.0 Leaderboard*
+## Stake Wars 1.0 Leaderboard
 
-| name             | points      |
-|------------------|-------------|
-| krisbolt         |  3900       |
-| marco-sundsk     |  3200       |
-| Eorituz          |  2800       |
-| mbucci           |  1500       |
-| hoekevin         |  900        |
-| sweetpotatoz     |  900        |
-| etherscam        |  600        |
-| k9thebeast       |  300        |
-| StakerSpace      |  200        |
-| bgapinski-bt     |  200        |
-| andreisid        |  200        |
-| swswsw           |  200        |
-| caesarchad       |  200        |
-| marshall-d-teach |  200        |
-| bentiancai629    |  100        |
-| victorxu0411     |  100        |
-| wjdfx            |  100        |
-| zavodil          |  100        |
-| xz-cn            |  100        |
-| novy4            |  100        |
-| winslyin         |  100        |
-| pranaymohan      |  100        |
-| stakehost        |  100        |
-| zhanglianghui    |  100        |
-| ferat8           |  100        |
-| stakery          |  100        |
-| joesixpack       |  100        |
+**HEADS UP:** if your Github ID has `TRUE` on send form, we don't have the email to send you the instructions to claim your tokens. Please send your contact information [here](https://nearprotocol1001.typeform.com/to/x4Bval), specifying if you were already running another validator on the list, so we can batch the tokens allocation.
+
+
+| name             | points      | tokens | send form |
+|------------------|-------------| ------ | --------- |
+| krisbolt         |  3900       | 5850 | |
+| marco-sundsk     |  3200       | 4800 | |
+| Eorituz          |  2800       | 4200 | |
+| mbucci           |  1500       | 2250 | |
+| hoekevin         |  900        | 1350 | TRUE |
+| sweetpotatoz     |  900        | 1350 | TRUE |
+| etherscam        |  600        | 900 | |
+| k9thebeast       |  300        | 450 | TRUE |
+| StakerSpace      |  200        | 300 | |
+| bgapinski-bt     |  200        | 300 | TRUE |
+| andreisid        |  200        | 300 | TRUE |
+| swswsw           |  200        | 300 | TRUE |
+| caesarchad       |  200        | 300 | TRUE |
+| marshall-d-teach |  200        | 300 | |
+| bentiancai629    |  100        | 150 | TRUE |
+| victorxu0411     |  100        | 150 | |
+| wjdfx            |  100        | 150 | |
+| zavodil          |  100        | 150 | |
+| xz-cn            |  100        | 150 | TRUE |
+| novy4            |  100        | 150 | |
+| winslyin         |  100        | 150 | |
+| pranaymohan      |  100        | 150 | |
+| stakehost        |  100        | 150 | TRUE |
+| zhanglianghui    |  100        | 150 | TRUE |
+| ferat8           |  100        | 150 | TRUE |
+| stakery          |  100        | 150 | |
+| joesixpack       |  100        | 150 | |

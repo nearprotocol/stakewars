@@ -361,7 +361,7 @@ The output of the script is the json available [here](validators_counted.json).
 
 Once the number of epochs for each validator are known, we applied the following calculations:
 - number of epochs `*` number of blocks per epoch `*` block speed (1 second per block) `/` 3600 `=` hours the node was operating
-- hours `*` $0.12 (which is the estimated hourly cost of a $80/month VPS) `*` 1.8 `+` 50 `=` the total NEAR tokens allocated
+- hours `*` $0.12 (which is the estimated hourly cost of a $80/month VPS) `*` 2.5 `+` 50 `=` the total NEAR tokens allocated
 
 All validators that run their node for 17 epochs or more (>=47 hours) received a base tokens allocation of `50 NEAR`, plus the hourly VPS costs to run the node.
 

@@ -51,6 +51,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://secure.meetupstatic.com/photos/event/6/4/5/d/600_478285693.jpeg" width="40"> | ru | Freedom and peace | [@top.pool.6fb1358](https://hubble.figment.network/near/chains/testnet/validators/top.pool.6fb1358) | RU |
 | <img src="https://github.com/Viacheslav198/near/blob/master/m.jpg" width="40"> | sl1sub | Stake for life | [@sl1sub.pool.f863973.m0](https://explorer.testnet.near.org/accounts/sl1sub.pool.f863973.m0) | RU |
 | <a href="https://ibb.co/GncY2Vv"><img src="https://i.ibb.co/GncY2Vv/2020-10-03-16-28-11.jpg" alt="2020-10-03-16-28-11" border="0" /></a> |stake with Ains |Zainy| Assets Infracstruture | [@zainy.pool.f863973.m0](https://hubble.figment.network/near/chains/testnet/validators/@zainy.pool.f863973.m0) | UK |
+|<img src="https://icodrops.com/wp-content/uploads/2020/04/Near_logo.png" width="40"> | neardublin | Staking is awesome | [@eosdublintest.pool.f863973.m0](https://explorer.testnet.near.org/accounts/eosdublintest.pool.f863973.m0) | IN |
 
 
 ## BetaNet Validators

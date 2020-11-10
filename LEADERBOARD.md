@@ -1,9 +1,9 @@
 # STAKE WARS LEADERBOARD
 
-## Stake Wars Final Leaderboard - Betanet Nodes
+## Stake Wars Final Leaderboard - BetaNet Nodes
 Updated on October 30, 9:55 AM PST - [block 18608936](https://explorer.betanet.near.org/blocks/18608936) 
 
-This is the final Stake Wars Leaderboard:
+This is the final Stake Wars Leaderboard for BetaNet:
 - `ACCOUNT_ID` represents the name of the staking pool
 - `NUM_EXPECTED_BLOCKS` the number of expected blocks, given the stake
 - `ONLINE` the number of generated blocks, out of the expected ones
@@ -354,18 +354,106 @@ Note: the amounts below don't include other token allocations, such as Stake War
 | c1.bibiwang.betanet                          | 200                   | 0.00%   | 2            | 6     | 0      |           |
 | stakefish.betanet                            | 200                   | 0.00%   | 4            | 11    | 0      |			 |
 
-## Tokens calculation criteria
-We used the same [Validators Scoreboard](https://github.com/frol/near-validators-scoreboard/) of the Stake Wars, processing the epoch files with [this script](https://gist.github.com/jimmy3dita/e60b974701ac64cec51632fc57d3e5e8). The last epoch processed is `18608936`, which ended on October 30th 2020 at 9:55 AM Pacific Time.
+### BetaNet Tokens calculation criteria
+We used the same [Validators Scoreboard](https://github.com/frol/near-validators-scoreboard/tree/scoreboard) of the Stake Wars, processing the epoch files with [this script](https://gist.github.com/jimmy3dita/e60b974701ac64cec51632fc57d3e5e8). The last epoch processed is `18608936`, which ended on October 30th 2020 at 9:55 AM Pacific Time.
 
-The output of the script is the json available [here](validators_counted.json). 
+The output of the script is the json available [here](validators_counted.json), the orginal data comes from [this commit](https://github.com/frol/near-validators-scoreboard/tree/ba7fc50432d5ac611c92cfb79933f527a3f332ef). 
 
-Once the number of epochs for each validator are known, we applied the following calculations:
+Once the number of epochs for each validator is known, we applied the following calculations:
 - number of epochs `*` number of blocks per epoch `*` block speed (1 second per block) `/` 3600 `=` hours the node was operating
 - hours `*` $0.12 (which is the estimated hourly cost of a $80/month VPS) `*` 2.5 `+` 50 `=` the total NEAR tokens allocated
 
 All validators that run their node for 17 epochs or more (>=47 hours) received a base tokens allocation of `50 NEAR`, plus the hourly VPS costs to run the node.
 
 **HEADS UP:** if the `SEND FORM` column next to your staking pool is TRUE, please send your contact information again using the [Validators Contact Form](https://nearprotocol1001.typeform.com/to/x4Bval), as we weren't able to associate any email with the staking pool ID. **It's really appreciated if you specify the same email previously used to receive tokens, to save time on the KYC**
+
+## Stake Wars Final Leaderboard - TestNet Nodes
+Updated on October 30, 10:00 PM PST - [block 22232536](https://explorer.testnet.near.org/blocks/22232536) 
+
+This is the final Stake Wars Leaderboard for TestNet:
+- `ACCOUNT_ID` represents the name of the staking pool
+- `NUM_EXPECTED_BLOCKS` the number of expected blocks, given the stake
+- `ONLINE` the number of generated blocks, out of the expected ones
+- `TOTAL EPOCHS` is the number of epochs this validator was online
+- `HOURS` is an estimation on how many hours the epoch was online, given 43,200 blocks per epoch at 1 second each
+- `TOKENS` are the tokens that will be sent to these validators for their participation in the Stake Wars (see below for calculation criteria)
+- `SEND FORM` if TRUE, please send your contact information again using the [Validators Contact Form](https://nearprotocol1001.typeform.com/to/x4Bval), as we weren't able to associate any email with the staking pool ID. **It's really appreciated if you specify the same email previously used to receive tokens, to save time on the KYC**
+
+Note: the amounts below don't include other token allocations, such as Stake Wars Challenge docs.
+
+| ACCOUNT\_ID                      | NUM\_EXPECTED\_BLOCKS | ONLINE | TOTAL EPOCHS | HOURS | TOKENS | SEND FORM |
+| -------------------------------- | --------------------- | ------ | ------------ | ----- | ------ | --------- |
+| node1                            | 1395768               | 99.86% | 193          | 2316  | 1126.4 |           |
+| node2                            | 1222539               | 99.09% | 184          | 2208  | 1083.2 |           |
+| node0                            | 1203745               | 98.41% | 167          | 2004  | 1001.6 |           |
+| node3                            | 786675                | 99.42% | 151          | 1812  | 924.8  |           |
+| bisontrails.pool.f863973.m0      | 192453                | 99.79% | 177          | 2124  | 1049.6 |           |
+| fresh\_lockup.pool.f863973.m0    | 144718                | 99.10% | 182          | 2184  | 1073.6 |           |
+| orangeclub.pool.f863973.m0       | 135430                | 96.77% | 176          | 2112  | 1044.8 |           |
+| staked.pool.6fb1358              | 128517                | 98.76% | 177          | 2124  | 1049.6 |           |
+| lunanova.pool.f863973.m0         | 127223                | 99.12% | 187          | 2244  | 1097.6 |           |
+| inotel.pool.f863973.m0           | 125496                | 99.54% | 186          | 2232  | 1092.8 |           |
+| 01node.pool.f863973.m0           | 119664                | 99.41% | 185          | 2220  | 1088   |           |
+| pool\_easy2stake.pool.f863973.m0 | 118152                | 99.51% | 183          | 2196  | 1078.4 |           |
+| jazza.pool.f863973.m0            | 116855                | 98.56% | 184          | 2208  | 1083.2 |           |
+| valeraverim.pool.f863973.m0      | 112537                | 99.04% | 140          | 1680  | 872    |           |
+| certusone.pool.f863973.m0        | 113399                | 98.01% | 170          | 2040  | 1016   |           |
+| sl1sub.pool.f863973.m0           | 109511                | 97.82% | 185          | 2220  | 1088   |           |
+| alexandruast.pool.f863973.m0     | 106055                | 99.13% | 185          | 2220  | 1088   |           |
+| thepassivetrust.pool.f863973.m0  | 105406                | 97.19% | 175          | 2100  | 1040   |           |
+| blazenet.pool.f863973.m0         | 103247                | 99.12% | 187          | 2244  | 1097.6 |           |
+| staked.pool.f863973.m0           | 103463                | 97.83% | 177          | 2124  | 1049.6 |           |
+| northernlights.stakingpool       | 99792                 | 99.90% | 146          | 1752  | 900.8  |           |
+| moonlet.pool.f863973.m0          | 100871                | 98.48% | 173          | 2076  | 1030.4 |           |
+| dokia.pool.f863973.m0            | 100438                | 95.89% | 117          | 1404  | 761.6  |           |
+| bitcat.pool.f863973.m0           | 94175                 | 97.91% | 169          | 2028  | 1011.2 |           |
+| aquarius.pool.f863973.m0         | 95471                 | 95.27% | 175          | 2100  | 1040   |           |
+| bazilik.pool.f863973.m0          | 93959                 | 94.42% | 162          | 1944  | 977.6  |           |
+| cloudpost.pool.f863973.m0        | 88346                 | 99.87% | 144          | 1728  | 891.2  |           |
+| top.pool.f863973.m0              | 93744                 | 90.76% | 171          | 2052  | 1020.8 |           |
+| zpool.pool.f863973.m0            | 85967                 | 95.31% | 163          | 1956  | 982.4  |           |
+| stakin.pool.f863973.m0           | 81647                 | 97.61% | 165          | 1980  | 992    |           |
+| masternode24.pool.f863973.m0     | 82511                 | 95.60% | 145          | 1740  | 896    |           |
+| joe1.pool.f863973.m0             | 78408                 | 98.14% | 144          | 1728  | 891.2  |           |
+| kytzu.pool.f863973.m0            | 76032                 | 99.84% | 154          | 1848  | 939.2  |           |
+| staking-power.pool.f863973.m0    | 72576                 | 98.26% | 148          | 1776  | 910.4  |           |
+| lowfeevalidation.pool.f863973.m0 | 68472                 | 96.39% | 139          | 1668  | 867.2  |           |
+| zainy.pool.f863973.m0            | 66527                 | 89.58% | 148          | 1776  | 910.4  |           |
+| kronos.pool.f863973.m0           | 50544                 | 93.29% | 111          | 1332  | 732.8  |           |
+| dsrvlabs.pool.f863973.m0         | 44495                 | 98.76% | 102          | 1224  | 689.6  |           |
+| chorus-one.pool.f863973.m0       | 44064                 | 96.89% | 98           | 1176  | 670.4  |           |
+| nodeasy.pool.f863973.m0          | 48167                 | 88.12% | 109          | 1308  | 723.2  |           |
+| pathrock.pool.f863973.m0         | 43200                 | 97.59% | 100          | 1200  | 680    |           |
+| syncnode.pool.f863973.m0         | 41038                 | 97.47% | 95           | 1140  | 656    |           |
+| iosg.pool.f863973.m0             | 21168                 | 86.96% | 49           | 588   | 435.2  |           |
+| sparkpool.pool.f863973.m0        | 19872                 | 86.89% | 46           | 552   | 420.8  |           |
+| figment.pool.f863973.m0          | 16847                 | 92.00% | 39           | 468   | 387.2  |           |
+| node.pool.6fb1358                | 16416                 | 93.46% | 19           | 228   | 291.2  |           |
+| dimaro.pool.f863973.m0           | 10584                 | 81.90% | 49           | 588   | 435.2  |           |
+| mmm.pool.f863973.m0              | 7560                  | 82.54% | 35           | 420   | 368    |           |
+| canary0.near                     | 5616                  | 87.43% | 13           | 156   | 262.4  |           |
+| audit\_one.pool.f863973.m0       | 4320                  | 88.43% | 20           | 240   | 296    |           |
+| cryptium.pool.f863973.m0         | 2592                  | 77.62% | 6            | 72    | 228.8  |           |
+| hashquark01.pool.f863973.m0      | 2592                  | 75.81% | 6            | 72    | 228.8  |           |
+| p2p.pool.f863973.m0              | 1296                  | 99.77% | 6            | 72    | 228.8  |           |
+| buildlinks3.pool.f863973.m0      | 864                   | 99.65% | 2            | 24    | 209.6  |           |
+| tribe-pool.pool.f863973.m0       | 432                   | 90.05% | 2            | 24    | 209.6  |           |
+| okexpool.pool.f863973.m0         | 864                   | 29.75% | 2            | 24    | 209.6  |           |
+| moonlet.pool.6fb1358             | 2592                  | 0.00%  | 6            | 72    | 228.8  |           |
+| masternode24.pool.6fb1358        | 864                   | 0.00%  | 2            | 24    | 209.6  |           |
+| shudo.pool.f863973.m0            | 864                   | 0.00%  | 2            | 24    | 209.6  |           |
+| stakin-pool.pool.f863973.m0      | 864                   | 0.00%  | 2            | 24    | 209.6  |			|
+
+### TestNet Tokens calculation criteria
+We used the same [Validators Scoreboard](https://github.com/frol/near-validators-scoreboard/) of the Stake Wars, processing the epoch files with [this script](https://gist.github.com/jimmy3dita/e60b974701ac64cec51632fc57d3e5e8). The last epoch processed is `22232536`, which ended on October 30th 2020 at 10:00 PM Pacific Time.
+
+The output of the script is the json available [here](validators_counted_testnet.json), the orignal data comes from [this commit](https://github.com/frol/near-validators-scoreboard/tree/6f36e2b9d98274a9b47208ec36c55d030d8ba65c). 
+
+Once the number of epochs for each validator is known, we applied the following calculations:
+- number of epochs `*` number of blocks per epoch `*` block speed (1 second per block) `/` 3600 `=` hours the node was operating
+- hours `*` $0.16 (which is the estimated hourly cost of a $120/month VPS) `*` 2.5 `+` 200 `=` the total NEAR tokens allocated
+
+All validators received a base tokens allocation of `200 NEAR`, plus the hourly VPS costs to run the node.
 
 
 ## Stake Wars 1.0 Leaderboard
@@ -402,3 +490,4 @@ All validators that run their node for 17 epochs or more (>=47 hours) received a
 | ferat8           |  100        | 150 | TRUE |
 | stakery          |  100        | 150 | |
 | joesixpack       |  100        | 150 | |
+

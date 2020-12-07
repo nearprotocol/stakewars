@@ -146,6 +146,8 @@ Once your work is done, you will be added to the list below. Please note that re
 | How to compile nearcore | Same as the above | @youlaiwuqu | Sep 7 2020 | [Jianshu](https://www.jianshu.com/p/d00033c83063) | 1,000 |
 | How to compile nearcore | Ukrainian guide with video: сompile nearcore and deploy stacking pool | @Cryptomilion | Sep 23 2020 | [Medium](https://medium.com/@shiverov/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BD%D0%BE%D0%B4%D0%B8-nearcore-near-%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%96%D0%B9-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96-betanet-216415954c4e) | 1,000 |
 | How to compile nearcore | Same as above | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1192815460)  | 1,000 |
+| How to compile nearcore | Explainer video | @zavodil | Oct 24 2019 | [Youtube RU](https://youtu.be/ag037Vh46ls?t=582)  | 1,000 |
+| How to compile nearcore | Beginners guide | @zavodil | [May 05 2019](https://github.com/zavodil/cryptasutra/commit/719d3f3598c0b225e8b9cebb3add64618f5126b2) | [Guide RU](https://nodes.cryptasutra.com/near-protocol/ustarevshee/nearup)  | 1,000 |
 | Explain NEAR keys | Explain in the form of a video, a blogpost or Github document how `near login` works, how the authorization keys are generated, and how you can manage their backup and restore properly. Show in the guide the proof that you were able to run `near shell` on a different machine, without authorizing a new key. Contributions in other languages are encouraged, but considered on a case by case basis. Updates to this guide, reflecting any updates of the tools involved, will be paid a % of the initial bounty per each revision, up to once per month, until Stake Wars is over.  | @narniec | June 12 2020 | [Medium](https://medium.com/@narniec2020/near-shell-backup-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9-b30e8ed1d39d); [Youtube](https://www.youtube.com/watch?v=VHtzBjbmzT0&feature=youtu.be) | 1,000 |
 | Explain NEAR keys | Same as above | @wjdfx | June 15 2020 | [Jianshu](https://www.jianshu.com/p/f238b7049cb9) | 1,000 |
 | Explain NEAR keys | Same as above | @georgec138 | June 23 2020 | [Github](https://github.com/georgec138/near-docs/blob/master/Explain-NEAR-keys_cn.md) | 1,000 |
@@ -162,6 +164,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Explain NEAR keys | Same as above | @decemtk | Oct 01 2020 | [Bihu](https://bihu.com/article/1983456602)  | 1,000 |
 | Explain NEAR keys | Same as above | @youlaiwuqu | Oct 1 2020 | [GitHub](https://github.com/youlaiwuqu/Explain-NEAR-keys/blob/main/README.md) | 1,000 |
 | Explain NEAR keys  | Same as above | @qwerspe | Oct 3 2020 | [Medium](https://medium.com/@qwerspe/near密钥解析-b4440133d8e7) | 1,000 |
+| Explain NEAR keys  | Same as above | @zavodil | [May 11 2020](https://github.com/zavodil/cryptasutra/commit/5438793d558125668954a8429be4922ae53a83b0) | [Guide RU](https://nodes.cryptasutra.com/near-protocol/ustarevshee/staking) | 1,000 |
 
 ## Next Challenge
 Enroll your staking pool, receive your delegation, and maintain your validator status: [challenge002](challenge002.md)

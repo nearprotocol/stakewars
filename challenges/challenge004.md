@@ -151,6 +151,7 @@ Once your work is done, you will be added to the list below. Please note that re
 | Monitor the Stake | Same as the above | @masknetgoal634 | Jun 26 2020 | [Github](https://github.com/masknetgoal634/near-go-warchest/blob/master/README.md) | 1,000 | 15% | EN |
 | Monitor the Stake | Same as the above | @bonsfi | Jul 21 2020 | [Medium](https://medium.com/@bonsfi/como-monitorear-el-stake-de-tu-validador-en-near-protocol-d709326cf6ff?sk=09f62413b029762a549b5596c9543a4c) | 1,000 | 15% | ES |
 | Monitor the Stake | Same as the above | @youlaiwuqu | Oct 1 2020 | [Github](https://github.com/youlaiwuqu/Monitor-the-Stake) | 1,000 | 15% | CN |
+| Monitor the Stake | Same as the above | @wjdfx | Jul 7 2020 | [Jianshu](https://www.jianshu.com/p/18b5d159d73a) | 1,000 | 15% | CN |
 | Release the Warchest Bot | Same as the above | @masknetgoal634 | Jun 26 2020 | [Github](https://github.com/masknetgoal634/near-go-warchest) | 2,500 | 15% | EN |
 | Release the Warchest Bot | Release a Warchest Bot, in your favorite programming language, capable to manage your validator seat and maintain its number to **one**. It doesn't have to be production-ready, but it should document how to install and run it. | @48cfu | Jun 28 2020 | [Github EN](https://github.com/48cfu/near-warchest-bot)/[Github IT](https://github.com/48cfu/near-warchest-bot/blob/master/README-ITALIANO.md) | 2,875 | 15% | EN and IT |
 | Release the Warchest Bot | Same as the above | @gaia | Jun 29 2020 | [Github](https://gist.github.com/gaia/cff45baf3fa710a42c3fc4cdaafe8edc) | 2,500 | 10% | EN |

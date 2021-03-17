@@ -196,7 +196,28 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | <img src="https://s3.amazonaws.com/keybase_processed_uploads/204d1abfeb21ece2e0b56e1ad8304305_360_360.jpg" width="40"> | [GRom81](https://keybase.io/grom81) | Professional and trusted validator | [@grom818181.betanet](https://explorer.betanet.near.org/accounts/grom818181.betanet) | 10% | RU | | |
 | | aquariusluo.betanet |  | @aquariusluo.betanet | 10% | CN | | |
 | | nazar92 | Crypto trader group | @nazar92.betanet | 10% | UA | | |
+<<<<<<< Updated upstream
 | O_O | InstaPool |It could be real Instagram but it's too early | @instagram.betanet | -% | RU | | |
+=======
+| O_O | InstaPool |It could be real Instagram but it's too early | @mamayavkino.betanet | -% | RU | | |
+| :D | hekit-cyber-pool |build crypto future | @hekit.betanet | 10% | UA | | |
+| ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
+| O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
+| | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
+| | [AtreyaVC](https://atreya.vc) | Running NEAR  | @stk.atreyavc.betanet | 10% | IN | | |
+| <img src="https://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/sparkpool.png" width="40"> | [Sparkpool](https://www.sparkpool.com) | The keeper of blockchain networks. | [@sparkpool.test](https://wallet.betanet.near.org/sparkpool.test) | CN |
+| :/ | Ethan | Bringing staking to everyone in the plug and play manner!  | @ethanwainer.betanet | -% | GB | | |
+| <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
+| <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
+| <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
+| V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
+| | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
+| <img src="https://github.com/SmartStake/info/blob/master/logo/smartstake.png" width="40"> | [Smart Stake](https://smartstake.io) | Smart Stake is a transparent, professional, and feature rich staking service provider. We provide staking service with realtime performance assessment & analytics tools. | @smartstake.betanet | 10% | CA | | |
+| <img src="http://eostribe.io/images/logo.png" width="40"> | TRIBE | Crypto Tribe - Experienced POS Validator | @tribe.betanet | 10% | US | [@tribe](https://explorer.betanet.near.org/accounts/tribe.betanet) | yes |
+| ChainGo | ChainWang | Learning to staking | @wangyaxing.stakehouse.betanet | 35% | CN | | |
+| 00 | meerkat | validator  | @meerkat.betanet | -% | EN | | |
+
+>>>>>>> Stashed changes
 
 
 Notes:
